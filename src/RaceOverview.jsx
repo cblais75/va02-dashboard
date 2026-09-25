@@ -144,7 +144,10 @@ export default function RaceOverview() {
 
       <div className="ro-bottom">
         <div className="df-card">
-          <div className="ro-label">Race ratings</div>
+          <div className="ro-label ro-label-row">
+            <span>Race ratings</span>
+            {manual.ratings_last_checked && <span className="ro-checked">Last checked {formatDate(manual.ratings_last_checked)}</span>}
+          </div>
           <div className="ro-ratings">
             {manual.ratings.map((r) => <RatingCard key={r.outlet} r={r} showDate={manual.ratings.some((x) => x.as_of)} />)}
           </div>

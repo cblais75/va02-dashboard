@@ -14,22 +14,30 @@ export default function KeyDates() {
         <h2 id="kd-title">Calendar to Election Day</h2>
       </header>
 
-      <ol className="df-card kd-list">
-        {dates.map((d) => {
-          const days = daysBetween(today, d.date);
-          const state = d.date < today ? "is-past" : d === next ? "is-next" : "is-future";
-          return (
-            <li key={`${d.date}-${d.label}`} className={`kd-item ${state}`} aria-current={d === next ? "date" : undefined}>
-              <span className="kd-marker" aria-hidden="true">{state === "is-past" ? "✓" : ""}</span>
-              <span className="kd-date">{formatDate(d.date, { weekday: "short", month: "short", day: "numeric" })}</span>
-              <span className="kd-label">{d.label}</span>
-              {d === next && (
-                <span className="kd-badge">{days === 0 ? "Today" : `Next · in ${days} ${days === 1 ? "day" : "days"}`}</span>
-              )}
-            </li>
-          );
-        })}
-      </ol>
+      <div className="df-card kd-card">
+        <ol className="kd-list">
+          {dates.map((d) => {
+            const days = daysBetween(today, d.date);
+            const state = d.date < today ? "is-past" : d === next ? "is-next" : "is-future";
+            return (
+              <li key={`${d.date}-${d.label}`} className={`kd-item ${state}`} aria-current={d === next ? "date" : undefined}>
+                <span className="kd-marker" aria-hidden="true">{state === "is-past" ? "✓" : ""}</span>
+                <span className="kd-date">{formatDate(d.date, { weekday: "short", month: "short", day: "numeric" })}</span>
+                <span className="kd-label">{d.label}</span>
+                {d === next && (
+                  <span className="kd-badge">{days === 0 ? "Today" : `Next · in ${days} ${days === 1 ? "day" : "days"}`}</span>
+                )}
+              </li>
+            );
+          })}
+        </ol>
+        {(manual.key_dates_notes || []).map((note) => (
+          <p key={note} className="kd-note">
+            <span className="kd-marker kd-marker-note" aria-hidden="true">i</span>
+            {note}
+          </p>
+        ))}
+      </div>
     </section>
   );
 }
