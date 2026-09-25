@@ -1,5 +1,7 @@
 import React from "react";
+import RaceOverview from "./RaceOverview.jsx";
 import DistrictFundamentals from "./DistrictFundamentals.jsx";
+import KeyDates from "./KeyDates.jsx";
 import "./styles.css";
 
 export default function VA02Dashboard() {
@@ -11,7 +13,9 @@ export default function VA02Dashboard() {
         <p className="matchup">Kiggans vs. Luria</p>
         <span className="soon">Live results coming soon</span>
       </header>
+      <RaceOverview />
       <DistrictFundamentals />
+      <KeyDates />
     </main>
   );
 }

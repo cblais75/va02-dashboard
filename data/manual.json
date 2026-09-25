@@ -1,0 +1,47 @@
+{
+  "_how_to_edit": [
+    "Hand-entered dashboard info. Edit values here; no code changes needed.",
+    "Dates use YYYY-MM-DD and are read as Eastern Time calendar dates.",
+    "ratings[].rating: use TBD, Toss-up, or Solid/Likely/Lean/Tilt followed by R or D (e.g. \"Lean R\"). as_of is the date you checked it.",
+    "polling.average: set to null when there are no polls, or fill in e.g. {\"kiggans\": 47.5, \"luria\": 45.0} plus source and as_of.",
+    "polling.polls: optional list of individual polls, e.g. {\"pollster\": \"Name\", \"dates\": \"Oct 1-4\", \"sample\": \"600 LV\", \"kiggans\": 48, \"luria\": 45, \"url\": \"https://...\"}.",
+    "key_dates: add, remove or reorder freely; the page sorts them by date."
+  ],
+  "election_day": "2026-11-03",
+  "candidates": [
+    {
+      "id": "kiggans",
+      "name": "Jen Kiggans",
+      "party": "R",
+      "status": "Incumbent",
+      "note": "U.S. Representative for VA-02 since 2023"
+    },
+    {
+      "id": "luria",
+      "name": "Elaine Luria",
+      "party": "D",
+      "status": "Challenger",
+      "note": "Represented VA-02, 2019–2023"
+    }
+  ],
+  "ratings": [
+    { "outlet": "Cook Political Report", "rating": "TBD", "as_of": null, "url": "https://www.cookpolitical.com" },
+    { "outlet": "Sabato's Crystal Ball", "rating": "TBD", "as_of": null, "url": "https://centerforpolitics.org/crystalball/" },
+    { "outlet": "Inside Elections", "rating": "TBD", "as_of": null, "url": "https://insideelections.com" }
+  ],
+  "polling": {
+    "average": null,
+    "source": null,
+    "as_of": null,
+    "polls": []
+  },
+  "key_dates": [
+    { "date": "2026-09-18", "label": "Early voting began" },
+    { "date": "2026-10-13", "label": "Voter registration deadline" },
+    { "date": "2026-10-15", "label": "FEC Q3 reports due" },
+    { "date": "2026-10-22", "label": "FEC pre-general reports due" },
+    { "date": "2026-10-23", "label": "Deadline to request a mail ballot" },
+    { "date": "2026-10-31", "label": "Last day of early voting" },
+    { "date": "2026-11-03", "label": "Election Day" }
+  ]
+}
