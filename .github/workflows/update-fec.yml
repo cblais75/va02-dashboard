@@ -1,0 +1,60 @@
+name: Update FEC data
+
+on:
+  schedule:
+    # 6:00 a.m. Eastern. GitHub cron runs in UTC, so both offsets are scheduled and
+    # the gate step below keeps the one that matches daylight or standard time.
+    - cron: "0 10 * * *" # 6 a.m. EDT
+    - cron: "0 11 * * *" # 6 a.m. EST
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+concurrency:
+  group: update-fec
+  cancel-in-progress: false
+
+jobs:
+  update:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Run only at 6 a.m. Eastern
+        id: gate
+        run: |
+          zone=$(TZ=America/New_York date +%Z)
+          run=true
+          if [ "${{ github.event_name }}" = "schedule" ]; then
+            if [ "$zone" = "EDT" ] && [ "${{ github.event.schedule }}" != "0 10 * * *" ]; then run=false; fi
+            if [ "$zone" = "EST" ] && [ "${{ github.event.schedule }}" != "0 11 * * *" ]; then run=false; fi
+          fi
+          echo "Eastern zone: $zone, run: $run"
+          echo "run=$run" >> "$GITHUB_OUTPUT"
+
+      - uses: actions/checkout@v4
+        if: steps.gate.outputs.run == 'true'
+
+      - uses: actions/setup-node@v4
+        if: steps.gate.outputs.run == 'true'
+        with:
+          node-version: 20
+
+      - name: Fetch FEC data
+        if: steps.gate.outputs.run == 'true'
+        env:
+          FEC_API_KEY: ${{ secrets.FEC_API_KEY }}
+        run: node scripts/fetch-fec.mjs
+
+      - name: Commit data/fec.json if it changed
+        if: steps.gate.outputs.run == 'true'
+        run: |
+          git add data/fec.json
+          if git diff --cached --quiet; then
+            echo "No changes to data/fec.json."
+            exit 0
+          fi
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git commit -m "Update FEC data"
+          git pull --rebase origin main
+          git push origin HEAD:main
