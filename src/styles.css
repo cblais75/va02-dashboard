@@ -389,3 +389,18 @@ body { color: var(--text); font-family: var(--sans); -webkit-text-size-adjust: 1
   .ev-stat { font-size: 19px; }
   .ev-col-split { display: none; }
 }
+
+/* Sample-data watermarks: part of the chart, tiles and table themselves, so a
+   screenshot that crops out the banner still reads as sample. */
+.ev-watermark text { fill: rgba(244, 201, 93, 0.2); font-family: var(--sans); font-weight: 800; letter-spacing: 0.12em; }
+.ev-watermark .ev-watermark-tag { fill: var(--brass); font: 700 10.5px var(--mono); letter-spacing: 0.08em; dominant-baseline: hanging; }
+.ev-sampled { position: relative; overflow: hidden; }
+.ev-sampled::after {
+  content: "SAMPLE"; position: absolute; inset: 0; display: grid; place-items: center; pointer-events: none;
+  font: 800 clamp(52px, 13vw, 120px)/1 var(--sans); letter-spacing: 0.12em; color: rgba(244, 201, 93, 0.17);
+  transform: rotate(-12deg);
+}
+.ev-sample-tag {
+  display: inline-block; margin-left: 8px; padding: 3px 6px; vertical-align: middle; border-radius: 4px;
+  background: var(--brass); color: var(--ink); font: 800 10.5px/1 var(--mono); letter-spacing: 0.1em; text-transform: uppercase;
+}

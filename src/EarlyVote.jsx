@@ -28,6 +28,9 @@ function at(series, db) {
   return v;
 }
 
+// Tag that sits beside each headline number while the data is sample.
+const SampleTag = () => (ev.sample ? <span className="ev-sample-tag">Sample</span> : null);
+
 const locs = ev.localities;
 const cur = cumulative(ev.days, locs);
 const today = Math.min(...ev.days.map((d) => d.days_before));
@@ -110,7 +113,7 @@ function PaceChart() {
         onPointerDown={onMove}
         onPointerLeave={() => setHover(null)}
         role="img"
-        aria-label={`Running total of early ballots: ${fmt(curEnd)} so far in 2026${cmpSeries ? `, versus ${fmt(at(cmpSeries, today))} at the same point in 2022` : ""}.`}
+        aria-label={`${ev.sample ? "SAMPLE DATA, not real turnout. " : ""}Running total of early ballots: ${fmt(curEnd)} so far in 2026${cmpSeries ? `, versus ${fmt(at(cmpSeries, today))} at the same point in 2022` : ""}.`}
       >
         {yTicks.map((v) => (
           <g key={v}>
@@ -142,13 +145,29 @@ function PaceChart() {
             {cmpSeries && <circle cx={x(hover)} cy={y(at(cmpSeries, hover))} r="4" fill={C2022} className="ev-dot" />}
           </g>
         )}
+        {/* Drawn inside the chart so a cropped screenshot still says it's sample data. */}
+        {ev.sample && (
+          <g className="ev-watermark" pointerEvents="none" aria-hidden="true">
+            <text
+              x={(m.left + width - m.right) / 2}
+              y={(m.top + h - m.bottom) / 2}
+              transform={`rotate(-16 ${(m.left + width - m.right) / 2} ${(m.top + h - m.bottom) / 2})`}
+              textAnchor="middle"
+              dominantBaseline="middle"
+              fontSize={Math.min(width * 0.2, 120)}
+            >
+              SAMPLE
+            </text>
+            <text x={width - m.right} y={m.top + 4} textAnchor="end" className="ev-watermark-tag">SAMPLE DATA · NOT REAL</text>
+          </g>
+        )}
       </svg>
       <div className="ev-readout" aria-live="polite">
         {hover == null ? (
           <span className="df-hint">Hover or tap the chart to compare a day.</span>
         ) : (
           <>
-            <strong>{hover === 0 ? "Election Day" : `${hover} days before`}</strong>
+            <strong>{ev.sample ? "Sample · " : ""}{hover === 0 ? "Election Day" : `${hover} days before`}</strong>
             <span><i style={{ background: C2026 }} />2026 {hover >= today ? fmt(at(cur, hover)) : "—"}</span>
             {cmpSeries && <span><i style={{ background: C2022 }} />2022 {fmt(at(cmpSeries, hover))}</span>}
           </>
@@ -188,22 +207,22 @@ export default function EarlyVote() {
       )}
 
       <div className="df-card">
-        <div className="ev-stats">
+        <div className={`ev-stats${ev.sample ? " ev-sampled" : ""}`}>
           <div>
             <div className="ro-label">Ballots cast{ev.sample ? " (sample)" : ""}</div>
-            <div className="ev-hero">{fmt(total.total)}</div>
+            <div className="ev-hero">{fmt(total.total)}<SampleTag /></div>
             <div className="ro-meta">
               {lastDay && <>through {new Date(lastDay + "T12:00:00Z").toLocaleDateString("en-US", { timeZone: "UTC", month: "short", day: "numeric" })} · {today} days before Election Day</>}
             </div>
           </div>
           <div>
             <div className="ro-label">vs. {vs || "2022"}</div>
-            <div className="ev-stat">{pct == null ? "—" : `${Math.round(pct * 100)}%`}</div>
+            <div className="ev-stat">{pct == null ? "—" : `${Math.round(pct * 100)}%`}<SampleTag /></div>
             <div className="ro-meta">{total.prior ? `${fmt(total.prior)} ballots in 2022` : "No 2022 comparison loaded"}</div>
           </div>
           <div>
             <div className="ro-label">In person · Mail</div>
-            <div className="ev-stat">{fmt(total.in_person)} · {fmt(total.mail)}</div>
+            <div className="ev-stat">{fmt(total.in_person)} · {fmt(total.mail)}<SampleTag /></div>
             <div className="ro-meta">{total.total ? `${Math.round((total.in_person / total.total) * 100)}% in person` : ""}</div>
           </div>
         </div>
@@ -215,7 +234,7 @@ export default function EarlyVote() {
         </div>
         <PaceChart />
 
-        <div className="df-table-wrap ev-table-wrap">
+        <div className={`df-table-wrap ev-table-wrap${ev.sample ? " ev-sampled" : ""}`}>
           <table className="df-table">
             <thead>
               <tr>
