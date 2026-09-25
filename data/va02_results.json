@@ -1,0 +1,1128 @@
+{
+  "district": "VA-02",
+  "generated_at": "2026-09-25T05:10:47.001Z",
+  "source": "Virginia Department of Elections, Historical Elections Database (https://historical.elections.virginia.gov/), per-contest Results CSV",
+  "geography": {
+    "full_localities": [
+      "Virginia Beach City",
+      "Suffolk City",
+      "Franklin City",
+      "Isle of Wight County",
+      "Accomack County",
+      "Northampton County"
+    ],
+    "partial_localities": [
+      "Chesapeake City",
+      "Southampton County"
+    ],
+    "partial_rule": "Only precincts that voted in the 2024 U.S. House District 2 race.",
+    "partial_precincts": {
+      "Chesapeake City": [
+        "001 - Great Bridge",
+        "002 - Bethel",
+        "006 - Deep Creek",
+        "007 - Greenbrier",
+        "009 - Bells Mill",
+        "014 - Grassfield",
+        "016 - Hickory Grove",
+        "017 - Indian Creek",
+        "023 - Oak Grove",
+        "028 - Sunray I",
+        "034 - Hickory Middle School",
+        "036 - Great Bridge Baptist Church",
+        "037 - Bridgetown",
+        "039 - Lake Drummond",
+        "041 - John T West",
+        "042 - Parkways",
+        "043 - Pleasant Crossing",
+        "045 - Sunray Ii",
+        "046 - Bells Mill Ii",
+        "049 - Waterway",
+        "050 - River Walk",
+        "051 - Coopers Way",
+        "052 - Shipyard Road",
+        "053 - Fairways",
+        "054 - Pughsville",
+        "056 - Green Tree",
+        "059 - Clearfield",
+        "060 - Parker Road",
+        "061 - Centerville",
+        "062 - Fentress",
+        "063 - Poplar Branch",
+        "064 - Deep Creek Ii",
+        "065 - Waterway Ii"
+      ],
+      "Southampton County": [
+        "101 - Berlin",
+        "102 - Ivor",
+        "501 - Darden Mill",
+        "502 - Fairgrounds",
+        "601 - Courtland",
+        "602 - Sedley",
+        "701 - Blackwater River"
+      ]
+    }
+  },
+  "estimate_method": "Where a precinct is split between districts, or votes are reported on a locality-wide row (provisional or central absentee), CD2's portion is estimated using CD2's share of that same row in the U.S. House races (2022 House for 2022; 2024 House for 2024 and 2025). Estimated values are flagged with estimated: true and broken out in estimated_portion.",
+  "data_corrections": [
+    "2022 U.S. House CD2 file labels Franklin city as \"Franklin County\"; relabeled to Franklin City. That file has no precinct detail for Franklin city, so its locality total is used.",
+    "2024 President and 2025 Governor files list Prince William precinct \"316 - Potomac Shores\" under Suffolk City; Suffolk's locality total (used here) excludes it."
+  ],
+  "races": [
+    {
+      "id": "2022-us-house-cd02",
+      "year": 2022,
+      "office": "U.S. House",
+      "district": 2,
+      "contest_id": 156315,
+      "source_file": "data/raw/2022_general_us_house_cd02_contest156315.csv",
+      "candidates": [
+        {
+          "name": "Jennifer Ann Kiggans",
+          "party": "Republican"
+        },
+        {
+          "name": "Elaine G. Luria",
+          "party": "Democratic"
+        }
+      ],
+      "district_total": {
+        "votes": {
+          "Jennifer Ann Kiggans": 153328,
+          "Elaine G. Luria": 143219
+        },
+        "write_ins": 442,
+        "total": 296989,
+        "estimated": false,
+        "estimated_votes": 0
+      },
+      "localities": [
+        {
+          "locality": "Virginia Beach City",
+          "coverage": "full",
+          "votes": {
+            "Jennifer Ann Kiggans": 81016,
+            "Elaine G. Luria": 81421
+          },
+          "write_ins": 245,
+          "total": 162682,
+          "estimated": false
+        },
+        {
+          "locality": "Suffolk City",
+          "coverage": "full",
+          "votes": {
+            "Jennifer Ann Kiggans": 16265,
+            "Elaine G. Luria": 20475
+          },
+          "write_ins": 56,
+          "total": 36796,
+          "estimated": false
+        },
+        {
+          "locality": "Franklin City",
+          "coverage": "full",
+          "votes": {
+            "Jennifer Ann Kiggans": 1179,
+            "Elaine G. Luria": 1730
+          },
+          "write_ins": 4,
+          "total": 2913,
+          "estimated": false
+        },
+        {
+          "locality": "Isle of Wight County",
+          "coverage": "full",
+          "votes": {
+            "Jennifer Ann Kiggans": 11346,
+            "Elaine G. Luria": 7158
+          },
+          "write_ins": 29,
+          "total": 18533,
+          "estimated": false
+        },
+        {
+          "locality": "Accomack County",
+          "coverage": "full",
+          "votes": {
+            "Jennifer Ann Kiggans": 7604,
+            "Elaine G. Luria": 5569
+          },
+          "write_ins": 15,
+          "total": 13188,
+          "estimated": false
+        },
+        {
+          "locality": "Northampton County",
+          "coverage": "full",
+          "votes": {
+            "Jennifer Ann Kiggans": 2569,
+            "Elaine G. Luria": 2855
+          },
+          "write_ins": 10,
+          "total": 5434,
+          "estimated": false
+        },
+        {
+          "locality": "Chesapeake City",
+          "coverage": "partial",
+          "votes": {
+            "Jennifer Ann Kiggans": 30241,
+            "Elaine G. Luria": 22511
+          },
+          "write_ins": 78,
+          "total": 52830,
+          "estimated": false
+        },
+        {
+          "locality": "Southampton County",
+          "coverage": "partial",
+          "votes": {
+            "Jennifer Ann Kiggans": 3108,
+            "Elaine G. Luria": 1500
+          },
+          "write_ins": 5,
+          "total": 4613,
+          "estimated": false
+        }
+      ],
+      "notes": [
+        "Every vote in this contest is cast inside VA-02, so no filtering or estimates are needed."
+      ]
+    },
+    {
+      "id": "2024-president",
+      "year": 2024,
+      "office": "President",
+      "district": null,
+      "contest_id": 161256,
+      "source_file": "data/raw/2024_general_president_contest161256.csv",
+      "candidates": [
+        {
+          "name": "Kamala D. Harris",
+          "party": "Democratic"
+        },
+        {
+          "name": "Donald J. Trump",
+          "party": "Republican"
+        },
+        {
+          "name": "Jill E. Stein",
+          "party": "Green"
+        },
+        {
+          "name": "Chase R. Oliver",
+          "party": "Libertarian"
+        },
+        {
+          "name": "Cornel R. West",
+          "party": "Independent"
+        },
+        {
+          "name": "Claudia De la Cruz",
+          "party": "Independent"
+        }
+      ],
+      "district_total": {
+        "votes": {
+          "Kamala D. Harris": 203251,
+          "Donald J. Trump": 204074,
+          "Jill E. Stein": 1483,
+          "Chase R. Oliver": 1851,
+          "Cornel R. West": 879,
+          "Claudia De la Cruz": 755
+        },
+        "write_ins": 1719,
+        "total": 414012,
+        "estimated": true,
+        "estimated_votes": 1536
+      },
+      "localities": [
+        {
+          "locality": "Virginia Beach City",
+          "coverage": "full",
+          "votes": {
+            "Kamala D. Harris": 115412,
+            "Donald J. Trump": 109375,
+            "Jill E. Stein": 905,
+            "Chase R. Oliver": 1134,
+            "Cornel R. West": 505,
+            "Claudia De la Cruz": 439
+          },
+          "write_ins": 1001,
+          "total": 228771,
+          "estimated": false
+        },
+        {
+          "locality": "Suffolk City",
+          "coverage": "full",
+          "votes": {
+            "Kamala D. Harris": 30597,
+            "Donald J. Trump": 22112,
+            "Jill E. Stein": 177,
+            "Chase R. Oliver": 199,
+            "Cornel R. West": 146,
+            "Claudia De la Cruz": 121
+          },
+          "write_ins": 193,
+          "total": 53545,
+          "estimated": false
+        },
+        {
+          "locality": "Franklin City",
+          "coverage": "full",
+          "votes": {
+            "Kamala D. Harris": 2359,
+            "Donald J. Trump": 1476,
+            "Jill E. Stein": 17,
+            "Chase R. Oliver": 9,
+            "Cornel R. West": 8,
+            "Claudia De la Cruz": 7
+          },
+          "write_ins": 11,
+          "total": 3887,
+          "estimated": false
+        },
+        {
+          "locality": "Isle of Wight County",
+          "coverage": "full",
+          "votes": {
+            "Kamala D. Harris": 9779,
+            "Donald J. Trump": 14659,
+            "Jill E. Stein": 59,
+            "Chase R. Oliver": 91,
+            "Cornel R. West": 46,
+            "Claudia De la Cruz": 38
+          },
+          "write_ins": 90,
+          "total": 24762,
+          "estimated": false
+        },
+        {
+          "locality": "Accomack County",
+          "coverage": "full",
+          "votes": {
+            "Kamala D. Harris": 7374,
+            "Donald J. Trump": 9659,
+            "Jill E. Stein": 36,
+            "Chase R. Oliver": 41,
+            "Cornel R. West": 17,
+            "Claudia De la Cruz": 17
+          },
+          "write_ins": 32,
+          "total": 17176,
+          "estimated": false
+        },
+        {
+          "locality": "Northampton County",
+          "coverage": "full",
+          "votes": {
+            "Kamala D. Harris": 3603,
+            "Donald J. Trump": 3183,
+            "Jill E. Stein": 7,
+            "Chase R. Oliver": 20,
+            "Cornel R. West": 7,
+            "Claudia De la Cruz": 12
+          },
+          "write_ins": 24,
+          "total": 6856,
+          "estimated": false
+        },
+        {
+          "locality": "Chesapeake City",
+          "coverage": "partial",
+          "votes": {
+            "Kamala D. Harris": 32116,
+            "Donald J. Trump": 39666,
+            "Jill E. Stein": 272,
+            "Chase R. Oliver": 341,
+            "Cornel R. West": 135,
+            "Claudia De la Cruz": 110
+          },
+          "write_ins": 352,
+          "total": 72992,
+          "estimated": true,
+          "reported_portion": {
+            "votes": {
+              "Kamala D. Harris": 31310,
+              "Donald J. Trump": 39032,
+              "Jill E. Stein": 265,
+              "Chase R. Oliver": 338,
+              "Cornel R. West": 132,
+              "Claudia De la Cruz": 106
+            },
+            "write_ins": 348,
+            "total": 71531
+          },
+          "estimated_portion": {
+            "votes": {
+              "Kamala D. Harris": 806,
+              "Donald J. Trump": 634,
+              "Jill E. Stein": 7,
+              "Chase R. Oliver": 3,
+              "Cornel R. West": 3,
+              "Claudia De la Cruz": 4
+            },
+            "write_ins": 4,
+            "total": 1461
+          },
+          "estimate_notes": [
+            "054 - Pughsville is split between CD2 and another district; counted 10.3% of its votes (CD2 share of its 2024 U.S. House votes: 190 of 1847).",
+            "Locality-wide row \"Chesapeake City Provisionals\" is not assigned to precincts; counted 47.1% of it (CD2 share of Chesapeake City's matching 2024 U.S. House row: 1197 of 2543)."
+          ],
+          "precincts": [
+            {
+              "precinct": "001 - Great Bridge",
+              "share": 1,
+              "estimated": false
+            },
+            {
+              "precinct": "002 - Bethel",
+              "share": 1,
+              "estimated": false
+            },
+            {
+              "precinct": "006 - Deep Creek",
+              "share": 1,
+              "estimated": false
+            },
+            {
+              "precinct": "007 - Greenbrier",
+              "share": 1,
+              "estimated": false
+            },
+            {
+              "precinct": "009 - Bells Mill",
+              "share": 1,
+              "estimated": false
+            },
+            {
+              "precinct": "014 - Grassfield",
+              "share": 1,
+              "estimated": false
+            },
+            {
+              "precinct": "016 - Hickory Grove",
+              "share": 1,
+              "estimated": false
+            },
+            {
+              "precinct": "017 - Indian Creek",
+              "share": 1,
+              "estimated": false
+            },
+            {
+              "precinct": "023 - Oak Grove",
+              "share": 1,
+              "estimated": false
+            },
+            {
+              "precinct": "028 - Sunray I",
+              "share": 1,
+              "estimated": false
+            },
+            {
+              "precinct": "034 - Hickory Middle School",
+              "share": 1,
+              "estimated": false
+            },
+            {
+              "precinct": "036 - Great Bridge Baptist Church",
+              "share": 1,
+              "estimated": false
+            },
+            {
+              "precinct": "037 - Bridgetown",
+              "share": 1,
+              "estimated": false
+            },
+            {
+              "precinct": "039 - Lake Drummond",
+              "share": 1,
+              "estimated": false
+            },
+            {
+              "precinct": "041 - John T West",
+              "share": 1,
+              "estimated": false
+            },
+            {
+              "precinct": "042 - Parkways",
+              "share": 1,
+              "estimated": false
+            },
+            {
+              "precinct": "043 - Pleasant Crossing",
+              "share": 1,
+              "estimated": false
+            },
+            {
+              "precinct": "045 - Sunray Ii",
+              "share": 1,
+              "estimated": false
+            },
+            {
+              "precinct": "046 - Bells Mill Ii",
+              "share": 1,
+              "estimated": false
+            },
+            {
+              "precinct": "049 - Waterway",
+              "share": 1,
+              "estimated": false
+            },
+            {
+              "precinct": "050 - River Walk",
+              "share": 1,
+              "estimated": false
+            },
+            {
+              "precinct": "051 - Coopers Way",
+              "share": 1,
+              "estimated": false
+            },
+            {
+              "precinct": "052 - Shipyard Road",
+              "share": 1,
+              "estimated": false
+            },
+            {
+              "precinct": "053 - Fairways",
+              "share": 1,
+              "estimated": false
+            },
+            {
+              "precinct": "054 - Pughsville",
+              "share": 0.1029,
+              "estimated": true
+            },
+            {
+              "precinct": "056 - Green Tree",
+              "share": 1,
+              "estimated": false
+            },
+            {
+              "precinct": "059 - Clearfield",
+              "share": 1,
+              "estimated": false
+            },
+            {
+              "precinct": "060 - Parker Road",
+              "share": 1,
+              "estimated": false
+            },
+            {
+              "precinct": "061 - Centerville",
+              "share": 1,
+              "estimated": false
+            },
+            {
+              "precinct": "062 - Fentress",
+              "share": 1,
+              "estimated": false
+            },
+            {
+              "precinct": "063 - Poplar Branch",
+              "share": 1,
+              "estimated": false
+            },
+            {
+              "precinct": "064 - Deep Creek Ii",
+              "share": 1,
+              "estimated": false
+            },
+            {
+              "precinct": "065 - Waterway Ii",
+              "share": 1,
+              "estimated": false
+            },
+            {
+              "precinct": "Chesapeake City Provisionals",
+              "share": 0.4707,
+              "estimated": true
+            }
+          ]
+        },
+        {
+          "locality": "Southampton County",
+          "coverage": "partial",
+          "votes": {
+            "Kamala D. Harris": 2011,
+            "Donald J. Trump": 3944,
+            "Jill E. Stein": 10,
+            "Chase R. Oliver": 16,
+            "Cornel R. West": 15,
+            "Claudia De la Cruz": 11
+          },
+          "write_ins": 16,
+          "total": 6023,
+          "estimated": true,
+          "reported_portion": {
+            "votes": {
+              "Kamala D. Harris": 1983,
+              "Donald J. Trump": 3898,
+              "Jill E. Stein": 10,
+              "Chase R. Oliver": 15,
+              "Cornel R. West": 15,
+              "Claudia De la Cruz": 11
+            },
+            "write_ins": 16,
+            "total": 5948
+          },
+          "estimated_portion": {
+            "votes": {
+              "Kamala D. Harris": 28,
+              "Donald J. Trump": 46,
+              "Jill E. Stein": 0,
+              "Chase R. Oliver": 1,
+              "Cornel R. West": 0,
+              "Claudia De la Cruz": 0
+            },
+            "write_ins": 0,
+            "total": 75
+          },
+          "estimate_notes": [
+            "Locality-wide row \"SOUTHAMPTON COUNTY PROVISIONALS\" is not assigned to precincts; counted 61.7% of it (CD2 share of Southampton County's matching 2024 U.S. House row: 71 of 115)."
+          ],
+          "precincts": [
+            {
+              "precinct": "101 - Berlin",
+              "share": 1,
+              "estimated": false
+            },
+            {
+              "precinct": "102 - Ivor",
+              "share": 1,
+              "estimated": false
+            },
+            {
+              "precinct": "501 - Darden Mill",
+              "share": 1,
+              "estimated": false
+            },
+            {
+              "precinct": "502 - Fairgrounds",
+              "share": 1,
+              "estimated": false
+            },
+            {
+              "precinct": "601 - Courtland",
+              "share": 1,
+              "estimated": false
+            },
+            {
+              "precinct": "602 - Sedley",
+              "share": 1,
+              "estimated": false
+            },
+            {
+              "precinct": "701 - Blackwater River",
+              "share": 1,
+              "estimated": false
+            },
+            {
+              "precinct": "SOUTHAMPTON COUNTY PROVISIONALS",
+              "share": 0.6174,
+              "estimated": true
+            }
+          ]
+        }
+      ],
+      "notes": [
+        "Suffolk City: precinct(s) 316 - Potomac Shores are filed under Suffolk City in the source but belong to another locality; the locality total row (used here) already excludes them.",
+        "Chesapeake and Southampton include only precincts that voted in the 2024 U.S. House District 2 race.",
+        "Since 2024, Virginia reports absentee and early votes inside each precinct, so no central-absentee estimate was needed for this race."
+      ]
+    },
+    {
+      "id": "2024-us-house-cd02",
+      "year": 2024,
+      "office": "U.S. House",
+      "district": 2,
+      "contest_id": 161258,
+      "source_file": "data/raw/2024_general_us_house_cd02_contest161258.csv",
+      "candidates": [
+        {
+          "name": "Jen A. Kiggans",
+          "party": "Republican"
+        },
+        {
+          "name": "Missy Cotter Smasal",
+          "party": "Democratic"
+        },
+        {
+          "name": "Robert E. Reid, Jr.",
+          "party": "Independent"
+        }
+      ],
+      "district_total": {
+        "votes": {
+          "Jen A. Kiggans": 207368,
+          "Missy Cotter Smasal": 191666,
+          "Robert E. Reid, Jr.": 9197
+        },
+        "write_ins": 471,
+        "total": 408702,
+        "estimated": false,
+        "estimated_votes": 0
+      },
+      "localities": [
+        {
+          "locality": "Virginia Beach City",
+          "coverage": "full",
+          "votes": {
+            "Jen A. Kiggans": 111293,
+            "Missy Cotter Smasal": 108936,
+            "Robert E. Reid, Jr.": 5153
+          },
+          "write_ins": 250,
+          "total": 225632,
+          "estimated": false
+        },
+        {
+          "locality": "Suffolk City",
+          "coverage": "full",
+          "votes": {
+            "Jen A. Kiggans": 22310,
+            "Missy Cotter Smasal": 28918,
+            "Robert E. Reid, Jr.": 1393
+          },
+          "write_ins": 74,
+          "total": 52695,
+          "estimated": false
+        },
+        {
+          "locality": "Franklin City",
+          "coverage": "full",
+          "votes": {
+            "Jen A. Kiggans": 1525,
+            "Missy Cotter Smasal": 2181,
+            "Robert E. Reid, Jr.": 99
+          },
+          "write_ins": 6,
+          "total": 3811,
+          "estimated": false
+        },
+        {
+          "locality": "Isle of Wight County",
+          "coverage": "full",
+          "votes": {
+            "Jen A. Kiggans": 14781,
+            "Missy Cotter Smasal": 9099,
+            "Robert E. Reid, Jr.": 511
+          },
+          "write_ins": 24,
+          "total": 24415,
+          "estimated": false
+        },
+        {
+          "locality": "Accomack County",
+          "coverage": "full",
+          "votes": {
+            "Jen A. Kiggans": 9795,
+            "Missy Cotter Smasal": 7044,
+            "Robert E. Reid, Jr.": 283
+          },
+          "write_ins": 29,
+          "total": 17151,
+          "estimated": false
+        },
+        {
+          "locality": "Northampton County",
+          "coverage": "full",
+          "votes": {
+            "Jen A. Kiggans": 3333,
+            "Missy Cotter Smasal": 3386,
+            "Robert E. Reid, Jr.": 86
+          },
+          "write_ins": 5,
+          "total": 6810,
+          "estimated": false
+        },
+        {
+          "locality": "Chesapeake City",
+          "coverage": "partial",
+          "votes": {
+            "Jen A. Kiggans": 40426,
+            "Missy Cotter Smasal": 30174,
+            "Robert E. Reid, Jr.": 1553
+          },
+          "write_ins": 78,
+          "total": 72231,
+          "estimated": false
+        },
+        {
+          "locality": "Southampton County",
+          "coverage": "partial",
+          "votes": {
+            "Jen A. Kiggans": 3905,
+            "Missy Cotter Smasal": 1928,
+            "Robert E. Reid, Jr.": 119
+          },
+          "write_ins": 5,
+          "total": 5957,
+          "estimated": false
+        }
+      ],
+      "notes": [
+        "Every vote in this contest is cast inside VA-02, so no filtering or estimates are needed."
+      ]
+    },
+    {
+      "id": "2025-governor",
+      "year": 2025,
+      "office": "Governor",
+      "district": null,
+      "contest_id": 164996,
+      "source_file": "data/raw/2025_general_governor_contest164996.csv",
+      "candidates": [
+        {
+          "name": "Abigail D. Spanberger",
+          "party": "Democratic"
+        },
+        {
+          "name": "Winsome Earle Sears",
+          "party": "Republican"
+        }
+      ],
+      "district_total": {
+        "votes": {
+          "Abigail D. Spanberger": 167674,
+          "Winsome Earle Sears": 143897
+        },
+        "write_ins": 499,
+        "total": 312070,
+        "estimated": true,
+        "estimated_votes": 154
+      },
+      "localities": [
+        {
+          "locality": "Virginia Beach City",
+          "coverage": "full",
+          "votes": {
+            "Abigail D. Spanberger": 94339,
+            "Winsome Earle Sears": 75013
+          },
+          "write_ins": 269,
+          "total": 169621,
+          "estimated": false
+        },
+        {
+          "locality": "Suffolk City",
+          "coverage": "full",
+          "votes": {
+            "Abigail D. Spanberger": 25696,
+            "Winsome Earle Sears": 15935
+          },
+          "write_ins": 80,
+          "total": 41711,
+          "estimated": false
+        },
+        {
+          "locality": "Franklin City",
+          "coverage": "full",
+          "votes": {
+            "Abigail D. Spanberger": 1849,
+            "Winsome Earle Sears": 1084
+          },
+          "write_ins": 2,
+          "total": 2935,
+          "estimated": false
+        },
+        {
+          "locality": "Isle of Wight County",
+          "coverage": "full",
+          "votes": {
+            "Abigail D. Spanberger": 8227,
+            "Winsome Earle Sears": 10931
+          },
+          "write_ins": 37,
+          "total": 19195,
+          "estimated": false
+        },
+        {
+          "locality": "Accomack County",
+          "coverage": "full",
+          "votes": {
+            "Abigail D. Spanberger": 5925,
+            "Winsome Earle Sears": 7129
+          },
+          "write_ins": 10,
+          "total": 13064,
+          "estimated": false
+        },
+        {
+          "locality": "Northampton County",
+          "coverage": "full",
+          "votes": {
+            "Abigail D. Spanberger": 3060,
+            "Winsome Earle Sears": 2469
+          },
+          "write_ins": 8,
+          "total": 5537,
+          "estimated": false
+        },
+        {
+          "locality": "Chesapeake City",
+          "coverage": "partial",
+          "votes": {
+            "Abigail D. Spanberger": 26919,
+            "Winsome Earle Sears": 28425
+          },
+          "write_ins": 87,
+          "total": 55431,
+          "estimated": true,
+          "reported_portion": {
+            "votes": {
+              "Abigail D. Spanberger": 26805,
+              "Winsome Earle Sears": 28385
+            },
+            "write_ins": 87,
+            "total": 55277
+          },
+          "estimated_portion": {
+            "votes": {
+              "Abigail D. Spanberger": 114,
+              "Winsome Earle Sears": 40
+            },
+            "write_ins": 0,
+            "total": 154
+          },
+          "estimate_notes": [
+            "054 - Pughsville is split between CD2 and another district; counted 10.3% of its votes (CD2 share of its 2024 U.S. House votes: 190 of 1847)."
+          ],
+          "precincts": [
+            {
+              "precinct": "001 - Great Bridge",
+              "share": 1,
+              "estimated": false
+            },
+            {
+              "precinct": "002 - Bethel",
+              "share": 1,
+              "estimated": false
+            },
+            {
+              "precinct": "006 - Deep Creek",
+              "share": 1,
+              "estimated": false
+            },
+            {
+              "precinct": "007 - Greenbrier",
+              "share": 1,
+              "estimated": false
+            },
+            {
+              "precinct": "009 - Bells Mill",
+              "share": 1,
+              "estimated": false
+            },
+            {
+              "precinct": "014 - Grassfield",
+              "share": 1,
+              "estimated": false
+            },
+            {
+              "precinct": "016 - Hickory Grove",
+              "share": 1,
+              "estimated": false
+            },
+            {
+              "precinct": "017 - Indian Creek",
+              "share": 1,
+              "estimated": false
+            },
+            {
+              "precinct": "023 - Oak Grove",
+              "share": 1,
+              "estimated": false
+            },
+            {
+              "precinct": "028 - Sunray I",
+              "share": 1,
+              "estimated": false
+            },
+            {
+              "precinct": "034 - Hickory Middle School",
+              "share": 1,
+              "estimated": false
+            },
+            {
+              "precinct": "036 - Great Bridge Baptist Church",
+              "share": 1,
+              "estimated": false
+            },
+            {
+              "precinct": "037 - Bridgetown",
+              "share": 1,
+              "estimated": false
+            },
+            {
+              "precinct": "039 - Lake Drummond",
+              "share": 1,
+              "estimated": false
+            },
+            {
+              "precinct": "041 - John T West",
+              "share": 1,
+              "estimated": false
+            },
+            {
+              "precinct": "042 - Parkways",
+              "share": 1,
+              "estimated": false
+            },
+            {
+              "precinct": "043 - Pleasant Crossing",
+              "share": 1,
+              "estimated": false
+            },
+            {
+              "precinct": "045 - Sunray Ii",
+              "share": 1,
+              "estimated": false
+            },
+            {
+              "precinct": "046 - Bells Mill Ii",
+              "share": 1,
+              "estimated": false
+            },
+            {
+              "precinct": "049 - Waterway",
+              "share": 1,
+              "estimated": false
+            },
+            {
+              "precinct": "050 - River Walk",
+              "share": 1,
+              "estimated": false
+            },
+            {
+              "precinct": "051 - Coopers Way",
+              "share": 1,
+              "estimated": false
+            },
+            {
+              "precinct": "052 - Shipyard Road",
+              "share": 1,
+              "estimated": false
+            },
+            {
+              "precinct": "053 - Fairways",
+              "share": 1,
+              "estimated": false
+            },
+            {
+              "precinct": "054 - Pughsville",
+              "share": 0.1029,
+              "estimated": true
+            },
+            {
+              "precinct": "056 - Green Tree",
+              "share": 1,
+              "estimated": false
+            },
+            {
+              "precinct": "059 - Clearfield",
+              "share": 1,
+              "estimated": false
+            },
+            {
+              "precinct": "060 - Parker Road",
+              "share": 1,
+              "estimated": false
+            },
+            {
+              "precinct": "061 - Centerville",
+              "share": 1,
+              "estimated": false
+            },
+            {
+              "precinct": "062 - Fentress",
+              "share": 1,
+              "estimated": false
+            },
+            {
+              "precinct": "063 - Poplar Branch",
+              "share": 1,
+              "estimated": false
+            },
+            {
+              "precinct": "064 - Deep Creek Ii",
+              "share": 1,
+              "estimated": false
+            },
+            {
+              "precinct": "065 - Waterway Ii",
+              "share": 1,
+              "estimated": false
+            }
+          ]
+        },
+        {
+          "locality": "Southampton County",
+          "coverage": "partial",
+          "votes": {
+            "Abigail D. Spanberger": 1659,
+            "Winsome Earle Sears": 2911
+          },
+          "write_ins": 6,
+          "total": 4576,
+          "estimated": false,
+          "reported_portion": {
+            "votes": {
+              "Abigail D. Spanberger": 1659,
+              "Winsome Earle Sears": 2911
+            },
+            "write_ins": 6,
+            "total": 4576
+          },
+          "estimated_portion": null,
+          "estimate_notes": [],
+          "precincts": [
+            {
+              "precinct": "101 - Berlin",
+              "share": 1,
+              "estimated": false
+            },
+            {
+              "precinct": "102 - Ivor",
+              "share": 1,
+              "estimated": false
+            },
+            {
+              "precinct": "501 - Darden Mill",
+              "share": 1,
+              "estimated": false
+            },
+            {
+              "precinct": "502 - Fairgrounds",
+              "share": 1,
+              "estimated": false
+            },
+            {
+              "precinct": "601 - Courtland",
+              "share": 1,
+              "estimated": false
+            },
+            {
+              "precinct": "602 - Sedley",
+              "share": 1,
+              "estimated": false
+            },
+            {
+              "precinct": "701 - Blackwater River",
+              "share": 1,
+              "estimated": false
+            }
+          ]
+        }
+      ],
+      "notes": [
+        "Suffolk City: precinct(s) 316 - Potomac Shores are filed under Suffolk City in the source but belong to another locality; the locality total row (used here) already excludes them.",
+        "Chesapeake and Southampton include only precincts that voted in the 2024 U.S. House District 2 race.",
+        "Since 2024, Virginia reports absentee and early votes inside each precinct, so no central-absentee estimate was needed for this race."
+      ]
+    }
+  ]
+}
