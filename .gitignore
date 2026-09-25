@@ -12,3 +12,6 @@ vite.config.js.timestamp-*.mjs
 
 # Downloaded Census boundary files (rebuilt by scripts/build-map.mjs)
 data/cache/
+
+# Daily Absentee List files (voter-level data). NEVER commit these.
+data/dal/

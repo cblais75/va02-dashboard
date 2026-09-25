@@ -113,7 +113,7 @@ body { color: var(--text); font-family: var(--sans); -webkit-text-size-adjust: 1
 }
 
 /* Sections */
-.ro, .fr, .df, .lm, .kd { margin-bottom: 40px; }
+.ro, .fr, .df, .lm, .ev, .kd { margin-bottom: 40px; }
 .kd { margin-bottom: 8px; }
 
 /* Race Overview */
@@ -350,4 +350,42 @@ body { color: var(--text); font-family: var(--sans); -webkit-text-size-adjust: 1
   .lm-label b { font-size: 9.5px; }
   .lm-panel { padding: 12px 10px; }
   .lm-history li { grid-template-columns: 1fr 56px 58px; gap: 8px; font-size: 12.5px; }
+}
+
+/* Early Vote Tracker */
+.ev-banner {
+  margin-bottom: 14px; padding: 12px 14px; border: 1px solid var(--brass); border-radius: 10px;
+  background: rgba(244, 201, 93, 0.08); color: var(--text); font-size: 14px; line-height: 1.45;
+}
+.ev-banner strong { color: var(--brass); }
+.ev-stats { display: grid; grid-template-columns: 1.3fr 1fr 1fr; gap: 16px; margin-bottom: 18px; }
+.ev-hero { font-size: 48px; font-weight: 700; line-height: 1; letter-spacing: -1px; font-variant-numeric: tabular-nums; margin-bottom: 6px; }
+.ev-stat { font-size: 24px; font-weight: 700; line-height: 1.1; font-variant-numeric: tabular-nums; margin-bottom: 6px; }
+.ev-chart-title { margin: 0 0 6px; font-size: 15px; }
+.ev-legend { margin: 0 0 8px; }
+.ev-chart { width: 100%; }
+.ev-chart svg { display: block; touch-action: pan-y; }
+.ev-grid { stroke: var(--line); stroke-width: 1; }
+.ev-axis { fill: var(--muted); font: 11px var(--mono); }
+.ev-axis-title { font-size: 10.5px; }
+.ev-line { fill: none; stroke-width: 2; stroke-linejoin: round; stroke-linecap: round; }
+.ev-dot { stroke: var(--panel); stroke-width: 2; }
+.ev-end { fill: var(--text); font: 700 12px var(--mono); }
+.ev-cross { stroke: #4A5A78; stroke-width: 1; }
+.ev-readout {
+  display: flex; flex-wrap: wrap; gap: 6px 16px; align-items: center; min-height: 36px; margin-top: 6px;
+  padding: 8px 12px; border-radius: 8px; background: var(--panel2); font: 12.5px/1.4 var(--mono); font-variant-numeric: tabular-nums;
+}
+.ev-readout strong { font-family: var(--sans); }
+.ev-readout i { display: inline-block; width: 10px; height: 10px; border-radius: 2px; margin-right: 6px; vertical-align: -1px; }
+.ev-table-wrap { margin-top: 18px; }
+
+@media (max-width: 860px) {
+  .ev-stats { grid-template-columns: 1fr 1fr; }
+  .ev-stats > :first-child { grid-column: 1 / -1; }
+}
+@media (max-width: 480px) {
+  .ev-hero { font-size: 42px; }
+  .ev-stat { font-size: 19px; }
+  .ev-col-split { display: none; }
 }

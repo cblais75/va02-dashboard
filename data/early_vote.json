@@ -1,0 +1,2109 @@
+{
+  "updated_at": "2026-09-25T06:04:12.322Z",
+  "sample": true,
+  "election_day": "2026-11-03",
+  "source": "Sample data generated in the format of the Virginia Department of Elections Daily Absentee List",
+  "source_url": "https://www.elections.virginia.gov/candidatepac-info/client-services/",
+  "counted": "Early in-person ballots (ON_MACHINE) and returned mail ballots (MARKED, PRE_PROCESSED, FWAB), one per voter, by ballot receipt date. Chesapeake and Southampton: District 2 voters only.",
+  "localities": [
+    "Virginia Beach City",
+    "Suffolk City",
+    "Franklin City",
+    "Isle of Wight County",
+    "Accomack County",
+    "Northampton County",
+    "Chesapeake City",
+    "Southampton County"
+  ],
+  "days": [
+    {
+      "date": "2026-09-18",
+      "days_before": 46,
+      "by_locality": {
+        "Virginia Beach City": {
+          "in_person": 1240,
+          "mail": 0
+        },
+        "Suffolk City": {
+          "in_person": 284,
+          "mail": 0
+        },
+        "Franklin City": {
+          "in_person": 22,
+          "mail": 0
+        },
+        "Isle of Wight County": {
+          "in_person": 160,
+          "mail": 0
+        },
+        "Accomack County": {
+          "in_person": 93,
+          "mail": 0
+        },
+        "Northampton County": {
+          "in_person": 41,
+          "mail": 0
+        },
+        "Chesapeake City": {
+          "in_person": 430,
+          "mail": 0
+        },
+        "Southampton County": {
+          "in_person": 41,
+          "mail": 0
+        }
+      }
+    },
+    {
+      "date": "2026-09-19",
+      "days_before": 45,
+      "by_locality": {
+        "Virginia Beach City": {
+          "in_person": 477,
+          "mail": 0
+        },
+        "Suffolk City": {
+          "in_person": 128,
+          "mail": 0
+        },
+        "Franklin City": {
+          "in_person": 6,
+          "mail": 0
+        },
+        "Isle of Wight County": {
+          "in_person": 68,
+          "mail": 0
+        },
+        "Accomack County": {
+          "in_person": 47,
+          "mail": 0
+        },
+        "Northampton County": {
+          "in_person": 13,
+          "mail": 0
+        },
+        "Chesapeake City": {
+          "in_person": 151,
+          "mail": 0
+        },
+        "Southampton County": {
+          "in_person": 18,
+          "mail": 0
+        }
+      }
+    },
+    {
+      "date": "2026-09-20",
+      "days_before": 44,
+      "by_locality": {
+        "Virginia Beach City": {
+          "in_person": 79,
+          "mail": 0
+        },
+        "Suffolk City": {
+          "in_person": 13,
+          "mail": 0
+        },
+        "Isle of Wight County": {
+          "in_person": 9,
+          "mail": 0
+        },
+        "Accomack County": {
+          "in_person": 9,
+          "mail": 0
+        },
+        "Northampton County": {
+          "in_person": 5,
+          "mail": 0
+        },
+        "Chesapeake City": {
+          "in_person": 21,
+          "mail": 0
+        },
+        "Southampton County": {
+          "in_person": 1,
+          "mail": 0
+        }
+      }
+    },
+    {
+      "date": "2026-09-21",
+      "days_before": 43,
+      "by_locality": {
+        "Virginia Beach City": {
+          "in_person": 495,
+          "mail": 0
+        },
+        "Suffolk City": {
+          "in_person": 118,
+          "mail": 0
+        },
+        "Franklin City": {
+          "in_person": 6,
+          "mail": 0
+        },
+        "Isle of Wight County": {
+          "in_person": 57,
+          "mail": 0
+        },
+        "Accomack County": {
+          "in_person": 39,
+          "mail": 0
+        },
+        "Northampton County": {
+          "in_person": 23,
+          "mail": 0
+        },
+        "Chesapeake City": {
+          "in_person": 144,
+          "mail": 0
+        },
+        "Southampton County": {
+          "in_person": 14,
+          "mail": 0
+        }
+      }
+    },
+    {
+      "date": "2026-09-22",
+      "days_before": 42,
+      "by_locality": {
+        "Virginia Beach City": {
+          "in_person": 537,
+          "mail": 0
+        },
+        "Suffolk City": {
+          "in_person": 126,
+          "mail": 0
+        },
+        "Franklin City": {
+          "in_person": 13,
+          "mail": 0
+        },
+        "Isle of Wight County": {
+          "in_person": 56,
+          "mail": 0
+        },
+        "Accomack County": {
+          "in_person": 39,
+          "mail": 0
+        },
+        "Northampton County": {
+          "in_person": 17,
+          "mail": 0
+        },
+        "Chesapeake City": {
+          "in_person": 142,
+          "mail": 0
+        },
+        "Southampton County": {
+          "in_person": 10,
+          "mail": 0
+        }
+      }
+    },
+    {
+      "date": "2026-09-23",
+      "days_before": 41,
+      "by_locality": {
+        "Virginia Beach City": {
+          "in_person": 513,
+          "mail": 0
+        },
+        "Suffolk City": {
+          "in_person": 114,
+          "mail": 0
+        },
+        "Franklin City": {
+          "in_person": 7,
+          "mail": 0
+        },
+        "Isle of Wight County": {
+          "in_person": 66,
+          "mail": 0
+        },
+        "Accomack County": {
+          "in_person": 53,
+          "mail": 0
+        },
+        "Northampton County": {
+          "in_person": 15,
+          "mail": 0
+        },
+        "Chesapeake City": {
+          "in_person": 175,
+          "mail": 0
+        },
+        "Southampton County": {
+          "in_person": 16,
+          "mail": 0
+        }
+      }
+    },
+    {
+      "date": "2026-09-24",
+      "days_before": 40,
+      "by_locality": {
+        "Virginia Beach City": {
+          "in_person": 523,
+          "mail": 464
+        },
+        "Suffolk City": {
+          "in_person": 106,
+          "mail": 102
+        },
+        "Franklin City": {
+          "in_person": 10,
+          "mail": 7
+        },
+        "Isle of Wight County": {
+          "in_person": 56,
+          "mail": 52
+        },
+        "Accomack County": {
+          "in_person": 39,
+          "mail": 32
+        },
+        "Northampton County": {
+          "in_person": 17,
+          "mail": 14
+        },
+        "Chesapeake City": {
+          "in_person": 177,
+          "mail": 142
+        },
+        "Southampton County": {
+          "in_person": 13,
+          "mail": 16
+        }
+      }
+    },
+    {
+      "date": "2026-09-25",
+      "days_before": 39,
+      "by_locality": {
+        "Virginia Beach City": {
+          "in_person": 554,
+          "mail": 475
+        },
+        "Suffolk City": {
+          "in_person": 111,
+          "mail": 111
+        },
+        "Franklin City": {
+          "in_person": 11,
+          "mail": 13
+        },
+        "Isle of Wight County": {
+          "in_person": 55,
+          "mail": 54
+        },
+        "Accomack County": {
+          "in_person": 49,
+          "mail": 43
+        },
+        "Northampton County": {
+          "in_person": 17,
+          "mail": 20
+        },
+        "Chesapeake City": {
+          "in_person": 176,
+          "mail": 133
+        },
+        "Southampton County": {
+          "in_person": 19,
+          "mail": 20
+        }
+      }
+    }
+  ],
+  "comparison": {
+    "year": 2022,
+    "election_day": "2022-11-08",
+    "basis": "daily",
+    "days": [
+      {
+        "date": "2022-09-23",
+        "days_before": 46,
+        "by_locality": {
+          "Virginia Beach City": {
+            "in_person": 1273,
+            "mail": 0
+          },
+          "Suffolk City": {
+            "in_person": 248,
+            "mail": 0
+          },
+          "Franklin City": {
+            "in_person": 23,
+            "mail": 0
+          },
+          "Isle of Wight County": {
+            "in_person": 143,
+            "mail": 0
+          },
+          "Accomack County": {
+            "in_person": 95,
+            "mail": 0
+          },
+          "Northampton County": {
+            "in_person": 35,
+            "mail": 0
+          },
+          "Chesapeake City": {
+            "in_person": 365,
+            "mail": 0
+          },
+          "Southampton County": {
+            "in_person": 45,
+            "mail": 0
+          }
+        }
+      },
+      {
+        "date": "2022-09-24",
+        "days_before": 45,
+        "by_locality": {
+          "Virginia Beach City": {
+            "in_person": 481,
+            "mail": 0
+          },
+          "Suffolk City": {
+            "in_person": 121,
+            "mail": 0
+          },
+          "Franklin City": {
+            "in_person": 8,
+            "mail": 0
+          },
+          "Isle of Wight County": {
+            "in_person": 41,
+            "mail": 0
+          },
+          "Accomack County": {
+            "in_person": 38,
+            "mail": 0
+          },
+          "Northampton County": {
+            "in_person": 12,
+            "mail": 0
+          },
+          "Chesapeake City": {
+            "in_person": 148,
+            "mail": 0
+          },
+          "Southampton County": {
+            "in_person": 8,
+            "mail": 0
+          }
+        }
+      },
+      {
+        "date": "2022-09-25",
+        "days_before": 44,
+        "by_locality": {
+          "Virginia Beach City": {
+            "in_person": 64,
+            "mail": 0
+          },
+          "Suffolk City": {
+            "in_person": 16,
+            "mail": 0
+          },
+          "Franklin City": {
+            "in_person": 2,
+            "mail": 0
+          },
+          "Isle of Wight County": {
+            "in_person": 8,
+            "mail": 0
+          },
+          "Accomack County": {
+            "in_person": 6,
+            "mail": 0
+          },
+          "Chesapeake City": {
+            "in_person": 20,
+            "mail": 0
+          },
+          "Southampton County": {
+            "in_person": 1,
+            "mail": 0
+          }
+        }
+      },
+      {
+        "date": "2022-09-26",
+        "days_before": 43,
+        "by_locality": {
+          "Virginia Beach City": {
+            "in_person": 443,
+            "mail": 0
+          },
+          "Suffolk City": {
+            "in_person": 105,
+            "mail": 0
+          },
+          "Franklin City": {
+            "in_person": 6,
+            "mail": 0
+          },
+          "Isle of Wight County": {
+            "in_person": 58,
+            "mail": 0
+          },
+          "Accomack County": {
+            "in_person": 44,
+            "mail": 0
+          },
+          "Northampton County": {
+            "in_person": 20,
+            "mail": 0
+          },
+          "Chesapeake City": {
+            "in_person": 152,
+            "mail": 0
+          },
+          "Southampton County": {
+            "in_person": 13,
+            "mail": 0
+          }
+        }
+      },
+      {
+        "date": "2022-09-27",
+        "days_before": 42,
+        "by_locality": {
+          "Virginia Beach City": {
+            "in_person": 474,
+            "mail": 0
+          },
+          "Suffolk City": {
+            "in_person": 97,
+            "mail": 0
+          },
+          "Franklin City": {
+            "in_person": 8,
+            "mail": 0
+          },
+          "Isle of Wight County": {
+            "in_person": 53,
+            "mail": 0
+          },
+          "Accomack County": {
+            "in_person": 48,
+            "mail": 0
+          },
+          "Northampton County": {
+            "in_person": 19,
+            "mail": 0
+          },
+          "Chesapeake City": {
+            "in_person": 145,
+            "mail": 0
+          },
+          "Southampton County": {
+            "in_person": 14,
+            "mail": 0
+          }
+        }
+      },
+      {
+        "date": "2022-09-28",
+        "days_before": 41,
+        "by_locality": {
+          "Virginia Beach City": {
+            "in_person": 497,
+            "mail": 0
+          },
+          "Suffolk City": {
+            "in_person": 127,
+            "mail": 0
+          },
+          "Franklin City": {
+            "in_person": 18,
+            "mail": 0
+          },
+          "Isle of Wight County": {
+            "in_person": 42,
+            "mail": 0
+          },
+          "Accomack County": {
+            "in_person": 39,
+            "mail": 0
+          },
+          "Northampton County": {
+            "in_person": 16,
+            "mail": 0
+          },
+          "Chesapeake City": {
+            "in_person": 155,
+            "mail": 0
+          },
+          "Southampton County": {
+            "in_person": 13,
+            "mail": 0
+          }
+        }
+      },
+      {
+        "date": "2022-09-29",
+        "days_before": 40,
+        "by_locality": {
+          "Virginia Beach City": {
+            "in_person": 498,
+            "mail": 416
+          },
+          "Suffolk City": {
+            "in_person": 107,
+            "mail": 104
+          },
+          "Franklin City": {
+            "in_person": 6,
+            "mail": 11
+          },
+          "Isle of Wight County": {
+            "in_person": 49,
+            "mail": 55
+          },
+          "Accomack County": {
+            "in_person": 32,
+            "mail": 33
+          },
+          "Northampton County": {
+            "in_person": 18,
+            "mail": 17
+          },
+          "Chesapeake City": {
+            "in_person": 162,
+            "mail": 133
+          },
+          "Southampton County": {
+            "in_person": 10,
+            "mail": 13
+          }
+        }
+      },
+      {
+        "date": "2022-09-30",
+        "days_before": 39,
+        "by_locality": {
+          "Virginia Beach City": {
+            "in_person": 468,
+            "mail": 401
+          },
+          "Suffolk City": {
+            "in_person": 126,
+            "mail": 115
+          },
+          "Franklin City": {
+            "in_person": 12,
+            "mail": 8
+          },
+          "Isle of Wight County": {
+            "in_person": 49,
+            "mail": 52
+          },
+          "Accomack County": {
+            "in_person": 37,
+            "mail": 37
+          },
+          "Northampton County": {
+            "in_person": 9,
+            "mail": 14
+          },
+          "Chesapeake City": {
+            "in_person": 161,
+            "mail": 143
+          },
+          "Southampton County": {
+            "in_person": 12,
+            "mail": 13
+          }
+        }
+      },
+      {
+        "date": "2022-10-01",
+        "days_before": 38,
+        "by_locality": {
+          "Virginia Beach City": {
+            "in_person": 467,
+            "mail": 432
+          },
+          "Suffolk City": {
+            "in_person": 94,
+            "mail": 113
+          },
+          "Franklin City": {
+            "in_person": 8,
+            "mail": 6
+          },
+          "Isle of Wight County": {
+            "in_person": 65,
+            "mail": 61
+          },
+          "Accomack County": {
+            "in_person": 42,
+            "mail": 31
+          },
+          "Northampton County": {
+            "in_person": 25,
+            "mail": 15
+          },
+          "Chesapeake City": {
+            "in_person": 165,
+            "mail": 156
+          },
+          "Southampton County": {
+            "in_person": 14,
+            "mail": 13
+          }
+        }
+      },
+      {
+        "date": "2022-10-02",
+        "days_before": 37,
+        "by_locality": {
+          "Virginia Beach City": {
+            "in_person": 73,
+            "mail": 408
+          },
+          "Suffolk City": {
+            "in_person": 15,
+            "mail": 97
+          },
+          "Franklin City": {
+            "in_person": 3,
+            "mail": 7
+          },
+          "Isle of Wight County": {
+            "in_person": 5,
+            "mail": 48
+          },
+          "Accomack County": {
+            "in_person": 13,
+            "mail": 38
+          },
+          "Northampton County": {
+            "in_person": 1,
+            "mail": 17
+          },
+          "Chesapeake City": {
+            "in_person": 30,
+            "mail": 144
+          },
+          "Southampton County": {
+            "in_person": 2,
+            "mail": 13
+          }
+        }
+      },
+      {
+        "date": "2022-10-03",
+        "days_before": 36,
+        "by_locality": {
+          "Virginia Beach City": {
+            "in_person": 460,
+            "mail": 446
+          },
+          "Suffolk City": {
+            "in_person": 114,
+            "mail": 109
+          },
+          "Franklin City": {
+            "in_person": 10,
+            "mail": 4
+          },
+          "Isle of Wight County": {
+            "in_person": 45,
+            "mail": 47
+          },
+          "Accomack County": {
+            "in_person": 42,
+            "mail": 34
+          },
+          "Northampton County": {
+            "in_person": 18,
+            "mail": 13
+          },
+          "Chesapeake City": {
+            "in_person": 159,
+            "mail": 146
+          },
+          "Southampton County": {
+            "in_person": 14,
+            "mail": 20
+          }
+        }
+      },
+      {
+        "date": "2022-10-04",
+        "days_before": 35,
+        "by_locality": {
+          "Virginia Beach City": {
+            "in_person": 485,
+            "mail": 419
+          },
+          "Suffolk City": {
+            "in_person": 119,
+            "mail": 87
+          },
+          "Franklin City": {
+            "in_person": 6,
+            "mail": 8
+          },
+          "Isle of Wight County": {
+            "in_person": 47,
+            "mail": 47
+          },
+          "Accomack County": {
+            "in_person": 49,
+            "mail": 27
+          },
+          "Northampton County": {
+            "in_person": 13,
+            "mail": 13
+          },
+          "Chesapeake City": {
+            "in_person": 163,
+            "mail": 133
+          },
+          "Southampton County": {
+            "in_person": 16,
+            "mail": 7
+          }
+        }
+      },
+      {
+        "date": "2022-10-05",
+        "days_before": 34,
+        "by_locality": {
+          "Virginia Beach City": {
+            "in_person": 482,
+            "mail": 435
+          },
+          "Suffolk City": {
+            "in_person": 114,
+            "mail": 110
+          },
+          "Franklin City": {
+            "in_person": 12,
+            "mail": 7
+          },
+          "Isle of Wight County": {
+            "in_person": 64,
+            "mail": 52
+          },
+          "Accomack County": {
+            "in_person": 45,
+            "mail": 37
+          },
+          "Northampton County": {
+            "in_person": 16,
+            "mail": 18
+          },
+          "Chesapeake City": {
+            "in_person": 155,
+            "mail": 128
+          },
+          "Southampton County": {
+            "in_person": 10,
+            "mail": 3
+          }
+        }
+      },
+      {
+        "date": "2022-10-06",
+        "days_before": 33,
+        "by_locality": {
+          "Virginia Beach City": {
+            "in_person": 511,
+            "mail": 423
+          },
+          "Suffolk City": {
+            "in_person": 107,
+            "mail": 88
+          },
+          "Franklin City": {
+            "in_person": 12,
+            "mail": 4
+          },
+          "Isle of Wight County": {
+            "in_person": 56,
+            "mail": 42
+          },
+          "Accomack County": {
+            "in_person": 48,
+            "mail": 28
+          },
+          "Northampton County": {
+            "in_person": 21,
+            "mail": 14
+          },
+          "Chesapeake City": {
+            "in_person": 174,
+            "mail": 170
+          },
+          "Southampton County": {
+            "in_person": 15,
+            "mail": 16
+          }
+        }
+      },
+      {
+        "date": "2022-10-07",
+        "days_before": 32,
+        "by_locality": {
+          "Virginia Beach City": {
+            "in_person": 506,
+            "mail": 436
+          },
+          "Suffolk City": {
+            "in_person": 115,
+            "mail": 91
+          },
+          "Franklin City": {
+            "in_person": 7,
+            "mail": 7
+          },
+          "Isle of Wight County": {
+            "in_person": 65,
+            "mail": 50
+          },
+          "Accomack County": {
+            "in_person": 37,
+            "mail": 34
+          },
+          "Northampton County": {
+            "in_person": 20,
+            "mail": 11
+          },
+          "Chesapeake City": {
+            "in_person": 183,
+            "mail": 149
+          },
+          "Southampton County": {
+            "in_person": 19,
+            "mail": 14
+          }
+        }
+      },
+      {
+        "date": "2022-10-08",
+        "days_before": 31,
+        "by_locality": {
+          "Virginia Beach City": {
+            "in_person": 513,
+            "mail": 449
+          },
+          "Suffolk City": {
+            "in_person": 108,
+            "mail": 97
+          },
+          "Franklin City": {
+            "in_person": 18,
+            "mail": 8
+          },
+          "Isle of Wight County": {
+            "in_person": 50,
+            "mail": 50
+          },
+          "Accomack County": {
+            "in_person": 34,
+            "mail": 29
+          },
+          "Northampton County": {
+            "in_person": 13,
+            "mail": 14
+          },
+          "Chesapeake City": {
+            "in_person": 171,
+            "mail": 142
+          },
+          "Southampton County": {
+            "in_person": 9,
+            "mail": 9
+          }
+        }
+      },
+      {
+        "date": "2022-10-09",
+        "days_before": 30,
+        "by_locality": {
+          "Virginia Beach City": {
+            "in_person": 92,
+            "mail": 469
+          },
+          "Suffolk City": {
+            "in_person": 18,
+            "mail": 106
+          },
+          "Franklin City": {
+            "in_person": 2,
+            "mail": 5
+          },
+          "Isle of Wight County": {
+            "in_person": 2,
+            "mail": 56
+          },
+          "Accomack County": {
+            "in_person": 9,
+            "mail": 29
+          },
+          "Northampton County": {
+            "in_person": 3,
+            "mail": 15
+          },
+          "Chesapeake City": {
+            "in_person": 29,
+            "mail": 145
+          },
+          "Southampton County": {
+            "in_person": 1,
+            "mail": 9
+          }
+        }
+      },
+      {
+        "date": "2022-10-10",
+        "days_before": 29,
+        "by_locality": {
+          "Virginia Beach City": {
+            "in_person": 535,
+            "mail": 463
+          },
+          "Suffolk City": {
+            "in_person": 123,
+            "mail": 89
+          },
+          "Franklin City": {
+            "in_person": 9,
+            "mail": 7
+          },
+          "Isle of Wight County": {
+            "in_person": 58,
+            "mail": 64
+          },
+          "Accomack County": {
+            "in_person": 36,
+            "mail": 38
+          },
+          "Northampton County": {
+            "in_person": 22,
+            "mail": 14
+          },
+          "Chesapeake City": {
+            "in_person": 168,
+            "mail": 154
+          },
+          "Southampton County": {
+            "in_person": 12,
+            "mail": 11
+          }
+        }
+      },
+      {
+        "date": "2022-10-11",
+        "days_before": 28,
+        "by_locality": {
+          "Virginia Beach City": {
+            "in_person": 523,
+            "mail": 497
+          },
+          "Suffolk City": {
+            "in_person": 112,
+            "mail": 88
+          },
+          "Franklin City": {
+            "in_person": 6,
+            "mail": 8
+          },
+          "Isle of Wight County": {
+            "in_person": 47,
+            "mail": 57
+          },
+          "Accomack County": {
+            "in_person": 40,
+            "mail": 36
+          },
+          "Northampton County": {
+            "in_person": 14,
+            "mail": 16
+          },
+          "Chesapeake City": {
+            "in_person": 161,
+            "mail": 137
+          },
+          "Southampton County": {
+            "in_person": 21,
+            "mail": 19
+          }
+        }
+      },
+      {
+        "date": "2022-10-12",
+        "days_before": 27,
+        "by_locality": {
+          "Virginia Beach City": {
+            "in_person": 516,
+            "mail": 443
+          },
+          "Suffolk City": {
+            "in_person": 130,
+            "mail": 102
+          },
+          "Franklin City": {
+            "in_person": 8,
+            "mail": 6
+          },
+          "Isle of Wight County": {
+            "in_person": 49,
+            "mail": 39
+          },
+          "Accomack County": {
+            "in_person": 54,
+            "mail": 28
+          },
+          "Northampton County": {
+            "in_person": 13,
+            "mail": 13
+          },
+          "Chesapeake City": {
+            "in_person": 164,
+            "mail": 149
+          },
+          "Southampton County": {
+            "in_person": 18,
+            "mail": 9
+          }
+        }
+      },
+      {
+        "date": "2022-10-13",
+        "days_before": 26,
+        "by_locality": {
+          "Virginia Beach City": {
+            "in_person": 568,
+            "mail": 451
+          },
+          "Suffolk City": {
+            "in_person": 134,
+            "mail": 103
+          },
+          "Franklin City": {
+            "in_person": 9,
+            "mail": 11
+          },
+          "Isle of Wight County": {
+            "in_person": 65,
+            "mail": 54
+          },
+          "Accomack County": {
+            "in_person": 51,
+            "mail": 38
+          },
+          "Northampton County": {
+            "in_person": 15,
+            "mail": 12
+          },
+          "Chesapeake City": {
+            "in_person": 174,
+            "mail": 143
+          },
+          "Southampton County": {
+            "in_person": 14,
+            "mail": 21
+          }
+        }
+      },
+      {
+        "date": "2022-10-14",
+        "days_before": 25,
+        "by_locality": {
+          "Virginia Beach City": {
+            "in_person": 557,
+            "mail": 477
+          },
+          "Suffolk City": {
+            "in_person": 133,
+            "mail": 104
+          },
+          "Franklin City": {
+            "in_person": 14,
+            "mail": 10
+          },
+          "Isle of Wight County": {
+            "in_person": 66,
+            "mail": 62
+          },
+          "Accomack County": {
+            "in_person": 41,
+            "mail": 41
+          },
+          "Northampton County": {
+            "in_person": 21,
+            "mail": 11
+          },
+          "Chesapeake City": {
+            "in_person": 185,
+            "mail": 158
+          },
+          "Southampton County": {
+            "in_person": 8,
+            "mail": 18
+          }
+        }
+      },
+      {
+        "date": "2022-10-15",
+        "days_before": 24,
+        "by_locality": {
+          "Virginia Beach City": {
+            "in_person": 604,
+            "mail": 487
+          },
+          "Suffolk City": {
+            "in_person": 145,
+            "mail": 108
+          },
+          "Franklin City": {
+            "in_person": 11,
+            "mail": 10
+          },
+          "Isle of Wight County": {
+            "in_person": 66,
+            "mail": 60
+          },
+          "Accomack County": {
+            "in_person": 42,
+            "mail": 40
+          },
+          "Northampton County": {
+            "in_person": 12,
+            "mail": 18
+          },
+          "Chesapeake City": {
+            "in_person": 186,
+            "mail": 147
+          },
+          "Southampton County": {
+            "in_person": 15,
+            "mail": 10
+          }
+        }
+      },
+      {
+        "date": "2022-10-16",
+        "days_before": 23,
+        "by_locality": {
+          "Virginia Beach City": {
+            "in_person": 89,
+            "mail": 478
+          },
+          "Suffolk City": {
+            "in_person": 18,
+            "mail": 94
+          },
+          "Franklin City": {
+            "in_person": 2,
+            "mail": 5
+          },
+          "Isle of Wight County": {
+            "in_person": 11,
+            "mail": 61
+          },
+          "Accomack County": {
+            "in_person": 6,
+            "mail": 45
+          },
+          "Northampton County": {
+            "in_person": 5,
+            "mail": 15
+          },
+          "Chesapeake City": {
+            "in_person": 35,
+            "mail": 156
+          },
+          "Southampton County": {
+            "in_person": 2,
+            "mail": 8
+          }
+        }
+      },
+      {
+        "date": "2022-10-17",
+        "days_before": 22,
+        "by_locality": {
+          "Virginia Beach City": {
+            "in_person": 596,
+            "mail": 505
+          },
+          "Suffolk City": {
+            "in_person": 156,
+            "mail": 108
+          },
+          "Franklin City": {
+            "in_person": 8,
+            "mail": 4
+          },
+          "Isle of Wight County": {
+            "in_person": 62,
+            "mail": 54
+          },
+          "Accomack County": {
+            "in_person": 61,
+            "mail": 47
+          },
+          "Northampton County": {
+            "in_person": 17,
+            "mail": 26
+          },
+          "Chesapeake City": {
+            "in_person": 214,
+            "mail": 152
+          },
+          "Southampton County": {
+            "in_person": 24,
+            "mail": 13
+          }
+        }
+      },
+      {
+        "date": "2022-10-18",
+        "days_before": 21,
+        "by_locality": {
+          "Virginia Beach City": {
+            "in_person": 663,
+            "mail": 473
+          },
+          "Suffolk City": {
+            "in_person": 122,
+            "mail": 132
+          },
+          "Franklin City": {
+            "in_person": 13,
+            "mail": 11
+          },
+          "Isle of Wight County": {
+            "in_person": 85,
+            "mail": 63
+          },
+          "Accomack County": {
+            "in_person": 60,
+            "mail": 34
+          },
+          "Northampton County": {
+            "in_person": 23,
+            "mail": 16
+          },
+          "Chesapeake City": {
+            "in_person": 223,
+            "mail": 156
+          },
+          "Southampton County": {
+            "in_person": 20,
+            "mail": 12
+          }
+        }
+      },
+      {
+        "date": "2022-10-19",
+        "days_before": 20,
+        "by_locality": {
+          "Virginia Beach City": {
+            "in_person": 660,
+            "mail": 471
+          },
+          "Suffolk City": {
+            "in_person": 173,
+            "mail": 111
+          },
+          "Franklin City": {
+            "in_person": 14,
+            "mail": 14
+          },
+          "Isle of Wight County": {
+            "in_person": 76,
+            "mail": 55
+          },
+          "Accomack County": {
+            "in_person": 63,
+            "mail": 42
+          },
+          "Northampton County": {
+            "in_person": 30,
+            "mail": 17
+          },
+          "Chesapeake City": {
+            "in_person": 232,
+            "mail": 170
+          },
+          "Southampton County": {
+            "in_person": 25,
+            "mail": 11
+          }
+        }
+      },
+      {
+        "date": "2022-10-20",
+        "days_before": 19,
+        "by_locality": {
+          "Virginia Beach City": {
+            "in_person": 683,
+            "mail": 530
+          },
+          "Suffolk City": {
+            "in_person": 180,
+            "mail": 132
+          },
+          "Franklin City": {
+            "in_person": 12,
+            "mail": 9
+          },
+          "Isle of Wight County": {
+            "in_person": 81,
+            "mail": 59
+          },
+          "Accomack County": {
+            "in_person": 50,
+            "mail": 29
+          },
+          "Northampton County": {
+            "in_person": 19,
+            "mail": 12
+          },
+          "Chesapeake City": {
+            "in_person": 216,
+            "mail": 163
+          },
+          "Southampton County": {
+            "in_person": 18,
+            "mail": 15
+          }
+        }
+      },
+      {
+        "date": "2022-10-21",
+        "days_before": 18,
+        "by_locality": {
+          "Virginia Beach City": {
+            "in_person": 744,
+            "mail": 530
+          },
+          "Suffolk City": {
+            "in_person": 172,
+            "mail": 126
+          },
+          "Franklin City": {
+            "in_person": 11,
+            "mail": 11
+          },
+          "Isle of Wight County": {
+            "in_person": 94,
+            "mail": 59
+          },
+          "Accomack County": {
+            "in_person": 67,
+            "mail": 50
+          },
+          "Northampton County": {
+            "in_person": 22,
+            "mail": 11
+          },
+          "Chesapeake City": {
+            "in_person": 248,
+            "mail": 177
+          },
+          "Southampton County": {
+            "in_person": 26,
+            "mail": 18
+          }
+        }
+      },
+      {
+        "date": "2022-10-22",
+        "days_before": 17,
+        "by_locality": {
+          "Virginia Beach City": {
+            "in_person": 753,
+            "mail": 519
+          },
+          "Suffolk City": {
+            "in_person": 192,
+            "mail": 123
+          },
+          "Franklin City": {
+            "in_person": 14,
+            "mail": 4
+          },
+          "Isle of Wight County": {
+            "in_person": 100,
+            "mail": 42
+          },
+          "Accomack County": {
+            "in_person": 48,
+            "mail": 45
+          },
+          "Northampton County": {
+            "in_person": 43,
+            "mail": 14
+          },
+          "Chesapeake City": {
+            "in_person": 237,
+            "mail": 175
+          },
+          "Southampton County": {
+            "in_person": 16,
+            "mail": 13
+          }
+        }
+      },
+      {
+        "date": "2022-10-23",
+        "days_before": 16,
+        "by_locality": {
+          "Virginia Beach City": {
+            "in_person": 132,
+            "mail": 534
+          },
+          "Suffolk City": {
+            "in_person": 30,
+            "mail": 116
+          },
+          "Franklin City": {
+            "in_person": 2,
+            "mail": 9
+          },
+          "Isle of Wight County": {
+            "in_person": 14,
+            "mail": 68
+          },
+          "Accomack County": {
+            "in_person": 6,
+            "mail": 62
+          },
+          "Northampton County": {
+            "in_person": 5,
+            "mail": 18
+          },
+          "Chesapeake City": {
+            "in_person": 44,
+            "mail": 185
+          },
+          "Southampton County": {
+            "in_person": 3,
+            "mail": 12
+          }
+        }
+      },
+      {
+        "date": "2022-10-24",
+        "days_before": 15,
+        "by_locality": {
+          "Virginia Beach City": {
+            "in_person": 925,
+            "mail": 578
+          },
+          "Suffolk City": {
+            "in_person": 189,
+            "mail": 117
+          },
+          "Franklin City": {
+            "in_person": 17,
+            "mail": 11
+          },
+          "Isle of Wight County": {
+            "in_person": 103,
+            "mail": 55
+          },
+          "Accomack County": {
+            "in_person": 79,
+            "mail": 50
+          },
+          "Northampton County": {
+            "in_person": 33,
+            "mail": 23
+          },
+          "Chesapeake City": {
+            "in_person": 255,
+            "mail": 162
+          },
+          "Southampton County": {
+            "in_person": 19,
+            "mail": 19
+          }
+        }
+      },
+      {
+        "date": "2022-10-25",
+        "days_before": 14,
+        "by_locality": {
+          "Virginia Beach City": {
+            "in_person": 912,
+            "mail": 552
+          },
+          "Suffolk City": {
+            "in_person": 208,
+            "mail": 128
+          },
+          "Franklin City": {
+            "in_person": 21,
+            "mail": 8
+          },
+          "Isle of Wight County": {
+            "in_person": 101,
+            "mail": 50
+          },
+          "Accomack County": {
+            "in_person": 79,
+            "mail": 47
+          },
+          "Northampton County": {
+            "in_person": 31,
+            "mail": 14
+          },
+          "Chesapeake City": {
+            "in_person": 317,
+            "mail": 183
+          },
+          "Southampton County": {
+            "in_person": 22,
+            "mail": 19
+          }
+        }
+      },
+      {
+        "date": "2022-10-26",
+        "days_before": 13,
+        "by_locality": {
+          "Virginia Beach City": {
+            "in_person": 1044,
+            "mail": 625
+          },
+          "Suffolk City": {
+            "in_person": 229,
+            "mail": 124
+          },
+          "Franklin City": {
+            "in_person": 13,
+            "mail": 9
+          },
+          "Isle of Wight County": {
+            "in_person": 121,
+            "mail": 52
+          },
+          "Accomack County": {
+            "in_person": 89,
+            "mail": 40
+          },
+          "Northampton County": {
+            "in_person": 32,
+            "mail": 16
+          },
+          "Chesapeake City": {
+            "in_person": 366,
+            "mail": 190
+          },
+          "Southampton County": {
+            "in_person": 31,
+            "mail": 24
+          }
+        }
+      },
+      {
+        "date": "2022-10-27",
+        "days_before": 12,
+        "by_locality": {
+          "Virginia Beach City": {
+            "in_person": 1068,
+            "mail": 587
+          },
+          "Suffolk City": {
+            "in_person": 264,
+            "mail": 132
+          },
+          "Franklin City": {
+            "in_person": 20,
+            "mail": 8
+          },
+          "Isle of Wight County": {
+            "in_person": 143,
+            "mail": 52
+          },
+          "Accomack County": {
+            "in_person": 93,
+            "mail": 51
+          },
+          "Northampton County": {
+            "in_person": 44,
+            "mail": 21
+          },
+          "Chesapeake City": {
+            "in_person": 393,
+            "mail": 193
+          },
+          "Southampton County": {
+            "in_person": 32,
+            "mail": 15
+          }
+        }
+      },
+      {
+        "date": "2022-10-28",
+        "days_before": 11,
+        "by_locality": {
+          "Virginia Beach City": {
+            "in_person": 1127,
+            "mail": 661
+          },
+          "Suffolk City": {
+            "in_person": 265,
+            "mail": 140
+          },
+          "Franklin City": {
+            "in_person": 29,
+            "mail": 9
+          },
+          "Isle of Wight County": {
+            "in_person": 137,
+            "mail": 79
+          },
+          "Accomack County": {
+            "in_person": 104,
+            "mail": 47
+          },
+          "Northampton County": {
+            "in_person": 48,
+            "mail": 20
+          },
+          "Chesapeake City": {
+            "in_person": 398,
+            "mail": 204
+          },
+          "Southampton County": {
+            "in_person": 37,
+            "mail": 23
+          }
+        }
+      },
+      {
+        "date": "2022-10-29",
+        "days_before": 10,
+        "by_locality": {
+          "Virginia Beach City": {
+            "in_person": 1297,
+            "mail": 688
+          },
+          "Suffolk City": {
+            "in_person": 283,
+            "mail": 132
+          },
+          "Franklin City": {
+            "in_person": 31,
+            "mail": 10
+          },
+          "Isle of Wight County": {
+            "in_person": 150,
+            "mail": 82
+          },
+          "Accomack County": {
+            "in_person": 119,
+            "mail": 50
+          },
+          "Northampton County": {
+            "in_person": 44,
+            "mail": 24
+          },
+          "Chesapeake City": {
+            "in_person": 429,
+            "mail": 205
+          },
+          "Southampton County": {
+            "in_person": 44,
+            "mail": 16
+          }
+        }
+      },
+      {
+        "date": "2022-10-30",
+        "days_before": 9,
+        "by_locality": {
+          "Virginia Beach City": {
+            "in_person": 208,
+            "mail": 698
+          },
+          "Suffolk City": {
+            "in_person": 46,
+            "mail": 142
+          },
+          "Franklin City": {
+            "in_person": 4,
+            "mail": 17
+          },
+          "Isle of Wight County": {
+            "in_person": 18,
+            "mail": 78
+          },
+          "Accomack County": {
+            "in_person": 25,
+            "mail": 42
+          },
+          "Northampton County": {
+            "in_person": 7,
+            "mail": 26
+          },
+          "Chesapeake City": {
+            "in_person": 77,
+            "mail": 219
+          },
+          "Southampton County": {
+            "in_person": 4,
+            "mail": 13
+          }
+        }
+      },
+      {
+        "date": "2022-10-31",
+        "days_before": 8,
+        "by_locality": {
+          "Virginia Beach City": {
+            "in_person": 1591,
+            "mail": 722
+          },
+          "Suffolk City": {
+            "in_person": 331,
+            "mail": 167
+          },
+          "Franklin City": {
+            "in_person": 37,
+            "mail": 22
+          },
+          "Isle of Wight County": {
+            "in_person": 195,
+            "mail": 87
+          },
+          "Accomack County": {
+            "in_person": 132,
+            "mail": 50
+          },
+          "Northampton County": {
+            "in_person": 54,
+            "mail": 23
+          },
+          "Chesapeake City": {
+            "in_person": 513,
+            "mail": 218
+          },
+          "Southampton County": {
+            "in_person": 48,
+            "mail": 21
+          }
+        }
+      },
+      {
+        "date": "2022-11-01",
+        "days_before": 7,
+        "by_locality": {
+          "Virginia Beach City": {
+            "in_person": 1766,
+            "mail": 676
+          },
+          "Suffolk City": {
+            "in_person": 436,
+            "mail": 142
+          },
+          "Franklin City": {
+            "in_person": 29,
+            "mail": 16
+          },
+          "Isle of Wight County": {
+            "in_person": 219,
+            "mail": 61
+          },
+          "Accomack County": {
+            "in_person": 125,
+            "mail": 50
+          },
+          "Northampton County": {
+            "in_person": 53,
+            "mail": 29
+          },
+          "Chesapeake City": {
+            "in_person": 591,
+            "mail": 223
+          },
+          "Southampton County": {
+            "in_person": 61,
+            "mail": 23
+          }
+        }
+      },
+      {
+        "date": "2022-11-02",
+        "days_before": 6,
+        "by_locality": {
+          "Virginia Beach City": {
+            "in_person": 2075,
+            "mail": 749
+          },
+          "Suffolk City": {
+            "in_person": 462,
+            "mail": 166
+          },
+          "Franklin City": {
+            "in_person": 29,
+            "mail": 5
+          },
+          "Isle of Wight County": {
+            "in_person": 238,
+            "mail": 79
+          },
+          "Accomack County": {
+            "in_person": 147,
+            "mail": 64
+          },
+          "Northampton County": {
+            "in_person": 70,
+            "mail": 15
+          },
+          "Chesapeake City": {
+            "in_person": 621,
+            "mail": 254
+          },
+          "Southampton County": {
+            "in_person": 66,
+            "mail": 18
+          }
+        }
+      },
+      {
+        "date": "2022-11-03",
+        "days_before": 5,
+        "by_locality": {
+          "Virginia Beach City": {
+            "in_person": 2261,
+            "mail": 773
+          },
+          "Suffolk City": {
+            "in_person": 453,
+            "mail": 165
+          },
+          "Franklin City": {
+            "in_person": 43,
+            "mail": 6
+          },
+          "Isle of Wight County": {
+            "in_person": 256,
+            "mail": 86
+          },
+          "Accomack County": {
+            "in_person": 187,
+            "mail": 63
+          },
+          "Northampton County": {
+            "in_person": 80,
+            "mail": 15
+          },
+          "Chesapeake City": {
+            "in_person": 729,
+            "mail": 234
+          },
+          "Southampton County": {
+            "in_person": 58,
+            "mail": 23
+          }
+        }
+      },
+      {
+        "date": "2022-11-04",
+        "days_before": 4,
+        "by_locality": {
+          "Virginia Beach City": {
+            "in_person": 2576,
+            "mail": 865
+          },
+          "Suffolk City": {
+            "in_person": 566,
+            "mail": 176
+          },
+          "Franklin City": {
+            "in_person": 43,
+            "mail": 8
+          },
+          "Isle of Wight County": {
+            "in_person": 307,
+            "mail": 91
+          },
+          "Accomack County": {
+            "in_person": 207,
+            "mail": 64
+          },
+          "Northampton County": {
+            "in_person": 83,
+            "mail": 17
+          },
+          "Chesapeake City": {
+            "in_person": 835,
+            "mail": 241
+          },
+          "Southampton County": {
+            "in_person": 56,
+            "mail": 26
+          }
+        }
+      },
+      {
+        "date": "2022-11-05",
+        "days_before": 3,
+        "by_locality": {
+          "Virginia Beach City": {
+            "in_person": 2780,
+            "mail": 853
+          },
+          "Suffolk City": {
+            "in_person": 657,
+            "mail": 204
+          },
+          "Franklin City": {
+            "in_person": 54,
+            "mail": 17
+          },
+          "Isle of Wight County": {
+            "in_person": 326,
+            "mail": 119
+          },
+          "Accomack County": {
+            "in_person": 229,
+            "mail": 56
+          },
+          "Northampton County": {
+            "in_person": 101,
+            "mail": 33
+          },
+          "Chesapeake City": {
+            "in_person": 881,
+            "mail": 296
+          },
+          "Southampton County": {
+            "in_person": 69,
+            "mail": 15
+          }
+        }
+      },
+      {
+        "date": "2022-11-06",
+        "days_before": 2,
+        "by_locality": {
+          "Virginia Beach City": {
+            "in_person": 0,
+            "mail": 925
+          },
+          "Suffolk City": {
+            "in_person": 0,
+            "mail": 211
+          },
+          "Franklin City": {
+            "in_person": 0,
+            "mail": 18
+          },
+          "Isle of Wight County": {
+            "in_person": 0,
+            "mail": 114
+          },
+          "Accomack County": {
+            "in_person": 0,
+            "mail": 87
+          },
+          "Northampton County": {
+            "in_person": 0,
+            "mail": 39
+          },
+          "Chesapeake City": {
+            "in_person": 0,
+            "mail": 322
+          },
+          "Southampton County": {
+            "in_person": 0,
+            "mail": 21
+          }
+        }
+      },
+      {
+        "date": "2022-11-07",
+        "days_before": 1,
+        "by_locality": {
+          "Virginia Beach City": {
+            "in_person": 0,
+            "mail": 991
+          },
+          "Suffolk City": {
+            "in_person": 0,
+            "mail": 213
+          },
+          "Franklin City": {
+            "in_person": 0,
+            "mail": 16
+          },
+          "Isle of Wight County": {
+            "in_person": 0,
+            "mail": 111
+          },
+          "Accomack County": {
+            "in_person": 0,
+            "mail": 80
+          },
+          "Northampton County": {
+            "in_person": 0,
+            "mail": 31
+          },
+          "Chesapeake City": {
+            "in_person": 0,
+            "mail": 291
+          },
+          "Southampton County": {
+            "in_person": 0,
+            "mail": 37
+          }
+        }
+      },
+      {
+        "date": "2022-11-08",
+        "days_before": 0,
+        "by_locality": {
+          "Virginia Beach City": {
+            "in_person": 0,
+            "mail": 1025
+          },
+          "Suffolk City": {
+            "in_person": 0,
+            "mail": 228
+          },
+          "Franklin City": {
+            "in_person": 0,
+            "mail": 12
+          },
+          "Isle of Wight County": {
+            "in_person": 0,
+            "mail": 117
+          },
+          "Accomack County": {
+            "in_person": 0,
+            "mail": 79
+          },
+          "Northampton County": {
+            "in_person": 0,
+            "mail": 30
+          },
+          "Chesapeake City": {
+            "in_person": 0,
+            "mail": 325
+          },
+          "Southampton County": {
+            "in_person": 0,
+            "mail": 32
+          }
+        }
+      }
+    ]
+  }
+}

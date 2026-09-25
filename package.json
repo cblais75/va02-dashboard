@@ -9,7 +9,9 @@
     "preview": "vite preview",
     "results": "node scripts/build-va02-results.mjs",
     "fec": "node scripts/fetch-fec.mjs",
-    "map": "node scripts/build-map.mjs"
+    "map": "node scripts/build-map.mjs",
+    "early-vote": "node scripts/early-vote.mjs",
+    "sample-dal": "node scripts/make-sample-dal.mjs"
   },
   "dependencies": {
     "react": "^18.3.1",

@@ -3,6 +3,7 @@ import RaceOverview from "./RaceOverview.jsx";
 import Fundraising from "./Fundraising.jsx";
 import DistrictFundamentals from "./DistrictFundamentals.jsx";
 import LocalityMap from "./LocalityMap.jsx";
+import EarlyVote from "./EarlyVote.jsx";
 import KeyDates from "./KeyDates.jsx";
 import "./styles.css";
 
@@ -19,6 +20,7 @@ export default function VA02Dashboard() {
       <Fundraising />
       <DistrictFundamentals />
       <LocalityMap />
+      <EarlyVote />
       <KeyDates />
     </main>
   );
