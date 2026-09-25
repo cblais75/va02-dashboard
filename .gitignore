@@ -1,0 +1,11 @@
+node_modules
+dist
+.vercel
+.DS_Store
+*.log
+vite.config.js.timestamp-*.mjs
+
+# Environment files (API keys, secrets)
+.env
+.env.*
+!.env.example
