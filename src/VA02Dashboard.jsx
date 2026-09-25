@@ -2,6 +2,7 @@ import React from "react";
 import RaceOverview from "./RaceOverview.jsx";
 import Fundraising from "./Fundraising.jsx";
 import DistrictFundamentals from "./DistrictFundamentals.jsx";
+import LocalityMap from "./LocalityMap.jsx";
 import KeyDates from "./KeyDates.jsx";
 import "./styles.css";
 
@@ -17,6 +18,7 @@ export default function VA02Dashboard() {
       <RaceOverview />
       <Fundraising />
       <DistrictFundamentals />
+      <LocalityMap />
       <KeyDates />
     </main>
   );

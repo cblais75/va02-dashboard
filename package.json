@@ -8,7 +8,8 @@
     "build": "vite build",
     "preview": "vite preview",
     "results": "node scripts/build-va02-results.mjs",
-    "fec": "node scripts/fetch-fec.mjs"
+    "fec": "node scripts/fetch-fec.mjs",
+    "map": "node scripts/build-map.mjs"
   },
   "dependencies": {
     "react": "^18.3.1",
@@ -16,6 +17,7 @@
   },
   "devDependencies": {
     "@vitejs/plugin-react": "^4.3.1",
+    "mapshaper": "^0.7.67",
     "vite": "^5.3.4"
   }
 }

@@ -9,3 +9,6 @@ vite.config.js.timestamp-*.mjs
 .env
 .env.*
 !.env.example
+
+# Downloaded Census boundary files (rebuilt by scripts/build-map.mjs)
+data/cache/
