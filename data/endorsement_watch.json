@@ -1,0 +1,59 @@
+{
+  "sites": {
+    "luria": {
+      "page": "https://elaineforcongress.com/endorsements/",
+      "items": [
+        "314 Action Fund (Organizations)",
+        "DCCC Red to Blue Program (Organizations)",
+        "DMFI (Organizations)",
+        "Elect Democratic Women (Organizations)",
+        "EMILY’s List (Organizations)",
+        "League of Conservation Voters (LCV) Action Fund (Organizations)",
+        "New Democrat Coalition Action Fund (Organizations)",
+        "New Politics (Organizations)",
+        "VoteVets (Organizations)",
+        "Virginia SEIU (Organizations)",
+        "The Teamsters (Organizations)",
+        "International Association of Ironworkers (Organizations)",
+        "AFGE (Organizations)",
+        "MoveON (Organizations)",
+        "IFPTE (Organizations)",
+        "United Association of Plumbers and Pipefitters (Organizations)",
+        "ATU (Organizations)",
+        "Abigail Spanberger Governor of Virginia (Elected and Former Elected Officials)",
+        "Mark Warner United States Senator from Virginia (Elected and Former Elected Officials)",
+        "Tim Kaine United States Senator from Virginia (Elected and Former Elected Officials)",
+        "Terry McAuliffe Former Governor of Virginia (Elected and Former Elected Officials)",
+        "Don Scott Speaker of the Virginia House of Delegates (Elected and Former Elected Officials)",
+        "Aaron Rouse State Senator Virginia Beach (Elected and Former Elected Officials)",
+        "Kelly Convirs-Fowler Delegate Virginia Beach (Elected and Former Elected Officials)",
+        "Michael Feggans Delegate Virginia Beach (Elected and Former Elected Officials)",
+        "Nadarius Clark Delegate Chesapeake, Isle of Wright, Franklin & Suffolk (Elected and Former Elected Officials)",
+        "Cliff Hayes Delegate Chesapeake & Portsmouth (Elected and Former Elected Officials)",
+        "Alex Askew Delegate Norfolk & Virginia Beach (Elected and Former Elected Officials)",
+        "Jennifer McClellan U.S. Representative Virginia’s 4th Congressional District (Elected and Former Elected Officials)",
+        "Eugene Vindman U.S. Representative Virginia’s 7th Congressional District (Elected and Former Elected Officials)",
+        "Don Beyer U.S. Representative Virginia’s 8th Congressional District (Elected and Former Elected Officials)",
+        "Suhas Subramanyam U.S. Representative Virginia’s 10th Congressional District (Elected and Former Elected Officials)",
+        "James Walkinshaw, U.S. Representative Virginia’s 11th Congressional District (Elected and Former Elected Officials)"
+      ],
+      "headlines": []
+    },
+    "kiggans": {
+      "page": null,
+      "items": [],
+      "headlines": [
+        {
+          "title": "U.S. Chamber Endorses Rep. Jennifer Kiggans for Virginia’s 2nd Congressional District",
+          "link": "https://jenforcongress.com/u-s-chamber-endorses-rep-jennifer-kiggans-for-virginias-2nd-congressional-district/",
+          "date": "2024-10-17"
+        },
+        {
+          "title": "Virginia Small Businesses Endorse Rep. Jen Kiggans for Re-Election to Congress",
+          "link": "https://jenforcongress.com/virginia-small-businesses-endorse-rep-jen-kiggans-for-re-election-to-congress/",
+          "date": "2024-09-24"
+        }
+      ]
+    }
+  }
+}

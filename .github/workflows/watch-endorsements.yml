@@ -1,0 +1,65 @@
+name: Watch endorsements
+
+# Once a day, checks both campaign sites for endorsement changes and opens an issue
+# for a person to review. It never edits the endorsement list in data/manual.json.
+on:
+  schedule:
+    - cron: "43 11 * * *" # 7:43 a.m. EDT / 6:43 a.m. EST, off the top of the hour
+  workflow_dispatch:
+
+permissions:
+  contents: write
+  issues: write
+
+concurrency:
+  group: watch-endorsements
+  cancel-in-progress: false
+
+env:
+  ISSUE_TITLE: New endorsements to review
+
+jobs:
+  watch:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-node@v4
+        with:
+          node-version: 20
+
+      - name: Check campaign sites
+        id: watch
+        env:
+          ISSUE_BODY: ${{ runner.temp }}/endorsement-issue.md
+        run: node scripts/watch-endorsements.mjs
+
+      # Open the issue, or add to it if one is already open, before saving what was
+      # seen: if this step fails, tomorrow's run reports the same changes again.
+      - name: Open or update the review issue
+        if: steps.watch.outputs.changes == 'true'
+        env:
+          GH_TOKEN: ${{ github.token }}
+          BODY: ${{ steps.watch.outputs.issue_body }}
+        run: |
+          existing=$(gh issue list --repo "$GITHUB_REPOSITORY" --state open --search "\"$ISSUE_TITLE\" in:title" --json number,title \
+            --jq "map(select(.title == \"$ISSUE_TITLE\")) | .[0].number // empty")
+          if [ -n "$existing" ]; then
+            gh issue comment "$existing" --repo "$GITHUB_REPOSITORY" --body-file "$BODY"
+            echo "Added to open issue #$existing"
+          else
+            gh issue create --repo "$GITHUB_REPOSITORY" --title "$ISSUE_TITLE" --body-file "$BODY"
+          fi
+
+      - name: Save what was seen
+        run: |
+          git add data/endorsement_watch.json
+          if git diff --cached --quiet; then
+            echo "No changes to data/endorsement_watch.json."
+            exit 0
+          fi
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git commit -m "Update endorsement watch snapshot"
+          git pull --rebase origin main
+          git push origin HEAD:main
