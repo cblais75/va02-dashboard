@@ -1,4 +1,5 @@
 import React, { useState } from "react";
+import Takeaway from "./Takeaway.jsx";
 import { BLUE, RED } from "./theme.js";
 import { RACES, fmt, lastName, marginLabel } from "./results.js";
 
@@ -170,6 +171,7 @@ export default function DistrictFundamentals() {
           write-in votes.
         </p>
       </header>
+      <Takeaway section="district_fundamentals" />
 
       <MarginChart />
 

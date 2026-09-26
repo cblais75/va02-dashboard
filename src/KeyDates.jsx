@@ -1,4 +1,5 @@
 import React from "react";
+import Takeaway from "./Takeaway.jsx";
 import manual from "../data/manual.json";
 import { daysBetween, formatDate, useTodayET } from "./dates.js";
 
@@ -13,6 +14,7 @@ export default function KeyDates() {
         <div className="df-kicker">Key Dates</div>
         <h2 id="kd-title">Calendar to Election Day</h2>
       </header>
+      <Takeaway section="key_dates" />
 
       <div className="df-card kd-card">
         <ol className="kd-list">

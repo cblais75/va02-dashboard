@@ -36,6 +36,10 @@ const LOCAL = {
   "easternshorepost.com": "Eastern Shore Post",
 };
 
+// Candidates' own official sites. Their releases are kept but counted separately
+// from news coverage.
+const OFFICIAL = { "kiggans.house.gov": "kiggans" };
+
 const TAGS = [
   { tag: "endorse", test: (t) => /endors/i.test(t) },
   { tag: "debate", test: (t) => /\bdebat/i.test(t) },
@@ -82,6 +86,7 @@ async function fetchFeed({ candidate, q }) {
       outlet: LOCAL[domain] || outletName || domain,
       outlet_domain: domain,
       local: Boolean(LOCAL[domain]),
+      official: Boolean(OFFICIAL[domain]),
       date: date.toISOString(),
       link: decode(tagOf(it, "link") || ""),
       candidates: [candidate],
@@ -109,7 +114,7 @@ async function main() {
   const cutoff = Date.now() - WINDOW_DAYS * 86400000;
   const items = [...byKey.values()]
     .filter((x) => Date.parse(x.date) >= cutoff)
-    .map((x) => ({ ...x, tags: TAGS.filter((t) => t.test(x.headline)).map((t) => t.tag) }))
+    .map((x) => ({ ...x, official: Boolean(OFFICIAL[x.outlet_domain]), tags: TAGS.filter((t) => t.test(x.headline)).map((t) => t.tag) }))
     .sort((a, b) => b.date.localeCompare(a.date) || a.headline.localeCompare(b.headline));
 
   // Tagged headlines not in the previous file are new and go to the review issues.
@@ -134,6 +139,7 @@ async function main() {
     queries: QUERIES.map((q) => q.q),
     window_days: WINDOW_DAYS,
     local_outlets: Object.values(LOCAL),
+    official_domains: Object.keys(OFFICIAL),
     items,
   };
   if (prev) {
@@ -144,8 +150,9 @@ async function main() {
     }
   }
   writeFileSync(OUT, JSON.stringify({ updated_at: new Date().toISOString(), ...data }, null, 2) + "\n");
-  const count = (id) => items.filter((x) => x.candidates.includes(id)).length;
-  console.log(`Wrote data/media.json: ${items.length} items (Kiggans ${count("kiggans")}, Luria ${count("luria")}, local ${items.filter((x) => x.local).length}); new tagged: ${endorse.length} endorse, ${debatePoll.length} debate/poll`);
+  const news = items.filter((x) => !x.official);
+  const count = (id) => news.filter((x) => x.candidates.includes(id)).length;
+  console.log(`Wrote data/media.json: ${news.length} news stories (Kiggans ${count("kiggans")}, Luria ${count("luria")}, local ${news.filter((x) => x.local).length}) + ${items.length - news.length} official releases; new tagged: ${endorse.length} endorse, ${debatePoll.length} debate/poll`);
 }
 
 main().catch((err) => {

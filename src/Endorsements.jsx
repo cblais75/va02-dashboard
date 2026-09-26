@@ -1,4 +1,5 @@
 import React, { useState } from "react";
+import Takeaway from "./Takeaway.jsx";
 import manual from "../data/manual.json";
 import { BLUE, RED } from "./theme.js";
 import { formatDate } from "./dates.js";
@@ -77,6 +78,7 @@ export default function Endorsements() {
         </div>
         {checked && <p className="fr-updated">Last checked {formatDate(checked, { month: "short", day: "numeric", year: "numeric" })}</p>}
       </header>
+      <Takeaway section="endorsements" />
 
       {/* One column per candidate: counts per group, then any note about that candidate. */}
       <div className="en-summary">

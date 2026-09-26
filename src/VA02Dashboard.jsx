@@ -26,6 +26,15 @@ export default function VA02Dashboard() {
       <LocalityMap />
       <EarlyVote />
       <KeyDates />
+      <footer className="site-footer">
+        <p>
+          Built by Colin Blais · Custom race dashboards for campaigns ·{" "}
+          <a href="mailto:cblais75@gmail.com">cblais75@gmail.com</a>
+        </p>
+        <a className="book-call" href="https://calendly.com/cblais75/30min" target="_blank" rel="noopener noreferrer">
+          Book a call
+        </a>
+      </footer>
     </main>
   );
 }

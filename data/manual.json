@@ -8,10 +8,21 @@
     "ratings_last_checked: the date you last checked all three ratings; shown above the ratings row.",
     "key_dates: add, remove or reorder freely; the page sorts them by date.",
     "key_dates_notes: undated lines shown under the timeline (e.g. debate status). Use [] to show none.",
+    "takeaways: the \"What this means\" line at the top of each section. Leave a section's line as \"\" to hide it.",
     "endorsements: one entry per endorser: name, optional title, type (elected_official, party, union, organization or newspaper), candidate (kiggans or luria), date (YYYY-MM-DD or null if unknown) and source (a link to the campaign site, the endorser's own announcement or a news story). Only add ones you can link to. They display in the order listed here.",
     "endorsements_last_checked: the date you last checked for new endorsements.",
     "endorsement_notes: optional note shown under a candidate's column, keyed by candidate id."
   ],
+  "takeaways": {
+      "race_overview": "All three major forecasters rate this race a Toss Up.",
+      "fundraising": "Kiggans has raised more, but Luria has slightly more cash left to spend — she's saving for the final stretch. (As of July 15 reports.)",
+      "endorsements": "Luria has stacked up party, union and group support. Kiggans's campaign doesn't publish an endorsement list.",
+      "media_mentions": "",
+      "district_fundamentals": "Kiggans ran nearly 4 points ahead of Trump in 2024 — but Spanberger carried the district by almost 8 in 2025.",
+      "locality_map": "Virginia Beach casts over half the vote, and it swung 12 points toward Democrats from 2024 to 2025. It decides this race.",
+      "early_vote": "",
+      "key_dates": ""
+  },
   "election_day": "2026-11-03",
   "candidates": [
     {

@@ -1,4 +1,5 @@
 import React, { useState } from "react";
+import Takeaway from "./Takeaway.jsx";
 import shapes from "../data/va02_map.json";
 import { RACES, LOCALITY_LABELS, marginLabel } from "./results.js";
 
@@ -130,6 +131,7 @@ export default function LocalityMap() {
         <h2 id="lm-title">Where the district leans</h2>
         <p>Each locality shaded by margin: red for Republican, blue for Democratic, stronger color for bigger margins.</p>
       </header>
+      <Takeaway section="locality_map" />
 
       <div className="df-card">
         <div className="lm-controls">

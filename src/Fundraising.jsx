@@ -1,4 +1,5 @@
 import React, { useState } from "react";
+import Takeaway from "./Takeaway.jsx";
 import fec from "../data/fec.json";
 import manual from "../data/manual.json";
 import { BLUE, RED } from "./theme.js";
@@ -214,6 +215,7 @@ export default function Fundraising() {
           Updated {updated} · Source: <a href={fec.source_url} target="_blank" rel="noreferrer">FEC</a>
         </p>
       </header>
+      <Takeaway section="fundraising" />
 
       <div className="fr-cands">
         {ordered.map((c) => <CandidateMoney key={c.id} c={c} max={max} />)}

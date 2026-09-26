@@ -1,4 +1,5 @@
 import React, { useEffect, useLayoutEffect, useRef, useState } from "react";
+import Takeaway from "./Takeaway.jsx";
 import ev from "../data/early_vote.json";
 import { LOCALITY_LABELS } from "./results.js";
 
@@ -199,6 +200,7 @@ export default function EarlyVote() {
           </a>
         </p>
       </header>
+      <Takeaway section="early_vote" />
 
       {ev.sample && (
         <div className="ev-banner" role="note">

@@ -1,4 +1,5 @@
 import React from "react";
+import Takeaway from "./Takeaway.jsx";
 import manual from "../data/manual.json";
 import { BLUE, RED } from "./theme.js";
 import { daysBetween, formatDate, useTodayET } from "./dates.js";
@@ -134,6 +135,7 @@ export default function RaceOverview() {
         <div className="df-kicker">Race Overview</div>
         <h2 id="ro-title">The 2026 matchup</h2>
       </header>
+      <Takeaway section="race_overview" />
 
       <div className="ro-top">
         <div className="ro-cands">

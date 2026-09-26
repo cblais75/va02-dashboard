@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-26T22:17:40.282Z",
+  "updated_at": "2026-09-26T22:27:46.887Z",
   "source": "Google News RSS search",
   "queries": [
     "\"Jen Kiggans\"",
@@ -15,6 +15,9 @@
     "WHRO",
     "Eastern Shore Post"
   ],
+  "official_domains": [
+    "kiggans.house.gov"
+  ],
   "items": [
     {
       "id": "CBMiiwJBVV95cUxNenFtU29CbkpOc3NCWVpQTjI0ZTRMaHNhVXNPNzRPcFBIS3ZWczExVFhBQ3NIWVNSUl9hZkhRSHB5bTM0M3BINWNjZ3p6TmxTMU9Ed21Fc2VUU19wR0pJX2k5YmY0WmpxUkM4MllEU0VaZnBYNFlRNlFxaVhnMHkxQ3dZWVNma29SZGY2Y2NSRS1SMFJWRlczcUdzanctQ2YtTEdHLUhHWktwRnhVUk9Fb3NLYjN1NTIyTFlrTjFQME9VRXRfWk9OUDBwNUhjY1VjaWFaYlR2eW02Nmc3QmtTTkJDMmJCOUE0MEVMaFF3aG5lM3dzSmxkQjdtQWhUMV9SU3Nvc3d5RG9yb28",
@@ -28,7 +31,8 @@
         "kiggans",
         "luria"
       ],
-      "tags": []
+      "tags": [],
+      "official": false
     },
     {
       "id": "CBMihwJBVV95cUxQU0p3ME1ubmc1cmptLVFXc1QzaTZTWnFjbFRnOGZXWjBRSjcyMGNDMWtKOUF0aG9Oak5QWU9UMWtqMU5LT0xLZXk4X3d2X1lMYzlrUE9pVFd5OU51N2RNTTI3UHNDS2txcmFSTnEycFN0OERpMzR4Vjg4QmVIRDJKaXk4TVpLQU9MMzloeWd0U0hOUmo5NkYzM3NfQ1dBcjYzTGxUeldZa0l5WXRNRnZ5M0xibzhUWFJXaHJZcDE5ODVuaWZDdzJrWjBoQlQ5bkVtVnFhd2lTSkVfTnU2Zm1NZG13cVdRajhaS2NnNlU5SXlYRUxQQmRQczNpRktmWkllZ3plblk3Yw",
@@ -42,7 +46,8 @@
         "kiggans",
         "luria"
       ],
-      "tags": []
+      "tags": [],
+      "official": false
     },
     {
       "id": "CBMisgFBVV95cUxOR0Vpeld6dUVQZk5EUVpPbHRfeXg1VFNEZk5ndndjaF9tR3FuelQ3UGVHUHVfaE1OS0hWVnoxZGw5eWVRZkRuRTkyb05pd2F6eWNLdlRjYkhGWkhtN2E2WkZXM3ZhT1ktUVRha1k1YUpiaGtQRjdSRW9pZTZlU190dGt6d01hcTdadVBUTjdXT09ZZm9hdXkycVZHU2x4ZDh6NUZZcFl1Ylh2TTJ1akFmci1n",
@@ -55,7 +60,8 @@
       "candidates": [
         "kiggans"
       ],
-      "tags": []
+      "tags": [],
+      "official": false
     },
     {
       "id": "CBMiogFBVV95cUxNS04xWXl4UXdubGFmLUVYaDFMellNTUtwTnNYSXQ3ZnN3Rl9tdkRVbkppclJWdjZmXy1VXzF0Y3BsUnoyX2R2N1hsQXZSLTBUaG9iaDdfR1YtSUlFT3BYWWxPdV9OU2ZlcFlPOWZXZ2lKcUU1TVVFT3RYanFCQWh1VjFiekRRckhHaUM3SDVrTE9PUnNZR0d3MXVpSU1Ndl95aVE",
@@ -68,7 +74,8 @@
       "candidates": [
         "kiggans"
       ],
-      "tags": []
+      "tags": [],
+      "official": false
     },
     {
       "id": "CBMikgFBVV95cUxOVmQtZFBZSHV4R3FFWGNIMzZBd2tKeUppaXZSODh4TEJRc1UzSWl0Wm1jcV9FcXBCcU04S3ZpaE1WLXozV0tWLWMzZkdHRDh3UDJ2djJ3TjBjLUlualVuWkU5NmFDSVZLLXpXUkNpeGhIeUpRaWplX1AtZmJXa1JabEJFSzZtUXA4YzFWenAtaTJ0QQ",
@@ -81,7 +88,8 @@
       "candidates": [
         "kiggans"
       ],
-      "tags": []
+      "tags": [],
+      "official": false
     },
     {
       "id": "CBMipwFBVV95cUxPTG9kMmNLNVNIb1F6SDBCU1JkclZsTFpOZGVoLVhvZ1ZwUUZqVGtwLVY1V2o5Um82TG1KVFVRcU1YNEdDdzFra25ZNVhmUTJWSndtV1I0bkxseTZYbnM5R2lxdm1SU0RJWDhuUXFPSVkzZGE1YVJSNHFRc2tmSDdfWVp6RzJfbWVGX2tXRTlkRWVvUHFiWEhIemc4NTJOczk4S1U4UF9uTQ",
@@ -94,7 +102,8 @@
       "candidates": [
         "kiggans"
       ],
-      "tags": []
+      "tags": [],
+      "official": false
     },
     {
       "id": "CBMi6wFBVV95cUxOdUstd1piYlo1M0w5NVlmVjQ3bGRyMktPSWxYWEtFYnBKU2FuZElMU0t0RmlMelREdnJYZkg3WDJjUW43NHVTVEVMdVFpRFdqMFJEUUI2cTNUOXhfLUN3QUZEcFZKYTRzRnJWRzFCX0Jid2JneVRvb28xS2xwdmdVc1RrS05BbzQzN0VKcjNUeVlOd09QZGhQUnd0TVhMa3ZCSTFwU3hnNEx2VVdELWtRUHZZNzVKaWc0OGd0UC1IcWl4cnBvMHpRbGlkMERsdG9pV245ekRyOUFpN3d2MmN1ZVNza29iUDBZcmQw",
@@ -107,7 +116,8 @@
       "candidates": [
         "kiggans"
       ],
-      "tags": []
+      "tags": [],
+      "official": true
     },
     {
       "id": "CBMioAFBVV95cUxPZ2h6NHFWMjRsdVVEdHVYOFJLYWQxeW9NcVl0VUdmb3NyUmdNWVRFT3NmRGI2bG9wakpGVVM0cEJyWmVRbVlXeE9GcTkwaXBzOHRGR0xKbzhuamRtazNlYUxaWXhpeVVRajhNazZpanU2dHVHemZobmY4U09jbTJPN3lJd1A0VFRkOFJUVDNxZlpTTE1WWVdJRDhXMmtXSnJD0gGmAUFVX3lxTE9Sdno4TXFqZG9Mcjl4YU9FRjM3c2xjQTlDcW16Sm9lNXVjaWpMVXh5WE4xejE1ZlJjTnh2S0FNOW1tY1BSWG9MM1pHeDY0MFNrbmYtTTNNSnh0Qjd6UHdHM1poU0Mxc083Z08ySFdkWE1FTUJhdUo3VGFmVVYyVmxuQzlkbVFkTzBVOVdhYWFvaXpIeVdXQ3N4TUlFR3lSZEFpUUN6N3c",
@@ -121,7 +131,8 @@
         "kiggans",
         "luria"
       ],
-      "tags": []
+      "tags": [],
+      "official": false
     },
     {
       "id": "CBMilAFBVV95cUxOc18yUm9Ta2VjNWJ5Y093Y3dUYzJyeDU5ak9MYU1QcHdKU2t3a1dINTgxdHdzR1dRTXFYSkVId2hmQmJsY0VIb1Atb1J4bjBmUmlaY0xWakU0OVA5YlZCbTRMMnZnRnh3WExuWHI2b1l0eEFkZ01WU0xreGs1cHQxT20xM2E5VlUtOXhmb21DUlZmVVpz",
@@ -135,7 +146,8 @@
         "kiggans",
         "luria"
       ],
-      "tags": []
+      "tags": [],
+      "official": false
     },
     {
       "id": "CBMi6AFBVV95cUxNSksxME9meVhmeGVNa1BXWGhwTWx4UDc5LVVEaUpnUTBlMnBjYkdKVXZsYzFLa3pxOGFJaE03SzZRaF81dDlvTTg4bUstSUE0ajZwOHNIMlYzeEFFTGNENWxadlJzOUlRd1FJN215d05nRk9VeTFWek1haEpvZndDdE54OHVoblVjN2dCTk9GSHRGaHo2TWlFYUk0SnJPcS1iTkNRdEhHSkRHdVNiSnB2RHprQmliOWd2ZTk3eENJYllQZFN4WkN2MEd2MGtXa3VJTC1vWHJBdU1Ya0RpdTR0ZGlTSERjTGdY",
@@ -149,7 +161,8 @@
         "kiggans",
         "luria"
       ],
-      "tags": []
+      "tags": [],
+      "official": false
     },
     {
       "id": "CBMixwFBVV95cUxPYkZkVlhDOUpyb3BoMUF4OFNVb254NEhqYVI5TFVMM3VLdHRYNGdFek9BMHBfeXpCR0xlajFqSFVPUUtsRllJbWtFanJ3alBObW9PUHV3elBydGRCS1dsX1o3b0hBS0E1UC1SblJ6ZVBJekJrQzRQb0M5ZDNRc1h3NzZJcU5DZFpWWmFUWWVmWWhGS1JlZnF2bXdNd2FnRWhHMThHMTJ0YjFpSGpHUVhDWDEzVU5EaXU5VEVaWHV4ZHZGT2xVMDQ0",
@@ -162,7 +175,8 @@
       "candidates": [
         "kiggans"
       ],
-      "tags": []
+      "tags": [],
+      "official": false
     },
     {
       "id": "CBMiuwFBVV95cUxQOWUtcVpzZUFwX2hUbXJzd3hPQWZEYzBYdzE5eWtGN3NVNFA0T0pCcE9HMVJFQ21CNk45dl9maGp4NXhoZmQwUVc1bW5KdGVSWmc2bTFLV08tNU81d2lIbjF6R3RjSk5nSkhfY21tbk04SkgwVHU2elNkaS1ZaEZ6Tm1KcWFZTXJFLTAwYjdtdUxpUFV3elZ1MlBhN05ZclNjQTdQVFJrc25XR1h1ejNUV3hEVHM0Y09QSmE0",
@@ -175,7 +189,8 @@
       "candidates": [
         "kiggans"
       ],
-      "tags": []
+      "tags": [],
+      "official": true
     },
     {
       "id": "CBMi0gFBVV95cUxPVF8wQUFtM2VKdjNndmJ3RkpTU2JFeVBrckpwbkxkdmZGTjNZYk9uZ3Y2SVZwMm9kc0hteThkRGRqaENQMkFPazJsQkxBMTdHUEdNaWN5OWF3VjBRLXZ4Q3d0Q1ViTElrVFdRVUd2dGFDbW5senNGQTNSQ2tFSnVScVpmQkxyc2NyTzFaRjRGQ3o3RlhXVW45OERIQTVpbldsN0ktQ19IRzIzQjVPRjJDZkVkSXB5TWJPaGo2bURzQjg2b0FzYU1sLUY1TXZ3TndMZ0E",
@@ -188,7 +203,8 @@
       "candidates": [
         "luria"
       ],
-      "tags": []
+      "tags": [],
+      "official": false
     },
     {
       "id": "CBMi8AFBVV95cUxPVWY1RkNWR0NOQ2UyZEZzXy0xa2VKOWVuSEJsT2I5ZkdFR0oxSXVyX3hyWVNZMVZDaHVJejhuQ3ZvMXJNNE5QNzlNTmZtQWFIdDN6NHVkZDBfeC1rRXFaSTl4ZUtFbnozaVhFWG1mcG9DOGw2NVp1a3JIYVozSFFkVDZHNzFQc0F2VVNrRnZmOF9PWGpkZ1dhbkdkZlZWUWpOVWxULWZvbVZvTFhROGZuaWZYR1FPRm92YmJtWjl5OXp6M0MtdThIQnUzUmhIYmRCbzhnejZULVZ1VmIxR3ZCSE1UOE1vNEVFU19FRTJQTW8",
@@ -202,7 +218,8 @@
         "kiggans",
         "luria"
       ],
-      "tags": []
+      "tags": [],
+      "official": false
     },
     {
       "id": "CBMicEFVX3lxTE81aUsxQ1pvODZXNXBJNFItYTlWeGFTQTRtMGRZUi1EZl9QcVpJMnFZTnUzYUZxUjEwam5LUEJCRXpYdjlVR2ZSWVFLaW90dmpGeWs5MXBUa1puZ1drYmlORnBGMWpydC15R2wwR3VqZUQ",
@@ -215,7 +232,8 @@
       "candidates": [
         "luria"
       ],
-      "tags": []
+      "tags": [],
+      "official": false
     },
     {
       "id": "CBMigAFBVV95cUxORmNNaXNlejJidzN5aEpBdDhSbHBIaHdvRHkycV9hUU9EamhzaWRha2NmWDdLUlRuWm9yUEhDZ0pnUHVFX1cyUjN0Z0thc0l0enR6dWZvX2hqdEVKWGZUaXBZRjY2THlBd29saGNnQVZvTHJhVC0zVWpVZ05YeUhOVg",
@@ -229,7 +247,8 @@
         "kiggans",
         "luria"
       ],
-      "tags": []
+      "tags": [],
+      "official": false
     },
     {
       "id": "CBMi6gFBVV95cUxQMWJLZGZrbWtzbEJkMk04Y1h4NGhzVWlSQ0ltdnc0NllkbDdNSTNzS3EyZXQyaFRpXzBveEg0c3BCRnFIY2V5Zzd4d014MWxiaWg3dDVzSUI1Nk1OZ081WjZQVU1FS045a0ZEWlItRWxiaEJFQ0lzc0NaSTJmT2V2c1ZiLUZyQUI5ZWlaaGFhb0VUM1Vxdl9hNEZUeWJuM2VCQzBTY2Mxa3ZsVnpncTE4WHF6ODBjXzdmN0E1UWptbXZaeXZNZlA5Mm1KODBKVDR6N1ZCMWpWMFdGUTRwc21EcS04bF9KaUpFZVE",
@@ -243,7 +262,8 @@
         "kiggans",
         "luria"
       ],
-      "tags": []
+      "tags": [],
+      "official": false
     },
     {
       "id": "CBMioAFBVV95cUxPdUZTOU1SZ0dvMVNrMG1JUzBVV0lwaFA0UF9NQnlTb2I4R3B4NGhCUTVLS0FIeFpUY0pPa0E4V2FfOEdoay13Z3h3RUZaaW9tT3J3ZmpYd2lzY1ZlVkZmSDdZOHY1ZnMtSW1ETlU2TUJXQ0dueEQtSnVPSWFCT0I0MGgtTGlrbE4yWE9IQzcxYkY3U1lINVlCNE01UmQzei05",
@@ -257,7 +277,8 @@
         "kiggans",
         "luria"
       ],
-      "tags": []
+      "tags": [],
+      "official": false
     },
     {
       "id": "CBMi2AFBVV95cUxQdXdqb2VBVjRjcVZpNFlJZU1ZQ3dfVkZNbzNPaVlYazBXNWZBczBpbVJnZk1WQU5QbWlmMWtmRXFNeEg2aVozRnZoOGlhcXZHTXR3eTNVT1NXWURYZFlaWW84MFpkU1BJN09tdDlpaEhGc29sWkdITFZSbGFPaV8tUWcxRWQ1VmxSSUlHTkZlWHVpaGdob1NQMEhjWUlTSnpITVJCSV9uX2RWMDJkNC1DQ0RRMFdieFU3VEVHWWQ2NFJ0Q2NHZDF0XzQtY0Q1LWRYMXBvaVNyejA",
@@ -270,7 +291,8 @@
       "candidates": [
         "luria"
       ],
-      "tags": []
+      "tags": [],
+      "official": false
     },
     {
       "id": "CBMi_gFBVV95cUxNUTZxaHRxRm5aMTJJeUZLNGxWekF4amFXTmVlN2ZNUE5oemZIdzBwSHQyTjBqNjd4d0VmZUFiRXNHanZ5MnAzYUE2UUd1eHAtT1ZjaHVWQzlrd21EZTZWLVFkWjhKaFVXdDVqUHBHNHFyU2tEN1RTV29oRjR4ZHE5NjYwSEt5TVd3MGxPMTZrODZqU1Nkb2VTOU91U2hIUXJ0bzJqVmROMWhlMHhNMG5venFZVHBuZWRKR1VzM0FCenA5aUVERExEcnVQcVNqa1h1WjRtZFdBam1jRS1aclo4TGdLWG5ObkhiOV9Fd1dVODdlaUZyeFVIX014TllXUQ",
@@ -284,7 +306,8 @@
         "kiggans",
         "luria"
       ],
-      "tags": []
+      "tags": [],
+      "official": false
     },
     {
       "id": "CBMiqwFBVV95cUxPR3JicUFOaUI5TkYyMUlwME80c0JlTkF2Ty1tOHlYSnFucm5NdnFGOWttVjN3eDAtT295LXRLRmdFcHRJTGp4SlMxbnVWYlpLZlZYU1VoN2duTjNRX29yZWRqdWhVZGZoS0NzWWRsUXN5WDRxaHJqeEZvejBCMURFVHJMUWtPT0YxR2hzLWZockl6TXZNTXBHNzdzQ0hnaVN1T2lyekRrQUJQd3c",
@@ -297,7 +320,8 @@
       "candidates": [
         "luria"
       ],
-      "tags": []
+      "tags": [],
+      "official": false
     },
     {
       "id": "CBMi1wFBVV95cUxQLTIyaVpyQ2JPblcwX0x2TEVBeWwzZkl2NXdBVEJTQ1dWVkh3Z3gwc1BnaWlBV1VvRDhkV0lnU240Y05RbFBBQnlncnJvalRLbF8xUlhYVWlYcmZDRXEyOUttV2JSaGJtdEQ4Rk5KMEdGUXlEX0ZUYmRTbmE4dWZmaDZZeHBzZi1tTExBNHJ2ekpSdjl3SEFBVXVyVnVtT192TlpMU0FiWjE0NXp1RUJYYVc0RnVaWFV0QURNbmNRRTlrZmc5RWkwUlJqdWNFQ1RaSWdNMUFMSQ",
@@ -310,7 +334,8 @@
       "candidates": [
         "luria"
       ],
-      "tags": []
+      "tags": [],
+      "official": false
     },
     {
       "id": "CBMivAFBVV95cUxPeHZKVnpJUEllZTBzX2l5NFdUelI0V2xkTnlVaThYQnB2MUhESnBUM1hSamVkVEQ2UmQ3VzRDR2lGUVVkNFQzdjA3ekFSeF9mRU5UWHl5eU44dkNzSFgwWWRwcEVEV0dSSUFoWFFfaGRKanJVTXVmN2s1OUtVNVdBX1J6MDF4bDk0WTVrQ2ZkVTMyY1RNbjRBMDBmRW1PTzBCMjdFb3BjdjREWk5xSTVXNWhBNVU4LUJ5ZjNSNQ",
@@ -323,7 +348,8 @@
       "candidates": [
         "kiggans"
       ],
-      "tags": []
+      "tags": [],
+      "official": false
     },
     {
       "id": "CBMiiAFBVV95cUxQdlVyOVdFQW9RaHpFaFFpZ1Zkc2V0eGVyc25kczFxdjlzNDdzdXFBVi1xLW1LUUVJUlBzcEp6ZUhQWmItbWtsNW91X0E2WnZ6VFMyUE94Q011dDRzRy00SS1SN2wyR1lRV3RGckpCeHR1eG1zR2x2LThsMWpkOXA1U0RlTUtlVmJ0",
@@ -336,7 +362,8 @@
       "candidates": [
         "luria"
       ],
-      "tags": []
+      "tags": [],
+      "official": false
     },
     {
       "id": "CBMihwFBVV95cUxOTkQ4RW5SWExWWm45SlRYRE50X2xPWjZtZ1cweWp4Y1k5ZWZJZ1U1WkZtY1ZMbDFuXzFKTGRQZXA5X0ZnN1pxY1VBMDkyOXNtVkQwWjlMYk9YY2ZQNmN2V1NzMTVoNzhYcVZYclhKVE42bV9JRVpVRlhYeDJVd1JPUmEtcVdEdG8",
@@ -349,7 +376,8 @@
       "candidates": [
         "luria"
       ],
-      "tags": []
+      "tags": [],
+      "official": false
     },
     {
       "id": "CBMiywFBVV95cUxOSmJNSjhkNTB3TFloVGZrOEpGV1ZsQVQzWkRNVHNnejg2VkFXLXd6OHpZdlpFVmRWV0JpT2tQMGNxOXBLNHdDX1FNY0JBMEdaUDZEd3NYWndJTnJIYm1iV2xXUmttNFU4MFliNVNfMFMzRWs4VVFabWQzdjZoclRSRGRpSGlfR3Qyb2FFSWpjWjBlSUxGcWd1amtRZzRpMGtybXkyNzJMUkIxNUZzUVdsTjBleVFMR1ZGbVhxTEhEMkNiRVR2SkxIWmh1bw",
@@ -362,7 +390,8 @@
       "candidates": [
         "kiggans"
       ],
-      "tags": []
+      "tags": [],
+      "official": false
     },
     {
       "id": "CBMickFVX3lxTE1LbHdSWGdWVTU2RmZadkhFUXZhNlA1TnVKM0JwV2tXOTFBeWpHV1RLQWdNMTM4MGxpeTZWVk5PRVFES0plcXY2NVlEYTJLcGZ2eElkaEJjN01GRUFlMTdTc1hxM2hyRENaOUdYeEdnWUtZUQ",
@@ -375,7 +404,8 @@
       "candidates": [
         "kiggans"
       ],
-      "tags": []
+      "tags": [],
+      "official": false
     },
     {
       "id": "CBMivgFBVV95cUxPYXZsU3Ryck5jWE1kcEpDOU16ZENDQkJyYXJYdTE0VjhFT0t1MXFSLV9aMFRZZXh0czZjZi1wQmtSS1FsTU8xd1hldXlRUE5ELW5XTHFSbGFpRnEtMC1HRVZreVRJVm5vUlpZTklTdVBkUWhhaV9ILWVCOUZjN29qaXdwYk1kTnp0YzUxV1pQM01PTm44SHNPX0dMSHNEemJhNTJYeXBhWEJvQ3F0OWthd0xEMTJZWWp5MkxMVjRn",
@@ -388,7 +418,8 @@
       "candidates": [
         "kiggans"
       ],
-      "tags": []
+      "tags": [],
+      "official": true
     },
     {
       "id": "CBMimgFBVV95cUxNdEZiVW9XV3d3U2RPLVp5U1ZodEJlX3QxQ2daeXpCU0Z1Um42cnM2VWNuTVRlUHlySHQ3eDVwSUFEMlp0Z0VkczZrTkNTX3VZRlcyTWE5MDg4TXpSRFJuSEZCNnQwRHowcVpqN0hodFFxX1VlSEtoNkJZc09YS2FLZVFtbE9zYXE2VmVEc2pyWVBYajNSenRXNHpn",
@@ -402,7 +433,8 @@
         "kiggans",
         "luria"
       ],
-      "tags": []
+      "tags": [],
+      "official": false
     },
     {
       "id": "CBMirgFBVV95cUxOZ2VyS2N1LU9SeHowNmVpVnl1ZENER0xsTE81MUdBa3NvMkRFaTBRcDFxZFZsT21YRG1SMjJ5VGFfelhzRXdEbkxHd29FU1RrZVBIWVhkSElrZVBtS1F0aW5CQ0ZqaWFiSlFVUFJNdGVLdDA2SENqdFV6ak5RMDdRcm41dkxNRkp4THF1a1VFTnkwN2FXTlNOQVQ1dkloVG8zcWc4U2s0M2pSNDByZ3c",
@@ -415,7 +447,8 @@
       "candidates": [
         "kiggans"
       ],
-      "tags": []
+      "tags": [],
+      "official": false
     },
     {
       "id": "CBMiqgJBVV95cUxPLXpwUFJYSzJhT0U5QlZUajF0TDVrUjBvMFdJckpRTmU3bDluUzJERG9zdHZhTC1KNXFlbTBzTVdYdlQxZnB1U2Y3Z2FFU09DRlpIcXBucndPMGh6eTJuanVvUDhacy0yZVhxR1VENjJOYUpWWUtNQmVUODJ4WnR5TmxidFljc3lNQzMxUm9NMWNjZXktYzJyN0otU2VTaUgyVkVubHJpMzBVZjdjZTJIRTFxM3BKSkswOUMyM1JYdDRmc0YxRHNDZUlQT0VxcWJMTVpsMEduLWMzbmtUV251cjByRjJ3dFYxR25OYWQwUVByRVJuZXhUclFUcVJrengxVlRRWkpiSHE3VXhaN09qeGROVVViUzNKcTg4Yi0xT1FoRkVSNmxrYXNn",
@@ -428,7 +461,8 @@
       "candidates": [
         "luria"
       ],
-      "tags": []
+      "tags": [],
+      "official": false
     },
     {
       "id": "CBMiggFBVV95cUxNUmRxSTVxX3c0NGZOZDR4ZzlCX090dW1zMFl5RUVNclk2S3ZnOUZkUC04NkUzcDhFTDBoMHp4bk9YbldfV0FWaHdtWEFqd0tuT0I5N0xkM1NXVjNQMDBuUmVoeGF6QkNxMFlLNVRiNTUzdGxUNEhpM0JFckRDLUJ6cUFB",
@@ -441,7 +475,8 @@
       "candidates": [
         "luria"
       ],
-      "tags": []
+      "tags": [],
+      "official": false
     },
     {
       "id": "CBMigwFBVV95cUxOR1JKZmdqWkh2RTN1a2ZYMjlEeHdnbU16T2czMDRqZXlOc0ZQbm5faV95TXQxcnJ5ZS1WYnhKTWJoR2x2QUw4dTRoRUZIZDBxQ2RuVGs0T3hWV2owd3YzQVplWjRwQjJhTHVtZHlvTmstbjZwT3J3VTVVaG10MllqaW1kRQ",
@@ -454,7 +489,8 @@
       "candidates": [
         "kiggans"
       ],
-      "tags": []
+      "tags": [],
+      "official": false
     },
     {
       "id": "CBMiugFBVV95cUxQYm9qTWRWejVwUTMyYzRBZGQ3MUhsaHNoLTlWanZHWmMyc3RmYWRRakJ3LWlIa0twT3ZKTU5scXJITTBaZi1aZWtSbkR4TTZYZG5IUnNhYi1IMWt2WFhhWHlJbTVsNHFNcm01NjZVR1o3aXVYamg0OGZaMWNGWmQ2SEJRQkRUMXdqVGJzc21SQnBTVDA2ZElkQ20teUpqUWd3a2VLSjMzUUt0N2hfUnBZUm8wclBXdTNYMXc",
@@ -468,7 +504,8 @@
         "kiggans",
         "luria"
       ],
-      "tags": []
+      "tags": [],
+      "official": false
     },
     {
       "id": "CBMixAFBVV95cUxQeTRSVF9aY05raWJqSnVUQkZ5dDd1Mkhod2pta3RCWFZERy1qYXBjeDhYQ0VkQmNKcHNzYktNblpTdG1UNEpxODNkVklEQXlNamtvdzVNbFB1OHNTZk9ZaUtoazJjU0tMN0FnRnRXcVRSMURURWdxa2hjcExQaWtTekszRHFNYjFDQkRTVVhlenpJa1h6ZGFnbUdOZXA3ZGZHRkxaY0ZEWWc4N0tTQTdUS29STDc1aHdYb3VsSlRpV2YzZEZZ0gHKAUFVX3lxTFBuQ0pCVzB0TkZoZnB1WTVoLUt4V0txaFJVcXBjYnFkSHAyMVJaN0RINWxHemxLUnB3cGkyS0w2V0syYVhfRGVGODA2UW82SlFFSmxlYkRwSzRlV1pidWEtLTNkSXZPa2EwZGpkZ2FRVDJCNnJpYzUxVUYxRk1kZ0ZYS19xb2lVcVpoM096bHlFYUNMYmdDTDNRMDMwWVZPUmNiR0hkdTlBZ3NhdUhQR1hYeUo3Z0NQbEZ3a29tN2dmLVJxS0w0VDZtcHc",
@@ -482,7 +519,8 @@
         "kiggans",
         "luria"
       ],
-      "tags": []
+      "tags": [],
+      "official": false
     },
     {
       "id": "CBMimAFBVV95cUxPX2NwRnBiRXJWR0M3NEQ5V3hmZWE1M3RYTjJIMVhqbmxCLTZSc2JFQWkwbE0yTmJsWmczNXZTMUY5M0lpQXlXOTg3OWJfQ3dnOHYwUVNkT2hydDJxbVdkQ1dkenBid3Raeng0Ml9adkE4Mlp2QlgwYzdPeVhlM2k0VmFxaHdhaTBBdTRvWnRxYmFRUkJ5eWdiRw",
@@ -495,7 +533,8 @@
       "candidates": [
         "kiggans"
       ],
-      "tags": []
+      "tags": [],
+      "official": false
     },
     {
       "id": "CBMiwAFBVV95cUxOZWVhNmRONHZvaXBsOEZMUlJVZC1fQTNLRXBGcERpbmhqWHQ5Nk1KUmR4Y3JZRnJmU3VYQVd1UkxPSTdVX2Z6eGNnQzk1NUxSVU5xR1ppTWVDNTY4d1c3dEpiUG5CNjJqb2lqclQ2Tklwb3gxLVBjQ2gxaFJQc1N3YWFJaVN2X0gxdDB0YnBKRmk0Zi11ZXYzVWh6Q1JxUWpfS3ZYaHcwa0VIN1N0TG5MSkU1eGl6MDRzMHkteW0xcHrSAcYBQVVfeXFMTVFLeERKaUREbjZSTzBFd3hLVHBramxUNWoyMWY2ckcxeHNvR0RKV1RJZURHRlJIZ1U0dFo4VlJsaUt0ZmtacUtVc0JUWGtpenB0QktTR3FhUlpiS0Qzc0p0bjBsZnlkYnZraXYzU0F2UDVUV3YySXJKbzQ0VVp2RGFkRTJ2Umo5T0ZQaGhDcXFGcVpJcFVXNmVCdzNMQm5LUDI3Z0pLTFA4SDVIdXJrS3V4alBIY2VrRXFQUkRGSEZ1UTFFRFlB",
@@ -508,7 +547,8 @@
       "candidates": [
         "luria"
       ],
-      "tags": []
+      "tags": [],
+      "official": false
     },
     {
       "id": "CBMijwFBVV95cUxObFQyUDVKN01xZWpsVDB6OWliZEhjYnh5dTcyX1NYSkI1NVBkeDZzbDJmWHllQTJsMGcxQllWRW14cGIyb2NsQkYyV0F3aUJ1dExHb1U5Nm5ZZEd1M1h3X3JYd1prZkFzVUdRLXNLWXlZSTJseGw4MGw4b2NSdGh5UGNGLVNpcktrcHJ1amg0MA",
@@ -522,7 +562,8 @@
         "kiggans",
         "luria"
       ],
-      "tags": []
+      "tags": [],
+      "official": false
     },
     {
       "id": "CBMinAFBVV95cUxOX3hxNTdZd2ZsQWVLejN4aE1vYThXOElBb19mZG0wazNvMmktRkJSV29lMzJlYnFSUkotTktVU3lSSUVjQ080X21oaC1OdmNKcHlUODZ2NFlRZ1dxeEx1OGxuNE9xOVBXY3FMRWtqYmZ5LUVMVXZZSlVObFlrMTBtT1hSd2dyVEJVVFpYRFBROUk3VXg0ekp4ak5WUnQ",
@@ -535,7 +576,8 @@
       "candidates": [
         "kiggans"
       ],
-      "tags": []
+      "tags": [],
+      "official": false
     },
     {
       "id": "CBMi4wFBVV95cUxNSmdaV25XMEhwSU1WZ2U3djNGMkdLcDF3OHZPTDEyaTRlNUZ6RXVINDFBZGd3Tjg0Sk9IMk0xcWE4anVZdERPNkhYSjdnLWtFWGZnSlZRTG45ZW5fRzhLNlFFRDctaGZ6b2RTUVJXdF9ud0Z1eW9pZUxaUjBqUWVUaWpsbVgwNWU3UlVmdnB3TFR6UWVZbl9QOVNDY05fY3gzYzhPMTY1Q3RQbjRiUUd4LVQwYkhsa2VnbURsbXNLcVdTemp2bGVsUzl4YUVKWGM0ZEx4cDVPNTNHMWxDYW5tTTEtOA",
@@ -548,7 +590,8 @@
       "candidates": [
         "kiggans"
       ],
-      "tags": []
+      "tags": [],
+      "official": false
     },
     {
       "id": "CBMi1wFBVV95cUxOODBBVXlISjRfaHhiYXZDbHo5aGgxN21JYzdMR3VCV2RNa2sycEY2NEtmN0Z6Y3VRbGcyaFdYUTRDMnRGbzNFbVMyMnQ0YmhFcURtWTU4ZDYxMG95UlVmcFJSQkNTa2NQa1dRUFVaSm5SUWdUV2loUnRmcS1ad3JNRTFPeTFOOW1xRGdGS0o4RWFRVXdOVXI2RTQxN2VMcVlaeWY3ZzRGOERRRGh2YzdOSkhUUUF6UFVxLWxmaElzNF9TWUlPaFljZktWZS1WU3JSS3RNRzl5OA",
@@ -561,7 +604,8 @@
       "candidates": [
         "kiggans"
       ],
-      "tags": []
+      "tags": [],
+      "official": false
     },
     {
       "id": "CBMijwFBVV95cUxPMUJkN2hsQlh1TUM1M1BXWG92bUZRamFFZ1hjLUQ0NFdCTVh4QkVNSno3ZTBhb3V3Nzd6c01hRnFkbWtkbHBMeXdiNWVRb1pLVVU0dlhtYlJHVG1XU3hFUTRYNFZjUC1CS2ZiSHYzanJuY2JFMW5qMnIyTE01S1RSZ1J2MGMwSUF0bGRBMzNxQQ",
@@ -574,7 +618,8 @@
       "candidates": [
         "kiggans"
       ],
-      "tags": []
+      "tags": [],
+      "official": false
     },
     {
       "id": "CBMiygFBVV95cUxOd09EWTdMbDF2U05qLURvc1V3SUVUVmZVRTBid1F5bURwR24zTHlrVVl3U1U5UkhvUzN3TnotcUxDWnFDZHlJcFNWc2c0cTBYTFBvRWg0aFhoMXdEcGIyVzZQN21qUTJpYTNpMXNSOXhveF90aUZJM1pVYndPSlFsUXg2dDZyYUhNamZlYU1fcVRVeGQyUXhVVjdEOEhqY1VnZjRyRkRJb1VNM1B6dDVLZVRucFkzTWV5d3R0aExRN1RTWXRYQmUtTVd3",
@@ -588,7 +633,8 @@
         "kiggans",
         "luria"
       ],
-      "tags": []
+      "tags": [],
+      "official": false
     },
     {
       "id": "CBMitAFBVV95cUxPMW9iaWhGbno4RGZxMGdyM3hFQWRWS29JT1FGM0pILXI3Mi1kZGsxRlNaZFBhbHhvM3QxQzBTV0Fwbm15WEszZm1taV9qUFBuYWdlQ2JlYXJPUHVKdG5zbTQzQ19zM1VmMFVPSkxDOGFURV9DVTVYb1RGT0k5b3ZEMjg3VzFOQlRQMmk5eFd5LTJMU2t6akhlQU5xVk1xUG5lVGpGWTFEOFZPSlc5eHBJcUVrWFA",
@@ -601,7 +647,8 @@
       "candidates": [
         "luria"
       ],
-      "tags": []
+      "tags": [],
+      "official": false
     },
     {
       "id": "CBMi9AFBVV95cUxNODNQbW9qLWEwNmRzd2t1ajN5X25OVGFGVldYallCamtMOTNzb2VsMURRQk1JT2F4OVppZmxvZ2p0T2VweEpidnJueHlaT3RtVG51M21TN1hYaWZqQ2U0a0dZMHNHUmUzTVgySzdFREthdGNCMjlYX0w1RDlHWHZFanp5NHRnY2VpUk80V00zbzRmTldIamFNbDhWMEZNN2E3dEd6NG0td2J2WEJJUGVRNzR4X1lPcHV2MHhBRUlMX1NKc2FMOFJJYUo1LVQ4NkNRdHU0SHdvM1d1Sy1FdHg0djZ1WlVOTmtPbGF1aUhEUVZtYko4",
@@ -614,7 +661,8 @@
       "candidates": [
         "kiggans"
       ],
-      "tags": []
+      "tags": [],
+      "official": false
     },
     {
       "id": "CBMixwFBVV95cUxOWndIdVlFRGNTeXdmbk81NG5CLUxfSVZMS3FVRlJ2d3pKUy1PM1o0dDFFNnJfc2ZWOFpkUzZPbUdfRFdMZ25xZFJub0xQR3l3MXh6bnZUcjB0eUpHb3A0YmtfR3IwNFVreXR0RzBIMnhKNldnTmJuVWVPdVdHN0ZKTjJGOHFIRTlSWW9YMFRoTDZ1WG9ZcUN5T011YkRrSXpKVmJncVBDTWNXYnhBVUhQM253a25tcUdwbzBzYkQ5cmdDc29YaU04",
@@ -627,7 +675,8 @@
       "candidates": [
         "kiggans"
       ],
-      "tags": []
+      "tags": [],
+      "official": false
     },
     {
       "id": "CBMi7AFBVV95cUxOcU83UjR2dmFXZ1lyQ192TTY3Z25za1ZjR0xpcFBjaEFuVlhjb3pEZ2gySGVVdERTcC1BVXNSdVEwbFU3YUUzWUFSeEZOWExweXd6OGJZd1dmNzh0VXV0UEpFX0VxM0w0b2xUVlJjRWpraHptTWRhUmVhelRjUzRqVzY1WmxIYlptem9ZTU9tdnNsUXNaVjNURHhWdlhOSFZ1NjJEQUpMR2lBT0JhNU5QQktDT3l1UnlBcDJwNEhsdU0wMlpaSDUzV2MxWFNuNjJDUllHVEVtUXlxZUlZV3dtRkwzZWVrSUhZdXpaSA",
@@ -640,7 +689,8 @@
       "candidates": [
         "kiggans"
       ],
-      "tags": []
+      "tags": [],
+      "official": false
     },
     {
       "id": "CBMi1wFBVV95cUxOMmFJWFZGQTRvVlZFbWEzNnZZUnc2aERDaVo3WTA5V0YwN2JCVGdsRERtMmNLeFpjZVlNS01TaXFPY2FOUHd5R2k5OWRaanU5b3hvXzhLUkNmZENUcFBpdU1FMDB1WWdOWGNreGFZbUE5akY1bzVleGd2RXc2MktrckhqLXlSdFd4WUxUbi16aTJDQlJwOFB5dlJRUXA3VWdRdGxJeUZteUNxa1V3T0hzTlNoNTQzWGV4MVVvOXZFQVRCSmFSeTN6cFExTTVBRUJlVHFwUy1QMA",
@@ -653,7 +703,8 @@
       "candidates": [
         "luria"
       ],
-      "tags": []
+      "tags": [],
+      "official": false
     },
     {
       "id": "CBMiogJBVV95cUxQLU85ZzlsUDhNaUlMSFNxNndnUjI5eTFGczJuNEZQbVprd2tLU1VzNFRyRVhRMy1iNmxMRXN6bXVPSERlRVBwQWZ2VG9jQjhPLVUzUFZncE1IaGNJQ1RMclh3aEN1TGdReEFDTzg1ekFDVF9CczZ5U2piLThjZXVFZ2ptSkhoQ0w1Wl9IeWN2NTdqWG5SMlJwSW5SX2xvNEpqTGRfTy1NVzdVbEJ3bzlPdnI4QkwzbWNSUkFuN3NyTjFMdjVybmdEdmdFRnZyV29qMl80eUVpS2xFWTZNVGNOV1ZPdTJuSzNXYnQxWEdSTFpZMExqTFNyWVZjZU5ENHZFSzJZbHMxZWtjRC14WFlyZV9HMmM1VGtoNHdIaF9LSnRtdw",
@@ -666,7 +717,8 @@
       "candidates": [
         "luria"
       ],
-      "tags": []
+      "tags": [],
+      "official": false
     },
     {
       "id": "CBMicEFVX3lxTE82TTZ1MFhoWWduNmFabHhqcjN6enk5ak9KbnlpazRDMURZZ2F5UjFZY253RW5qbXotSkNmVnpJZUVPTFk4V191QVh0UWhKVmgzM0xod3dHeHlIUEp4TmpRT2ltNXNQZ3FjdlYyd1Rnb1k",
@@ -680,7 +732,8 @@
         "kiggans",
         "luria"
       ],
-      "tags": []
+      "tags": [],
+      "official": false
     },
     {
       "id": "CBMi8gFBVV95cUxPQ0ZUNkI0d0hWNnVMUUpTTXFFSlo1Sjc1UE1temJtQnpHU2JBcVVTSmRsaVU2MFNZWkNad3dnWEN5SF92NGNhclZnZk14cng5el94Z0FGNzJkRWEyTlA3bTVtOGd4d1dWdS1sZzZCcUVuUmhIRG81a0psOTFqOHJoSnNjMXBwd2ZMRXhRUkxYdkVhVWR1T2Q1YUVnSTdxWXFYdEhKYkdUMlBZb0tCWTJwclRwTkRHb3VJakR2NzdJb05mY3VWeFEyNW55QVFWUEtlRk5TM1AzNG5tUzdoVmdtaENNZU1fRzJxcHNoZUtfMWZXdw",
@@ -693,7 +746,8 @@
       "candidates": [
         "kiggans"
       ],
-      "tags": []
+      "tags": [],
+      "official": false
     },
     {
       "id": "CBMifkFVX3lxTE9JQnZkY2xrM0hvZ0QyZG5Lb29FSGdJb3lzbHBicWlpU2FhQS1rUHVKcjJsUTdJUk03T3kwZloxLXlXaGFaa05ja3BDWG40R2NEUU9nV2tXVWxzZlV0UEd6a2QyMl81VC1vR1BCUmVleVZRNnB4VkhKVzhuSWxBdw",
@@ -706,7 +760,8 @@
       "candidates": [
         "kiggans"
       ],
-      "tags": []
+      "tags": [],
+      "official": false
     },
     {
       "id": "CBMinAFBVV95cUxPVndMX3p3c2MyRm9Vckl5WWk1VHR5X0x1WllvN3FQajV6d21VLVJ2eXcya0ZLU2x1aHhPMTR3S25QTUtldk42VFlRXzNKSmp0aTlSWHJydFZNYnh2NUtiVk1seG1HNTI0QVdpeExTZ3JyNFNwZkgyd2ZuWWdQM2twZ2F5bTlCTEpTRlVseVNaQVNxTzN1eE45azFZbGo",
@@ -719,7 +774,8 @@
       "candidates": [
         "kiggans"
       ],
-      "tags": []
+      "tags": [],
+      "official": true
     },
     {
       "id": "CBMiugFBVV95cUxOVk03eUFyWkFWSXpPR2JMS0NhdXhYUHF3cUo5WVlnT0Fob3czOVNMY0RMaURSLTAwbzgyLUNOcFU2eDN5SWhvVUkxNXRrbmpSbFhORkN5aWVHRWFFVjNXWHh6R2ZaTmg1S01TMU5LTlpaRTdfU0J3NmxCaHExMThKV0F2QmZPRVlPR3pwSkF3M3VUb1Y2OTRSNDVHYXk2UWJIcWQxSzFoNm91aVljekVvNlRzaUt5VWgzalE",
@@ -733,7 +789,8 @@
         "kiggans",
         "luria"
       ],
-      "tags": []
+      "tags": [],
+      "official": false
     },
     {
       "id": "CBMiwgFBVV95cUxNTy1jY1Jwc3NackZWWmk4cFNzSjhYM0ItWVl0MXg4WTdaTHN1SWg3Rllkd3U2RlBrVVBVTFNiZ1pmek5wY18xQk1RZHVOcjZYWU5ncTFGdl9vWjZvSlh4Q0lpWXRMdnlzOU9WbDhENklVcTgwMjZWek9aVkJBMnRabDNRWWVwd3VudUlJVDltX01odzJpUmg3dzM1aGNlV3VTbG5GOXhMWTBpeHVrdTFvdUxzLXoxLVFzV2NXaDd5V0E0QQ",
@@ -746,7 +803,8 @@
       "candidates": [
         "luria"
       ],
-      "tags": []
+      "tags": [],
+      "official": false
     },
     {
       "id": "CBMi3gFBVV95cUxQcU41SWJfazNsOFFGOW9qSVZzWGllLXFaLXY4akJMMUFGTDZmY2N2RjZwaWVZMFpNa2J0bUJ2TlFaQWVIVnpTMGVGNVJUdmNycFk1SFBXdTRRSEl0cTMwR0hBU2ptb2pwRFZnbEZQUVFwVFlpTVk5ZFRnVmZmX3BpeFAwSVpvblNzX1FhNUFva1ZsTjBwbnhpZ1l4UF95OVF1UWZuRm1yamRjTnBkN2xyU0FteXJ5NXJ0UHJOeHhyRXMyTWcyeEZLM3hqVThzTkZFaGJLMWZiOXNiLXVQREE",
@@ -759,7 +817,8 @@
       "candidates": [
         "kiggans"
       ],
-      "tags": []
+      "tags": [],
+      "official": false
     },
     {
       "id": "CBMijwFBVV95cUxNZ0ZEWktNUUJ0TjYxYWxfV0JnTTdDSGptU1RNY3BSZGMzbXc0UzZoMFhaakJha3A0SzFQX1daZ0w2UEFTY2lyQjZta1dVeDhLdmNMU3I5WmtYN0NueGRZMzlWcEpxTFJMakxCWWtydjRpZjZKNmg4N1ZVTW1hRkNmSFhUd1JxN0VST205QW5URQ",
@@ -772,7 +831,8 @@
       "candidates": [
         "luria"
       ],
-      "tags": []
+      "tags": [],
+      "official": false
     },
     {
       "id": "CBMiogFBVV95cUxNZXp2dVNpVUtKcVBTbjNBc21iTW0wWFhBekF6ZnkzUU1BNXhoYjE0VEQ3eTVwRndxNzFvdXJ1SkNpazc2bUpoWDBTX01TZkVKMUlmS1hUQlhqMXlIRWp1aTJZV3dPVDhBNW9tc3NCQkVlc0VmdlpaQ0RzR0Z3aFVNS0NFN04xUkwwOV9rcU5OR3htWVZYZkh4MTlEME55UllYekE",
@@ -786,7 +846,8 @@
         "kiggans",
         "luria"
       ],
-      "tags": []
+      "tags": [],
+      "official": false
     },
     {
       "id": "CBMi-AFBVV95cUxNUVRScTNSSkxaNTg5YTgxLXZ6VUhlUGdTN1pXVWRkVW1mTzN4d3pZdDdEdTNsUGUtTlQyY0JpRlRYNzRZZWo0ZTZTcE5TcW16enZSc2ctYm0wWHdXQkJ2NzJ5YkhfNno0YkQyaWpTbEdEV2xCaktaTVFXcnR6NUZzQWhsZWNLRXBYa3ZmQjBMbm9GWVRrOWRzS09RUWlFRkp1dzJiNWZrUHdzcWcxekVublRHR0lFMEpweVJmcXZnTGNZcVJ6Y014REVERkF4U1dWS2lQRHd0UTkzSTBPRGFkTjRkclk0cUxybXoxdUc1aWZiQ280eUFMZQ",
@@ -799,7 +860,8 @@
       "candidates": [
         "kiggans"
       ],
-      "tags": []
+      "tags": [],
+      "official": false
     },
     {
       "id": "CBMi8AFBVV95cUxPWWQyc0FHS0p6bHJNaXpROWNINV95YVZ0TjN6WTZEQThNN0JZY0dkakVzdXpzNXFnVC1IT09qUlRjaG1qci1fdkZqcHRxTExtXzF3dldJemJSWjE1QUg0RTgwb3Y2NXhIUzN0RkZ6UGF4ejVZQm1jZjYxR2IzWC1uTlNKeERFNkJCdGNPTkFSaUVjWDFLTEM3cERsQ1c1SUFPR2hwX2xoWWxqbzZiaGozVDJXRFpYTmZRVjB5amtrZG1kUUdEd09XYzQ5ZEFnSDFCeHhsRkN5OWZLSnltaFlnenozS0hIT3o0OUhwdXotbkY",
@@ -812,7 +874,8 @@
       "candidates": [
         "luria"
       ],
-      "tags": []
+      "tags": [],
+      "official": false
     },
     {
       "id": "CBMihgFBVV95cUxQSUNMUkdZa3hKbU1ST2poZGxsV2dIVzlnSHNmOExXR1pKYXZLZG1qNHJmcm5wRzZqS1NrWmpMMmVSR3g5TC1qQ1FneGdoV3dta01SeDlpbGhYSE51SFg2Qlo4Y2stUmszRkNBdUlSelg1MWprSzl1cXkyaFJFUWhMV0loM2k0Zw",
@@ -825,7 +888,8 @@
       "candidates": [
         "luria"
       ],
-      "tags": []
+      "tags": [],
+      "official": false
     },
     {
       "id": "CBMicEFVX3lxTE5HNVg1dEk2dzI1aDNPcWdTR05hOU0zMUZYanBUUkJkN2huT2hGcGJfQTBWVkVoOWRoSk5EUzcxODRzcmhYeV96ZXpPYm1yMDVDendxSlpzTUk2TXZIZk1EQk0yclEySHVIeEVfWnNIYXM",
@@ -838,7 +902,8 @@
       "candidates": [
         "kiggans"
       ],
-      "tags": []
+      "tags": [],
+      "official": false
     },
     {
       "id": "CBMi7wFBVV95cUxQMGFnRlVrZG1jeWJPOFhUVnhzckVhdXd6alpYdFRLLTFyRGhHSE5KZVhBalNkQ19iWW5kYWlBWEFZNHF3cmxqdlFkcWYwUC15M3d0blg4c2ZsZTFTV1Q2Q01xb2FIb3NjZ1dvcnpIRnU0SFRfWFhNMF9ncTZCdzd0ODdLS3A5bGVGTXBrcXJJek5PaElIdUViT2Q5TW9QNU12VHBFMjNrdnBTalNEUGQ5STlLTGZibDQwTGRxMVduUTR3dE56UU1DMnBpOTlodndfbkh2Yk80Q1ZsSUNIVXBRNm5uOWcwVFk1Ty1yQWQ5NA",
@@ -852,7 +917,8 @@
         "kiggans",
         "luria"
       ],
-      "tags": []
+      "tags": [],
+      "official": false
     },
     {
       "id": "CBMi1wFBVV95cUxQRHN6Nm1qN1lHVmNmRkVPQW9RZnJQSUs4T3R4WE9qMHl1TEgwcEdnU0h2TkFTSlFrWXpwc2hlSUE5ejQyN09RVld5WndVajc2QnZNTGVIQ25LQ202QzJpWmF6Qk5uR19tN2d0eTJld0U5d2xrdTNmenU0V3dieUw1SFE2bUNOODIxUENUUnlCY3RoeG93UUtQUzNTUFVJWHE5TktyRmVoRGlMbTh4bHVVYTRVYzVvMkpMNzh0QmJoNTV0bkRURGY0dGF2MlhFOUNmbkpTVzVSNA",
@@ -865,7 +931,8 @@
       "candidates": [
         "kiggans"
       ],
-      "tags": []
+      "tags": [],
+      "official": false
     }
   ]
 }
