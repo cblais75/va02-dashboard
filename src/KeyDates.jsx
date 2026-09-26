@@ -9,7 +9,7 @@ export default function KeyDates() {
   const next = dates.find((d) => d.date >= today);
 
   return (
-    <section className="kd" aria-labelledby="kd-title">
+    <section id="dates" className="kd" aria-labelledby="kd-title">
       <header className="df-head">
         <div className="df-kicker">Key Dates</div>
         <h2 id="kd-title">Calendar to Election Day</h2>

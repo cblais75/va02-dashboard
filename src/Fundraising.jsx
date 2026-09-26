@@ -205,7 +205,7 @@ export default function Fundraising() {
   });
 
   return (
-    <section className="fr" aria-labelledby="fr-title">
+    <section id="money" className="fr" aria-labelledby="fr-title">
       <header className="df-head fr-head">
         <div>
           <div className="df-kicker">Fundraising</div>

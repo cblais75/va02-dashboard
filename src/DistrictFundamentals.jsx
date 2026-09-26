@@ -162,7 +162,7 @@ function RaceTable({ race }) {
 
 export default function DistrictFundamentals() {
   return (
-    <section className="df" aria-labelledby="df-title">
+    <section id="history" className="df" aria-labelledby="df-title">
       <header className="df-head">
         <div className="df-kicker">District Fundamentals</div>
         <h2 id="df-title">How VA-02 has voted</h2>

@@ -1,4 +1,5 @@
 import React from "react";
+import JumpNav from "./JumpNav.jsx";
 import RaceOverview from "./RaceOverview.jsx";
 import Fundraising from "./Fundraising.jsx";
 import Endorsements from "./Endorsements.jsx";
@@ -18,6 +19,7 @@ export default function VA02Dashboard() {
         <p className="matchup">Kiggans vs. Luria</p>
         <span className="soon">Live results coming soon</span>
       </header>
+      <JumpNav />
       <RaceOverview />
       <Fundraising />
       <Endorsements />

@@ -53,7 +53,7 @@ export default function MediaMentions() {
   });
 
   return (
-    <section className="mm" aria-labelledby="mm-title">
+    <section id="media" className="mm" aria-labelledby="mm-title">
       <header className="df-head fr-head">
         <div>
           <div className="df-kicker">Media Mentions</div>

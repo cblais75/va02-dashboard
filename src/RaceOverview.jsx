@@ -130,7 +130,7 @@ function Polling() {
 export default function RaceOverview() {
   const today = useTodayET();
   return (
-    <section className="ro" aria-labelledby="ro-title">
+    <section id="overview" className="ro" aria-labelledby="ro-title">
       <header className="df-head">
         <div className="df-kicker">Race Overview</div>
         <h2 id="ro-title">The 2026 matchup</h2>

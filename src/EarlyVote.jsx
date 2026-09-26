@@ -188,7 +188,7 @@ export default function EarlyVote() {
   const lastDay = [...ev.days].sort((a, b) => b.date.localeCompare(a.date))[0]?.date;
 
   return (
-    <section className="ev" aria-labelledby="ev-title">
+    <section id="early-vote" className="ev" aria-labelledby="ev-title">
       <header className="df-head fr-head">
         <div>
           <div className="df-kicker">Early Vote Tracker</div>

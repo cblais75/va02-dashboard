@@ -125,7 +125,7 @@ export default function LocalityMap() {
   const pick = (loc) => setSelected(selected === loc ? null : loc);
 
   return (
-    <section className="lm" aria-labelledby="lm-title">
+    <section id="map" className="lm" aria-labelledby="lm-title">
       <header className="df-head">
         <div className="df-kicker">Locality Map</div>
         <h2 id="lm-title">Where the district leans</h2>

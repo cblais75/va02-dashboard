@@ -70,7 +70,7 @@ function Group({ g }) {
 export default function Endorsements() {
   const checked = manual.endorsements_last_checked;
   return (
-    <section className="en" aria-labelledby="en-title">
+    <section id="endorsements" className="en" aria-labelledby="en-title">
       <header className="df-head fr-head">
         <div>
           <div className="df-kicker">Endorsements</div>
