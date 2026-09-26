@@ -1,6 +1,7 @@
 import React from "react";
 import RaceOverview from "./RaceOverview.jsx";
 import Fundraising from "./Fundraising.jsx";
+import Endorsements from "./Endorsements.jsx";
 import DistrictFundamentals from "./DistrictFundamentals.jsx";
 import LocalityMap from "./LocalityMap.jsx";
 import EarlyVote from "./EarlyVote.jsx";
@@ -18,6 +19,7 @@ export default function VA02Dashboard() {
       </header>
       <RaceOverview />
       <Fundraising />
+      <Endorsements />
       <DistrictFundamentals />
       <LocalityMap />
       <EarlyVote />
