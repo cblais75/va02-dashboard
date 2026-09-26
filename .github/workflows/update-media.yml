@@ -1,0 +1,60 @@
+name: Update media mentions
+
+# Once a day, pulls Google News results for both candidates into data/media.json.
+# New headlines mentioning endorsements go to the "New endorsements to review" issue;
+# new ones mentioning debates or polls go to "New debates or polls to review".
+on:
+  schedule:
+    - cron: "29 12 * * *" # 8:29 a.m. EDT / 7:29 a.m. EST, off the top of the hour
+  workflow_dispatch:
+
+permissions:
+  contents: write
+  issues: write
+
+concurrency:
+  group: update-media
+  cancel-in-progress: false
+
+jobs:
+  media:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-node@v4
+        with:
+          node-version: 20
+
+      - name: Fetch Google News results
+        id: media
+        env:
+          ENDORSE_BODY: ${{ runner.temp }}/media-endorse.md
+          DEBATE_POLL_BODY: ${{ runner.temp }}/media-debate-poll.md
+        run: node scripts/fetch-media.mjs
+
+      # File issues before saving: if this fails, tomorrow's run reports them again.
+      - name: Add endorsement headlines to the review issue
+        if: steps.media.outputs.endorse == 'true'
+        env:
+          GH_TOKEN: ${{ github.token }}
+        run: bash scripts/open-or-comment-issue.sh "New endorsements to review" "${{ steps.media.outputs.endorse_body }}"
+
+      - name: Add debate and poll headlines to their review issue
+        if: steps.media.outputs.debate_poll == 'true'
+        env:
+          GH_TOKEN: ${{ github.token }}
+        run: bash scripts/open-or-comment-issue.sh "New debates or polls to review" "${{ steps.media.outputs.debate_poll_body }}"
+
+      - name: Commit data/media.json if it changed
+        run: |
+          git add data/media.json
+          if git diff --cached --quiet; then
+            echo "No changes to data/media.json."
+            exit 0
+          fi
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git commit -m "Update media mentions"
+          git pull --rebase origin main
+          git push origin HEAD:main

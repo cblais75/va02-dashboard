@@ -40,16 +40,7 @@ jobs:
         if: steps.watch.outputs.changes == 'true'
         env:
           GH_TOKEN: ${{ github.token }}
-          BODY: ${{ steps.watch.outputs.issue_body }}
-        run: |
-          existing=$(gh issue list --repo "$GITHUB_REPOSITORY" --state open --search "\"$ISSUE_TITLE\" in:title" --json number,title \
-            --jq "map(select(.title == \"$ISSUE_TITLE\")) | .[0].number // empty")
-          if [ -n "$existing" ]; then
-            gh issue comment "$existing" --repo "$GITHUB_REPOSITORY" --body-file "$BODY"
-            echo "Added to open issue #$existing"
-          else
-            gh issue create --repo "$GITHUB_REPOSITORY" --title "$ISSUE_TITLE" --body-file "$BODY"
-          fi
+        run: bash scripts/open-or-comment-issue.sh "$ISSUE_TITLE" "${{ steps.watch.outputs.issue_body }}"
 
       - name: Save what was seen
         run: |
