@@ -2,11 +2,13 @@ name: Update FEC data
 
 on:
   schedule:
-    # 6:00 a.m. Eastern. GitHub cron runs in UTC, so both offsets are scheduled and
-    # the gate step below keeps the one that matches daylight or standard time.
-    - cron: "0 10 * * *" # 6 a.m. EDT
-    - cron: "0 11 * * *" # 6 a.m. EST
-  workflow_dispatch:
+    # Daily from 6 a.m. Eastern. GitHub cron runs in UTC and is often delayed at the
+    # top of the hour, so these run at minute 17: 10:17 UTC (6:17 a.m. EDT) and
+    # 11:17 UTC (6:17 a.m. EST). The gate below lets only the first eligible run of
+    # each Eastern day fetch; the other exits, and also covers a day GitHub drops one.
+    - cron: "17 10 * * *"
+    - cron: "17 11 * * *"
+  workflow_dispatch: # manual runs always fetch
 
 permissions:
   contents: write
@@ -19,16 +21,37 @@ jobs:
   update:
     runs-on: ubuntu-latest
     steps:
-      - name: Run only at 6 a.m. Eastern
+      - name: Work out the Eastern date and time
+        id: when
+        run: |
+          echo "date=$(TZ=America/New_York date +%F)" >> "$GITHUB_OUTPUT"
+          echo "hour=$(TZ=America/New_York date +%-H)" >> "$GITHUB_OUTPUT"
+
+      # A cache entry keyed by the Eastern date records that today's fetch happened.
+      - name: Check whether today's fetch already ran
+        id: marker
+        if: github.event_name == 'schedule'
+        uses: actions/cache/restore@v4
+        with:
+          path: .fec-marker
+          key: fec-fetched-${{ steps.when.outputs.date }}
+          lookup-only: true
+
+      - name: Decide whether to fetch
         id: gate
         run: |
-          zone=$(TZ=America/New_York date +%Z)
           run=true
+          reason="manual run"
           if [ "${{ github.event_name }}" = "schedule" ]; then
-            if [ "$zone" = "EDT" ] && [ "${{ github.event.schedule }}" != "0 10 * * *" ]; then run=false; fi
-            if [ "$zone" = "EST" ] && [ "${{ github.event.schedule }}" != "0 11 * * *" ]; then run=false; fi
+            if [ "${{ steps.when.outputs.hour }}" -lt 6 ]; then
+              run=false; reason="before 6 a.m. Eastern"
+            elif [ "${{ steps.marker.outputs.cache-hit }}" = "true" ]; then
+              run=false; reason="already fetched on ${{ steps.when.outputs.date }}"
+            else
+              reason="first run on ${{ steps.when.outputs.date }}"
+            fi
           fi
-          echo "Eastern zone: $zone, run: $run"
+          echo "Eastern ${{ steps.when.outputs.date }} hour ${{ steps.when.outputs.hour }}: run=$run ($reason)"
           echo "run=$run" >> "$GITHUB_OUTPUT"
 
       - uses: actions/checkout@v4
@@ -58,3 +81,14 @@ jobs:
           git commit -m "Update FEC data"
           git pull --rebase origin main
           git push origin HEAD:main
+
+      - name: Record today's fetch
+        if: github.event_name == 'schedule' && steps.gate.outputs.run == 'true'
+        run: mkdir -p .fec-marker && date -u > .fec-marker/fetched
+
+      - name: Save today's marker
+        if: github.event_name == 'schedule' && steps.gate.outputs.run == 'true'
+        uses: actions/cache/save@v4
+        with:
+          path: .fec-marker
+          key: fec-fetched-${{ steps.when.outputs.date }}
