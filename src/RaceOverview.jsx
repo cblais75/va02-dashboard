@@ -85,16 +85,35 @@ function RatingCard({ r, showDate }) {
   );
 }
 
+const SPONSOR = {
+  independent: { label: "Independent", color: "#8A97AD" },
+  dem: { label: "Dem-sponsored", color: BLUE },
+  gop: { label: "GOP-sponsored", color: RED },
+};
+
+// Average of each independent pollster's most recent poll; null until there are 2+.
+function independentAverage(polls) {
+  const latest = new Map();
+  for (const p of polls.filter((x) => x.sponsor_type === "independent")) {
+    const prev = latest.get(p.pollster);
+    if (!prev || (p.end_date || "") > (prev.end_date || "")) latest.set(p.pollster, p);
+  }
+  const list = [...latest.values()];
+  if (list.length < 2) return null;
+  const mean = (id) => list.reduce((s, p) => s + p[id], 0) / list.length;
+  return { count: list.length, ...Object.fromEntries(manual.candidates.map((c) => [c.id, mean(c.id)])) };
+}
+
 function Polling() {
-  const { average, source, as_of: asOf, polls = [] } = manual.polling || {};
-  const hasAverage = average && manual.candidates.every((c) => typeof average[c.id] === "number");
+  const polls = [...(manual.polling?.polls || [])].sort((x, y) => (y.end_date || "").localeCompare(x.end_date || ""));
+  const average = independentAverage(polls);
   const [a, b] = manual.candidates;
-  const lead = hasAverage ? average[a.id] - average[b.id] : 0;
+  const lead = average ? average[a.id] - average[b.id] : 0;
 
   return (
     <div className="df-card ro-polling">
-      <div className="ro-label">Polling average</div>
-      {hasAverage ? (
+      <div className="ro-label">{average ? "Polling average" : "Polls"}</div>
+      {average && (
         <>
           <div className="ro-poll-row">
             {manual.candidates.map((c) => (
@@ -105,23 +124,40 @@ function Polling() {
             ))}
           </div>
           <div className="ro-meta">
-            {lead === 0 ? "Tied" : `${surname(lead > 0 ? a : b)} +${Math.abs(lead).toFixed(1)}`}
-            {source ? ` · ${source}` : ""}{asOf ? ` · as of ${formatDate(asOf)}` : ""}
+            {Math.abs(lead) < 0.05 ? "Tied" : `${surname(lead > 0 ? a : b)} +${Math.abs(lead).toFixed(1)}`}
+            {` · average of ${average.count} independent polls`}
           </div>
         </>
-      ) : (
-        <div className="ro-empty">No public polls yet</div>
       )}
-      {polls.length > 0 && (
-        <ul className="ro-polls">
-          {polls.map((p, i) => (
-            <li key={i}>
-              <span>{p.url ? <a href={p.url} target="_blank" rel="noreferrer">{p.pollster}</a> : p.pollster}</span>
-              <span className="ro-poll-detail">{[p.dates, p.sample].filter(Boolean).join(" · ")}</span>
-              <span className="ro-poll-nums">{manual.candidates.map((c) => `${surname(c)} ${p[c.id]}`).join(" · ")}</span>
-            </li>
-          ))}
-        </ul>
+      {polls.length === 0 ? (
+        <div className="ro-empty">No public polls yet</div>
+      ) : (
+        <>
+          <ul className="ro-polls">
+            {polls.map((p, i) => {
+              const sp = SPONSOR[p.sponsor_type] || SPONSOR.independent;
+              return (
+                <li key={i}>
+                  <span>
+                    {p.url ? <a href={p.url} target="_blank" rel="noreferrer">{p.pollster}</a> : p.pollster}
+                    <span className="ro-sponsor" style={{ borderColor: sp.color }} title={p.sponsor ? `Sponsored by ${p.sponsor}` : undefined}>
+                      {sp.label}
+                    </span>
+                  </span>
+                  <span className="ro-poll-detail">
+                    {[p.sponsor && `for ${p.sponsor}`, p.dates, p.sample].filter(Boolean).join(" · ")}
+                  </span>
+                  <span className="ro-poll-nums">{manual.candidates.map((c) => `${surname(c)} ${p[c.id]}`).join(" · ")}</span>
+                </li>
+              );
+            })}
+          </ul>
+          {!average && (
+            <p className="ro-poll-note">
+              An average appears once there are 2 or more independent polls. Sponsored polls are shown but not averaged.
+            </p>
+          )}
+        </>
       )}
     </div>
   );

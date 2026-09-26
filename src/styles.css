@@ -520,3 +520,12 @@ html { scroll-behavior: smooth; }
 .jump-nav a:focus-visible { outline: 2px solid var(--brass); outline-offset: 1px; }
 /* Land section headings just below the sticky bar. */
 section[id] { scroll-margin-top: 56px; }
+
+/* Poll sponsor tags */
+.ro-polls { margin-top: 0; }
+.ro-polls li:first-child { border-top: 0; }
+.ro-sponsor {
+  display: inline-block; margin-left: 8px; padding: 1px 6px; border: 1px solid; border-radius: 4px; vertical-align: 1px;
+  color: #C7D4E6; font: 700 10px/1.4 var(--mono); letter-spacing: 0.04em; text-transform: uppercase; white-space: nowrap;
+}
+.ro-poll-note { margin: 10px 0 0; font-size: 11.5px; line-height: 1.45; color: var(--muted); }

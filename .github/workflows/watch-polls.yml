@@ -1,0 +1,54 @@
+name: Watch polls
+
+# Once a day, checks the CNU Wason Center survey list and Wikipedia's VA-02 polling
+# table for new polls, and adds them to the "New debates or polls to review" issue.
+# It never adds polls to the dashboard (data/manual.json).
+on:
+  schedule:
+    - cron: "53 12 * * *" # 8:53 a.m. EDT / 7:53 a.m. EST, off the top of the hour
+  workflow_dispatch:
+
+permissions:
+  contents: write
+  issues: write
+
+concurrency:
+  group: watch-polls
+  cancel-in-progress: false
+
+jobs:
+  watch:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-node@v4
+        with:
+          node-version: 20
+
+      - name: Check poll sources
+        id: watch
+        env:
+          ISSUE_BODY: ${{ runner.temp }}/poll-issue.md
+        run: node scripts/watch-polls.mjs
+
+      # File the issue before saving what was seen: if this fails, tomorrow's run
+      # reports the same polls again.
+      - name: Add to the review issue
+        if: steps.watch.outputs.changes == 'true'
+        env:
+          GH_TOKEN: ${{ github.token }}
+        run: bash scripts/open-or-comment-issue.sh "New debates or polls to review" "${{ steps.watch.outputs.issue_body }}"
+
+      - name: Save what was seen
+        run: |
+          git add data/poll_watch.json
+          if git diff --cached --quiet; then
+            echo "No changes to data/poll_watch.json."
+            exit 0
+          fi
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git commit -m "Update poll watch snapshot"
+          git pull --rebase origin main
+          git push origin HEAD:main

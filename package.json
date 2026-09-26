@@ -13,7 +13,8 @@
     "early-vote": "node scripts/early-vote.mjs",
     "sample-dal": "node scripts/make-sample-dal.mjs",
     "watch-endorsements": "node scripts/watch-endorsements.mjs",
-    "media": "node scripts/fetch-media.mjs"
+    "media": "node scripts/fetch-media.mjs",
+    "watch-polls": "node scripts/watch-polls.mjs"
   },
   "dependencies": {
     "react": "^18.3.1",
