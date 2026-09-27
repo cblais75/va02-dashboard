@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-26T22:27:46.887Z",
+  "updated_at": "2026-09-27T17:05:27.576Z",
   "source": "Google News RSS search",
   "queries": [
     "\"Jen Kiggans\"",
@@ -318,6 +318,7 @@
       "date": "2026-09-22T20:35:39.000Z",
       "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPR3JicUFOaUI5TkYyMUlwME80c0JlTkF2Ty1tOHlYSnFucm5NdnFGOWttVjN3eDAtT295LXRLRmdFcHRJTGp4SlMxbnVWYlpLZlZYU1VoN2duTjNRX29yZWRqdWhVZGZoS0NzWWRsUXN5WDRxaHJqeEZvejBCMURFVHJMUWtPT0YxR2hzLWZockl6TXZNTXBHNzdzQ0hnaVN1T2lyekRrQUJQd3c?oc=5",
       "candidates": [
+        "kiggans",
         "luria"
       ],
       "tags": [],
@@ -406,6 +407,36 @@
       ],
       "tags": [],
       "official": false
+    },
+    {
+      "id": "CBMirgFBVV95cUxOakJ4T2Y3SUpnUzA0ZktSZWVEX1dDdUw2S2FJY3pDV2p3bk1RellWNkFCNjFCU3EwQ1czMTVPTEYzTzlUYU1xWnZJYlBOUzlIdFJaa0hoQkdjWFI5N3VkN21va0lYZkM4aFVVNHlrNEU0cXNiRk9HdUxHZzQxUHc5Z0UwTEhINFQyN0ZpVkg1bWhUelFCZ2tmQUJ2eUhFZjVZVXhmVFFyZXU3M2Y4UkE",
+      "headline": "Trump tele-rallies for Wittman, McGuire, Kiggans",
+      "outlet": "Roanoke Times",
+      "outlet_domain": "roanoke.com",
+      "local": false,
+      "official": false,
+      "date": "2026-09-18T11:47:00.000Z",
+      "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOakJ4T2Y3SUpnUzA0ZktSZWVEX1dDdUw2S2FJY3pDV2p3bk1RellWNkFCNjFCU3EwQ1czMTVPTEYzTzlUYU1xWnZJYlBOUzlIdFJaa0hoQkdjWFI5N3VkN21va0lYZkM4aFVVNHlrNEU0cXNiRk9HdUxHZzQxUHc5Z0UwTEhINFQyN0ZpVkg1bWhUelFCZ2tmQUJ2eUhFZjVZVXhmVFFyZXU3M2Y4UkE?oc=5",
+      "candidates": [
+        "kiggans"
+      ],
+      "tags": []
+    },
+    {
+      "id": "CBMioAFBVV95cUxQMHhoUVZVcnU2S3pYWjF2bGdFd2hjWTRXWWRPbVJ6czRNc29KSENrR0ticGJLTVVpWktxSFpOZ1NmVDdRZzlIWFFET2tvMGJlN1JrMVJ0N01ZSzZrMTJXV19WbHpCRUR3Q2ljc2VrVXphMGFZNGxYQ2o0ell2czVvUlIxMlFRMHhPOU9KTWlGaHBOZU9MZENob0pOZ19OZ01r",
+      "headline": "ICYMI: Congresswoman Kiggans Earns U.S. Chamber of Commerce’s Endorsement",
+      "outlet": "National Republican Congressional Committee",
+      "outlet_domain": "nrcc.org",
+      "local": false,
+      "official": false,
+      "date": "2026-09-18T07:00:00.000Z",
+      "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQMHhoUVZVcnU2S3pYWjF2bGdFd2hjWTRXWWRPbVJ6czRNc29KSENrR0ticGJLTVVpWktxSFpOZ1NmVDdRZzlIWFFET2tvMGJlN1JrMVJ0N01ZSzZrMTJXV19WbHpCRUR3Q2ljc2VrVXphMGFZNGxYQ2o0ell2czVvUlIxMlFRMHhPOU9KTWlGaHBOZU9MZENob0pOZ19OZ01r?oc=5",
+      "candidates": [
+        "kiggans"
+      ],
+      "tags": [
+        "endorse"
+      ]
     },
     {
       "id": "CBMivgFBVV95cUxPYXZsU3Ryck5jWE1kcEpDOU16ZENDQkJyYXJYdTE0VjhFT0t1MXFSLV9aMFRZZXh0czZjZi1wQmtSS1FsTU8xd1hldXlRUE5ELW5XTHFSbGFpRnEtMC1HRVZreVRJVm5vUlpZTklTdVBkUWhhaV9ILWVCOUZjN29qaXdwYk1kTnp0YzUxV1pQM01PTm44SHNPX0dMSHNEemJhNTJYeXBhWEJvQ3F0OWthd0xEMTJZWWp5MkxMVjRn",
@@ -857,77 +888,6 @@
       "local": true,
       "date": "2026-08-31T07:00:00.000Z",
       "link": "https://news.google.com/rss/articles/CBMi-AFBVV95cUxNUVRScTNSSkxaNTg5YTgxLXZ6VUhlUGdTN1pXVWRkVW1mTzN4d3pZdDdEdTNsUGUtTlQyY0JpRlRYNzRZZWo0ZTZTcE5TcW16enZSc2ctYm0wWHdXQkJ2NzJ5YkhfNno0YkQyaWpTbEdEV2xCaktaTVFXcnR6NUZzQWhsZWNLRXBYa3ZmQjBMbm9GWVRrOWRzS09RUWlFRkp1dzJiNWZrUHdzcWcxekVublRHR0lFMEpweVJmcXZnTGNZcVJ6Y014REVERkF4U1dWS2lQRHd0UTkzSTBPRGFkTjRkclk0cUxybXoxdUc1aWZiQ280eUFMZQ?oc=5",
-      "candidates": [
-        "kiggans"
-      ],
-      "tags": [],
-      "official": false
-    },
-    {
-      "id": "CBMi8AFBVV95cUxPWWQyc0FHS0p6bHJNaXpROWNINV95YVZ0TjN6WTZEQThNN0JZY0dkakVzdXpzNXFnVC1IT09qUlRjaG1qci1fdkZqcHRxTExtXzF3dldJemJSWjE1QUg0RTgwb3Y2NXhIUzN0RkZ6UGF4ejVZQm1jZjYxR2IzWC1uTlNKeERFNkJCdGNPTkFSaUVjWDFLTEM3cERsQ1c1SUFPR2hwX2xoWWxqbzZiaGozVDJXRFpYTmZRVjB5amtrZG1kUUdEd09XYzQ5ZEFnSDFCeHhsRkN5OWZLSnltaFlnenozS0hIT3o0OUhwdXotbkY",
-      "headline": "Elaine Luria speaks with veterans on 6-month anniversary of Iran war",
-      "outlet": "13News Now (WVEC)",
-      "outlet_domain": "13newsnow.com",
-      "local": true,
-      "date": "2026-08-28T07:00:00.000Z",
-      "link": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxPWWQyc0FHS0p6bHJNaXpROWNINV95YVZ0TjN6WTZEQThNN0JZY0dkakVzdXpzNXFnVC1IT09qUlRjaG1qci1fdkZqcHRxTExtXzF3dldJemJSWjE1QUg0RTgwb3Y2NXhIUzN0RkZ6UGF4ejVZQm1jZjYxR2IzWC1uTlNKeERFNkJCdGNPTkFSaUVjWDFLTEM3cERsQ1c1SUFPR2hwX2xoWWxqbzZiaGozVDJXRFpYTmZRVjB5amtrZG1kUUdEd09XYzQ5ZEFnSDFCeHhsRkN5OWZLSnltaFlnenozS0hIT3o0OUhwdXotbkY?oc=5",
-      "candidates": [
-        "luria"
-      ],
-      "tags": [],
-      "official": false
-    },
-    {
-      "id": "CBMihgFBVV95cUxQSUNMUkdZa3hKbU1ST2poZGxsV2dIVzlnSHNmOExXR1pKYXZLZG1qNHJmcm5wRzZqS1NrWmpMMmVSR3g5TC1qQ1FneGdoV3dta01SeDlpbGhYSE51SFg2Qlo4Y2stUmszRkNBdUlSelg1MWprSzl1cXkyaFJFUWhMV0loM2k0Zw",
-      "headline": "Elaine Luria speaks with veterans on 6-month anniversary of Iran war",
-      "outlet": "Yahoo",
-      "outlet_domain": "yahoo.com",
-      "local": false,
-      "date": "2026-08-28T07:00:00.000Z",
-      "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQSUNMUkdZa3hKbU1ST2poZGxsV2dIVzlnSHNmOExXR1pKYXZLZG1qNHJmcm5wRzZqS1NrWmpMMmVSR3g5TC1qQ1FneGdoV3dta01SeDlpbGhYSE51SFg2Qlo4Y2stUmszRkNBdUlSelg1MWprSzl1cXkyaFJFUWhMV0loM2k0Zw?oc=5",
-      "candidates": [
-        "luria"
-      ],
-      "tags": [],
-      "official": false
-    },
-    {
-      "id": "CBMicEFVX3lxTE5HNVg1dEk2dzI1aDNPcWdTR05hOU0zMUZYanBUUkJkN2huT2hGcGJfQTBWVkVoOWRoSk5EUzcxODRzcmhYeV96ZXpPYm1yMDVDendxSlpzTUk2TXZIZk1EQk0yclEySHVIeEVfWnNIYXM",
-      "headline": "Kiggans campaigns with Dr. Oz, touts support for GOP healthcare initiatives",
-      "outlet": "The Virginian-Pilot",
-      "outlet_domain": "pilotonline.com",
-      "local": true,
-      "date": "2026-08-28T07:00:00.000Z",
-      "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5HNVg1dEk2dzI1aDNPcWdTR05hOU0zMUZYanBUUkJkN2huT2hGcGJfQTBWVkVoOWRoSk5EUzcxODRzcmhYeV96ZXpPYm1yMDVDendxSlpzTUk2TXZIZk1EQk0yclEySHVIeEVfWnNIYXM?oc=5",
-      "candidates": [
-        "kiggans"
-      ],
-      "tags": [],
-      "official": false
-    },
-    {
-      "id": "CBMi7wFBVV95cUxQMGFnRlVrZG1jeWJPOFhUVnhzckVhdXd6alpYdFRLLTFyRGhHSE5KZVhBalNkQ19iWW5kYWlBWEFZNHF3cmxqdlFkcWYwUC15M3d0blg4c2ZsZTFTV1Q2Q01xb2FIb3NjZ1dvcnpIRnU0SFRfWFhNMF9ncTZCdzd0ODdLS3A5bGVGTXBrcXJJek5PaElIdUViT2Q5TW9QNU12VHBFMjNrdnBTalNEUGQ5STlLTGZibDQwTGRxMVduUTR3dE56UU1DMnBpOTlodndfbkh2Yk80Q1ZsSUNIVXBRNm5uOWcwVFk1Ty1yQWQ5NA",
-      "headline": "Kiggans, Luria campaign across Virginia’s 2nd District with healthcare, Iran war at center of race",
-      "outlet": "13News Now (WVEC)",
-      "outlet_domain": "13newsnow.com",
-      "local": true,
-      "date": "2026-08-28T07:00:00.000Z",
-      "link": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxQMGFnRlVrZG1jeWJPOFhUVnhzckVhdXd6alpYdFRLLTFyRGhHSE5KZVhBalNkQ19iWW5kYWlBWEFZNHF3cmxqdlFkcWYwUC15M3d0blg4c2ZsZTFTV1Q2Q01xb2FIb3NjZ1dvcnpIRnU0SFRfWFhNMF9ncTZCdzd0ODdLS3A5bGVGTXBrcXJJek5PaElIdUViT2Q5TW9QNU12VHBFMjNrdnBTalNEUGQ5STlLTGZibDQwTGRxMVduUTR3dE56UU1DMnBpOTlodndfbkh2Yk80Q1ZsSUNIVXBRNm5uOWcwVFk1Ty1yQWQ5NA?oc=5",
-      "candidates": [
-        "kiggans",
-        "luria"
-      ],
-      "tags": [],
-      "official": false
-    },
-    {
-      "id": "CBMi1wFBVV95cUxQRHN6Nm1qN1lHVmNmRkVPQW9RZnJQSUs4T3R4WE9qMHl1TEgwcEdnU0h2TkFTSlFrWXpwc2hlSUE5ejQyN09RVld5WndVajc2QnZNTGVIQ25LQ202QzJpWmF6Qk5uR19tN2d0eTJld0U5d2xrdTNmenU0V3dieUw1SFE2bUNOODIxUENUUnlCY3RoeG93UUtQUzNTUFVJWHE5TktyRmVoRGlMbTh4bHVVYTRVYzVvMkpMNzh0QmJoNTV0bkRURGY0dGF2MlhFOUNmbkpTVzVSNA",
-      "headline": "U.S. Rep. Jen Kiggans and CMS Administrator Dr. Oz visit TCC",
-      "outlet": "13News Now (WVEC)",
-      "outlet_domain": "13newsnow.com",
-      "local": true,
-      "date": "2026-08-28T07:00:00.000Z",
-      "link": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxQRHN6Nm1qN1lHVmNmRkVPQW9RZnJQSUs4T3R4WE9qMHl1TEgwcEdnU0h2TkFTSlFrWXpwc2hlSUE5ejQyN09RVld5WndVajc2QnZNTGVIQ25LQ202QzJpWmF6Qk5uR19tN2d0eTJld0U5d2xrdTNmenU0V3dieUw1SFE2bUNOODIxUENUUnlCY3RoeG93UUtQUzNTUFVJWHE5TktyRmVoRGlMbTh4bHVVYTRVYzVvMkpMNzh0QmJoNTV0bkRURGY0dGF2MlhFOUNmbkpTVzVSNA?oc=5",
       "candidates": [
         "kiggans"
       ],
