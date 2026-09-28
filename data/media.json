@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-27T17:05:27.576Z",
+  "updated_at": "2026-09-28T19:44:33.050Z",
   "source": "Google News RSS search",
   "queries": [
     "\"Jen Kiggans\"",
@@ -19,6 +19,63 @@
     "kiggans.house.gov"
   ],
   "items": [
+    {
+      "id": "CBMikwFBVV95cUxNUVROUnlua1I0bXhORVBpN3RtY3BaLUdnODVraEVFeHFhS29INEdPR2tMSGI0V0RTYkdOa3ZUOF9ZUHJkWmEwNVRLX1loS09rNHZzQllvQXJCVmM4bXROcnY0R2pCNWVEMklTWWJlMzFVdXVxTC1sVTRXaXN2by1RVEtwZWFHUURlbE9oMHVWZi13LTg",
+      "headline": "Kiggans’ net worth may have grown by millions in Congress",
+      "outlet": "American Journal News",
+      "outlet_domain": "americanjournalnews.com",
+      "local": false,
+      "official": false,
+      "date": "2026-09-28T17:17:36.000Z",
+      "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNUVROUnlua1I0bXhORVBpN3RtY3BaLUdnODVraEVFeHFhS29INEdPR2tMSGI0V0RTYkdOa3ZUOF9ZUHJkWmEwNVRLX1loS09rNHZzQllvQXJCVmM4bXROcnY0R2pCNWVEMklTWWJlMzFVdXVxTC1sVTRXaXN2by1RVEtwZWFHUURlbE9oMHVWZi13LTg?oc=5",
+      "candidates": [
+        "kiggans"
+      ],
+      "tags": []
+    },
+    {
+      "id": "CBMimwFBVV95cUxNOUJSbEtocG45WjJxMXllSjZEX0NyaUNyMWlMNE1wV2JlV04tS3pTdnVnZmZKMUZRN3g2OFZhQ1YzMldnZ3lnZy1sa3U2ak96ekF0dXd5Z0F4eU1YYlpzZzZxRFpJYl80U0pQTHU0cXZxZnhqVUZScHZWUlkxWjZnbnZaUGhSQjRlRk1FMXJPa2tObE5jZnZGZWVYVQ",
+      "headline": "The Turnout Math Behind Virginia’s Most-Watched House Race",
+      "outlet": "theroanokestar.com",
+      "outlet_domain": "theroanokestar.com",
+      "local": false,
+      "official": false,
+      "date": "2026-09-28T13:37:40.000Z",
+      "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNOUJSbEtocG45WjJxMXllSjZEX0NyaUNyMWlMNE1wV2JlV04tS3pTdnVnZmZKMUZRN3g2OFZhQ1YzMldnZ3lnZy1sa3U2ak96ekF0dXd5Z0F4eU1YYlpzZzZxRFpJYl80U0pQTHU0cXZxZnhqVUZScHZWUlkxWjZnbnZaUGhSQjRlRk1FMXJPa2tObE5jZnZGZWVYVQ?oc=5",
+      "candidates": [
+        "kiggans"
+      ],
+      "tags": []
+    },
+    {
+      "id": "CBMi0AFBVV95cUxNVHYybjhxRkxncU56b3c5LWJUck5lR2xWVlprU201SUtqLUhhVTFxNDZySWVYcmpjSEV0ZzRKc2kxUlhhRnVZaFdXNThjZFNySDhhVHJZQ0hiZ0gtQVl3Mk5BTE16THpDZVhqZ2ZHaDd5RWdQa2VXSk9zYTV4TkdmX0xHbV9qRkxhQ3gtdkwyX3NvbEt0dDlpLWZmd3RKQTdNSk9GNW43T0E5MVVycTMzVEc1WkZ2NTM0TXg3R0Nyblh3QnZHSEZ6aUgxU0RDWGNC",
+      "headline": "Luria and Kiggans rematch in Va.’s 2nd Congressional District among most-watched races in nation",
+      "outlet": "virginiamercury.com",
+      "outlet_domain": "virginiamercury.com",
+      "local": false,
+      "official": false,
+      "date": "2026-09-28T09:58:52.000Z",
+      "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxNVHYybjhxRkxncU56b3c5LWJUck5lR2xWVlprU201SUtqLUhhVTFxNDZySWVYcmpjSEV0ZzRKc2kxUlhhRnVZaFdXNThjZFNySDhhVHJZQ0hiZ0gtQVl3Mk5BTE16THpDZVhqZ2ZHaDd5RWdQa2VXSk9zYTV4TkdmX0xHbV9qRkxhQ3gtdkwyX3NvbEt0dDlpLWZmd3RKQTdNSk9GNW43T0E5MVVycTMzVEc1WkZ2NTM0TXg3R0Nyblh3QnZHSEZ6aUgxU0RDWGNC?oc=5",
+      "candidates": [
+        "kiggans",
+        "luria"
+      ],
+      "tags": []
+    },
+    {
+      "id": "CBMipAFBVV95cUxPU1ZzM09sTTNaeGpTd3o4bjFOdUdJRGNteXUyWC14ZTladGdJdGUxT3RfMk1rWGZsRUlzLWdyUHpqWjVyQkdMNzhfUWhUaktLQU5WUmI2OTFwZDhEZWxwS3JENHNRY0lIejlpNENmR0FLOWdWdTdwazktMU1kdlloSmtnamhISXBxLVVobFJRQ1NXQ2pjWEVGazFnd1FIbHRIbVU0Ug",
+      "headline": "Letters for Sept. 28: Pick up litter to keep Hampton Roads clean",
+      "outlet": "The Virginian-Pilot",
+      "outlet_domain": "pilotonline.com",
+      "local": true,
+      "official": false,
+      "date": "2026-09-27T20:02:14.000Z",
+      "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPU1ZzM09sTTNaeGpTd3o4bjFOdUdJRGNteXUyWC14ZTladGdJdGUxT3RfMk1rWGZsRUlzLWdyUHpqWjVyQkdMNzhfUWhUaktLQU5WUmI2OTFwZDhEZWxwS3JENHNRY0lIejlpNENmR0FLOWdWdTdwazktMU1kdlloSmtnamhISXBxLVVobFJRQ1NXQ2pjWEVGazFnd1FIbHRIbVU0Ug?oc=5",
+      "candidates": [
+        "kiggans"
+      ],
+      "tags": []
+    },
     {
       "id": "CBMiiwJBVV95cUxNenFtU29CbkpOc3NCWVpQTjI0ZTRMaHNhVXNPNzRPcFBIS3ZWczExVFhBQ3NIWVNSUl9hZkhRSHB5bTM0M3BINWNjZ3p6TmxTMU9Ed21Fc2VUU19wR0pJX2k5YmY0WmpxUkM4MllEU0VaZnBYNFlRNlFxaVhnMHkxQ3dZWVNma29SZGY2Y2NSRS1SMFJWRlczcUdzanctQ2YtTEdHLUhHWktwRnhVUk9Fb3NLYjN1NTIyTFlrTjFQME9VRXRfWk9OUDBwNUhjY1VjaWFaYlR2eW02Nmc3QmtTTkJDMmJCOUE0MEVMaFF3aG5lM3dzSmxkQjdtQWhUMV9SU3Nvc3d5RG9yb28",
       "headline": "Virginia's 2nd Congressional District candidates hit campaign trail in Hampton Roads as early voting continues",
@@ -104,6 +161,20 @@
       ],
       "tags": [],
       "official": false
+    },
+    {
+      "id": "CBMiqAFBVV95cUxNNHd5elZobFRzdTFNZEhYQVpHVFVFdS1CWExiM3V0azV5dnR1VlVpTEZvakJzNkhzS3R3NnNTRXdudDZWWXZ3LUtleXU0US1IZDM0VkM0YW5FM2hyUmV4SEtMTlN4aXlxWTE5N29tRENNTnlyS1BvV0hjSWdpeEZ2NTRRdExQRk1MczYzRWZLUHZBQ1NYZWNQRmJFRXFkMzUxdkM1NTNEaUs",
+      "headline": "House advances Kiggans’ bipartisan bill to protect historic battlefields",
+      "outlet": "Ripon Advance",
+      "outlet_domain": "riponadvance.com",
+      "local": false,
+      "official": false,
+      "date": "2026-09-25T21:21:33.000Z",
+      "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNNHd5elZobFRzdTFNZEhYQVpHVFVFdS1CWExiM3V0azV5dnR1VlVpTEZvakJzNkhzS3R3NnNTRXdudDZWWXZ3LUtleXU0US1IZDM0VkM0YW5FM2hyUmV4SEtMTlN4aXlxWTE5N29tRENNTnlyS1BvV0hjSWdpeEZ2NTRRdExQRk1MczYzRWZLUHZBQ1NYZWNQRmJFRXFkMzUxdkM1NTNEaUs?oc=5",
+      "candidates": [
+        "kiggans"
+      ],
+      "tags": []
     },
     {
       "id": "CBMi6wFBVV95cUxOdUstd1piYlo1M0w5NVlmVjQ3bGRyMktPSWxYWEtFYnBKU2FuZElMU0t0RmlMelREdnJYZkg3WDJjUW43NHVTVEVMdVFpRFdqMFJEUUI2cTNUOXhfLUN3QUZEcFZKYTRzRnJWRzFCX0Jid2JneVRvb28xS2xwdmdVc1RrS05BbzQzN0VKcjNUeVlOd09QZGhQUnd0TVhMa3ZCSTFwU3hnNEx2VVdELWtRUHZZNzVKaWc0OGd0UC1IcWl4cnBvMHpRbGlkMERsdG9pV245ekRyOUFpN3d2MmN1ZVNza29iUDBZcmQw",
@@ -439,6 +510,20 @@
       ]
     },
     {
+      "id": "CBMilAFBVV95cUxOMWxrVkhpXzhHNXE3aTFSdDRRcEVDRERCUE9XamxmNm56OGRVV2s3WHo4cW5IODdqbGd6YTlZLWtZRWxIX2Z2TmRjUldyYVc4LWVKUlZhZkJqajhkNlFsajItT0NidTJ0VHFoUWZfNFRkWnNxdVlNeFFJclhVSHpjVUpJbUFjLXFHN0lYYXRtUUJQbGs2",
+      "headline": "ICYMI: Luria’s Democrat Party Blocks Bill to Lower Energy Costs",
+      "outlet": "National Republican Congressional Committee",
+      "outlet_domain": "nrcc.org",
+      "local": false,
+      "official": false,
+      "date": "2026-09-18T07:00:00.000Z",
+      "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOMWxrVkhpXzhHNXE3aTFSdDRRcEVDRERCUE9XamxmNm56OGRVV2s3WHo4cW5IODdqbGd6YTlZLWtZRWxIX2Z2TmRjUldyYVc4LWVKUlZhZkJqajhkNlFsajItT0NidTJ0VHFoUWZfNFRkWnNxdVlNeFFJclhVSHpjVUpJbUFjLXFHN0lYYXRtUUJQbGs2?oc=5",
+      "candidates": [
+        "luria"
+      ],
+      "tags": []
+    },
+    {
       "id": "CBMivgFBVV95cUxPYXZsU3Ryck5jWE1kcEpDOU16ZENDQkJyYXJYdTE0VjhFT0t1MXFSLV9aMFRZZXh0czZjZi1wQmtSS1FsTU8xd1hldXlRUE5ELW5XTHFSbGFpRnEtMC1HRVZreVRJVm5vUlpZTklTdVBkUWhhaV9ILWVCOUZjN29qaXdwYk1kTnp0YzUxV1pQM01PTm44SHNPX0dMSHNEemJhNTJYeXBhWEJvQ3F0OWthd0xEMTJZWWp5MkxMVjRn",
       "headline": "Kiggans’ Statement on New Federal Approach to Improving Chesapeake Bay Water Quality",
       "outlet": "kiggans.house.gov",
@@ -554,6 +639,20 @@
       "official": false
     },
     {
+      "id": "CBMilwFBVV95cUxNNWtOOUlGUm41YndxakVGS2VrUEtrajV6UjgxWUhxYlQxLXdteVQ2ZVlJbjVzSXM4Nkd4ZVpEQmQ1MG9LZ3NTTXlQaW5DOTlIWHl6bWhwRUlBU2E1dnRHc1hEYnNyM0JfT0VBd2tUWUljRUdIRXcycU9wSEFMUEtFb3NmMGZwbFZRb3FNd0ZRaUpfeUpQSzhB",
+      "headline": "Candidate Profile: Elaine G. Luria (2nd District, Virginia House of Representatives)",
+      "outlet": "Yahoo",
+      "outlet_domain": "yahoo.com",
+      "local": false,
+      "official": false,
+      "date": "2026-09-10T07:00:00.000Z",
+      "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNNWtOOUlGUm41YndxakVGS2VrUEtrajV6UjgxWUhxYlQxLXdteVQ2ZVlJbjVzSXM4Nkd4ZVpEQmQ1MG9LZ3NTTXlQaW5DOTlIWHl6bWhwRUlBU2E1dnRHc1hEYnNyM0JfT0VBd2tUWUljRUdIRXcycU9wSEFMUEtFb3NmMGZwbFZRb3FNd0ZRaUpfeUpQSzhB?oc=5",
+      "candidates": [
+        "luria"
+      ],
+      "tags": []
+    },
+    {
       "id": "CBMimAFBVV95cUxPX2NwRnBiRXJWR0M3NEQ5V3hmZWE1M3RYTjJIMVhqbmxCLTZSc2JFQWkwbE0yTmJsWmczNXZTMUY5M0lpQXlXOTg3OWJfQ3dnOHYwUVNkT2hydDJxbVdkQ1dkenBid3Raeng0Ml9adkE4Mlp2QlgwYzdPeVhlM2k0VmFxaHdhaTBBdTRvWnRxYmFRUkJ5eWdiRw",
       "headline": "Candidate Profile: Jen Kiggans (2nd District, Virginia House of Representatives)",
       "outlet": "Yahoo",
@@ -666,6 +765,20 @@
       ],
       "tags": [],
       "official": false
+    },
+    {
+      "id": "CBMikAFBVV95cUxObE5LeW8xWjI5N0FETkdORUZVSlROSklfU01JRUpsSlhMM1hpeUlkZDdsNVYwTXE3NUpScjhZMks5SVNyMWctNk04UFpRSlpuTTl3Wm1oUHdoQ2hyWWU0dlR0azBDY2l6Qm4yV0QxTFNQYUZNYjZrclFzZUVHM0h2V3BiTjJYNjZrWGNWbkFnb3Q",
+      "headline": "Virginia 2nd District candidates Luria, Kiggans lay out health care plans",
+      "outlet": "Yahoo",
+      "outlet_domain": "yahoo.com",
+      "local": false,
+      "official": false,
+      "date": "2026-09-09T07:00:00.000Z",
+      "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxObE5LeW8xWjI5N0FETkdORUZVSlROSklfU01JRUpsSlhMM1hpeUlkZDdsNVYwTXE3NUpScjhZMks5SVNyMWctNk04UFpRSlpuTTl3Wm1oUHdoQ2hyWWU0dlR0azBDY2l6Qm4yV0QxTFNQYUZNYjZrclFzZUVHM0h2V3BiTjJYNjZrWGNWbkFnb3Q?oc=5",
+      "candidates": [
+        "luria"
+      ],
+      "tags": []
     },
     {
       "id": "CBMitAFBVV95cUxPMW9iaWhGbno4RGZxMGdyM3hFQWRWS29JT1FGM0pILXI3Mi1kZGsxRlNaZFBhbHhvM3QxQzBTV0Fwbm15WEszZm1taV9qUFBuYWdlQ2JlYXJPUHVKdG5zbTQzQ19zM1VmMFVPSkxDOGFURV9DVTVYb1RGT0k5b3ZEMjg3VzFOQlRQMmk5eFd5LTJMU2t6akhlQU5xVk1xUG5lVGpGWTFEOFZPSlc5eHBJcUVrWFA",
