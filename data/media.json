@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-28T19:44:33.050Z",
+  "updated_at": "2026-09-29T18:09:30.082Z",
   "source": "Google News RSS search",
   "queries": [
     "\"Jen Kiggans\"",
@@ -19,6 +19,34 @@
     "kiggans.house.gov"
   ],
   "items": [
+    {
+      "id": "CBMilAFBVV95cUxNNlBEZzRJMGY1VlJxalM4OFhzYVExTkFfQmttYTVfT1lYQjNVQ2R6NjJ2Zk92MDh0T2ZpajRkbUQyTGNVdWhOcWJPZGxBbzhKV19RSkdiMFBrWWVfanUxOUVCQ041bkpvdDNKUnlpellsclc5bmI1MWItV1V4RmVsVjNkdjJhVGh2Qzg4TU8xLTN4SUJr",
+      "headline": "Kiggans, Mizusawa and former Gov. Youngkin to hold rally in Exmore",
+      "outlet": "Shore Daily News",
+      "outlet_domain": "shoredailynews.com",
+      "local": false,
+      "official": false,
+      "date": "2026-09-29T10:39:15.000Z",
+      "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNNlBEZzRJMGY1VlJxalM4OFhzYVExTkFfQmttYTVfT1lYQjNVQ2R6NjJ2Zk92MDh0T2ZpajRkbUQyTGNVdWhOcWJPZGxBbzhKV19RSkdiMFBrWWVfanUxOUVCQ041bkpvdDNKUnlpellsclc5bmI1MWItV1V4RmVsVjNkdjJhVGh2Qzg4TU8xLTN4SUJr?oc=5",
+      "candidates": [
+        "kiggans"
+      ],
+      "tags": []
+    },
+    {
+      "id": "CBMiwwFBVV95cUxPcjNfWWdCZlB0XzZnLWFCVFBTRDNXd1JFbjh1OVpBSkxyRWN3akZXeUVuOUNueHExMnFEYUhYdEZhN3BoS1pOeDNneFN4MGJRa3JJYjZZUlo4aXJrSEVfVkZWY3I0MVMtcThyanUwQ1RNUWxfaGJ5MWFTWUtWc25ROHN0a0FfUXlWN1RPQ0ZLOXdWVFo0bGh0SklXVk10TWpYMjJWcDhZcV9Hekg2SDJoOEI1ZnZOd0dsbl81alI4QkkwU1U",
+      "headline": "Trump excited for McGuire-Wittman-Kiggans 'threesome'",
+      "outlet": "The Daily Progress",
+      "outlet_domain": "dailyprogress.com",
+      "local": false,
+      "official": false,
+      "date": "2026-09-29T10:00:00.000Z",
+      "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPcjNfWWdCZlB0XzZnLWFCVFBTRDNXd1JFbjh1OVpBSkxyRWN3akZXeUVuOUNueHExMnFEYUhYdEZhN3BoS1pOeDNneFN4MGJRa3JJYjZZUlo4aXJrSEVfVkZWY3I0MVMtcThyanUwQ1RNUWxfaGJ5MWFTWUtWc25ROHN0a0FfUXlWN1RPQ0ZLOXdWVFo0bGh0SklXVk10TWpYMjJWcDhZcV9Hekg2SDJoOEI1ZnZOd0dsbl81alI4QkkwU1U?oc=5",
+      "candidates": [
+        "kiggans"
+      ],
+      "tags": []
+    },
     {
       "id": "CBMikwFBVV95cUxNUVROUnlua1I0bXhORVBpN3RtY3BaLUdnODVraEVFeHFhS29INEdPR2tMSGI0V0RTYkdOa3ZUOF9ZUHJkWmEwNVRLX1loS09rNHZzQllvQXJCVmM4bXROcnY0R2pCNWVEMklTWWJlMzFVdXVxTC1sVTRXaXN2by1RVEtwZWFHUURlbE9oMHVWZi13LTg",
       "headline": "Kiggans’ net worth may have grown by millions in Congress",
@@ -119,6 +147,20 @@
       ],
       "tags": [],
       "official": false
+    },
+    {
+      "id": "CBMitwFBVV95cUxPUXZuRjhEMkV5dVBBd3dXNG1RN3gtbkFYSFZiWkhYS3huSlJoLXUyYTZaRUNFTGMzWndLbHQtNUNzb0JTakVMZXJlLWJfMXZhRkdVRTRuNWJCRm8xN0gzclJvaGptaDdodXBIaVlhQ1AwNXQwZEFZUVZhR3pmQkRjRW9GRElzNk5oY05aZkt6cERhZUVfdFN5SThER2ROYzBJZ25qbnUxYVJIcldSQTh1Q1FOdkJ1bXc",
+      "headline": "Election 2026 Virginia",
+      "outlet": "Goshen News",
+      "outlet_domain": "goshennews.com",
+      "local": false,
+      "official": false,
+      "date": "2026-09-26T17:19:35.000Z",
+      "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPUXZuRjhEMkV5dVBBd3dXNG1RN3gtbkFYSFZiWkhYS3huSlJoLXUyYTZaRUNFTGMzWndLbHQtNUNzb0JTakVMZXJlLWJfMXZhRkdVRTRuNWJCRm8xN0gzclJvaGptaDdodXBIaVlhQ1AwNXQwZEFZUVZhR3pmQkRjRW9GRElzNk5oY05aZkt6cERhZUVfdFN5SThER2ROYzBJZ25qbnUxYVJIcldSQTh1Q1FOdkJ1bXc?oc=5",
+      "candidates": [
+        "kiggans"
+      ],
+      "tags": []
     },
     {
       "id": "CBMiogFBVV95cUxNS04xWXl4UXdubGFmLUVYaDFMellNTUtwTnNYSXQ3ZnN3Rl9tdkRVbkppclJWdjZmXy1VXzF0Y3BsUnoyX2R2N1hsQXZSLTBUaG9iaDdfR1YtSUlFT3BYWWxPdV9OU2ZlcFlPOWZXZ2lKcUU1TVVFT3RYanFCQWh1VjFiekRRckhHaUM3SDVrTE9PUnNZR0d3MXVpSU1Ndl95aVE",
@@ -776,6 +818,7 @@
       "date": "2026-09-09T07:00:00.000Z",
       "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxObE5LeW8xWjI5N0FETkdORUZVSlROSklfU01JRUpsSlhMM1hpeUlkZDdsNVYwTXE3NUpScjhZMks5SVNyMWctNk04UFpRSlpuTTl3Wm1oUHdoQ2hyWWU0dlR0azBDY2l6Qm4yV0QxTFNQYUZNYjZrclFzZUVHM0h2V3BiTjJYNjZrWGNWbkFnb3Q?oc=5",
       "candidates": [
+        "kiggans",
         "luria"
       ],
       "tags": []
