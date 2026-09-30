@@ -287,8 +287,8 @@
       "as_of": "May 8, 2026"
     },
     "inside": {
-      "rating": "Toss-up",
-      "as_of": "December 5, 2025"
+      "rating": "Toss Up",
+      "as_of": "May 8, 2026"
     },
     "sabato": {
       "rating": "Lean D",
@@ -298,8 +298,8 @@
   "status": {
     "cnu": "ok",
     "wikipedia": "ok",
-    "cook": "error",
-    "inside": "error",
+    "cook": "ok",
+    "inside": "ok",
     "sabato": "ok"
   }
 }

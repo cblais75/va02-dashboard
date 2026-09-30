@@ -5,9 +5,11 @@
 //   - Wikipedia, "2026 United States House of Representatives elections in Virginia",
 //     District 2 > Polling tables (via the MediaWiki API)
 //   Ratings:
-//   - Cook Political Report race page, Inside Elections' Kiggans page
-//   - Sabato's Crystal Ball: its site blocks automated requests, so the rating is read
-//     from the same Wikipedia page's District 2 > Predictions table
+//   - Cook Political Report race page, Inside Elections' Kiggans page. Both block
+//     requests from GitHub's servers, so when a page can't be read the rating comes
+//     from the outlet's row in the same Wikipedia page's District 2 > Predictions table.
+//   - Sabato's Crystal Ball: its site blocks all automated requests, so its rating
+//     always comes from that Wikipedia table.
 // What has already been seen is kept in data/poll_watch.json. A source that can't be
 // read is reported once when it starts failing, not every day.
 //
@@ -33,9 +35,9 @@ const CNU_URL = "https://cnu.edu/wasoncenter/surveys/";
 const WIKI_PAGE = "2026_United_States_House_of_Representatives_elections_in_Virginia";
 const WIKI_URL = `https://en.wikipedia.org/wiki/${WIKI_PAGE}`;
 const RATING_PAGES = {
-  cook: { outlet: "Cook Political Report", url: "https://www.cookpolitical.com/house/race/485441" },
-  inside: { outlet: "Inside Elections", url: "https://insideelections.com/person/jennifer-kiggans/" },
-  sabato: { outlet: "Sabato's Crystal Ball", url: "https://centerforpolitics.org/crystalball/2026-rating-changes/" },
+  cook: { outlet: "Cook Political Report", url: "https://www.cookpolitical.com/house/race/485441", wiki: /cook/i },
+  inside: { outlet: "Inside Elections", url: "https://insideelections.com/person/jennifer-kiggans/", wiki: /inside elections/i },
+  sabato: { outlet: "Sabato's Crystal Ball", url: "https://centerforpolitics.org/crystalball/2026-rating-changes/", wiki: /sabato/i },
 };
 const VA02 = /kiggans|luria|\bva-?0?2\b|2nd (congressional )?district|second (congressional )?district/i;
 
@@ -138,15 +140,19 @@ function raceRating(cell) {
   return party ? `${level} ${party.toUpperCase()}` : level;
 }
 
-async function sabatoRating() {
-  for (const text of await district2Sections(/predictions/i)) {
+// An outlet's row in Wikipedia's District 2 > Predictions table (fetched once per run).
+let predictions;
+async function wikiRating(pattern, outlet) {
+  predictions ||= await district2Sections(/predictions/i);
+  for (const text of predictions) {
     for (const raw of text.split(/\n\|-[^\n]*/)) {
-      if (!/sabato/i.test(raw)) continue;
       const cells = raw.split("\n").filter((l) => l.startsWith("|") && !l.startsWith("|}")).flatMap((l) => l.slice(1).split("||"));
-      if (cells.length >= 3) return { rating: raceRating(cells[1]), as_of: wikiText(cells[2]) };
+      if (cells.length >= 3 && pattern.test(wikiText(cells[0]))) {
+        return { rating: raceRating(cells[1]), as_of: wikiText(cells[2]), via: "wikipedia" };
+      }
     }
   }
-  throw new Error("no Sabato's Crystal Ball row in Wikipedia's VA-02 Predictions table");
+  throw new Error(`no ${outlet} row in Wikipedia's VA-02 Predictions table`);
 }
 
 const BROWSER_UA = "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0 Safari/537.36";
@@ -170,7 +176,7 @@ async function cookRating() {
   const rating = page.match(/race-rating-data-right[^"]*">\s*<span>([^<]+)<\/span>/);
   const updated = page.match(/race-rating-update">\s*Last updated\s*:\s*([^<]+)</);
   if (!rating) throw new Error("couldn't find the race rating on the page (layout may have changed)");
-  return { rating: clean(rating[1]), as_of: updated ? clean(updated[1]) : null };
+  return { rating: clean(rating[1]), as_of: updated ? clean(updated[1]) : null, via: "site" };
 }
 
 async function insideRating() {
@@ -178,7 +184,21 @@ async function insideRating() {
   const rating = page.match(/Current Rating<\/span>\s*<div[^>]*>\s*<span class="rating-badge[^"]*">([^<]+)<\/span>/);
   const date = page.match(/current-rating"[^>]*>\s*<div[^>]*>\s*<date>([^<]+)<\/date>/);
   if (!rating) throw new Error("couldn't find the current rating on the page (layout may have changed)");
-  return { rating: clean(rating[1]), as_of: date ? clean(date[1]) : null };
+  return { rating: clean(rating[1]), as_of: date ? clean(date[1]) : null, via: "site" };
+}
+
+// The outlet's own page first; if that's blocked or unreadable, its Wikipedia row.
+async function readRating(id) {
+  const page = RATING_PAGES[id];
+  const direct = { cook: cookRating, inside: insideRating }[id];
+  if (direct) {
+    try {
+      return await direct();
+    } catch (err) {
+      console.log(`${page.outlet}: ${err.message}; using Wikipedia instead.`);
+    }
+  }
+  return wikiRating(page.wiki, page.outlet);
 }
 
 // "Toss-up", "Tossup" and "Toss Up" match; "Leans Democratic" matches "Lean D".
@@ -239,15 +259,15 @@ async function main() {
 
   // Race ratings: report a change from the last rating seen for each outlet.
   const ratingChanges = [];
-  for (const [id, read] of [["cook", cookRating], ["inside", insideRating], ["sabato", sabatoRating]]) {
+  for (const id of Object.keys(RATING_PAGES)) {
     const page = RATING_PAGES[id];
     try {
-      const now = await read();
+      const { via, ...now } = await readRating(id);
       const before = prev.ratings[id];
       if (before && !sameRating(before.rating, now.rating)) {
         const shown = (manual.ratings || []).find((r) => r.outlet === page.outlet)?.rating;
-        const via = id === "sabato" ? ` (read from [Wikipedia](${WIKI_URL}#District_2); [Crystal Ball](${page.url}))` : ` ([source](${page.url}))`;
-        ratingChanges.push(`- [ ] ${md(page.outlet)}: ${md(before.rating)} → **${md(now.rating)}**${now.as_of ? `, updated ${md(now.as_of)}` : ""}${via}. The dashboard shows ${md(shown || "no rating")}.`);
+        const where = via === "site" ? ` ([source](${page.url}))` : ` (read from [Wikipedia](${WIKI_URL}#District_2); check [${md(page.outlet)}](${page.url}))`;
+        ratingChanges.push(`- [ ] ${md(page.outlet)}: ${md(before.rating)} → **${md(now.rating)}**${now.as_of ? `, updated ${md(now.as_of)}` : ""}${where}. The dashboard shows ${md(shown || "no rating")}.`);
       }
       next.ratings[id] = now;
       next.status[id] = "ok";
