@@ -280,5 +280,26 @@
       "sample": "700 (LV)",
       "results": "Jen Kiggans (R) 47%, Elaine Luria (D) 47%, Undecided 6%"
     }
-  ]
+  ],
+  "ratings": {
+    "cook": {
+      "rating": "Toss Up",
+      "as_of": "May 8, 2026"
+    },
+    "inside": {
+      "rating": "Toss-up",
+      "as_of": "December 5, 2025"
+    },
+    "sabato": {
+      "rating": "Lean D",
+      "as_of": "September 29, 2026"
+    }
+  },
+  "status": {
+    "cnu": "ok",
+    "wikipedia": "ok",
+    "cook": "ok",
+    "inside": "ok",
+    "sabato": "ok"
+  }
 }

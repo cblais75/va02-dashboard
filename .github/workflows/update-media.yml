@@ -2,7 +2,7 @@ name: Update media mentions
 
 # Once a day, pulls Google News results for both candidates into data/media.json.
 # New headlines mentioning endorsements go to the "New endorsements to review" issue;
-# new ones mentioning debates or polls go to "New debates or polls to review".
+# new ones mentioning debates or polls go to "New debates, polls or ratings to review".
 on:
   schedule:
     - cron: "29 12 * * *" # 8:29 a.m. EDT / 7:29 a.m. EST, off the top of the hour
@@ -44,7 +44,7 @@ jobs:
         if: steps.media.outputs.debate_poll == 'true'
         env:
           GH_TOKEN: ${{ github.token }}
-        run: bash scripts/open-or-comment-issue.sh "New debates or polls to review" "${{ steps.media.outputs.debate_poll_body }}"
+        run: bash scripts/open-or-comment-issue.sh "New debates, polls or ratings to review" "${{ steps.media.outputs.debate_poll_body }}"
 
       - name: Commit data/media.json if it changed
         run: |

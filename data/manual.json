@@ -14,7 +14,7 @@
     "endorsement_notes: optional note shown under a candidate's column, keyed by candidate id."
   ],
   "takeaways": {
-      "race_overview": "All three major forecasters rate this race a Toss Up.",
+      "race_overview": "Sabato's Crystal Ball now leans Democratic; Cook and Inside Elections still call it a Toss Up.",
       "fundraising": "Kiggans has raised more, but Luria has slightly more cash left to spend — she's saving for the final stretch. (As of July 15 reports.)",
       "endorsements": "Luria has stacked up party, union and group support. Kiggans's campaign doesn't publish an endorsement list.",
       "media_mentions": "",
@@ -40,10 +40,10 @@
       "note": "Represented VA-02, 2019–2023"
     }
   ],
-  "ratings_last_checked": "2026-09-25",
+  "ratings_last_checked": "2026-09-30",
   "ratings": [
     { "outlet": "Cook Political Report", "rating": "Toss Up", "as_of": null, "url": "https://www.cookpolitical.com" },
-    { "outlet": "Sabato's Crystal Ball", "rating": "Toss Up", "as_of": null, "url": "https://centerforpolitics.org/crystalball/" },
+    { "outlet": "Sabato's Crystal Ball", "rating": "Lean D", "as_of": "2026-09-30", "url": "https://centerforpolitics.org/crystalball/will-republicans-wake-up-as-september-ends-11-more-house-ratings-changes-towards-democrats/" },
     { "outlet": "Inside Elections", "rating": "Toss Up", "as_of": null, "url": "https://insideelections.com" }
   ],
   "polling": {
