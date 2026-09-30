@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-29T18:09:30.082Z",
+  "updated_at": "2026-09-30T18:02:28.531Z",
   "source": "Google News RSS search",
   "queries": [
     "\"Jen Kiggans\"",
@@ -19,6 +19,36 @@
     "kiggans.house.gov"
   ],
   "items": [
+    {
+      "id": "CBMipAFBVV95cUxPbncxUUJLRlNOaFdXUEdtSHljMUVNQ2NpbmpxWmZ5bzRnLXdzbkFZRjRJSjg2NGJRSlk2ek9DanJxOGZ4NGxoMzkycEk2VzdVWWtCSUNIWEkyc1ctTm1ldzRianZ4Umdlc2FFQXlFZXF3VU0xNVE0azFrVmFQVGdnWmVXNVZDUmYwRVBxa2paTjdidnJIYmVKRENKQ2hXZG1QMUF4Uw",
+      "headline": "DMFI launches $1 million ad campaign supporting Elaine Luria",
+      "outlet": "Jewish Insider",
+      "outlet_domain": "jewishinsider.com",
+      "local": false,
+      "official": false,
+      "date": "2026-09-30T00:11:36.000Z",
+      "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPbncxUUJLRlNOaFdXUEdtSHljMUVNQ2NpbmpxWmZ5bzRnLXdzbkFZRjRJSjg2NGJRSlk2ek9DanJxOGZ4NGxoMzkycEk2VzdVWWtCSUNIWEkyc1ctTm1ldzRianZ4Umdlc2FFQXlFZXF3VU0xNVE0azFrVmFQVGdnWmVXNVZDUmYwRVBxa2paTjdidnJIYmVKRENKQ2hXZG1QMUF4Uw?oc=5",
+      "candidates": [
+        "kiggans",
+        "luria"
+      ],
+      "tags": []
+    },
+    {
+      "id": "CBMikgJBVV95cUxNUk0yUGx4dzBUNHFTWHR3WjFnblV4Q1VabWZhSWJocktpWUl2SGtMT0U5TmhMdGpFREVoS3JxZkdGVlRwQWk3Vlo2a0JSZWFqREpISnlBa0Rwa21aMVNfUzZleDZmam9ERTdDV0MwT0VYLUk4LWJZbUYwOEpta0VXanNvdzVvN2pvSkpjaWFGSFhnbmJpV0xtMFQyNEMtZ0xJS1l2azJpS2puSnlRaHlidjVDWTlEZmNCZ0pyUFNBWko4NW5fUmgwaUluWmwxN2VUZTk3Sjkxb2hxT1NOQmczMVFnZndxdzFmaDRQSFAzaGkyRmpiQ0t4T1N0eEJsTVlnb1I2M2twTW5aUF9xSUlJek1n",
+      "headline": "Video: Elaine Luria Releases Ad Invoking Ronald Reagan and Asking a Simple Question: Is Hampton Roads Better Off After 4 Years of Jen Kiggans in Congress?",
+      "outlet": "Blue Virginia",
+      "outlet_domain": "bluevirginia.us",
+      "local": false,
+      "official": false,
+      "date": "2026-09-29T18:22:51.000Z",
+      "link": "https://news.google.com/rss/articles/CBMikgJBVV95cUxNUk0yUGx4dzBUNHFTWHR3WjFnblV4Q1VabWZhSWJocktpWUl2SGtMT0U5TmhMdGpFREVoS3JxZkdGVlRwQWk3Vlo2a0JSZWFqREpISnlBa0Rwa21aMVNfUzZleDZmam9ERTdDV0MwT0VYLUk4LWJZbUYwOEpta0VXanNvdzVvN2pvSkpjaWFGSFhnbmJpV0xtMFQyNEMtZ0xJS1l2azJpS2puSnlRaHlidjVDWTlEZmNCZ0pyUFNBWko4NW5fUmgwaUluWmwxN2VUZTk3Sjkxb2hxT1NOQmczMVFnZndxdzFmaDRQSFAzaGkyRmpiQ0t4T1N0eEJsTVlnb1I2M2twTW5aUF9xSUlJek1n?oc=5",
+      "candidates": [
+        "kiggans",
+        "luria"
+      ],
+      "tags": []
+    },
     {
       "id": "CBMilAFBVV95cUxNNlBEZzRJMGY1VlJxalM4OFhzYVExTkFfQmttYTVfT1lYQjNVQ2R6NjJ2Zk92MDh0T2ZpajRkbUQyTGNVdWhOcWJPZGxBbzhKV19RSkdiMFBrWWVfanUxOUVCQ041bkpvdDNKUnlpellsclc5bmI1MWItV1V4RmVsVjNkdjJhVGh2Qzg4TU8xLTN4SUJr",
       "headline": "Kiggans, Mizusawa and former Gov. Youngkin to hold rally in Exmore",
@@ -87,6 +117,20 @@
       "candidates": [
         "kiggans",
         "luria"
+      ],
+      "tags": []
+    },
+    {
+      "id": "CBMiwgFBVV95cUxPZEtlWXV4VXlXQmxxbjZZSGZEaXhDaXgtVWVlRnRtcC0zaUE1cjNBc1Y1SGxiRzdQZ0h6ck0zQkc3Y1VFdXhKYUJPb0N4c3E5WkFnX0lMZUV4SGhLMHZXNHpKbGp5Y3hTbkNuRm1vamxQYkJsTFNfZkdWd3EtblFiNHRpRjVNQ0NXSzFBUGZPRk10VkgydGN4SXlPWS11UmR2R04zYzE5WllNV0dDUGFwSFFmS0w4eXpWTGYzTEZMOHJidw",
+      "headline": "NEW: Millionaire Jen Kiggans Has Nearly Tripled Her Net Worth Since Joining Congress",
+      "outlet": "thehousemajoritypac.com",
+      "outlet_domain": "thehousemajoritypac.com",
+      "local": false,
+      "official": false,
+      "date": "2026-09-28T07:00:00.000Z",
+      "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPZEtlWXV4VXlXQmxxbjZZSGZEaXhDaXgtVWVlRnRtcC0zaUE1cjNBc1Y1SGxiRzdQZ0h6ck0zQkc3Y1VFdXhKYUJPb0N4c3E5WkFnX0lMZUV4SGhLMHZXNHpKbGp5Y3hTbkNuRm1vamxQYkJsTFNfZkdWd3EtblFiNHRpRjVNQ0NXSzFBUGZPRk10VkgydGN4SXlPWS11UmR2R04zYzE5WllNV0dDUGFwSFFmS0w4eXpWTGYzTEZMOHJidw?oc=5",
+      "candidates": [
+        "kiggans"
       ],
       "tags": []
     },
@@ -175,6 +219,20 @@
       ],
       "tags": [],
       "official": false
+    },
+    {
+      "id": "CBMitAFBVV95cUxOaTRlWWx1ZGZ1SF9fXzQtMk5vU3BmTTlPR1RJNWFhTzFzd2VVdGQ0TDMxUXRJVVpMdUpaQXZtLXJKVzZXV0ItSVk4Z0tHcHRfazQ3ZklCZW8xcDgwd20zYktLY1lNcXlRZmZxaTgzNkFyejBlY1JtNzVnbzl3OUpnSVVWYzhEUG5OWVE1dnJsWTc4NEI3VUhkMVdSUkNUT0Jxbmg1and3VEVXZVVoX2gzS1JtOWs",
+      "headline": "Election 2026 Virginia",
+      "outlet": "Bluefield Daily Telegraph",
+      "outlet_domain": "bdtonline.com",
+      "local": false,
+      "official": false,
+      "date": "2026-09-26T17:19:25.000Z",
+      "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOaTRlWWx1ZGZ1SF9fXzQtMk5vU3BmTTlPR1RJNWFhTzFzd2VVdGQ0TDMxUXRJVVpMdUpaQXZtLXJKVzZXV0ItSVk4Z0tHcHRfazQ3ZklCZW8xcDgwd20zYktLY1lNcXlRZmZxaTgzNkFyejBlY1JtNzVnbzl3OUpnSVVWYzhEUG5OWVE1dnJsWTc4NEI3VUhkMVdSUkNUT0Jxbmg1and3VEVXZVVoX2gzS1JtOWs?oc=5",
+      "candidates": [
+        "kiggans"
+      ],
+      "tags": []
     },
     {
       "id": "CBMikgFBVV95cUxOVmQtZFBZSHV4R3FFWGNIMzZBd2tKeUppaXZSODh4TEJRc1UzSWl0Wm1jcV9FcXBCcU04S3ZpaE1WLXozV0tWLWMzZkdHRDh3UDJ2djJ3TjBjLUlualVuWkU5NmFDSVZLLXpXUkNpeGhIeUpRaWplX1AtZmJXa1JabEJFSzZtUXA4YzFWenAtaTJ0QQ",
@@ -450,6 +508,20 @@
       ],
       "tags": [],
       "official": false
+    },
+    {
+      "id": "CBMihwFBVV95cUxOaW5JNVQ2MDFELUhFdXJ0Q2hKTkN3dTMwcWROOXozLWhuTW53eGFjYkZPRThwNHQxUzNRb2s0Tkd4eHg1MHZxc0o4Z1loa1lCdmVvMWY1WUpyaDRqdTF4VENpWnBFZUVwU3NSVmZVUkt6TUVWazNwdEtCZjRJSmxRLXVUdWRSWms",
+      "headline": "Verify: Claims about Elaine Luria's net worth",
+      "outlet": "Yahoo",
+      "outlet_domain": "yahoo.com",
+      "local": false,
+      "official": false,
+      "date": "2026-09-22T07:00:00.000Z",
+      "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOaW5JNVQ2MDFELUhFdXJ0Q2hKTkN3dTMwcWROOXozLWhuTW53eGFjYkZPRThwNHQxUzNRb2s0Tkd4eHg1MHZxc0o4Z1loa1lCdmVvMWY1WUpyaDRqdTF4VENpWnBFZUVwU3NSVmZVUkt6TUVWazNwdEtCZjRJSmxRLXVUdWRSWms?oc=5",
+      "candidates": [
+        "luria"
+      ],
+      "tags": []
     },
     {
       "id": "CBMivAFBVV95cUxPeHZKVnpJUEllZTBzX2l5NFdUelI0V2xkTnlVaThYQnB2MUhESnBUM1hSamVkVEQ2UmQ3VzRDR2lGUVVkNFQzdjA3ekFSeF9mRU5UWHl5eU44dkNzSFgwWWRwcEVEV0dSSUFoWFFfaGRKanJVTXVmN2s1OUtVNVdBX1J6MDF4bDk0WTVrQ2ZkVTMyY1RNbjRBMDBmRW1PTzBCMjdFb3BjdjREWk5xSTVXNWhBNVU4LUJ5ZjNSNQ",
@@ -880,6 +952,20 @@
       "official": false
     },
     {
+      "id": "CBMikwFBVV95cUxNUU04WkJlSUJqdWdFQWF0VUxmbGlrSEI1bTdXZ2Z6bVVIcVp3WjhPZU9GV3Y1SVlUamx0aEd6S01xdW5kUDhFeURBZWgwVzN3QV8xUDM0NzRfbEdIUFJ2b3QybVZWNWFrVkNYekxwS0NDXzAtY0lQSllULUJiSHFfTk9jTFVXVlE2X0VXRXZMRTFPYUk",
+      "headline": "Commentary: Are you better off than you were before?",
+      "outlet": "Daily Press",
+      "outlet_domain": "dailypress.com",
+      "local": true,
+      "official": false,
+      "date": "2026-09-05T07:00:00.000Z",
+      "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNUU04WkJlSUJqdWdFQWF0VUxmbGlrSEI1bTdXZ2Z6bVVIcVp3WjhPZU9GV3Y1SVlUamx0aEd6S01xdW5kUDhFeURBZWgwVzN3QV8xUDM0NzRfbEdIUFJ2b3QybVZWNWFrVkNYekxwS0NDXzAtY0lQSllULUJiSHFfTk9jTFVXVlE2X0VXRXZMRTFPYUk?oc=5",
+      "candidates": [
+        "kiggans"
+      ],
+      "tags": []
+    },
+    {
       "id": "CBMi1wFBVV95cUxOMmFJWFZGQTRvVlZFbWEzNnZZUnc2aERDaVo3WTA5V0YwN2JCVGdsRERtMmNLeFpjZVlNS01TaXFPY2FOUHd5R2k5OWRaanU5b3hvXzhLUkNmZENUcFBpdU1FMDB1WWdOWGNreGFZbUE5akY1bzVleGd2RXc2MktrckhqLXlSdFd4WUxUbi16aTJDQlJwOFB5dlJRUXA3VWdRdGxJeUZteUNxa1V3T0hzTlNoNTQzWGV4MVVvOXZFQVRCSmFSeTN6cFExTTVBRUJlVHFwUy1QMA",
       "headline": "Luria files lawsuit against Department of Elections questioning validity of Independent candidates’ signatures",
       "outlet": "Virginia Scope",
@@ -963,92 +1049,6 @@
       ],
       "tags": [],
       "official": true
-    },
-    {
-      "id": "CBMiugFBVV95cUxOVk03eUFyWkFWSXpPR2JMS0NhdXhYUHF3cUo5WVlnT0Fob3czOVNMY0RMaURSLTAwbzgyLUNOcFU2eDN5SWhvVUkxNXRrbmpSbFhORkN5aWVHRWFFVjNXWHh6R2ZaTmg1S01TMU5LTlpaRTdfU0J3NmxCaHExMThKV0F2QmZPRVlPR3pwSkF3M3VUb1Y2OTRSNDVHYXk2UWJIcWQxSzFoNm91aVljekVvNlRzaUt5VWgzalE",
-      "headline": "‘Not making us any safer’: Hampton Roads Dem calls out opponent for Iran war support",
-      "outlet": "vadogwood.com",
-      "outlet_domain": "vadogwood.com",
-      "local": false,
-      "date": "2026-08-31T07:00:00.000Z",
-      "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOVk03eUFyWkFWSXpPR2JMS0NhdXhYUHF3cUo5WVlnT0Fob3czOVNMY0RMaURSLTAwbzgyLUNOcFU2eDN5SWhvVUkxNXRrbmpSbFhORkN5aWVHRWFFVjNXWHh6R2ZaTmg1S01TMU5LTlpaRTdfU0J3NmxCaHExMThKV0F2QmZPRVlPR3pwSkF3M3VUb1Y2OTRSNDVHYXk2UWJIcWQxSzFoNm91aVljekVvNlRzaUt5VWgzalE?oc=5",
-      "candidates": [
-        "kiggans",
-        "luria"
-      ],
-      "tags": [],
-      "official": false
-    },
-    {
-      "id": "CBMiwgFBVV95cUxNTy1jY1Jwc3NackZWWmk4cFNzSjhYM0ItWVl0MXg4WTdaTHN1SWg3Rllkd3U2RlBrVVBVTFNiZ1pmek5wY18xQk1RZHVOcjZYWU5ncTFGdl9vWjZvSlh4Q0lpWXRMdnlzOU9WbDhENklVcTgwMjZWek9aVkJBMnRabDNRWWVwd3VudUlJVDltX01odzJpUmg3dzM1aGNlV3VTbG5GOXhMWTBpeHVrdTFvdUxzLXoxLVFzV2NXaDd5V0E0QQ",
-      "headline": "Elaine Luria on her rematch race in Virginia’s 2nd congressional district",
-      "outlet": "MS NOW",
-      "outlet_domain": "ms.now",
-      "local": false,
-      "date": "2026-08-31T07:00:00.000Z",
-      "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNTy1jY1Jwc3NackZWWmk4cFNzSjhYM0ItWVl0MXg4WTdaTHN1SWg3Rllkd3U2RlBrVVBVTFNiZ1pmek5wY18xQk1RZHVOcjZYWU5ncTFGdl9vWjZvSlh4Q0lpWXRMdnlzOU9WbDhENklVcTgwMjZWek9aVkJBMnRabDNRWWVwd3VudUlJVDltX01odzJpUmg3dzM1aGNlV3VTbG5GOXhMWTBpeHVrdTFvdUxzLXoxLVFzV2NXaDd5V0E0QQ?oc=5",
-      "candidates": [
-        "luria"
-      ],
-      "tags": [],
-      "official": false
-    },
-    {
-      "id": "CBMi3gFBVV95cUxQcU41SWJfazNsOFFGOW9qSVZzWGllLXFaLXY4akJMMUFGTDZmY2N2RjZwaWVZMFpNa2J0bUJ2TlFaQWVIVnpTMGVGNVJUdmNycFk1SFBXdTRRSEl0cTMwR0hBU2ptb2pwRFZnbEZQUVFwVFlpTVk5ZFRnVmZmX3BpeFAwSVpvblNzX1FhNUFva1ZsTjBwbnhpZ1l4UF95OVF1UWZuRm1yamRjTnBkN2xyU0FteXJ5NXJ0UHJOeHhyRXMyTWcyeEZLM3hqVThzTkZFaGJLMWZiOXNiLXVQREE",
-      "headline": "Election attack ads: Does Jen Kiggans support the Iran War?",
-      "outlet": "13News Now (WVEC)",
-      "outlet_domain": "13newsnow.com",
-      "local": true,
-      "date": "2026-08-31T07:00:00.000Z",
-      "link": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxQcU41SWJfazNsOFFGOW9qSVZzWGllLXFaLXY4akJMMUFGTDZmY2N2RjZwaWVZMFpNa2J0bUJ2TlFaQWVIVnpTMGVGNVJUdmNycFk1SFBXdTRRSEl0cTMwR0hBU2ptb2pwRFZnbEZQUVFwVFlpTVk5ZFRnVmZmX3BpeFAwSVpvblNzX1FhNUFva1ZsTjBwbnhpZ1l4UF95OVF1UWZuRm1yamRjTnBkN2xyU0FteXJ5NXJ0UHJOeHhyRXMyTWcyeEZLM3hqVThzTkZFaGJLMWZiOXNiLXVQREE?oc=5",
-      "candidates": [
-        "kiggans"
-      ],
-      "tags": [],
-      "official": false
-    },
-    {
-      "id": "CBMijwFBVV95cUxNZ0ZEWktNUUJ0TjYxYWxfV0JnTTdDSGptU1RNY3BSZGMzbXc0UzZoMFhaakJha3A0SzFQX1daZ0w2UEFTY2lyQjZta1dVeDhLdmNMU3I5WmtYN0NueGRZMzlWcEpxTFJMakxCWWtydjRpZjZKNmg4N1ZVTW1hRkNmSFhUd1JxN0VST205QW5URQ",
-      "headline": "Former Congresswoman Elaine Luria on her rematch race in Virginia’s 2nd congressional district",
-      "outlet": "Yahoo",
-      "outlet_domain": "yahoo.com",
-      "local": false,
-      "date": "2026-08-31T07:00:00.000Z",
-      "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNZ0ZEWktNUUJ0TjYxYWxfV0JnTTdDSGptU1RNY3BSZGMzbXc0UzZoMFhaakJha3A0SzFQX1daZ0w2UEFTY2lyQjZta1dVeDhLdmNMU3I5WmtYN0NueGRZMzlWcEpxTFJMakxCWWtydjRpZjZKNmg4N1ZVTW1hRkNmSFhUd1JxN0VST205QW5URQ?oc=5",
-      "candidates": [
-        "luria"
-      ],
-      "tags": [],
-      "official": false
-    },
-    {
-      "id": "CBMiogFBVV95cUxNZXp2dVNpVUtKcVBTbjNBc21iTW0wWFhBekF6ZnkzUU1BNXhoYjE0VEQ3eTVwRndxNzFvdXJ1SkNpazc2bUpoWDBTX01TZkVKMUlmS1hUQlhqMXlIRWp1aTJZV3dPVDhBNW9tc3NCQkVlc0VmdlpaQ0RzR0Z3aFVNS0NFN04xUkwwOV9rcU5OR3htWVZYZkh4MTlEME55UllYekE",
-      "headline": "Kiggans vs. Luria rematch for Virginia’s 2nd District heats up",
-      "outlet": "The Virginian-Pilot",
-      "outlet_domain": "pilotonline.com",
-      "local": true,
-      "date": "2026-08-31T07:00:00.000Z",
-      "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNZXp2dVNpVUtKcVBTbjNBc21iTW0wWFhBekF6ZnkzUU1BNXhoYjE0VEQ3eTVwRndxNzFvdXJ1SkNpazc2bUpoWDBTX01TZkVKMUlmS1hUQlhqMXlIRWp1aTJZV3dPVDhBNW9tc3NCQkVlc0VmdlpaQ0RzR0Z3aFVNS0NFN04xUkwwOV9rcU5OR3htWVZYZkh4MTlEME55UllYekE?oc=5",
-      "candidates": [
-        "kiggans",
-        "luria"
-      ],
-      "tags": [],
-      "official": false
-    },
-    {
-      "id": "CBMi-AFBVV95cUxNUVRScTNSSkxaNTg5YTgxLXZ6VUhlUGdTN1pXVWRkVW1mTzN4d3pZdDdEdTNsUGUtTlQyY0JpRlRYNzRZZWo0ZTZTcE5TcW16enZSc2ctYm0wWHdXQkJ2NzJ5YkhfNno0YkQyaWpTbEdEV2xCaktaTVFXcnR6NUZzQWhsZWNLRXBYa3ZmQjBMbm9GWVRrOWRzS09RUWlFRkp1dzJiNWZrUHdzcWcxekVublRHR0lFMEpweVJmcXZnTGNZcVJ6Y014REVERkF4U1dWS2lQRHd0UTkzSTBPRGFkTjRkclk0cUxybXoxdUc1aWZiQ280eUFMZQ",
-      "headline": "VERIFY: Ad says Jen Kiggans supported Iran war and voted to cut veterans' healthcare",
-      "outlet": "13News Now (WVEC)",
-      "outlet_domain": "13newsnow.com",
-      "local": true,
-      "date": "2026-08-31T07:00:00.000Z",
-      "link": "https://news.google.com/rss/articles/CBMi-AFBVV95cUxNUVRScTNSSkxaNTg5YTgxLXZ6VUhlUGdTN1pXVWRkVW1mTzN4d3pZdDdEdTNsUGUtTlQyY0JpRlRYNzRZZWo0ZTZTcE5TcW16enZSc2ctYm0wWHdXQkJ2NzJ5YkhfNno0YkQyaWpTbEdEV2xCaktaTVFXcnR6NUZzQWhsZWNLRXBYa3ZmQjBMbm9GWVRrOWRzS09RUWlFRkp1dzJiNWZrUHdzcWcxekVublRHR0lFMEpweVJmcXZnTGNZcVJ6Y014REVERkF4U1dWS2lQRHd0UTkzSTBPRGFkTjRkclk0cUxybXoxdUc1aWZiQ280eUFMZQ?oc=5",
-      "candidates": [
-        "kiggans"
-      ],
-      "tags": [],
-      "official": false
     }
   ]
 }
