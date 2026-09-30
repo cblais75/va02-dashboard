@@ -298,8 +298,8 @@
   "status": {
     "cnu": "ok",
     "wikipedia": "ok",
-    "cook": "ok",
-    "inside": "ok",
+    "cook": "error",
+    "inside": "error",
     "sabato": "ok"
   }
 }
