@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-30T18:02:28.531Z",
+  "updated_at": "2026-10-01T18:29:04.736Z",
   "source": "Google News RSS search",
   "queries": [
     "\"Jen Kiggans\"",
@@ -19,6 +19,91 @@
     "kiggans.house.gov"
   ],
   "items": [
+    {
+      "id": "CBMiwAFBVV95cUxNUVNqNVdjMTF4ajJwWXlRY2ZXOUFuVzJMbFI2cU9wOFdLSnRNNmJCUlFRSXRlMS1SQ3VNZnIxUWtHanBweC1adzllX2lldmNhX1pRclpLYmVONElNbWRqbi13ZmJMbmktYlBiRlBlSlphUWxoM1BvbGJibjBZWGtuLTU3MWFNdE1MTENoRzl1cXg4TVhfM0p4TjVpangzR3Fzbm5QZkRfQUxTZGRpdUpEVkV1X2hPMWN5QzNWclc4QkM",
+      "headline": "Kiggans faces questions over financial industry money and consumer protection votes",
+      "outlet": "Virginia Mercury",
+      "outlet_domain": "virginiamercury.com",
+      "local": false,
+      "official": false,
+      "date": "2026-10-01T10:01:59.000Z",
+      "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNUVNqNVdjMTF4ajJwWXlRY2ZXOUFuVzJMbFI2cU9wOFdLSnRNNmJCUlFRSXRlMS1SQ3VNZnIxUWtHanBweC1adzllX2lldmNhX1pRclpLYmVONElNbWRqbi13ZmJMbmktYlBiRlBlSlphUWxoM1BvbGJibjBZWGtuLTU3MWFNdE1MTENoRzl1cXg4TVhfM0p4TjVpangzR3Fzbm5QZkRfQUxTZGRpdUpEVkV1X2hPMWN5QzNWclc4QkM?oc=5",
+      "candidates": [
+        "kiggans"
+      ],
+      "tags": []
+    },
+    {
+      "id": "CBMijAFBVV95cUxNeVZDdlliQVpSNjhCVGE0N3JrdnNQZDJOaTBGcXFRTE1MVnR2UWlDQzlPNGR6ZS1ISk1IRUVFZHo4bTN1eFpTWHB2bU5mb1l6UjVjazV2YWNFcGl4OXR5aXlsUkFXZWFackdCRnQ5dDJKNThBU3Bta0djckhjVlRHMTRPOGlEaDF1dGNrRA",
+      "headline": "Congressional hopefuls visit Rappahannock",
+      "outlet": "Rappahannock News",
+      "outlet_domain": "rappnews.com",
+      "local": false,
+      "official": false,
+      "date": "2026-10-01T02:08:42.000Z",
+      "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNeVZDdlliQVpSNjhCVGE0N3JrdnNQZDJOaTBGcXFRTE1MVnR2UWlDQzlPNGR6ZS1ISk1IRUVFZHo4bTN1eFpTWHB2bU5mb1l6UjVjazV2YWNFcGl4OXR5aXlsUkFXZWFackdCRnQ5dDJKNThBU3Bta0djckhjVlRHMTRPOGlEaDF1dGNrRA?oc=5",
+      "candidates": [
+        "luria"
+      ],
+      "tags": []
+    },
+    {
+      "id": "CBMi2wFBVV95cUxQcndrbWhPSG9PR01OaEZyd1BxN3FWX0phUWJvX0xBTVozVGZHRVBTR0lIQWkzN2JHNHU2RW1MVDZ3ZENHTUhZc1V2bnZ6bkdMdDI1Vkt2LUI4a0ZVOE5HRTd6RlZzdHhQalNPM2FaY1V1SXlqcDIyU3A0NjZmZFlKT3VfTHRXMXk4dHhOMF9yZHBpb1gtR2Vicjl5cFlIRWtvQkhXYy16cHhzX3N2M2MxUmxnRjQyTGs4dW94TzBEV3Z4OF85NjduSENxd2JOYnhFR2dMQWF2bm9fUzg",
+      "headline": "Kiggans Celebrates LG Electronics’ $64 Million Investment for New Assembly Facility in Isle of Wight County",
+      "outlet": "House.gov",
+      "outlet_domain": "kiggans.house.gov",
+      "local": false,
+      "official": true,
+      "date": "2026-09-30T23:11:07.000Z",
+      "link": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxQcndrbWhPSG9PR01OaEZyd1BxN3FWX0phUWJvX0xBTVozVGZHRVBTR0lIQWkzN2JHNHU2RW1MVDZ3ZENHTUhZc1V2bnZ6bkdMdDI1Vkt2LUI4a0ZVOE5HRTd6RlZzdHhQalNPM2FaY1V1SXlqcDIyU3A0NjZmZFlKT3VfTHRXMXk4dHhOMF9yZHBpb1gtR2Vicjl5cFlIRWtvQkhXYy16cHhzX3N2M2MxUmxnRjQyTGs4dW94TzBEV3Z4OF85NjduSENxd2JOYnhFR2dMQWF2bm9fUzg?oc=5",
+      "candidates": [
+        "kiggans"
+      ],
+      "tags": []
+    },
+    {
+      "id": "CBMigwFBVV95cUxPaW04RF9UR01RWjhnZWRLYUxoMGl0SmhueFJNSUpNZDJicmIxYkVJMEZuMjlGdkNnSVB2eFhxXzhvVXJiV2RrenF5SXlmdnJ6VTUwdGlRc3F3RWVzZUxzTldaSzZrbkEtb2tvOU1peVFOOXJDbjlIN0J1OUhIQmU1ZDhiMA",
+      "headline": "Democrats gaining ground in Virginia’s congressional races, new political analysis shows",
+      "outlet": "The Virginian-Pilot",
+      "outlet_domain": "pilotonline.com",
+      "local": true,
+      "official": false,
+      "date": "2026-09-30T19:57:27.000Z",
+      "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPaW04RF9UR01RWjhnZWRLYUxoMGl0SmhueFJNSUpNZDJicmIxYkVJMEZuMjlGdkNnSVB2eFhxXzhvVXJiV2RrenF5SXlmdnJ6VTUwdGlRc3F3RWVzZUxzTldaSzZrbkEtb2tvOU1peVFOOXJDbjlIN0J1OUhIQmU1ZDhiMA?oc=5",
+      "candidates": [
+        "kiggans",
+        "luria"
+      ],
+      "tags": []
+    },
+    {
+      "id": "CBMikgFBVV95cUxOaVhmRmRYSWxyQzRXV2dYbW5ZdXZqU3Bjd1VBc3R1Q2twdnc0TWxkc3NwWnJQTUkxSjRCV3hBemV4TkNQODR2Q2R6UFdLNllOVFk3dHpadkxYVFc1VnVGRjBnZHNZMVhyOHJpVVRvSWFEVC0tMmF1cjR2WHZiNEhoUnZzVk1DRXJWdnBZb2t6c1NCUQ",
+      "headline": "Republicans Get Warning Signs As 11 Seats Shift Toward Democrats",
+      "outlet": "Newsweek",
+      "outlet_domain": "newsweek.com",
+      "local": false,
+      "official": false,
+      "date": "2026-09-30T09:13:00.000Z",
+      "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOaVhmRmRYSWxyQzRXV2dYbW5ZdXZqU3Bjd1VBc3R1Q2twdnc0TWxkc3NwWnJQTUkxSjRCV3hBemV4TkNQODR2Q2R6UFdLNllOVFk3dHpadkxYVFc1VnVGRjBnZHNZMVhyOHJpVVRvSWFEVC0tMmF1cjR2WHZiNEhoUnZzVk1DRXJWdnBZb2t6c1NCUQ?oc=5",
+      "candidates": [
+        "luria"
+      ],
+      "tags": []
+    },
+    {
+      "id": "CBMirgFBVV95cUxNUk9RVkI1QzRGWVFnR0xPTXg5WGszczBjdmk5UUJmVTZzYk1ZWUdmRUZxZjZDMGRfVjBESlJDUDhWWmdRVnV2dEpwTldlX3VaenZuWlJycU40bVZQWTVuNG1iajBjUzJfSVhQeERSRnRlc3ZIWEFjeDd2UGw0UTNkLV9Nem9sR2h0Ty1jQUlycmxpSllJQjNabW1RQTIwSElhUU5VZDhjWURiUUNxeHc",
+      "headline": "VA-03 Democrat Elaine Luria Brings in Maryland Democrat to Campaign in VA-02",
+      "outlet": "National Republican Congressional Committee",
+      "outlet_domain": "nrcc.org",
+      "local": false,
+      "official": false,
+      "date": "2026-09-30T07:00:00.000Z",
+      "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNUk9RVkI1QzRGWVFnR0xPTXg5WGszczBjdmk5UUJmVTZzYk1ZWUdmRUZxZjZDMGRfVjBESlJDUDhWWmdRVnV2dEpwTldlX3VaenZuWlJycU40bVZQWTVuNG1iajBjUzJfSVhQeERSRnRlc3ZIWEFjeDd2UGw0UTNkLV9Nem9sR2h0Ty1jQUlycmxpSllJQjNabW1RQTIwSElhUU5VZDhjWURiUUNxeHc?oc=5",
+      "candidates": [
+        "luria"
+      ],
+      "tags": []
+    },
     {
       "id": "CBMipAFBVV95cUxPbncxUUJLRlNOaFdXUEdtSHljMUVNQ2NpbmpxWmZ5bzRnLXdzbkFZRjRJSjg2NGJRSlk2ek9DanJxOGZ4NGxoMzkycEk2VzdVWWtCSUNIWEkyc1ctTm1ldzRianZ4Umdlc2FFQXlFZXF3VU0xNVE0azFrVmFQVGdnWmVXNVZDUmYwRVBxa2paTjdidnJIYmVKRENKQ2hXZG1QMUF4Uw",
       "headline": "DMFI launches $1 million ad campaign supporting Elaine Luria",
@@ -348,6 +433,20 @@
       ],
       "tags": [],
       "official": false
+    },
+    {
+      "id": "CBMingFBVV95cUxOQTV3c1REbEk5S0lNY1hXWmRCSWJWM0Zwck5aX0ZTN0kyOXhGZlhPX2JscVVCbk1LVnQzZEJ3el9tTndaUTBCeFJWWnRQeVlrXzVMY0NMakRoYUJncWgtN3haZ0Fkdm03bFUwNUU5TU1xWjQtYmhvNnNiRHNsUVpxVUktSDU2THdLaGZRSExwU2M5X2kyS3lhZnNKdXQ2Zw",
+      "headline": "How the fate of a rural hospital could help flip the House",
+      "outlet": "The Washington Post",
+      "outlet_domain": "washingtonpost.com",
+      "local": false,
+      "official": false,
+      "date": "2026-09-24T17:00:01.000Z",
+      "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxOQTV3c1REbEk5S0lNY1hXWmRCSWJWM0Zwck5aX0ZTN0kyOXhGZlhPX2JscVVCbk1LVnQzZEJ3el9tTndaUTBCeFJWWnRQeVlrXzVMY0NMakRoYUJncWgtN3haZ0Fkdm03bFUwNUU5TU1xWjQtYmhvNnNiRHNsUVpxVUktSDU2THdLaGZRSExwU2M5X2kyS3lhZnNKdXQ2Zw?oc=5",
+      "candidates": [
+        "luria"
+      ],
+      "tags": []
     },
     {
       "id": "CBMiuwFBVV95cUxQOWUtcVpzZUFwX2hUbXJzd3hPQWZEYzBYdzE5eWtGN3NVNFA0T0pCcE9HMVJFQ21CNk45dl9maGp4NXhoZmQwUVc1bW5KdGVSWmc2bTFLV08tNU81d2lIbjF6R3RjSk5nSkhfY21tbk04SkgwVHU2elNkaS1ZaEZ6Tm1KcWFZTXJFLTAwYjdtdUxpUFV3elZ1MlBhN05ZclNjQTdQVFJrc25XR1h1ejNUV3hEVHM0Y09QSmE0",
@@ -1035,20 +1134,6 @@
       ],
       "tags": [],
       "official": false
-    },
-    {
-      "id": "CBMinAFBVV95cUxPVndMX3p3c2MyRm9Vckl5WWk1VHR5X0x1WllvN3FQajV6d21VLVJ2eXcya0ZLU2x1aHhPMTR3S25QTUtldk42VFlRXzNKSmp0aTlSWHJydFZNYnh2NUtiVk1seG1HNTI0QVdpeExTZ3JyNFNwZkgyd2ZuWWdQM2twZ2F5bTlCTEpTRlVseVNaQVNxTzN1eE45azFZbGo",
-      "headline": "Kiggans Hosts 2026 Military Family Summit in Hampton Roads",
-      "outlet": "kiggans.house.gov",
-      "outlet_domain": "kiggans.house.gov",
-      "local": false,
-      "date": "2026-09-01T15:50:36.000Z",
-      "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPVndMX3p3c2MyRm9Vckl5WWk1VHR5X0x1WllvN3FQajV6d21VLVJ2eXcya0ZLU2x1aHhPMTR3S25QTUtldk42VFlRXzNKSmp0aTlSWHJydFZNYnh2NUtiVk1seG1HNTI0QVdpeExTZ3JyNFNwZkgyd2ZuWWdQM2twZ2F5bTlCTEpTRlVseVNaQVNxTzN1eE45azFZbGo?oc=5",
-      "candidates": [
-        "kiggans"
-      ],
-      "tags": [],
-      "official": true
     }
   ]
 }
