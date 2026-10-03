@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-02T17:55:50.103Z",
+  "updated_at": "2026-10-03T16:32:35.352Z",
   "source": "Google News RSS search",
   "queries": [
     "\"Jen Kiggans\"",
@@ -19,6 +19,79 @@
     "kiggans.house.gov"
   ],
   "items": [
+    {
+      "id": "CBMihwFBVV95cUxNd0lPcGIwbG5ObEIzUWUxUTdDZWlQY21pYXg1SEJmMnVXbHdmeWZfVXFVcGtwVUFTS0RKeXBDa3hSZTlucGdSajlNMnBFcHJGLV9ZTEhDcHY1TVNaS0ZoWkM2SjIzdUZGTld2dFF2TDRBNklOaWRxaWNIMTFpTHNwWUFrYkVJWTg",
+      "headline": "Democrat Luria hosts Get Out the Vote rally",
+      "outlet": "WAVY",
+      "outlet_domain": "wavy.com",
+      "local": true,
+      "official": false,
+      "date": "2026-10-03T00:27:08.000Z",
+      "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNd0lPcGIwbG5ObEIzUWUxUTdDZWlQY21pYXg1SEJmMnVXbHdmeWZfVXFVcGtwVUFTS0RKeXBDa3hSZTlucGdSajlNMnBFcHJGLV9ZTEhDcHY1TVNaS0ZoWkM2SjIzdUZGTld2dFF2TDRBNklOaWRxaWNIMTFpTHNwWUFrYkVJWTg?oc=5",
+      "candidates": [
+        "luria"
+      ],
+      "tags": []
+    },
+    {
+      "id": "CBMi9AFBVV95cUxOVjQyTFdpZkpuRElpMTFhQjU4UGI5N1gxbklxU05hc2I2ZHpjTE5SZUxGNE1PNXZmNG1rLURvZzNCUkpwcnhVTnQ5MjRva3lBNHhqYXhYX3QwNjhuSENpb0ViUGlyTGZYMGhVdkFQSW5zZEZOcHB3c3NuVFo0X1czem95WHN3dG1SRlZ6ZHRSRUk1MkJ5QmZuN1liclZNRlMtYlQwZHpaMXJFMVhUQU9WdGFacGU2RnVXRkUxeGVxNndXczVwSUF0TG1nTmZMcmx4bWlUQUhSaF9uUmVlajZ4Skl3Y0Nib1FNdGRBQWNwZzlYMU00",
+      "headline": "Kiggans, EPA Deputy Administrator Fotouhi Celebrate $92 Million in Grant Awards for Conservation Efforts in the Chesapeake Bay",
+      "outlet": "House.gov",
+      "outlet_domain": "kiggans.house.gov",
+      "local": false,
+      "official": true,
+      "date": "2026-10-02T18:47:41.000Z",
+      "link": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxOVjQyTFdpZkpuRElpMTFhQjU4UGI5N1gxbklxU05hc2I2ZHpjTE5SZUxGNE1PNXZmNG1rLURvZzNCUkpwcnhVTnQ5MjRva3lBNHhqYXhYX3QwNjhuSENpb0ViUGlyTGZYMGhVdkFQSW5zZEZOcHB3c3NuVFo0X1czem95WHN3dG1SRlZ6ZHRSRUk1MkJ5QmZuN1liclZNRlMtYlQwZHpaMXJFMVhUQU9WdGFacGU2RnVXRkUxeGVxNndXczVwSUF0TG1nTmZMcmx4bWlUQUhSaF9uUmVlajZ4Skl3Y0Nib1FNdGRBQWNwZzlYMU00?oc=5",
+      "candidates": [
+        "kiggans"
+      ],
+      "tags": []
+    },
+    {
+      "id": "CBMi3gFBVV95cUxQRm5DWkFVUkhCMUV1aVc1U1VEeVRqVGZza1VBMWhqcGJxNzN4Q3JYRkJTM1JhUU1tYlJwZDFvZ25lVmhrSTFoVmVnV3FZb2RpS3BPNThxODhFaGpIU3dkWlY0Mm5URlZpZXJ5OE1rYnM0ckU2Y3VmVXdUUF9uS1NGZmNNSDZtMTV3Yjk4RU5KdEx4ZFNXTnJiMlJkam96ZHEzM3VnbWUxTGhjX1NHRWpuR2RCdklDeUhyblNDVHJna3VOcjZQbmJ2YTA4Y3BHbXJOR2h6VE1YYzhYWGtSQVE",
+      "headline": "Press Release: Lauren Underwood, Jen Kiggans, and Suzanne Bonamici Introduce Bill to Expand Nurse Training",
+      "outlet": "Quiver Quantitative",
+      "outlet_domain": "quiverquant.com",
+      "local": false,
+      "official": false,
+      "date": "2026-10-02T18:21:00.000Z",
+      "link": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxQRm5DWkFVUkhCMUV1aVc1U1VEeVRqVGZza1VBMWhqcGJxNzN4Q3JYRkJTM1JhUU1tYlJwZDFvZ25lVmhrSTFoVmVnV3FZb2RpS3BPNThxODhFaGpIU3dkWlY0Mm5URlZpZXJ5OE1rYnM0ckU2Y3VmVXdUUF9uS1NGZmNNSDZtMTV3Yjk4RU5KdEx4ZFNXTnJiMlJkam96ZHEzM3VnbWUxTGhjX1NHRWpuR2RCdklDeUhyblNDVHJna3VOcjZQbmJ2YTA4Y3BHbXJOR2h6VE1YYzhYWGtSQVE?oc=5",
+      "candidates": [
+        "kiggans"
+      ],
+      "tags": []
+    },
+    {
+      "id": "CBMigwFBVV95cUxPV0RzSmlxM2FXU1NWMzdkTGk0c19PM2ZLVG1lNHdJX3BUSVhQUHBZQnFvbUhfN1hrUWs1a2ItSUFtUGdwZVRzd3VsMm5qUGs5cG9CSHE5c0x3Uy1DbWRPN3hsRnp4bTlPU3R3bWVyZUI3bWs1bk9BbEoxSkNneWUwdGJkSQ",
+      "headline": "Virginia 2nd Congressional District 2026: Latest Polls",
+      "outlet": "The New York Times",
+      "outlet_domain": "nytimes.com",
+      "local": false,
+      "official": false,
+      "date": "2026-10-02T15:52:42.000Z",
+      "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPV0RzSmlxM2FXU1NWMzdkTGk0c19PM2ZLVG1lNHdJX3BUSVhQUHBZQnFvbUhfN1hrUWs1a2ItSUFtUGdwZVRzd3VsMm5qUGs5cG9CSHE5c0x3Uy1DbWRPN3hsRnp4bTlPU3R3bWVyZUI3bWs1bk9BbEoxSkNneWUwdGJkSQ?oc=5",
+      "candidates": [
+        "kiggans",
+        "luria"
+      ],
+      "tags": [
+        "poll"
+      ]
+    },
+    {
+      "id": "CBMijwFBVV95cUxNOVNVck1MQTRHNjB2c0M4NFV5Szh3UGpFUTN0SXRIbDE3RGRvem0ydV9MNjYyQTBkZDZmdWN6NGg1aURycVdla0N3bnE1TmxYbnZXY0xXQzJHdWRXdlk1Zm5nSmpDZ1k1akhOaXlqa09nYTlWbWJfM3BlT2Zzc2ZpMkZGUFUtTXdaTXk2T3o3NA",
+      "headline": "VERIFY: Rep. Jen Kiggans' support of the Second Amendment and gun laws",
+      "outlet": "yahoo.com",
+      "outlet_domain": "yahoo.com",
+      "local": false,
+      "official": false,
+      "date": "2026-10-02T01:33:52.000Z",
+      "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNOVNVck1MQTRHNjB2c0M4NFV5Szh3UGpFUTN0SXRIbDE3RGRvem0ydV9MNjYyQTBkZDZmdWN6NGg1aURycVdla0N3bnE1TmxYbnZXY0xXQzJHdWRXdlk1Zm5nSmpDZ1k1akhOaXlqa09nYTlWbWJfM3BlT2Zzc2ZpMkZGUFUtTXdaTXk2T3o3NA?oc=5",
+      "candidates": [
+        "kiggans"
+      ],
+      "tags": []
+    },
     {
       "id": "CBMi6gFBVV95cUxQekFLUkFlTTNwNmpQa3pZRmxYdGJ2eHNFS05TVERLekl4LTlpcWd3YW1kWUV3LTRtVzlMb3VURDN0V2RpemJINDNuVTdNOTk5ZURLS1h4Q1liNjF1Sl9JS0dJZ0dlbHFLdGJVNUlqMzRmWlMzdHNDWU1na0JlVDZ1ZmppbFdQMFFwcE53OTNVRnVlZEtKR2lHQWJaa01HazdxZ2NtUTZsYWh6TjdVSlpaUThvU0lkcnM1Y0xDbVFuU3l3V1dUNC10MHhzT3hKZXZDbUt1QmFsc1lhczNMV0dzejZ1Y0Q0MDdqcXc",
       "headline": "VERIFY: Rep. Jen Kiggans' support of the Second Amendment and gun laws",
@@ -147,6 +220,20 @@
       "tags": []
     },
     {
+      "id": "CBMiqAFBVV95cUxQYUhVODltck0xTktTTXBfMVIzVUhYM3M4YXdabE0xdkgwT2Y0akp6aGNpaENXcVVVRW5tSHh0bklucmRnQUUzUjVjd3lZaTUxMDhzMG1ZMnF5UTdvdHh0UlpZcktrY0dtMkI0REdndmo5NzlzQXhFd3Qwdkd5WGlFMU1NdDNtYVRDclNMMDZJZ0xqdkFPLUVCV2JqWkV0OW50cE52azZZY0o",
+      "headline": "VA-03 Democrat Elaine Luria Brings in Maryland Democrat to Campaign in VA-02",
+      "outlet": "nrcc.org",
+      "outlet_domain": "nrcc.org",
+      "local": false,
+      "official": false,
+      "date": "2026-09-30T07:00:00.000Z",
+      "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQYUhVODltck0xTktTTXBfMVIzVUhYM3M4YXdabE0xdkgwT2Y0akp6aGNpaENXcVVVRW5tSHh0bklucmRnQUUzUjVjd3lZaTUxMDhzMG1ZMnF5UTdvdHh0UlpZcktrY0dtMkI0REdndmo5NzlzQXhFd3Qwdkd5WGlFMU1NdDNtYVRDclNMMDZJZ0xqdkFPLUVCV2JqWkV0OW50cE52azZZY0o?oc=5",
+      "candidates": [
+        "luria"
+      ],
+      "tags": []
+    },
+    {
       "id": "CBMipAFBVV95cUxPbncxUUJLRlNOaFdXUEdtSHljMUVNQ2NpbmpxWmZ5bzRnLXdzbkFZRjRJSjg2NGJRSlk2ek9DanJxOGZ4NGxoMzkycEk2VzdVWWtCSUNIWEkyc1ctTm1ldzRianZ4Umdlc2FFQXlFZXF3VU0xNVE0azFrVmFQVGdnWmVXNVZDUmYwRVBxa2paTjdidnJIYmVKRENKQ2hXZG1QMUF4Uw",
       "headline": "DMFI launches $1 million ad campaign supporting Elaine Luria",
       "outlet": "Jewish Insider",
@@ -173,6 +260,20 @@
       "candidates": [
         "kiggans",
         "luria"
+      ],
+      "tags": []
+    },
+    {
+      "id": "CBMizAFBVV95cUxQMjFCREFuSTRUMDdnd0NTZENaVGJLZFV3RHU3RE5kOTV5Tk9iTVpPc21zb0N5NU1xRFZPMEczMUYwYUYtcldMR1NZUkczQ2QxdXVUeHZ5aE9lUjVSekw0SXZ1b1h1QUtjTzgydTlIS3ktdURZb193V3dDWW8yTTJpOE1QaHR2Q3FLTFN6LUtaQkM4VW5NMWdJUTluQkt0cUgyMDFLLWFQM2puX0oxbGNhcHZwWE9JSGsxbDVyOC1OU0t3bUh2V1RLREVGRjg",
+      "headline": "Congresswoman Jen Kiggans received an tour and briefing of NSWC Corona's Chamberlain Hall Hefti GLOC",
+      "outlet": "DVIDS",
+      "outlet_domain": "dvidshub.net",
+      "local": false,
+      "official": false,
+      "date": "2026-09-29T15:10:00.000Z",
+      "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxQMjFCREFuSTRUMDdnd0NTZENaVGJLZFV3RHU3RE5kOTV5Tk9iTVpPc21zb0N5NU1xRFZPMEczMUYwYUYtcldMR1NZUkczQ2QxdXVUeHZ5aE9lUjVSekw0SXZ1b1h1QUtjTzgydTlIS3ktdURZb193V3dDWW8yTTJpOE1QaHR2Q3FLTFN6LUtaQkM4VW5NMWdJUTluQkt0cUgyMDFLLWFQM2puX0oxbGNhcHZwWE9JSGsxbDVyOC1OU0t3bUh2V1RLREVGRjg?oc=5",
+      "candidates": [
+        "kiggans"
       ],
       "tags": []
     },
@@ -1130,49 +1231,6 @@
       "link": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxOMmFJWFZGQTRvVlZFbWEzNnZZUnc2aERDaVo3WTA5V0YwN2JCVGdsRERtMmNLeFpjZVlNS01TaXFPY2FOUHd5R2k5OWRaanU5b3hvXzhLUkNmZENUcFBpdU1FMDB1WWdOWGNreGFZbUE5akY1bzVleGd2RXc2MktrckhqLXlSdFd4WUxUbi16aTJDQlJwOFB5dlJRUXA3VWdRdGxJeUZteUNxa1V3T0hzTlNoNTQzWGV4MVVvOXZFQVRCSmFSeTN6cFExTTVBRUJlVHFwUy1QMA?oc=5",
       "candidates": [
         "luria"
-      ],
-      "tags": [],
-      "official": false
-    },
-    {
-      "id": "CBMiogJBVV95cUxQLU85ZzlsUDhNaUlMSFNxNndnUjI5eTFGczJuNEZQbVprd2tLU1VzNFRyRVhRMy1iNmxMRXN6bXVPSERlRVBwQWZ2VG9jQjhPLVUzUFZncE1IaGNJQ1RMclh3aEN1TGdReEFDTzg1ekFDVF9CczZ5U2piLThjZXVFZ2ptSkhoQ0w1Wl9IeWN2NTdqWG5SMlJwSW5SX2xvNEpqTGRfTy1NVzdVbEJ3bzlPdnI4QkwzbWNSUkFuN3NyTjFMdjVybmdEdmdFRnZyV29qMl80eUVpS2xFWTZNVGNOV1ZPdTJuSzNXYnQxWEdSTFpZMExqTFNyWVZjZU5ENHZFSzJZbHMxZWtjRC14WFlyZV9HMmM1VGtoNHdIaF9LSnRtdw",
-      "headline": "Former Virginia Rep. Elaine Luria says Hung Cao is ineligible for Navy secretary post after Trump nomination",
-      "outlet": "13News Now (WVEC)",
-      "outlet_domain": "13newsnow.com",
-      "local": true,
-      "date": "2026-09-03T07:00:00.000Z",
-      "link": "https://news.google.com/rss/articles/CBMiogJBVV95cUxQLU85ZzlsUDhNaUlMSFNxNndnUjI5eTFGczJuNEZQbVprd2tLU1VzNFRyRVhRMy1iNmxMRXN6bXVPSERlRVBwQWZ2VG9jQjhPLVUzUFZncE1IaGNJQ1RMclh3aEN1TGdReEFDTzg1ekFDVF9CczZ5U2piLThjZXVFZ2ptSkhoQ0w1Wl9IeWN2NTdqWG5SMlJwSW5SX2xvNEpqTGRfTy1NVzdVbEJ3bzlPdnI4QkwzbWNSUkFuN3NyTjFMdjVybmdEdmdFRnZyV29qMl80eUVpS2xFWTZNVGNOV1ZPdTJuSzNXYnQxWEdSTFpZMExqTFNyWVZjZU5ENHZFSzJZbHMxZWtjRC14WFlyZV9HMmM1VGtoNHdIaF9LSnRtdw?oc=5",
-      "candidates": [
-        "luria"
-      ],
-      "tags": [],
-      "official": false
-    },
-    {
-      "id": "CBMicEFVX3lxTE82TTZ1MFhoWWduNmFabHhqcjN6enk5ak9KbnlpazRDMURZZ2F5UjFZY253RW5qbXotSkNmVnpJZUVPTFk4V191QVh0UWhKVmgzM0xod3dHeHlIUEp4TmpRT2ltNXNQZ3FjdlYyd1Rnb1k",
-      "headline": "Is This District the Key to the 2026 Midterms?",
-      "outlet": "newrepublic.com",
-      "outlet_domain": "newrepublic.com",
-      "local": false,
-      "date": "2026-09-03T07:00:00.000Z",
-      "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE82TTZ1MFhoWWduNmFabHhqcjN6enk5ak9KbnlpazRDMURZZ2F5UjFZY253RW5qbXotSkNmVnpJZUVPTFk4V191QVh0UWhKVmgzM0xod3dHeHlIUEp4TmpRT2ltNXNQZ3FjdlYyd1Rnb1k?oc=5",
-      "candidates": [
-        "kiggans",
-        "luria"
-      ],
-      "tags": [],
-      "official": false
-    },
-    {
-      "id": "CBMi8gFBVV95cUxPQ0ZUNkI0d0hWNnVMUUpTTXFFSlo1Sjc1UE1temJtQnpHU2JBcVVTSmRsaVU2MFNZWkNad3dnWEN5SF92NGNhclZnZk14cng5el94Z0FGNzJkRWEyTlA3bTVtOGd4d1dWdS1sZzZCcUVuUmhIRG81a0psOTFqOHJoSnNjMXBwd2ZMRXhRUkxYdkVhVWR1T2Q1YUVnSTdxWXFYdEhKYkdUMlBZb0tCWTJwclRwTkRHb3VJakR2NzdJb05mY3VWeFEyNW55QVFWUEtlRk5TM1AzNG5tUzdoVmdtaENNZU1fRzJxcHNoZUtfMWZXdw",
-      "headline": "Jen Kiggans’ record on healthcare under scrutiny",
-      "outlet": "vadogwood.com",
-      "outlet_domain": "vadogwood.com",
-      "local": false,
-      "date": "2026-09-03T07:00:00.000Z",
-      "link": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxPQ0ZUNkI0d0hWNnVMUUpTTXFFSlo1Sjc1UE1temJtQnpHU2JBcVVTSmRsaVU2MFNZWkNad3dnWEN5SF92NGNhclZnZk14cng5el94Z0FGNzJkRWEyTlA3bTVtOGd4d1dWdS1sZzZCcUVuUmhIRG81a0psOTFqOHJoSnNjMXBwd2ZMRXhRUkxYdkVhVWR1T2Q1YUVnSTdxWXFYdEhKYkdUMlBZb0tCWTJwclRwTkRHb3VJakR2NzdJb05mY3VWeFEyNW55QVFWUEtlRk5TM1AzNG5tUzdoVmdtaENNZU1fRzJxcHNoZUtfMWZXdw?oc=5",
-      "candidates": [
-        "kiggans"
       ],
       "tags": [],
       "official": false
