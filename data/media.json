@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-03T16:32:35.352Z",
+  "updated_at": "2026-10-04T16:54:30.507Z",
   "source": "Google News RSS search",
   "queries": [
     "\"Jen Kiggans\"",
@@ -19,6 +19,20 @@
     "kiggans.house.gov"
   ],
   "items": [
+    {
+      "id": "CBMipwFBVV95cUxNalM1N3RSdzVLWTRZcGpXLUxWWERDZ0ZDdFFyeWJwUzV4VU5FY2liOVo2c0pjTlNtV3NzTTlqa2paTkwzdGlxdkxDR1A2dFVHN2F1cHVNRDh4UnlJb3VjeTBtOTRoLWJnNlRveDdFeE92bkNSeU0tREViWWFZdm9vTU9NOHR6eHg3T25LUF9HeXlxRFR0VURkZnJ2ZTlPT3hvTVMxUzJVMA",
+      "headline": "After Two Weeks of Early Voting, Where Are We in Virginia at This Point?",
+      "outlet": "Blue Virginia",
+      "outlet_domain": "bluevirginia.us",
+      "local": false,
+      "official": false,
+      "date": "2026-10-04T16:03:33.000Z",
+      "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNalM1N3RSdzVLWTRZcGpXLUxWWERDZ0ZDdFFyeWJwUzV4VU5FY2liOVo2c0pjTlNtV3NzTTlqa2paTkwzdGlxdkxDR1A2dFVHN2F1cHVNRDh4UnlJb3VjeTBtOTRoLWJnNlRveDdFeE92bkNSeU0tREViWWFZdm9vTU9NOHR6eHg3T25LUF9HeXlxRFR0VURkZnJ2ZTlPT3hvTVMxUzJVMA?oc=5",
+      "candidates": [
+        "luria"
+      ],
+      "tags": []
+    },
     {
       "id": "CBMihwFBVV95cUxNd0lPcGIwbG5ObEIzUWUxUTdDZWlQY21pYXg1SEJmMnVXbHdmeWZfVXFVcGtwVUFTS0RKeXBDa3hSZTlucGdSajlNMnBFcHJGLV9ZTEhDcHY1TVNaS0ZoWkM2SjIzdUZGTld2dFF2TDRBNklOaWRxaWNIMTFpTHNwWUFrYkVJWTg",
       "headline": "Democrat Luria hosts Get Out the Vote rally",
@@ -272,6 +286,20 @@
       "official": false,
       "date": "2026-09-29T15:10:00.000Z",
       "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxQMjFCREFuSTRUMDdnd0NTZENaVGJLZFV3RHU3RE5kOTV5Tk9iTVpPc21zb0N5NU1xRFZPMEczMUYwYUYtcldMR1NZUkczQ2QxdXVUeHZ5aE9lUjVSekw0SXZ1b1h1QUtjTzgydTlIS3ktdURZb193V3dDWW8yTTJpOE1QaHR2Q3FLTFN6LUtaQkM4VW5NMWdJUTluQkt0cUgyMDFLLWFQM2puX0oxbGNhcHZwWE9JSGsxbDVyOC1OU0t3bUh2V1RLREVGRjg?oc=5",
+      "candidates": [
+        "kiggans"
+      ],
+      "tags": []
+    },
+    {
+      "id": "CBMi3gFBVV95cUxQRTVReVU2cEJ2WTg1bFdLSVlVdHRod201cDVFS3ZVcFVSZjFNaE56VHdtdDVrNkNjR3AxWndEOFRxaklfamlGdXU5MlZ2OXp3MUc1LVB0b0VpVzQ5aEt1R2p0cVJ1dXlraGswZ1pGN1MydmNITDhLd0lwVk5FV2RiWDc3VGNSN2d1ZFNSVW5wbVY5M2MxaHpvY1dFVGRITnRWbGpobDBVTF9HOGNYYV9ENkc2QkFTbmFZRFNzR0RYSFJ2eW1MS3BuamUyZFFubHRSQkpjNnRYMmRnNnpaT2c",
+      "headline": "Congresswoman Jen Kiggans received an tour and briefing of NSWC Corona's Chamberlain Hall Hefti GLOC capabilities.",
+      "outlet": "DVIDS",
+      "outlet_domain": "dvidshub.net",
+      "local": false,
+      "official": false,
+      "date": "2026-09-29T15:10:00.000Z",
+      "link": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxQRTVReVU2cEJ2WTg1bFdLSVlVdHRod201cDVFS3ZVcFVSZjFNaE56VHdtdDVrNkNjR3AxWndEOFRxaklfamlGdXU5MlZ2OXp3MUc1LVB0b0VpVzQ5aEt1R2p0cVJ1dXlraGswZ1pGN1MydmNITDhLd0lwVk5FV2RiWDc3VGNSN2d1ZFNSVW5wbVY5M2MxaHpvY1dFVGRITnRWbGpobDBVTF9HOGNYYV9ENkc2QkFTbmFZRFNzR0RYSFJ2eW1MS3BuamUyZFFubHRSQkpjNnRYMmRnNnpaT2c?oc=5",
       "candidates": [
         "kiggans"
       ],
@@ -1220,20 +1248,6 @@
         "kiggans"
       ],
       "tags": []
-    },
-    {
-      "id": "CBMi1wFBVV95cUxOMmFJWFZGQTRvVlZFbWEzNnZZUnc2aERDaVo3WTA5V0YwN2JCVGdsRERtMmNLeFpjZVlNS01TaXFPY2FOUHd5R2k5OWRaanU5b3hvXzhLUkNmZENUcFBpdU1FMDB1WWdOWGNreGFZbUE5akY1bzVleGd2RXc2MktrckhqLXlSdFd4WUxUbi16aTJDQlJwOFB5dlJRUXA3VWdRdGxJeUZteUNxa1V3T0hzTlNoNTQzWGV4MVVvOXZFQVRCSmFSeTN6cFExTTVBRUJlVHFwUy1QMA",
-      "headline": "Luria files lawsuit against Department of Elections questioning validity of Independent candidates’ signatures",
-      "outlet": "Virginia Scope",
-      "outlet_domain": "virginiascope.com",
-      "local": false,
-      "date": "2026-09-04T07:00:00.000Z",
-      "link": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxOMmFJWFZGQTRvVlZFbWEzNnZZUnc2aERDaVo3WTA5V0YwN2JCVGdsRERtMmNLeFpjZVlNS01TaXFPY2FOUHd5R2k5OWRaanU5b3hvXzhLUkNmZENUcFBpdU1FMDB1WWdOWGNreGFZbUE5akY1bzVleGd2RXc2MktrckhqLXlSdFd4WUxUbi16aTJDQlJwOFB5dlJRUXA3VWdRdGxJeUZteUNxa1V3T0hzTlNoNTQzWGV4MVVvOXZFQVRCSmFSeTN6cFExTTVBRUJlVHFwUy1QMA?oc=5",
-      "candidates": [
-        "luria"
-      ],
-      "tags": [],
-      "official": false
     }
   ]
 }
