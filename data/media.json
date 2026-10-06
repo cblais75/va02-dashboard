@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-04T16:54:30.507Z",
+  "updated_at": "2026-10-06T18:30:11.466Z",
   "source": "Google News RSS search",
   "queries": [
     "\"Jen Kiggans\"",
@@ -19,6 +19,66 @@
     "kiggans.house.gov"
   ],
   "items": [
+    {
+      "id": "CBMi0wFBVV95cUxNdWtyNFZDeDRoZkg5dS1lYVk4MzZOTGh3WjNYc2pCTVdqOVc4Y0hGdTB6R01abTQ0RnVGVHVsdzhFVTRKTFk0dU9aQ2V0UWRNeTRQbVUwaExLdVV2RFlhaXVIdUVVR0oteUZZQzR2VjQzcXUwb2I0MmFCRnNCZWtOZVRPS0dvVXFUQV90UXU4SHBWanBPUWF4SzZSU0N3M3B5M1JlVnhLdnBuNUp0QTYwWkNfaUphaWxXSlFVaUhMVWQwS0MxdktvQ0FVYXNkTnJMY2xB",
+      "headline": "Video: New Elaine Luria Ad Calls Out Utterly Dishonest MAGA Rep. Jen Kiggans (R-VA02) for \"Lying to Your Face\"",
+      "outlet": "Blue Virginia",
+      "outlet_domain": "bluevirginia.us",
+      "local": false,
+      "official": false,
+      "date": "2026-10-06T14:00:36.000Z",
+      "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxNdWtyNFZDeDRoZkg5dS1lYVk4MzZOTGh3WjNYc2pCTVdqOVc4Y0hGdTB6R01abTQ0RnVGVHVsdzhFVTRKTFk0dU9aQ2V0UWRNeTRQbVUwaExLdVV2RFlhaXVIdUVVR0oteUZZQzR2VjQzcXUwb2I0MmFCRnNCZWtOZVRPS0dvVXFUQV90UXU4SHBWanBPUWF4SzZSU0N3M3B5M1JlVnhLdnBuNUp0QTYwWkNfaUphaWxXSlFVaUhMVWQwS0MxdktvQ0FVYXNkTnJMY2xB?oc=5",
+      "candidates": [
+        "kiggans",
+        "luria"
+      ],
+      "tags": []
+    },
+    {
+      "id": "CBMisgFBVV95cUxOZ1hFc2FuVV9sQXVjZXRpRVdEdXpJem5uY1pqTmtfa0cyVGtqZHE5Wm9YZzEwODRBZjBkQmdkU1BjSjczRlNxUTQtbnZYZ2swS1ZBeE5iakNlTXBnY05iaTJ1SHFGY3loTUs0T2tzU0didzE0OURPM0JCZ3ZNY2VoZXZGZzUzdjNkc2hTOWVDcDZFYW12ME5jcTlUTE5ZYkdfNWxIT1haMXlsZjY4YVJPWndB",
+      "headline": "Virginia Rematch of Navy Veterans Mirrors Wider Battle for House",
+      "outlet": "Bloomberg Government News",
+      "outlet_domain": "news.bgov.com",
+      "local": false,
+      "official": false,
+      "date": "2026-10-05T09:00:00.000Z",
+      "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOZ1hFc2FuVV9sQXVjZXRpRVdEdXpJem5uY1pqTmtfa0cyVGtqZHE5Wm9YZzEwODRBZjBkQmdkU1BjSjczRlNxUTQtbnZYZ2swS1ZBeE5iakNlTXBnY05iaTJ1SHFGY3loTUs0T2tzU0didzE0OURPM0JCZ3ZNY2VoZXZGZzUzdjNkc2hTOWVDcDZFYW12ME5jcTlUTE5ZYkdfNWxIT1haMXlsZjY4YVJPWndB?oc=5",
+      "candidates": [
+        "kiggans",
+        "luria"
+      ],
+      "tags": []
+    },
+    {
+      "id": "CBMiowFBVV95cUxObHNGNWdvZkUxVmM5YzNibkoybW5MNmhoOWU0U2VaVjl3d1NBdTREdlA4ajN4ZHhNWmIxTFI5REx6N01yZ2dwdV9BWTgxcHVUdWJXb0c4XzZVdVpTUGN4U05pcU0wak42dmx4Zl9WREg5dzlHSFhMeXZCNnVNUzZCM1NYNmlybm5WNE5FN3MwdXdxclktcWhqUTRzeTk3OC1OUnNn",
+      "headline": "Crystal Ball moves two Virginia House seats toward Democrats",
+      "outlet": "Potomac Local News",
+      "outlet_domain": "potomaclocal.com",
+      "local": false,
+      "official": false,
+      "date": "2026-10-04T23:26:44.000Z",
+      "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxObHNGNWdvZkUxVmM5YzNibkoybW5MNmhoOWU0U2VaVjl3d1NBdTREdlA4ajN4ZHhNWmIxTFI5REx6N01yZ2dwdV9BWTgxcHVUdWJXb0c4XzZVdVpTUGN4U05pcU0wak42dmx4Zl9WREg5dzlHSFhMeXZCNnVNUzZCM1NYNmlybm5WNE5FN3MwdXdxclktcWhqUTRzeTk3OC1OUnNn?oc=5",
+      "candidates": [
+        "kiggans",
+        "luria"
+      ],
+      "tags": []
+    },
+    {
+      "id": "CBMirAFBVV95cUxNTnFmUGdEemNiT1ZKSDFiT3EwOGM0TjUweTh5WVU1TVlSZnBlcHFKUDRhVENidG02Z2EzdzhDREFHVk52TUZySVllY3ZCM3dNdWFaSjFYZ2sySDZfODJGSzBhSGlpRThKb3hJNVVpU2MyalZwVnJlTWxhSDNJZE1kckkxVEtfWkI4LVRncC00NlE4ZTNaTWhpZnZFMmdNeVh0TjJVSjZxNDFqbUNS",
+      "headline": "Letters for Oct. 5: Luria, Kiggans should be examples of espoused values",
+      "outlet": "Daily Press",
+      "outlet_domain": "dailypress.com",
+      "local": true,
+      "official": false,
+      "date": "2026-10-04T20:01:55.000Z",
+      "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNTnFmUGdEemNiT1ZKSDFiT3EwOGM0TjUweTh5WVU1TVlSZnBlcHFKUDRhVENidG02Z2EzdzhDREFHVk52TUZySVllY3ZCM3dNdWFaSjFYZ2sySDZfODJGSzBhSGlpRThKb3hJNVVpU2MyalZwVnJlTWxhSDNJZE1kckkxVEtfWkI4LVRncC00NlE4ZTNaTWhpZnZFMmdNeVh0TjJVSjZxNDFqbUNS?oc=5",
+      "candidates": [
+        "kiggans",
+        "luria"
+      ],
+      "tags": []
+    },
     {
       "id": "CBMipwFBVV95cUxNalM1N3RSdzVLWTRZcGpXLUxWWERDZ0ZDdFFyeWJwUzV4VU5FY2liOVo2c0pjTlNtV3NzTTlqa2paTkwzdGlxdkxDR1A2dFVHN2F1cHVNRDh4UnlJb3VjeTBtOTRoLWJnNlRveDdFeE92bkNSeU0tREViWWFZdm9vTU9NOHR6eHg3T25LUF9HeXlxRFR0VURkZnJ2ZTlPT3hvTVMxUzJVMA",
       "headline": "After Two Weeks of Early Voting, Where Are We in Virginia at This Point?",
@@ -48,6 +108,20 @@
       "tags": []
     },
     {
+      "id": "CBMihwFBVV95cUxOM0lLaTJTNm5yU0lwUUVQbW5tX1Z2YVFjYjRGRXIyajVyOThxOHhfUVBuYUlieVFNWEJpMUVFZXpUbTN0WFJBWlozUE1jZlFGYm5Ubm5QVGdtWVZ2TVpVNm4wZVpyVXRNOFd4RGllc19uWFF6NnBZeDJzV0hibjhhaXpWYmRZYWs",
+      "headline": "Democrat Luria hosts Get Out the Vote rally",
+      "outlet": "Yahoo",
+      "outlet_domain": "yahoo.com",
+      "local": false,
+      "official": false,
+      "date": "2026-10-03T00:27:00.000Z",
+      "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOM0lLaTJTNm5yU0lwUUVQbW5tX1Z2YVFjYjRGRXIyajVyOThxOHhfUVBuYUlieVFNWEJpMUVFZXpUbTN0WFJBWlozUE1jZlFGYm5Ubm5QVGdtWVZ2TVpVNm4wZVpyVXRNOFd4RGllc19uWFF6NnBZeDJzV0hibjhhaXpWYmRZYWs?oc=5",
+      "candidates": [
+        "luria"
+      ],
+      "tags": []
+    },
+    {
       "id": "CBMi9AFBVV95cUxOVjQyTFdpZkpuRElpMTFhQjU4UGI5N1gxbklxU05hc2I2ZHpjTE5SZUxGNE1PNXZmNG1rLURvZzNCUkpwcnhVTnQ5MjRva3lBNHhqYXhYX3QwNjhuSENpb0ViUGlyTGZYMGhVdkFQSW5zZEZOcHB3c3NuVFo0X1czem95WHN3dG1SRlZ6ZHRSRUk1MkJ5QmZuN1liclZNRlMtYlQwZHpaMXJFMVhUQU9WdGFacGU2RnVXRkUxeGVxNndXczVwSUF0TG1nTmZMcmx4bWlUQUhSaF9uUmVlajZ4Skl3Y0Nib1FNdGRBQWNwZzlYMU00",
       "headline": "Kiggans, EPA Deputy Administrator Fotouhi Celebrate $92 Million in Grant Awards for Conservation Efforts in the Chesapeake Bay",
       "outlet": "House.gov",
@@ -70,6 +144,20 @@
       "official": false,
       "date": "2026-10-02T18:21:00.000Z",
       "link": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxQRm5DWkFVUkhCMUV1aVc1U1VEeVRqVGZza1VBMWhqcGJxNzN4Q3JYRkJTM1JhUU1tYlJwZDFvZ25lVmhrSTFoVmVnV3FZb2RpS3BPNThxODhFaGpIU3dkWlY0Mm5URlZpZXJ5OE1rYnM0ckU2Y3VmVXdUUF9uS1NGZmNNSDZtMTV3Yjk4RU5KdEx4ZFNXTnJiMlJkam96ZHEzM3VnbWUxTGhjX1NHRWpuR2RCdklDeUhyblNDVHJna3VOcjZQbmJ2YTA4Y3BHbXJOR2h6VE1YYzhYWGtSQVE?oc=5",
+      "candidates": [
+        "kiggans"
+      ],
+      "tags": []
+    },
+    {
+      "id": "CBMiwAFBVV95cUxPWDY1YUUyOW9RblV3REVXS1lsbmY5V2haeEZiNjV1SndsN1FXcUJPUDZrLUdyckxuVHZzVXp4eTkwdU9TZXM5MzJoc00wRzVGSERQdXZ1eEl6RGVMbWZHUWg5YmEzeGx1MjN6UU9kZ1l3bXdubExVWGNNNXpWLWx1ZEttazY4NnpxZnlpR3QwMFlGemhVMzFtN0E0VUZDdzVCaVhaRmlhMURmTVN6dWVqNzZXeGtDdi11RnRmYlNRSmw",
+      "headline": "Kiggans, Ernst unveil bipartisan, bicameral bill to improve childcare for military families",
+      "outlet": "Ripon Advance",
+      "outlet_domain": "riponadvance.com",
+      "local": false,
+      "official": false,
+      "date": "2026-10-02T17:47:31.000Z",
+      "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPWDY1YUUyOW9RblV3REVXS1lsbmY5V2haeEZiNjV1SndsN1FXcUJPUDZrLUdyckxuVHZzVXp4eTkwdU9TZXM5MzJoc00wRzVGSERQdXZ1eEl6RGVMbWZHUWg5YmEzeGx1MjN6UU9kZ1l3bXdubExVWGNNNXpWLWx1ZEttazY4NnpxZnlpR3QwMFlGemhVMzFtN0E0VUZDdzVCaVhaRmlhMURmTVN6dWVqNzZXeGtDdi11RnRmYlNRSmw?oc=5",
       "candidates": [
         "kiggans"
       ],
@@ -158,7 +246,8 @@
       "date": "2026-10-01T10:01:59.000Z",
       "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNUVNqNVdjMTF4ajJwWXlRY2ZXOUFuVzJMbFI2cU9wOFdLSnRNNmJCUlFRSXRlMS1SQ3VNZnIxUWtHanBweC1adzllX2lldmNhX1pRclpLYmVONElNbWRqbi13ZmJMbmktYlBiRlBlSlphUWxoM1BvbGJibjBZWGtuLTU3MWFNdE1MTENoRzl1cXg4TVhfM0p4TjVpangzR3Fzbm5QZkRfQUxTZGRpdUpEVkV1X2hPMWN5QzNWclc4QkM?oc=5",
       "candidates": [
-        "kiggans"
+        "kiggans",
+        "luria"
       ],
       "tags": []
     },
@@ -1234,20 +1323,6 @@
       ],
       "tags": [],
       "official": false
-    },
-    {
-      "id": "CBMikwFBVV95cUxNUU04WkJlSUJqdWdFQWF0VUxmbGlrSEI1bTdXZ2Z6bVVIcVp3WjhPZU9GV3Y1SVlUamx0aEd6S01xdW5kUDhFeURBZWgwVzN3QV8xUDM0NzRfbEdIUFJ2b3QybVZWNWFrVkNYekxwS0NDXzAtY0lQSllULUJiSHFfTk9jTFVXVlE2X0VXRXZMRTFPYUk",
-      "headline": "Commentary: Are you better off than you were before?",
-      "outlet": "Daily Press",
-      "outlet_domain": "dailypress.com",
-      "local": true,
-      "official": false,
-      "date": "2026-09-05T07:00:00.000Z",
-      "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNUU04WkJlSUJqdWdFQWF0VUxmbGlrSEI1bTdXZ2Z6bVVIcVp3WjhPZU9GV3Y1SVlUamx0aEd6S01xdW5kUDhFeURBZWgwVzN3QV8xUDM0NzRfbEdIUFJ2b3QybVZWNWFrVkNYekxwS0NDXzAtY0lQSllULUJiSHFfTk9jTFVXVlE2X0VXRXZMRTFPYUk?oc=5",
-      "candidates": [
-        "kiggans"
-      ],
-      "tags": []
     }
   ]
 }
