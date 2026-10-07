@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-06T18:30:11.466Z",
+  "updated_at": "2026-10-07T18:59:50.325Z",
   "source": "Google News RSS search",
   "queries": [
     "\"Jen Kiggans\"",
@@ -19,6 +19,107 @@
     "kiggans.house.gov"
   ],
   "items": [
+    {
+      "id": "CBMiqAFBVV95cUxNVW9BUHptaDJwZlpLQ29EUEVVQVZHUUJjd3Q0Q0xmMl9jYlFQb1ppV2xHejBkVEF2Q0Q3MzNRMTNCdjB6MDVGTHBrYk50RjN5M2h3OXhhd3BhMWh2Y29BNUNfSWU0Vmk0RnlsbEdjNThFTDdDRjJiVWloOHZoNWozWnZFbVNDcFV1VzVBQjVmcHpGTklLeGFVU2E4bU5HYkFKa05UMGloOC0",
+      "headline": "Jen Kiggans is running for the 2nd Congressional District.",
+      "outlet": "The Suffolk News-Herald",
+      "outlet_domain": "suffolknewsherald.com",
+      "local": false,
+      "official": false,
+      "date": "2026-10-07T15:11:11.000Z",
+      "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNVW9BUHptaDJwZlpLQ29EUEVVQVZHUUJjd3Q0Q0xmMl9jYlFQb1ppV2xHejBkVEF2Q0Q3MzNRMTNCdjB6MDVGTHBrYk50RjN5M2h3OXhhd3BhMWh2Y29BNUNfSWU0Vmk0RnlsbEdjNThFTDdDRjJiVWloOHZoNWozWnZFbVNDcFV1VzVBQjVmcHpGTklLeGFVU2E4bU5HYkFKa05UMGloOC0?oc=5",
+      "candidates": [
+        "kiggans"
+      ],
+      "tags": []
+    },
+    {
+      "id": "CBMiqgFBVV95cUxQTlU2UnlVVEVfTC1vM2kxUWI2NlR6THMybm91RktxejJ3aWVqSTNfR1RIcHVVR0h6cGNKRGtvOVk3YnJOM1Zpd3NoMG1tYW43RG5hN0k5X2toV0k2THptY1lmYnZJbWxQZWpOOHpNYkFwazZMRzRrY1J6cEVlSDJPOVRJc2RReVJkS1hlVm45bUo3c0xCalczeUVNMTNBMUI4RXNfQk53eHc4UQ",
+      "headline": "Elaine Luria is running for the 2nd Congressional District.",
+      "outlet": "The Suffolk News-Herald",
+      "outlet_domain": "suffolknewsherald.com",
+      "local": false,
+      "official": false,
+      "date": "2026-10-07T15:09:58.000Z",
+      "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQTlU2UnlVVEVfTC1vM2kxUWI2NlR6THMybm91RktxejJ3aWVqSTNfR1RIcHVVR0h6cGNKRGtvOVk3YnJOM1Zpd3NoMG1tYW43RG5hN0k5X2toV0k2THptY1lmYnZJbWxQZWpOOHpNYkFwazZMRzRrY1J6cEVlSDJPOVRJc2RReVJkS1hlVm45bUo3c0xCalczeUVNMTNBMUI4RXNfQk53eHc4UQ?oc=5",
+      "candidates": [
+        "kiggans",
+        "luria"
+      ],
+      "tags": []
+    },
+    {
+      "id": "CBMi6gFBVV95cUxQTzFzMElYNjRrNWtDb1diNEpCdjFWdkZiaTFTYmk2SmNmUEF5TFpvaWFsRU1wUHBEZXRPSFk5bk1Sa2k2WGYtY2xvZDJxVndOTC1TYWpXSF9Qd0pLWm1ZODJKVG9FQ2xWdEVPckVhOGkzM0ZPNGxmOEVoVi0xVW9oZVdVLXpQc1R4Q2k5bUk3WEVhQUhYdk5CZVhkUXAyXzA2dFFaN0NSVUdhR3JDUU1DSmVIX05iTmVJa3M2VlNkRE92NFNTazhuUFpaLUpPOFFiTnVvT2lfd2doNDVSOVREYlIxTzY0RDJFU3c",
+      "headline": "In Virginia, Democrat hoping to oust Republican tests anti-corruption message echoing around country",
+      "outlet": "WKMG",
+      "outlet_domain": "clickorlando.com",
+      "local": false,
+      "official": false,
+      "date": "2026-10-07T04:04:32.000Z",
+      "link": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxQTzFzMElYNjRrNWtDb1diNEpCdjFWdkZiaTFTYmk2SmNmUEF5TFpvaWFsRU1wUHBEZXRPSFk5bk1Sa2k2WGYtY2xvZDJxVndOTC1TYWpXSF9Qd0pLWm1ZODJKVG9FQ2xWdEVPckVhOGkzM0ZPNGxmOEVoVi0xVW9oZVdVLXpQc1R4Q2k5bUk3WEVhQUhYdk5CZVhkUXAyXzA2dFFaN0NSVUdhR3JDUU1DSmVIX05iTmVJa3M2VlNkRE92NFNTazhuUFpaLUpPOFFiTnVvT2lfd2doNDVSOVREYlIxTzY0RDJFU3c?oc=5",
+      "candidates": [
+        "luria"
+      ],
+      "tags": []
+    },
+    {
+      "id": "CBMivAFBVV95cUxOSW5XeDB6NE9pbHZycXR6TFpBdzdOSzlYX3RmQ2YtTUc0WmZXZ2V4Vmg3Y3Y5TUF3MURYUzRlUzBKcll6SkVzMWxaekZVQWNjRjA3TFIzQzB4aTlNVERFTXFLSEJWTnpINkZfaDVUdGp1c3Jva3MzOVdZWW5GUnY2b0xNODRkbEttM2YwUVBSU3NVT1JmcXoydkxLRXkwZU92Z1VfTlczMlFQYW52VUU2WFNMaGxNUlBoUlplUQ",
+      "headline": "Luria and Kiggans would both ban stock trading. But their wealth is above average.",
+      "outlet": "The Virginian-Pilot",
+      "outlet_domain": "pilotonline.com",
+      "local": true,
+      "official": false,
+      "date": "2026-10-06T22:52:27.000Z",
+      "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOSW5XeDB6NE9pbHZycXR6TFpBdzdOSzlYX3RmQ2YtTUc0WmZXZ2V4Vmg3Y3Y5TUF3MURYUzRlUzBKcll6SkVzMWxaekZVQWNjRjA3TFIzQzB4aTlNVERFTXFLSEJWTnpINkZfaDVUdGp1c3Jva3MzOVdZWW5GUnY2b0xNODRkbEttM2YwUVBSU3NVT1JmcXoydkxLRXkwZU92Z1VfTlczMlFQYW52VUU2WFNMaGxNUlBoUlplUQ?oc=5",
+      "candidates": [
+        "kiggans",
+        "luria"
+      ],
+      "tags": []
+    },
+    {
+      "id": "CBMikwFBVV95cUxNbkpkNXRtbHRQdEJlc2V5eFFjU21TM1hyTGl4MWJGLUdWdWxOcjFzTWFrajZMcGt1T1NIRk1sOURtM3k1NzA1cVJhdW5xdHVMMkpRbkNCUkVCaXlnR3dnYlhtRlpodi1zc2NVbWl5d2RLMUs1R3dIQXZxcjRLTkZqY2E4S0xmVkk1WUNmZE9FR1Z5TDg",
+      "headline": "Jen Kiggans, Elaine Luria face off again in Virginia’s 2nd Congressional District",
+      "outlet": "Yahoo",
+      "outlet_domain": "yahoo.com",
+      "local": false,
+      "official": false,
+      "date": "2026-10-06T21:39:07.000Z",
+      "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNbkpkNXRtbHRQdEJlc2V5eFFjU21TM1hyTGl4MWJGLUdWdWxOcjFzTWFrajZMcGt1T1NIRk1sOURtM3k1NzA1cVJhdW5xdHVMMkpRbkNCUkVCaXlnR3dnYlhtRlpodi1zc2NVbWl5d2RLMUs1R3dIQXZxcjRLTkZqY2E4S0xmVkk1WUNmZE9FR1Z5TDg?oc=5",
+      "candidates": [
+        "kiggans"
+      ],
+      "tags": []
+    },
+    {
+      "id": "CBMi4gFBVV95cUxOM3ZybUFUbEdKTnRVLW5QbENGS21hdFdLclpvbEpoYS13bHVyeWpsRmgySDFjZUdRSVVVRDFESHZ2VHExdHpGUlFyMlhLSkVVZF9IUzJVZzVNNEJPQTB5MGlVbFNCMi1HbTFWemFsSkctRjdieUdQd21aMkY3MmZuZFBUZm83ZHlJLTdXeGU3RzhXTGh0R2VoTXNKOEo0T1NwWlkxQV9hZUpPRC1EVTJuSkNhRmllVWNSeGtsWWZWSGQtTXd3c2hyenlia2ZkSmdHVlpRWEJaVjFMU0ZpNGNEd1FR",
+      "headline": "Jen Kiggans, Elaine Luria face off again in Virginia’s 2nd Congressional District",
+      "outlet": "13News Now (WVEC)",
+      "outlet_domain": "13newsnow.com",
+      "local": true,
+      "official": false,
+      "date": "2026-10-06T21:39:00.000Z",
+      "link": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxOM3ZybUFUbEdKTnRVLW5QbENGS21hdFdLclpvbEpoYS13bHVyeWpsRmgySDFjZUdRSVVVRDFESHZ2VHExdHpGUlFyMlhLSkVVZF9IUzJVZzVNNEJPQTB5MGlVbFNCMi1HbTFWemFsSkctRjdieUdQd21aMkY3MmZuZFBUZm83ZHlJLTdXeGU3RzhXTGh0R2VoTXNKOEo0T1NwWlkxQV9hZUpPRC1EVTJuSkNhRmllVWNSeGtsWWZWSGQtTXd3c2hyenlia2ZkSmdHVlpRWEJaVjFMU0ZpNGNEd1FR?oc=5",
+      "candidates": [
+        "luria"
+      ],
+      "tags": []
+    },
+    {
+      "id": "CBMikwJBVV95cUxPNTlDckUzbGpaN2NHNTREV1BaVFpKQmpkQUluaU5NVVc4RDBfLXpmWXc0S0tJM1JacEM2RGpVU3lWWS1VaEY4QVViQmwxWUw3bDI3ZnEtcjh5NHg0TEdIWE9EVkllWHRXUzkwVklielpiQ0dabFprVXNyQzNKY2IwekhKR0ZhU0s0cWxYYXJhTW5MODhFMzZMMkNmYno1NTd5VzBvNnI4WjNFZVFfcWdsTWJqSWNGRFg3SzVtZnFNVGZybnRmU29MQTBKMFRES0pseFhxVHFPcFRiakVRZWZaNjljVFhlSEJQX0x3Wm9VQ1Q4MVhNQ21kWktCdVgwV1dFVFBTV0JJRXgwRkotejJtbGpLMA",
+      "headline": "Candidate profile: Virginia's 2nd District rematch between Kiggans and Luria",
+      "outlet": "13News Now (WVEC)",
+      "outlet_domain": "13newsnow.com",
+      "local": true,
+      "official": false,
+      "date": "2026-10-06T21:28:00.000Z",
+      "link": "https://news.google.com/rss/articles/CBMikwJBVV95cUxPNTlDckUzbGpaN2NHNTREV1BaVFpKQmpkQUluaU5NVVc4RDBfLXpmWXc0S0tJM1JacEM2RGpVU3lWWS1VaEY4QVViQmwxWUw3bDI3ZnEtcjh5NHg0TEdIWE9EVkllWHRXUzkwVklielpiQ0dabFprVXNyQzNKY2IwekhKR0ZhU0s0cWxYYXJhTW5MODhFMzZMMkNmYno1NTd5VzBvNnI4WjNFZVFfcWdsTWJqSWNGRFg3SzVtZnFNVGZybnRmU29MQTBKMFRES0pseFhxVHFPcFRiakVRZWZaNjljVFhlSEJQX0x3Wm9VQ1Q4MVhNQ21kWktCdVgwV1dFVFBTV0JJRXgwRkotejJtbGpLMA?oc=5",
+      "candidates": [
+        "kiggans",
+        "luria"
+      ],
+      "tags": []
+    },
     {
       "id": "CBMi0wFBVV95cUxNdWtyNFZDeDRoZkg5dS1lYVk4MzZOTGh3WjNYc2pCTVdqOVc4Y0hGdTB6R01abTQ0RnVGVHVsdzhFVTRKTFk0dU9aQ2V0UWRNeTRQbVUwaExLdVV2RFlhaXVIdUVVR0oteUZZQzR2VjQzcXUwb2I0MmFCRnNCZWtOZVRPS0dvVXFUQV90UXU4SHBWanBPUWF4SzZSU0N3M3B5M1JlVnhLdnBuNUp0QTYwWkNfaUphaWxXSlFVaUhMVWQwS0MxdktvQ0FVYXNkTnJMY2xB",
       "headline": "Video: New Elaine Luria Ad Calls Out Utterly Dishonest MAGA Rep. Jen Kiggans (R-VA02) for \"Lying to Your Face\"",
@@ -43,6 +144,21 @@
       "official": false,
       "date": "2026-10-05T09:00:00.000Z",
       "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOZ1hFc2FuVV9sQXVjZXRpRVdEdXpJem5uY1pqTmtfa0cyVGtqZHE5Wm9YZzEwODRBZjBkQmdkU1BjSjczRlNxUTQtbnZYZ2swS1ZBeE5iakNlTXBnY05iaTJ1SHFGY3loTUs0T2tzU0didzE0OURPM0JCZ3ZNY2VoZXZGZzUzdjNkc2hTOWVDcDZFYW12ME5jcTlUTE5ZYkdfNWxIT1haMXlsZjY4YVJPWndB?oc=5",
+      "candidates": [
+        "kiggans",
+        "luria"
+      ],
+      "tags": []
+    },
+    {
+      "id": "CBMirgFBVV95cUxNWUEzRERUM2NaODB6YTJxZEdCOVk3b2EzaG5SNVE0ZUhUaVZkS29JV2NHVkhaeEhWa0QwN3d4bmdOcjc1ckpuX1MtTXUzd0RjTmhxenQ5dUlIall5U1FUUWdaVGE4eUwzZWlsOGVnWjNmcEh0V0RSc2hhUnhPRXRyUTZJS2U4VHhJNExPR3pnVWRBR0pST1kwcnlfV0R1bGV1Z3RDYk1PLWg4bUdpU1E",
+      "headline": "Letters for Oct. 5: Luria, Kiggans should be examples of espoused values",
+      "outlet": "The Virginian-Pilot",
+      "outlet_domain": "pilotonline.com",
+      "local": true,
+      "official": false,
+      "date": "2026-10-05T01:59:56.000Z",
+      "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNWUEzRERUM2NaODB6YTJxZEdCOVk3b2EzaG5SNVE0ZUhUaVZkS29JV2NHVkhaeEhWa0QwN3d4bmdOcjc1ckpuX1MtTXUzd0RjTmhxenQ5dUlIall5U1FUUWdaVGE4eUwzZWlsOGVnWjNmcEh0V0RSc2hhUnhPRXRyUTZJS2U4VHhJNExPR3pnVWRBR0pST1kwcnlfV0R1bGV1Z3RDYk1PLWg4bUdpU1E?oc=5",
       "candidates": [
         "kiggans",
         "luria"
@@ -478,6 +594,23 @@
         "luria"
       ],
       "tags": []
+    },
+    {
+      "id": "CBMi0AFBVV95cUxNRkxPRVVPUjlZd2U5UnVIWGpnUHJOZVNPSkhIbnUwWTFuSndDVERrenJtSEZVVVRCWGlINERjeERtbXRLVkc4b2ZlTlM2S1NkVU9lSUdlNl92NUNPTGdmaWUxaDBBZFJpM19vNlNZaERSV1BDejh5bDNpSVhmTXRVYXM2S1I0MmpoQmpTUTU0c08zUzRBbFFpazl5V1V5WkpOeWlpMnBXcjdMekxZakw2ZXZtckIzYm45ZTFoYmlNYlN3UFpnNkNjaUtMTGVsM1B2",
+      "headline": "Commentary: When Virginia’s congressional candidates don’t debate, voters get sound bites instead of substance",
+      "outlet": "Virginia Mercury",
+      "outlet_domain": "virginiamercury.com",
+      "local": false,
+      "official": false,
+      "date": "2026-09-28T07:00:00.000Z",
+      "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxNRkxPRVVPUjlZd2U5UnVIWGpnUHJOZVNPSkhIbnUwWTFuSndDVERrenJtSEZVVVRCWGlINERjeERtbXRLVkc4b2ZlTlM2S1NkVU9lSUdlNl92NUNPTGdmaWUxaDBBZFJpM19vNlNZaERSV1BDejh5bDNpSVhmTXRVYXM2S1I0MmpoQmpTUTU0c08zUzRBbFFpazl5V1V5WkpOeWlpMnBXcjdMekxZakw2ZXZtckIzYm45ZTFoYmlNYlN3UFpnNkNjaUtMTGVsM1B2?oc=5",
+      "candidates": [
+        "kiggans",
+        "luria"
+      ],
+      "tags": [
+        "debate"
+      ]
     },
     {
       "id": "CBMiwgFBVV95cUxPZEtlWXV4VXlXQmxxbjZZSGZEaXhDaXgtVWVlRnRtcC0zaUE1cjNBc1Y1SGxiRzdQZ0h6ck0zQkc3Y1VFdXhKYUJPb0N4c3E5WkFnX0lMZUV4SGhLMHZXNHpKbGp5Y3hTbkNuRm1vamxQYkJsTFNfZkdWd3EtblFiNHRpRjVNQ0NXSzFBUGZPRk10VkgydGN4SXlPWS11UmR2R04zYzE5WllNV0dDUGFwSFFmS0w4eXpWTGYzTEZMOHJidw",
@@ -1304,20 +1437,6 @@
       "local": true,
       "date": "2026-09-08T07:00:00.000Z",
       "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxOWndIdVlFRGNTeXdmbk81NG5CLUxfSVZMS3FVRlJ2d3pKUy1PM1o0dDFFNnJfc2ZWOFpkUzZPbUdfRFdMZ25xZFJub0xQR3l3MXh6bnZUcjB0eUpHb3A0YmtfR3IwNFVreXR0RzBIMnhKNldnTmJuVWVPdVdHN0ZKTjJGOHFIRTlSWW9YMFRoTDZ1WG9ZcUN5T011YkRrSXpKVmJncVBDTWNXYnhBVUhQM253a25tcUdwbzBzYkQ5cmdDc29YaU04?oc=5",
-      "candidates": [
-        "kiggans"
-      ],
-      "tags": [],
-      "official": false
-    },
-    {
-      "id": "CBMi7AFBVV95cUxOcU83UjR2dmFXZ1lyQ192TTY3Z25za1ZjR0xpcFBjaEFuVlhjb3pEZ2gySGVVdERTcC1BVXNSdVEwbFU3YUUzWUFSeEZOWExweXd6OGJZd1dmNzh0VXV0UEpFX0VxM0w0b2xUVlJjRWpraHptTWRhUmVhelRjUzRqVzY1WmxIYlptem9ZTU9tdnNsUXNaVjNURHhWdlhOSFZ1NjJEQUpMR2lBT0JhNU5QQktDT3l1UnlBcDJwNEhsdU0wMlpaSDUzV2MxWFNuNjJDUllHVEVtUXlxZUlZV3dtRkwzZWVrSUhZdXpaSA",
-      "headline": "In Virginia's Navy Country, the Iran War Tests a GOP Incumbent",
-      "outlet": "Springfield News-Sun",
-      "outlet_domain": "springfieldnewssun.com",
-      "local": false,
-      "date": "2026-09-07T09:54:55.000Z",
-      "link": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxOcU83UjR2dmFXZ1lyQ192TTY3Z25za1ZjR0xpcFBjaEFuVlhjb3pEZ2gySGVVdERTcC1BVXNSdVEwbFU3YUUzWUFSeEZOWExweXd6OGJZd1dmNzh0VXV0UEpFX0VxM0w0b2xUVlJjRWpraHptTWRhUmVhelRjUzRqVzY1WmxIYlptem9ZTU9tdnNsUXNaVjNURHhWdlhOSFZ1NjJEQUpMR2lBT0JhNU5QQktDT3l1UnlBcDJwNEhsdU0wMlpaSDUzV2MxWFNuNjJDUllHVEVtUXlxZUlZV3dtRkwzZWVrSUhZdXpaSA?oc=5",
       "candidates": [
         "kiggans"
       ],
