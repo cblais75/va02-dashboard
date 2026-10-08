@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-07T18:59:50.325Z",
+  "updated_at": "2026-10-08T18:55:32.281Z",
   "source": "Google News RSS search",
   "queries": [
     "\"Jen Kiggans\"",
@@ -19,6 +19,49 @@
     "kiggans.house.gov"
   ],
   "items": [
+    {
+      "id": "CBMilgFBVV95cUxOMHI5aklIZGpDc0FpOWJyOEI0ajNadUw5M2VYQ1FXNEc5czBmOTNLMmxsN2NBMW5lbFJ2Nk1NODdqcG1Jc21SNnhEMDl4Y3FNQldNS2tvaG91dEVCTWtTSkJvNDlOT21pWDc4anIxQmVfVmp6Rmw2bl9oeTVGSlRuNlQ5bkhCOXBPYmRxdHdIVDNEN25CVHc",
+      "headline": "Will Congress ever assert itself on Iran?",
+      "outlet": "The Economist",
+      "outlet_domain": "economist.com",
+      "local": false,
+      "official": false,
+      "date": "2026-10-08T13:01:51.000Z",
+      "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOMHI5aklIZGpDc0FpOWJyOEI0ajNadUw5M2VYQ1FXNEc5czBmOTNLMmxsN2NBMW5lbFJ2Nk1NODdqcG1Jc21SNnhEMDl4Y3FNQldNS2tvaG91dEVCTWtTSkJvNDlOT21pWDc4anIxQmVfVmp6Rmw2bl9oeTVGSlRuNlQ5bkhCOXBPYmRxdHdIVDNEN25CVHc?oc=5",
+      "candidates": [
+        "kiggans",
+        "luria"
+      ],
+      "tags": []
+    },
+    {
+      "id": "CBMi3wFBVV95cUxQa2FPNnk1b3Qxb1NLUTd5a0xLNU9MT0lsRXZFandJeWRRQWRlWGNWblZiVDZMbGNmMFo1aXlTalNXcE11RkNERmktdzl6cjFGNTA5QmcxSnYtMGo3bFhUaWF6YlJlNERYNnRqWWE2dTZVd3R3ZTJqaU84S0dmU0VnZVpaNXJlcTFnNHZIb1ZqNy1wOHpVYm5lbl9JbXJfMVlFc1JOWVpJVzBRandidDVhQzJWOWhqdGtNbGJNUnhzMDMxSW9nVlJtUFhHdjcyRXV0T0dlbjNpb0hCbXlUdzJr",
+      "headline": "VERIFY: Does Kiggans support Trump's policies 100% of the time?",
+      "outlet": "13News Now (WVEC)",
+      "outlet_domain": "13newsnow.com",
+      "local": true,
+      "official": false,
+      "date": "2026-10-08T00:48:00.000Z",
+      "link": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxQa2FPNnk1b3Qxb1NLUTd5a0xLNU9MT0lsRXZFandJeWRRQWRlWGNWblZiVDZMbGNmMFo1aXlTalNXcE11RkNERmktdzl6cjFGNTA5QmcxSnYtMGo3bFhUaWF6YlJlNERYNnRqWWE2dTZVd3R3ZTJqaU84S0dmU0VnZVpaNXJlcTFnNHZIb1ZqNy1wOHpVYm5lbl9JbXJfMVlFc1JOWVpJVzBRandidDVhQzJWOWhqdGtNbGJNUnhzMDMxSW9nVlJtUFhHdjcyRXV0T0dlbjNpb0hCbXlUdzJr?oc=5",
+      "candidates": [
+        "kiggans"
+      ],
+      "tags": []
+    },
+    {
+      "id": "CBMi0wFBVV95cUxNbmZMWTZ4TmtJbUNEWnZqbEgwN0FheUowOVhUX0ZhM3VaUE5Xa0tfVjNPdDVGVnNZMnQ2S2lmNm43UDVibkJPQ1o0STBoZzF4QmRPRHN3bThSOG5ZOWxLYkFVU1pKdkdMeGRjRDV2TkgySEpyMTVxQnM5YzY4TFotUHp1ZGtzS0dFeW9TNGs4MEdrOUxGeG16MTFXaUJjRF9ic2tzOU1pNkdFMWk0bVM1b013NUtPQVUyQXgwQk4xOVp0am1XRzl6QU1xNWFoZ3ktOTFB",
+      "headline": "Verifying claims against Congresswoman Jen Kiggans",
+      "outlet": "13News Now (WVEC)",
+      "outlet_domain": "13newsnow.com",
+      "local": true,
+      "official": false,
+      "date": "2026-10-08T00:18:00.000Z",
+      "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxNbmZMWTZ4TmtJbUNEWnZqbEgwN0FheUowOVhUX0ZhM3VaUE5Xa0tfVjNPdDVGVnNZMnQ2S2lmNm43UDVibkJPQ1o0STBoZzF4QmRPRHN3bThSOG5ZOWxLYkFVU1pKdkdMeGRjRDV2TkgySEpyMTVxQnM5YzY4TFotUHp1ZGtzS0dFeW9TNGs4MEdrOUxGeG16MTFXaUJjRF9ic2tzOU1pNkdFMWk0bVM1b013NUtPQVUyQXgwQk4xOVp0am1XRzl6QU1xNWFoZ3ktOTFB?oc=5",
+      "candidates": [
+        "kiggans"
+      ],
+      "tags": []
+    },
     {
       "id": "CBMiqAFBVV95cUxNVW9BUHptaDJwZlpLQ29EUEVVQVZHUUJjd3Q0Q0xmMl9jYlFQb1ppV2xHejBkVEF2Q0Q3MzNRMTNCdjB6MDVGTHBrYk50RjN5M2h3OXhhd3BhMWh2Y29BNUNfSWU0Vmk0RnlsbEdjNThFTDdDRjJiVWloOHZoNWozWnZFbVNDcFV1VzVBQjVmcHpGTklLeGFVU2E4bU5HYkFKa05UMGloOC0",
       "headline": "Jen Kiggans is running for the 2nd Congressional District.",
@@ -101,6 +144,7 @@
       "date": "2026-10-06T21:39:00.000Z",
       "link": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxOM3ZybUFUbEdKTnRVLW5QbENGS21hdFdLclpvbEpoYS13bHVyeWpsRmgySDFjZUdRSVVVRDFESHZ2VHExdHpGUlFyMlhLSkVVZF9IUzJVZzVNNEJPQTB5MGlVbFNCMi1HbTFWemFsSkctRjdieUdQd21aMkY3MmZuZFBUZm83ZHlJLTdXeGU3RzhXTGh0R2VoTXNKOEo0T1NwWlkxQV9hZUpPRC1EVTJuSkNhRmllVWNSeGtsWWZWSGQtTXd3c2hyenlia2ZkSmdHVlpRWEJaVjFMU0ZpNGNEd1FR?oc=5",
       "candidates": [
+        "kiggans",
         "luria"
       ],
       "tags": []
@@ -132,6 +176,20 @@
       "candidates": [
         "kiggans",
         "luria"
+      ],
+      "tags": []
+    },
+    {
+      "id": "CBMi3wFBVV95cUxNdnBER3p0VGtFWjh0VUJySzFQY3FWRDNlX2VQdXl4OG5mem9vMUpWVlJ3aFVVN3NoRDZ1ZXFKRXZBLWdVVm1MbUptUE53UXRMRmlZREpiVkNvQmtuQVFGeUcwcVpOdVUzbGI0MVR1OWJ6QkljVjJBa3N4V0lKSlhLOUpnbUNUbTBSTGVMLV9XcEpfSzVxeHNkSDhfb25DZXB6eVpLNmh1NnNrRkQxQ3E1dEhibExmOHBiTDE2TS1nM1hQalJNSlJiZHQ4Vl9nOF9GTDRMbm5jQzdvWnBZaF9N",
+      "headline": "In Virginia, Democrat hoping to oust Republican tests anti-corruption message echoing around country",
+      "outlet": "KSAT",
+      "outlet_domain": "ksat.com",
+      "local": false,
+      "official": false,
+      "date": "2026-10-06T07:00:00.000Z",
+      "link": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxNdnBER3p0VGtFWjh0VUJySzFQY3FWRDNlX2VQdXl4OG5mem9vMUpWVlJ3aFVVN3NoRDZ1ZXFKRXZBLWdVVm1MbUptUE53UXRMRmlZREpiVkNvQmtuQVFGeUcwcVpOdVUzbGI0MVR1OWJ6QkljVjJBa3N4V0lKSlhLOUpnbUNUbTBSTGVMLV9XcEpfSzVxeHNkSDhfb25DZXB6eVpLNmh1NnNrRkQxQ3E1dEhibExmOHBiTDE2TS1nM1hQalJNSlJiZHQ4Vl9nOF9GTDRMbm5jQzdvWnBZaF9N?oc=5",
+      "candidates": [
+        "kiggans"
       ],
       "tags": []
     },
@@ -1187,6 +1245,20 @@
       "official": false
     },
     {
+      "id": "CBMikgFBVV95cUxNMFhMU01EaFZzdDdSTmVHemZPNGs0SW9IM20wWXY0dnZuTUtKWWRPVGhTZFlwcjZhSE0xWVhSZXZhZEVGNTBETUU5TjBSN1VveDcyUXZrakpQaVZkVUVXWXYwYXpOcTl6dHk1S004LUpoS194Q29RaGp4QnYzOG1uNmM2c0RsQl9NSlVsRkVNZm1odw",
+      "headline": "ICYMI: Kiggans Takes Action to Protect Families at the Beach",
+      "outlet": "National Republican Congressional Committee",
+      "outlet_domain": "nrcc.org",
+      "local": false,
+      "official": false,
+      "date": "2026-09-16T07:00:00.000Z",
+      "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNMFhMU01EaFZzdDdSTmVHemZPNGs0SW9IM20wWXY0dnZuTUtKWWRPVGhTZFlwcjZhSE0xWVhSZXZhZEVGNTBETUU5TjBSN1VveDcyUXZrakpQaVZkVUVXWXYwYXpOcTl6dHk1S004LUpoS194Q29RaGp4QnYzOG1uNmM2c0RsQl9NSlVsRkVNZm1odw?oc=5",
+      "candidates": [
+        "kiggans"
+      ],
+      "tags": []
+    },
+    {
       "id": "CBMiqgJBVV95cUxPLXpwUFJYSzJhT0U5QlZUajF0TDVrUjBvMFdJckpRTmU3bDluUzJERG9zdHZhTC1KNXFlbTBzTVdYdlQxZnB1U2Y3Z2FFU09DRlpIcXBucndPMGh6eTJuanVvUDhacy0yZVhxR1VENjJOYUpWWUtNQmVUODJ4WnR5TmxidFljc3lNQzMxUm9NMWNjZXktYzJyN0otU2VTaUgyVkVubHJpMzBVZjdjZTJIRTFxM3BKSkswOUMyM1JYdDRmc0YxRHNDZUlQT0VxcWJMTVpsMEduLWMzbmtUV251cjByRjJ3dFYxR25OYWQwUVByRVJuZXhUclFUcVJrengxVlRRWkpiSHE3VXhaN09qeGROVVViUzNKcTg4Yi0xT1FoRkVSNmxrYXNn",
       "headline": "Video: Elaine Luria Releases Two Ads (\"Vet Like Me,\" \"Burn Pits\") Contrasting Her Passage of the PACT Act to Expand Veterans’ Health Care with Jen Kiggans’ Record of Putting Trump Ahead of America’s Veterans",
       "outlet": "Blue Virginia",
@@ -1400,48 +1472,6 @@
         "luria"
       ],
       "tags": []
-    },
-    {
-      "id": "CBMitAFBVV95cUxPMW9iaWhGbno4RGZxMGdyM3hFQWRWS29JT1FGM0pILXI3Mi1kZGsxRlNaZFBhbHhvM3QxQzBTV0Fwbm15WEszZm1taV9qUFBuYWdlQ2JlYXJPUHVKdG5zbTQzQ19zM1VmMFVPSkxDOGFURV9DVTVYb1RGT0k5b3ZEMjg3VzFOQlRQMmk5eFd5LTJMU2t6akhlQU5xVk1xUG5lVGpGWTFEOFZPSlc5eHBJcUVrWFA",
-      "headline": "Letters for Sept. 9: Luria should keep her word about living in 2nd District",
-      "outlet": "The Virginian-Pilot",
-      "outlet_domain": "pilotonline.com",
-      "local": true,
-      "date": "2026-09-08T07:00:00.000Z",
-      "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPMW9iaWhGbno4RGZxMGdyM3hFQWRWS29JT1FGM0pILXI3Mi1kZGsxRlNaZFBhbHhvM3QxQzBTV0Fwbm15WEszZm1taV9qUFBuYWdlQ2JlYXJPUHVKdG5zbTQzQ19zM1VmMFVPSkxDOGFURV9DVTVYb1RGT0k5b3ZEMjg3VzFOQlRQMmk5eFd5LTJMU2t6akhlQU5xVk1xUG5lVGpGWTFEOFZPSlc5eHBJcUVrWFA?oc=5",
-      "candidates": [
-        "luria"
-      ],
-      "tags": [],
-      "official": false
-    },
-    {
-      "id": "CBMi9AFBVV95cUxNODNQbW9qLWEwNmRzd2t1ajN5X25OVGFGVldYallCamtMOTNzb2VsMURRQk1JT2F4OVppZmxvZ2p0T2VweEpidnJueHlaT3RtVG51M21TN1hYaWZqQ2U0a0dZMHNHUmUzTVgySzdFREthdGNCMjlYX0w1RDlHWHZFanp5NHRnY2VpUk80V00zbzRmTldIamFNbDhWMEZNN2E3dEd6NG0td2J2WEJJUGVRNzR4X1lPcHV2MHhBRUlMX1NKc2FMOFJJYUo1LVQ4NkNRdHU0SHdvM1d1Sy1FdHg0djZ1WlVOTmtPbGF1aUhEUVZtYko4",
-      "headline": "VERIFY: Ad says Kiggans blocked federal funding for sex-change surgeries",
-      "outlet": "13News Now (WVEC)",
-      "outlet_domain": "13newsnow.com",
-      "local": true,
-      "date": "2026-09-08T07:00:00.000Z",
-      "link": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxNODNQbW9qLWEwNmRzd2t1ajN5X25OVGFGVldYallCamtMOTNzb2VsMURRQk1JT2F4OVppZmxvZ2p0T2VweEpidnJueHlaT3RtVG51M21TN1hYaWZqQ2U0a0dZMHNHUmUzTVgySzdFREthdGNCMjlYX0w1RDlHWHZFanp5NHRnY2VpUk80V00zbzRmTldIamFNbDhWMEZNN2E3dEd6NG0td2J2WEJJUGVRNzR4X1lPcHV2MHhBRUlMX1NKc2FMOFJJYUo1LVQ4NkNRdHU0SHdvM1d1Sy1FdHg0djZ1WlVOTmtPbGF1aUhEUVZtYko4?oc=5",
-      "candidates": [
-        "kiggans"
-      ],
-      "tags": [],
-      "official": false
-    },
-    {
-      "id": "CBMixwFBVV95cUxOWndIdVlFRGNTeXdmbk81NG5CLUxfSVZMS3FVRlJ2d3pKUy1PM1o0dDFFNnJfc2ZWOFpkUzZPbUdfRFdMZ25xZFJub0xQR3l3MXh6bnZUcjB0eUpHb3A0YmtfR3IwNFVreXR0RzBIMnhKNldnTmJuVWVPdVdHN0ZKTjJGOHFIRTlSWW9YMFRoTDZ1WG9ZcUN5T011YkRrSXpKVmJncVBDTWNXYnhBVUhQM253a25tcUdwbzBzYkQ5cmdDc29YaU04",
-      "headline": "Verifying claims from pro-Jen Kiggans ad",
-      "outlet": "13News Now (WVEC)",
-      "outlet_domain": "13newsnow.com",
-      "local": true,
-      "date": "2026-09-08T07:00:00.000Z",
-      "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxOWndIdVlFRGNTeXdmbk81NG5CLUxfSVZMS3FVRlJ2d3pKUy1PM1o0dDFFNnJfc2ZWOFpkUzZPbUdfRFdMZ25xZFJub0xQR3l3MXh6bnZUcjB0eUpHb3A0YmtfR3IwNFVreXR0RzBIMnhKNldnTmJuVWVPdVdHN0ZKTjJGOHFIRTlSWW9YMFRoTDZ1WG9ZcUN5T011YkRrSXpKVmJncVBDTWNXYnhBVUhQM253a25tcUdwbzBzYkQ5cmdDc29YaU04?oc=5",
-      "candidates": [
-        "kiggans"
-      ],
-      "tags": [],
-      "official": false
     }
   ]
 }
