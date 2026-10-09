@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-08T18:55:32.281Z",
+  "updated_at": "2026-10-09T18:26:01.138Z",
   "source": "Google News RSS search",
   "queries": [
     "\"Jen Kiggans\"",
@@ -19,6 +19,35 @@
     "kiggans.house.gov"
   ],
   "items": [
+    {
+      "id": "CBMi4gFBVV95cUxQZFBkQTdBRnNwZm15c0I2eS1tRDhUcmJBcTNVaVNSb25pa05GTGhuRmtydmRkRTZLQm1BOFByZjdYUGhqMnBiUTV6V01xSXhBVzFtS2RpT1VocEo2cXRyRV8yWnEtcTdaaHJoc0pSdWc5T0ZCMFozSFZsdC1TTFRKa0pPUGt2dnNYZ2NNLVYta2wybGtTZmVYbktkMmE5UklHSVpFOHFHVW5BWGpnbnJrTTBRTU8wOERhQ3VnMGUta2RncnU3UGIxTHh0czBLSnFEQUUwSEFkc3VTX2JtbVZ0eF9n0gHnAUFVX3lxTE1JTGxYUGtRbUJ6WEpPTXF1ZTA2ZXFGeXRReUtJUkFYakJoMzlIRk9jR04xdlo0QS1Ta3RpZGQxWW5KX3JOSkp6dHM3a3A3YWRmWnJyYXRPSlBZSG9SM01JaHdvY2s4RTdLYmxuZzZ5aWJCM3V5VWRzMVpnYkRaMU5vZDBoTTNRbzA4T0tXem16NHBzYW1kcTJqUWlBVkV1U1pYMHlvQ0FEUVdaR2puSjZDT0ttdFl0QVo0Umx0WE9vNURESndZOHhkNWk4ckRrYmRjblVSYWk0RVdOYUhmRVktTnExSHQ4RQ",
+      "headline": "Local, state and federal elected officials show support to local realtors at reception in Chesapeake",
+      "outlet": "WAVY",
+      "outlet_domain": "wavy.com",
+      "local": true,
+      "official": false,
+      "date": "2026-10-09T09:41:31.000Z",
+      "link": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxQZFBkQTdBRnNwZm15c0I2eS1tRDhUcmJBcTNVaVNSb25pa05GTGhuRmtydmRkRTZLQm1BOFByZjdYUGhqMnBiUTV6V01xSXhBVzFtS2RpT1VocEo2cXRyRV8yWnEtcTdaaHJoc0pSdWc5T0ZCMFozSFZsdC1TTFRKa0pPUGt2dnNYZ2NNLVYta2wybGtTZmVYbktkMmE5UklHSVpFOHFHVW5BWGpnbnJrTTBRTU8wOERhQ3VnMGUta2RncnU3UGIxTHh0czBLSnFEQUUwSEFkc3VTX2JtbVZ0eF9n0gHnAUFVX3lxTE1JTGxYUGtRbUJ6WEpPTXF1ZTA2ZXFGeXRReUtJUkFYakJoMzlIRk9jR04xdlo0QS1Ta3RpZGQxWW5KX3JOSkp6dHM3a3A3YWRmWnJyYXRPSlBZSG9SM01JaHdvY2s4RTdLYmxuZzZ5aWJCM3V5VWRzMVpnYkRaMU5vZDBoTTNRbzA4T0tXem16NHBzYW1kcTJqUWlBVkV1U1pYMHlvQ0FEUVdaR2puSjZDT0ttdFl0QVo0Umx0WE9vNURESndZOHhkNWk4ckRrYmRjblVSYWk0RVdOYUhmRVktTnExSHQ4RQ?oc=5",
+      "candidates": [
+        "kiggans"
+      ],
+      "tags": []
+    },
+    {
+      "id": "CBMiogFBVV95cUxNQ2Y2b3hhWWNxeVVFeUY5d0dnTFYyc1ZrWlV1NktqLURYZ1lna1cwcUp3UDhKMWlCellrQnNxcFpIZEYxejgxQWdCdS1ZbGh2b25JYkVRZWhjTlFacTRfNVRNRE9SdVVLTnBlMFdJNkFqRF9kVG9kNnhUQml3WlpzUUdEbVZTbE5QUWhVUUIyekI1NkVjM3hSTV9UMVBlZkl5NFE",
+      "headline": "Letters for Oct. 9: Elaine Luria’s, Democrats’ claims are ‘baloney’",
+      "outlet": "The Virginian-Pilot",
+      "outlet_domain": "pilotonline.com",
+      "local": true,
+      "official": false,
+      "date": "2026-10-08T22:03:48.000Z",
+      "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNQ2Y2b3hhWWNxeVVFeUY5d0dnTFYyc1ZrWlV1NktqLURYZ1lna1cwcUp3UDhKMWlCellrQnNxcFpIZEYxejgxQWdCdS1ZbGh2b25JYkVRZWhjTlFacTRfNVRNRE9SdVVLTnBlMFdJNkFqRF9kVG9kNnhUQml3WlpzUUdEbVZTbE5QUWhVUUIyekI1NkVjM3hSTV9UMVBlZkl5NFE?oc=5",
+      "candidates": [
+        "kiggans",
+        "luria"
+      ],
+      "tags": []
+    },
     {
       "id": "CBMilgFBVV95cUxOMHI5aklIZGpDc0FpOWJyOEI0ajNadUw5M2VYQ1FXNEc5czBmOTNLMmxsN2NBMW5lbFJ2Nk1NODdqcG1Jc21SNnhEMDl4Y3FNQldNS2tvaG91dEVCTWtTSkJvNDlOT21pWDc4anIxQmVfVmp6Rmw2bl9oeTVGSlRuNlQ5bkhCOXBPYmRxdHdIVDNEN25CVHc",
       "headline": "Will Congress ever assert itself on Iran?",
@@ -1386,92 +1415,6 @@
       ],
       "tags": [],
       "official": false
-    },
-    {
-      "id": "CBMinAFBVV95cUxOX3hxNTdZd2ZsQWVLejN4aE1vYThXOElBb19mZG0wazNvMmktRkJSV29lMzJlYnFSUkotTktVU3lSSUVjQ080X21oaC1OdmNKcHlUODZ2NFlRZ1dxeEx1OGxuNE9xOVBXY3FMRWtqYmZ5LUVMVXZZSlVObFlrMTBtT1hSd2dyVEJVVFpYRFBROUk3VXg0ekp4ak5WUnQ",
-      "headline": "Elon Musk spends thousands to boost Jen Kiggans",
-      "outlet": "vadogwood.com",
-      "outlet_domain": "vadogwood.com",
-      "local": false,
-      "date": "2026-09-09T07:00:00.000Z",
-      "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOX3hxNTdZd2ZsQWVLejN4aE1vYThXOElBb19mZG0wazNvMmktRkJSV29lMzJlYnFSUkotTktVU3lSSUVjQ080X21oaC1OdmNKcHlUODZ2NFlRZ1dxeEx1OGxuNE9xOVBXY3FMRWtqYmZ5LUVMVXZZSlVObFlrMTBtT1hSd2dyVEJVVFpYRFBROUk3VXg0ekp4ak5WUnQ?oc=5",
-      "candidates": [
-        "kiggans"
-      ],
-      "tags": [],
-      "official": false
-    },
-    {
-      "id": "CBMi4wFBVV95cUxNSmdaV25XMEhwSU1WZ2U3djNGMkdLcDF3OHZPTDEyaTRlNUZ6RXVINDFBZGd3Tjg0Sk9IMk0xcWE4anVZdERPNkhYSjdnLWtFWGZnSlZRTG45ZW5fRzhLNlFFRDctaGZ6b2RTUVJXdF9ud0Z1eW9pZUxaUjBqUWVUaWpsbVgwNWU3UlVmdnB3TFR6UWVZbl9QOVNDY05fY3gzYzhPMTY1Q3RQbjRiUUd4LVQwYkhsa2VnbURsbXNLcVdTemp2bGVsUzl4YUVKWGM0ZEx4cDVPNTNHMWxDYW5tTTEtOA",
-      "headline": "Verifying claims from Jen Kiggans' campaign ad",
-      "outlet": "13News Now (WVEC)",
-      "outlet_domain": "13newsnow.com",
-      "local": true,
-      "date": "2026-09-09T07:00:00.000Z",
-      "link": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxNSmdaV25XMEhwSU1WZ2U3djNGMkdLcDF3OHZPTDEyaTRlNUZ6RXVINDFBZGd3Tjg0Sk9IMk0xcWE4anVZdERPNkhYSjdnLWtFWGZnSlZRTG45ZW5fRzhLNlFFRDctaGZ6b2RTUVJXdF9ud0Z1eW9pZUxaUjBqUWVUaWpsbVgwNWU3UlVmdnB3TFR6UWVZbl9QOVNDY05fY3gzYzhPMTY1Q3RQbjRiUUd4LVQwYkhsa2VnbURsbXNLcVdTemp2bGVsUzl4YUVKWGM0ZEx4cDVPNTNHMWxDYW5tTTEtOA?oc=5",
-      "candidates": [
-        "kiggans"
-      ],
-      "tags": [],
-      "official": false
-    },
-    {
-      "id": "CBMi1wFBVV95cUxOODBBVXlISjRfaHhiYXZDbHo5aGgxN21JYzdMR3VCV2RNa2sycEY2NEtmN0Z6Y3VRbGcyaFdYUTRDMnRGbzNFbVMyMnQ0YmhFcURtWTU4ZDYxMG95UlVmcFJSQkNTa2NQa1dRUFVaSm5SUWdUV2loUnRmcS1ad3JNRTFPeTFOOW1xRGdGS0o4RWFRVXdOVXI2RTQxN2VMcVlaeWY3ZzRGOERRRGh2YzdOSkhUUUF6UFVxLWxmaElzNF9TWUlPaFljZktWZS1WU3JSS3RNRzl5OA",
-      "headline": "Verifying claims from Jen Kiggans' campaign ad | VERIFY",
-      "outlet": "13News Now (WVEC)",
-      "outlet_domain": "13newsnow.com",
-      "local": true,
-      "date": "2026-09-09T07:00:00.000Z",
-      "link": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxOODBBVXlISjRfaHhiYXZDbHo5aGgxN21JYzdMR3VCV2RNa2sycEY2NEtmN0Z6Y3VRbGcyaFdYUTRDMnRGbzNFbVMyMnQ0YmhFcURtWTU4ZDYxMG95UlVmcFJSQkNTa2NQa1dRUFVaSm5SUWdUV2loUnRmcS1ad3JNRTFPeTFOOW1xRGdGS0o4RWFRVXdOVXI2RTQxN2VMcVlaeWY3ZzRGOERRRGh2YzdOSkhUUUF6UFVxLWxmaElzNF9TWUlPaFljZktWZS1WU3JSS3RNRzl5OA?oc=5",
-      "candidates": [
-        "kiggans"
-      ],
-      "tags": [],
-      "official": false
-    },
-    {
-      "id": "CBMijwFBVV95cUxPMUJkN2hsQlh1TUM1M1BXWG92bUZRamFFZ1hjLUQ0NFdCTVh4QkVNSno3ZTBhb3V3Nzd6c01hRnFkbWtkbHBMeXdiNWVRb1pLVVU0dlhtYlJHVG1XU3hFUTRYNFZjUC1CS2ZiSHYzanJuY2JFMW5qMnIyTE01S1RSZ1J2MGMwSUF0bGRBMzNxQQ",
-      "headline": "Verifying claims from Jen Kiggans' campaign ad | VERIFY",
-      "outlet": "Yahoo",
-      "outlet_domain": "yahoo.com",
-      "local": false,
-      "date": "2026-09-09T07:00:00.000Z",
-      "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPMUJkN2hsQlh1TUM1M1BXWG92bUZRamFFZ1hjLUQ0NFdCTVh4QkVNSno3ZTBhb3V3Nzd6c01hRnFkbWtkbHBMeXdiNWVRb1pLVVU0dlhtYlJHVG1XU3hFUTRYNFZjUC1CS2ZiSHYzanJuY2JFMW5qMnIyTE01S1RSZ1J2MGMwSUF0bGRBMzNxQQ?oc=5",
-      "candidates": [
-        "kiggans"
-      ],
-      "tags": [],
-      "official": false
-    },
-    {
-      "id": "CBMiygFBVV95cUxOd09EWTdMbDF2U05qLURvc1V3SUVUVmZVRTBid1F5bURwR24zTHlrVVl3U1U5UkhvUzN3TnotcUxDWnFDZHlJcFNWc2c0cTBYTFBvRWg0aFhoMXdEcGIyVzZQN21qUTJpYTNpMXNSOXhveF90aUZJM1pVYndPSlFsUXg2dDZyYUhNamZlYU1fcVRVeGQyUXhVVjdEOEhqY1VnZjRyRkRJb1VNM1B6dDVLZVRucFkzTWV5d3R0aExRN1RTWXRYQmUtTVd3",
-      "headline": "Virginia 2nd District candidates Luria, Kiggans lay out health care plans",
-      "outlet": "WTKR (News 3)",
-      "outlet_domain": "wtkr.com",
-      "local": true,
-      "date": "2026-09-09T07:00:00.000Z",
-      "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxOd09EWTdMbDF2U05qLURvc1V3SUVUVmZVRTBid1F5bURwR24zTHlrVVl3U1U5UkhvUzN3TnotcUxDWnFDZHlJcFNWc2c0cTBYTFBvRWg0aFhoMXdEcGIyVzZQN21qUTJpYTNpMXNSOXhveF90aUZJM1pVYndPSlFsUXg2dDZyYUhNamZlYU1fcVRVeGQyUXhVVjdEOEhqY1VnZjRyRkRJb1VNM1B6dDVLZVRucFkzTWV5d3R0aExRN1RTWXRYQmUtTVd3?oc=5",
-      "candidates": [
-        "kiggans",
-        "luria"
-      ],
-      "tags": [],
-      "official": false
-    },
-    {
-      "id": "CBMikAFBVV95cUxObE5LeW8xWjI5N0FETkdORUZVSlROSklfU01JRUpsSlhMM1hpeUlkZDdsNVYwTXE3NUpScjhZMks5SVNyMWctNk04UFpRSlpuTTl3Wm1oUHdoQ2hyWWU0dlR0azBDY2l6Qm4yV0QxTFNQYUZNYjZrclFzZUVHM0h2V3BiTjJYNjZrWGNWbkFnb3Q",
-      "headline": "Virginia 2nd District candidates Luria, Kiggans lay out health care plans",
-      "outlet": "Yahoo",
-      "outlet_domain": "yahoo.com",
-      "local": false,
-      "official": false,
-      "date": "2026-09-09T07:00:00.000Z",
-      "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxObE5LeW8xWjI5N0FETkdORUZVSlROSklfU01JRUpsSlhMM1hpeUlkZDdsNVYwTXE3NUpScjhZMks5SVNyMWctNk04UFpRSlpuTTl3Wm1oUHdoQ2hyWWU0dlR0azBDY2l6Qm4yV0QxTFNQYUZNYjZrclFzZUVHM0h2V3BiTjJYNjZrWGNWbkFnb3Q?oc=5",
-      "candidates": [
-        "kiggans",
-        "luria"
-      ],
-      "tags": []
     }
   ]
 }
