@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-09T18:26:01.138Z",
+  "updated_at": "2026-10-10T17:24:12.090Z",
   "source": "Google News RSS search",
   "queries": [
     "\"Jen Kiggans\"",
@@ -19,6 +19,35 @@
     "kiggans.house.gov"
   ],
   "items": [
+    {
+      "id": "CBMitgFBVV95cUxPMkRnS0lBdG42WXJURXhxaG1EcHRLTTItMHlRNzI2MmpxZkNqSUxJM0dCMmxvOU4tdWIxc2JCQWstc1VyQTl0VDhuZzJzTmZWZXc2NFhQUWwxOWVubVNzMUQ4V1M1UWs1NVhXUjFRdXpQWVlCOEw5cGdjY3NDQmQ3YlpIUXlVWjVQMDRLMHB6dG5DdTU4T2pURlpVRjdYMFNGMkt3aWRMa1RjcnZLeWI0U2s4VjVHZw",
+      "headline": "EPA Deputy Administrator Fotouhi Wraps Two-Day Swing in Virginia, Joins Representative Kiggans to Announce Over $90 Million for Chesapeake Bay Program",
+      "outlet": "U.S. Environmental Protection Agency (.gov)",
+      "outlet_domain": "epa.gov",
+      "local": false,
+      "official": false,
+      "date": "2026-10-09T19:24:23.000Z",
+      "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPMkRnS0lBdG42WXJURXhxaG1EcHRLTTItMHlRNzI2MmpxZkNqSUxJM0dCMmxvOU4tdWIxc2JCQWstc1VyQTl0VDhuZzJzTmZWZXc2NFhQUWwxOWVubVNzMUQ4V1M1UWs1NVhXUjFRdXpQWVlCOEw5cGdjY3NDQmQ3YlpIUXlVWjVQMDRLMHB6dG5DdTU4T2pURlpVRjdYMFNGMkt3aWRMa1RjcnZLeWI0U2s4VjVHZw?oc=5",
+      "candidates": [
+        "kiggans"
+      ],
+      "tags": []
+    },
+    {
+      "id": "CBMixwFBVV95cUxQQUUtNjU4bTRGcGowaFVSYzR3MGljejJadmwxYURoVHdIcVFwTDd4cGdlRXdOQkRFVFpjby16RnVoRGtXVklUZW8wUDJsWUI0SDNBWURvbmJZNjJiSU93X20xM2RvMDhZazZnZHEtM3VwT0owbk4wQlhEbW8yRGdzMThIT0wtTXNxZFpET1BzQUN0SUZwdy1JM3BMSkRGek9GSWpBVjUzazdacXBhMGMyZ0dzaFJPbVVsOTdWSTFyaDZqMHJDTlFZ",
+      "headline": "FACT CHECK: Democrat Luria’s ad claiming Rep. Jen Kiggans “votes 100% with Trump” is completely false",
+      "outlet": "Washington Reporter",
+      "outlet_domain": "washingtonreporter.news",
+      "local": false,
+      "official": false,
+      "date": "2026-10-09T16:36:33.000Z",
+      "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQQUUtNjU4bTRGcGowaFVSYzR3MGljejJadmwxYURoVHdIcVFwTDd4cGdlRXdOQkRFVFpjby16RnVoRGtXVklUZW8wUDJsWUI0SDNBWURvbmJZNjJiSU93X20xM2RvMDhZazZnZHEtM3VwT0owbk4wQlhEbW8yRGdzMThIT0wtTXNxZFpET1BzQUN0SUZwdy1JM3BMSkRGek9GSWpBVjUzazdacXBhMGMyZ0dzaFJPbVVsOTdWSTFyaDZqMHJDTlFZ?oc=5",
+      "candidates": [
+        "kiggans",
+        "luria"
+      ],
+      "tags": []
+    },
     {
       "id": "CBMi4gFBVV95cUxQZFBkQTdBRnNwZm15c0I2eS1tRDhUcmJBcTNVaVNSb25pa05GTGhuRmtydmRkRTZLQm1BOFByZjdYUGhqMnBiUTV6V01xSXhBVzFtS2RpT1VocEo2cXRyRV8yWnEtcTdaaHJoc0pSdWc5T0ZCMFozSFZsdC1TTFRKa0pPUGt2dnNYZ2NNLVYta2wybGtTZmVYbktkMmE5UklHSVpFOHFHVW5BWGpnbnJrTTBRTU8wOERhQ3VnMGUta2RncnU3UGIxTHh0czBLSnFEQUUwSEFkc3VTX2JtbVZ0eF9n0gHnAUFVX3lxTE1JTGxYUGtRbUJ6WEpPTXF1ZTA2ZXFGeXRReUtJUkFYakJoMzlIRk9jR04xdlo0QS1Ta3RpZGQxWW5KX3JOSkp6dHM3a3A3YWRmWnJyYXRPSlBZSG9SM01JaHdvY2s4RTdLYmxuZzZ5aWJCM3V5VWRzMVpnYkRaMU5vZDBoTTNRbzA4T0tXem16NHBzYW1kcTJqUWlBVkV1U1pYMHlvQ0FEUVdaR2puSjZDT0ttdFl0QVo0Umx0WE9vNURESndZOHhkNWk4ckRrYmRjblVSYWk0RVdOYUhmRVktTnExSHQ4RQ",
       "headline": "Local, state and federal elected officials show support to local realtors at reception in Chesapeake",
@@ -187,6 +216,21 @@
       "official": false,
       "date": "2026-10-06T21:28:00.000Z",
       "link": "https://news.google.com/rss/articles/CBMikwJBVV95cUxPNTlDckUzbGpaN2NHNTREV1BaVFpKQmpkQUluaU5NVVc4RDBfLXpmWXc0S0tJM1JacEM2RGpVU3lWWS1VaEY4QVViQmwxWUw3bDI3ZnEtcjh5NHg0TEdIWE9EVkllWHRXUzkwVklielpiQ0dabFprVXNyQzNKY2IwekhKR0ZhU0s0cWxYYXJhTW5MODhFMzZMMkNmYno1NTd5VzBvNnI4WjNFZVFfcWdsTWJqSWNGRFg3SzVtZnFNVGZybnRmU29MQTBKMFRES0pseFhxVHFPcFRiakVRZWZaNjljVFhlSEJQX0x3Wm9VQ1Q4MVhNQ21kWktCdVgwV1dFVFBTV0JJRXgwRkotejJtbGpLMA?oc=5",
+      "candidates": [
+        "kiggans",
+        "luria"
+      ],
+      "tags": []
+    },
+    {
+      "id": "CBMi4wFBVV95cUxNQ0pJc0hSdHp6Sm9qUGFjWVlmVEZGZGxvX0syTjl5RXMxYVJtRVoyY013bUpMQ1VrZ0NNOXQ0VVNVTW1sOWtKOXdjQUR6aDJnNHJTZUJKek5hT29hYThqLU1DS2Q1cnl0UFplV1VvY25XTDZaOTZxSUVDWGRQV2R2eEx5NmtmRDBraWhtUXJGTXctZ2MwTnByYzBqV2swTDhRYTFZY0k4UFJjc1ItSTBWckt3UVJZeVZMdUQ5WXkxTEgzcHFpWHBpRDc0S0NpN3BnWTFrQy01eEZVLUJQTzBib0Rjcw",
+      "headline": "Kiggans vs. Luria: The Race for Virginia’s 2nd District",
+      "outlet": "13News Now (WVEC)",
+      "outlet_domain": "13newsnow.com",
+      "local": true,
+      "official": false,
+      "date": "2026-10-06T21:12:00.000Z",
+      "link": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxNQ0pJc0hSdHp6Sm9qUGFjWVlmVEZGZGxvX0syTjl5RXMxYVJtRVoyY013bUpMQ1VrZ0NNOXQ0VVNVTW1sOWtKOXdjQUR6aDJnNHJTZUJKek5hT29hYThqLU1DS2Q1cnl0UFplV1VvY25XTDZaOTZxSUVDWGRQV2R2eEx5NmtmRDBraWhtUXJGTXctZ2MwTnByYzBqV2swTDhRYTFZY0k4UFJjc1ItSTBWckt3UVJZeVZMdUQ5WXkxTEgzcHFpWHBpRDc0S0NpN3BnWTFrQy01eEZVLUJQTzBib0Rjcw?oc=5",
       "candidates": [
         "kiggans",
         "luria"
@@ -957,6 +1001,20 @@
       "official": true
     },
     {
+      "id": "CBMijgFBVV95cUxOVk9ZbkRmNFpCTUxLQk5rdGFmaVl4X2tqaUZTWHBEYngzajloU19sOHZfUmhyNUVydDR0Z3FPdVNuVG11Tm9oUFQ3WGxSRHFZZUkzZXRQUjMyeXNWc01fQmIwUGtzWWZqM29peWxSb1JJbVdXNnZHSTM4ZjJJd2dDYW1NRmlEQWQ4bEMyakJn",
+      "headline": "Truth Tracker: Race for 2nd Congressional District",
+      "outlet": "Yahoo",
+      "outlet_domain": "yahoo.com",
+      "local": false,
+      "official": false,
+      "date": "2026-09-24T07:00:00.000Z",
+      "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOVk9ZbkRmNFpCTUxLQk5rdGFmaVl4X2tqaUZTWHBEYngzajloU19sOHZfUmhyNUVydDR0Z3FPdVNuVG11Tm9oUFQ3WGxSRHFZZUkzZXRQUjMyeXNWc01fQmIwUGtzWWZqM29peWxSb1JJbVdXNnZHSTM4ZjJJd2dDYW1NRmlEQWQ4bEMyakJn?oc=5",
+      "candidates": [
+        "luria"
+      ],
+      "tags": []
+    },
+    {
       "id": "CBMi0gFBVV95cUxPVF8wQUFtM2VKdjNndmJ3RkpTU2JFeVBrckpwbkxkdmZGTjNZYk9uZ3Y2SVZwMm9kc0hteThkRGRqaENQMkFPazJsQkxBMTdHUEdNaWN5OWF3VjBRLXZ4Q3d0Q1ViTElrVFdRVUd2dGFDbW5senNGQTNSQ2tFSnVScVpmQkxyc2NyTzFaRjRGQ3o3RlhXVW45OERIQTVpbldsN0ktQ19IRzIzQjVPRjJDZkVkSXB5TWJPaGo2bURzQjg2b0FzYU1sLUY1TXZ3TndMZ0E",
       "headline": "2nd Congressional District nominee Elaine Luria holds affordability roundtable on campaign trail",
       "outlet": "The Virginian-Pilot",
@@ -1325,93 +1383,6 @@
       "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxOR1JKZmdqWkh2RTN1a2ZYMjlEeHdnbU16T2czMDRqZXlOc0ZQbm5faV95TXQxcnJ5ZS1WYnhKTWJoR2x2QUw4dTRoRUZIZDBxQ2RuVGs0T3hWV2owd3YzQVplWjRwQjJhTHVtZHlvTmstbjZwT3J3VTVVaG10MllqaW1kRQ?oc=5",
       "candidates": [
         "kiggans"
-      ],
-      "tags": [],
-      "official": false
-    },
-    {
-      "id": "CBMiugFBVV95cUxQYm9qTWRWejVwUTMyYzRBZGQ3MUhsaHNoLTlWanZHWmMyc3RmYWRRakJ3LWlIa0twT3ZKTU5scXJITTBaZi1aZWtSbkR4TTZYZG5IUnNhYi1IMWt2WFhhWHlJbTVsNHFNcm01NjZVR1o3aXVYamg0OGZaMWNGWmQ2SEJRQkRUMXdqVGJzc21SQnBTVDA2ZElkQ20teUpqUWd3a2VLSjMzUUt0N2hfUnBZUm8wclBXdTNYMXc",
-      "headline": "GIFFORDS PAC announces nearly $1M investment to elect Elaine Luria in VA-02",
-      "outlet": "Giffords",
-      "outlet_domain": "giffords.org",
-      "local": false,
-      "date": "2026-09-10T11:26:28.000Z",
-      "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQYm9qTWRWejVwUTMyYzRBZGQ3MUhsaHNoLTlWanZHWmMyc3RmYWRRakJ3LWlIa0twT3ZKTU5scXJITTBaZi1aZWtSbkR4TTZYZG5IUnNhYi1IMWt2WFhhWHlJbTVsNHFNcm01NjZVR1o3aXVYamg0OGZaMWNGWmQ2SEJRQkRUMXdqVGJzc21SQnBTVDA2ZElkQ20teUpqUWd3a2VLSjMzUUt0N2hfUnBZUm8wclBXdTNYMXc?oc=5",
-      "candidates": [
-        "kiggans",
-        "luria"
-      ],
-      "tags": [],
-      "official": false
-    },
-    {
-      "id": "CBMixAFBVV95cUxQeTRSVF9aY05raWJqSnVUQkZ5dDd1Mkhod2pta3RCWFZERy1qYXBjeDhYQ0VkQmNKcHNzYktNblpTdG1UNEpxODNkVklEQXlNamtvdzVNbFB1OHNTZk9ZaUtoazJjU0tMN0FnRnRXcVRSMURURWdxa2hjcExQaWtTekszRHFNYjFDQkRTVVhlenpJa1h6ZGFnbUdOZXA3ZGZHRkxaY0ZEWWc4N0tTQTdUS29STDc1aHdYb3VsSlRpV2YzZEZZ0gHKAUFVX3lxTFBuQ0pCVzB0TkZoZnB1WTVoLUt4V0txaFJVcXBjYnFkSHAyMVJaN0RINWxHemxLUnB3cGkyS0w2V0syYVhfRGVGODA2UW82SlFFSmxlYkRwSzRlV1pidWEtLTNkSXZPa2EwZGpkZ2FRVDJCNnJpYzUxVUYxRk1kZ0ZYS19xb2lVcVpoM096bHlFYUNMYmdDTDNRMDMwWVZPUmNiR0hkdTlBZ3NhdUhQR1hYeUo3Z0NQbEZ3a29tN2dmLVJxS0w0VDZtcHc",
-      "headline": "Candidate Profile: Elaine G. Luria (2nd District, Virginia House of Representatives)",
-      "outlet": "WAVY",
-      "outlet_domain": "wavy.com",
-      "local": true,
-      "date": "2026-09-10T07:00:00.000Z",
-      "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQeTRSVF9aY05raWJqSnVUQkZ5dDd1Mkhod2pta3RCWFZERy1qYXBjeDhYQ0VkQmNKcHNzYktNblpTdG1UNEpxODNkVklEQXlNamtvdzVNbFB1OHNTZk9ZaUtoazJjU0tMN0FnRnRXcVRSMURURWdxa2hjcExQaWtTekszRHFNYjFDQkRTVVhlenpJa1h6ZGFnbUdOZXA3ZGZHRkxaY0ZEWWc4N0tTQTdUS29STDc1aHdYb3VsSlRpV2YzZEZZ0gHKAUFVX3lxTFBuQ0pCVzB0TkZoZnB1WTVoLUt4V0txaFJVcXBjYnFkSHAyMVJaN0RINWxHemxLUnB3cGkyS0w2V0syYVhfRGVGODA2UW82SlFFSmxlYkRwSzRlV1pidWEtLTNkSXZPa2EwZGpkZ2FRVDJCNnJpYzUxVUYxRk1kZ0ZYS19xb2lVcVpoM096bHlFYUNMYmdDTDNRMDMwWVZPUmNiR0hkdTlBZ3NhdUhQR1hYeUo3Z0NQbEZ3a29tN2dmLVJxS0w0VDZtcHc?oc=5",
-      "candidates": [
-        "kiggans",
-        "luria"
-      ],
-      "tags": [],
-      "official": false
-    },
-    {
-      "id": "CBMilwFBVV95cUxNNWtOOUlGUm41YndxakVGS2VrUEtrajV6UjgxWUhxYlQxLXdteVQ2ZVlJbjVzSXM4Nkd4ZVpEQmQ1MG9LZ3NTTXlQaW5DOTlIWHl6bWhwRUlBU2E1dnRHc1hEYnNyM0JfT0VBd2tUWUljRUdIRXcycU9wSEFMUEtFb3NmMGZwbFZRb3FNd0ZRaUpfeUpQSzhB",
-      "headline": "Candidate Profile: Elaine G. Luria (2nd District, Virginia House of Representatives)",
-      "outlet": "Yahoo",
-      "outlet_domain": "yahoo.com",
-      "local": false,
-      "official": false,
-      "date": "2026-09-10T07:00:00.000Z",
-      "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNNWtOOUlGUm41YndxakVGS2VrUEtrajV6UjgxWUhxYlQxLXdteVQ2ZVlJbjVzSXM4Nkd4ZVpEQmQ1MG9LZ3NTTXlQaW5DOTlIWHl6bWhwRUlBU2E1dnRHc1hEYnNyM0JfT0VBd2tUWUljRUdIRXcycU9wSEFMUEtFb3NmMGZwbFZRb3FNd0ZRaUpfeUpQSzhB?oc=5",
-      "candidates": [
-        "luria"
-      ],
-      "tags": []
-    },
-    {
-      "id": "CBMimAFBVV95cUxPX2NwRnBiRXJWR0M3NEQ5V3hmZWE1M3RYTjJIMVhqbmxCLTZSc2JFQWkwbE0yTmJsWmczNXZTMUY5M0lpQXlXOTg3OWJfQ3dnOHYwUVNkT2hydDJxbVdkQ1dkenBid3Raeng0Ml9adkE4Mlp2QlgwYzdPeVhlM2k0VmFxaHdhaTBBdTRvWnRxYmFRUkJ5eWdiRw",
-      "headline": "Candidate Profile: Jen Kiggans (2nd District, Virginia House of Representatives)",
-      "outlet": "Yahoo",
-      "outlet_domain": "yahoo.com",
-      "local": false,
-      "date": "2026-09-10T07:00:00.000Z",
-      "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPX2NwRnBiRXJWR0M3NEQ5V3hmZWE1M3RYTjJIMVhqbmxCLTZSc2JFQWkwbE0yTmJsWmczNXZTMUY5M0lpQXlXOTg3OWJfQ3dnOHYwUVNkT2hydDJxbVdkQ1dkenBid3Raeng0Ml9adkE4Mlp2QlgwYzdPeVhlM2k0VmFxaHdhaTBBdTRvWnRxYmFRUkJ5eWdiRw?oc=5",
-      "candidates": [
-        "kiggans"
-      ],
-      "tags": [],
-      "official": false
-    },
-    {
-      "id": "CBMiwAFBVV95cUxOZWVhNmRONHZvaXBsOEZMUlJVZC1fQTNLRXBGcERpbmhqWHQ5Nk1KUmR4Y3JZRnJmU3VYQVd1UkxPSTdVX2Z6eGNnQzk1NUxSVU5xR1ppTWVDNTY4d1c3dEpiUG5CNjJqb2lqclQ2Tklwb3gxLVBjQ2gxaFJQc1N3YWFJaVN2X0gxdDB0YnBKRmk0Zi11ZXYzVWh6Q1JxUWpfS3ZYaHcwa0VIN1N0TG5MSkU1eGl6MDRzMHkteW0xcHrSAcYBQVVfeXFMTVFLeERKaUREbjZSTzBFd3hLVHBramxUNWoyMWY2ckcxeHNvR0RKV1RJZURHRlJIZ1U0dFo4VlJsaUt0ZmtacUtVc0JUWGtpenB0QktTR3FhUlpiS0Qzc0p0bjBsZnlkYnZraXYzU0F2UDVUV3YySXJKbzQ0VVp2RGFkRTJ2Umo5T0ZQaGhDcXFGcVpJcFVXNmVCdzNMQm5LUDI3Z0pLTFA4SDVIdXJrS3V4alBIY2VrRXFQUkRGSEZ1UTFFRFlB",
-      "headline": "Candidate Profile: Jen Kiggans (2nd District, Virginia House of Representatives)",
-      "outlet": "WAVY",
-      "outlet_domain": "wavy.com",
-      "local": true,
-      "date": "2026-09-10T07:00:00.000Z",
-      "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOZWVhNmRONHZvaXBsOEZMUlJVZC1fQTNLRXBGcERpbmhqWHQ5Nk1KUmR4Y3JZRnJmU3VYQVd1UkxPSTdVX2Z6eGNnQzk1NUxSVU5xR1ppTWVDNTY4d1c3dEpiUG5CNjJqb2lqclQ2Tklwb3gxLVBjQ2gxaFJQc1N3YWFJaVN2X0gxdDB0YnBKRmk0Zi11ZXYzVWh6Q1JxUWpfS3ZYaHcwa0VIN1N0TG5MSkU1eGl6MDRzMHkteW0xcHrSAcYBQVVfeXFMTVFLeERKaUREbjZSTzBFd3hLVHBramxUNWoyMWY2ckcxeHNvR0RKV1RJZURHRlJIZ1U0dFo4VlJsaUt0ZmtacUtVc0JUWGtpenB0QktTR3FhUlpiS0Qzc0p0bjBsZnlkYnZraXYzU0F2UDVUV3YySXJKbzQ0VVp2RGFkRTJ2Umo5T0ZQaGhDcXFGcVpJcFVXNmVCdzNMQm5LUDI3Z0pLTFA4SDVIdXJrS3V4alBIY2VrRXFQUkRGSEZ1UTFFRFlB?oc=5",
-      "candidates": [
-        "luria"
-      ],
-      "tags": [],
-      "official": false
-    },
-    {
-      "id": "CBMijwFBVV95cUxObFQyUDVKN01xZWpsVDB6OWliZEhjYnh5dTcyX1NYSkI1NVBkeDZzbDJmWHllQTJsMGcxQllWRW14cGIyb2NsQkYyV0F3aUJ1dExHb1U5Nm5ZZEd1M1h3X3JYd1prZkFzVUdRLXNLWXlZSTJseGw4MGw4b2NSdGh5UGNGLVNpcktrcHJ1amg0MA",
-      "headline": "Virginia Elections: Who’s Leading In Prediction Markets?",
-      "outlet": "Forbes",
-      "outlet_domain": "forbes.com",
-      "local": false,
-      "date": "2026-09-10T07:00:00.000Z",
-      "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxObFQyUDVKN01xZWpsVDB6OWliZEhjYnh5dTcyX1NYSkI1NVBkeDZzbDJmWHllQTJsMGcxQllWRW14cGIyb2NsQkYyV0F3aUJ1dExHb1U5Nm5ZZEd1M1h3X3JYd1prZkFzVUdRLXNLWXlZSTJseGw4MGw4b2NSdGh5UGNGLVNpcktrcHJ1amg0MA?oc=5",
-      "candidates": [
-        "kiggans",
-        "luria"
       ],
       "tags": [],
       "official": false
