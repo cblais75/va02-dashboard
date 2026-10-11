@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-10T17:24:12.090Z",
+  "updated_at": "2026-10-11T17:43:31.636Z",
   "source": "Google News RSS search",
   "queries": [
     "\"Jen Kiggans\"",
@@ -19,6 +19,20 @@
     "kiggans.house.gov"
   ],
   "items": [
+    {
+      "id": "CBMickFVX3lxTE9tWll3Ym9OV3Zmc3lIS2xiMktzdjF6SU1Td2dMX3Nnd0VuQjZXdWh6dWZ2blpXaUlNcG5sTzhqXzY4Qm50VXdOUHhfUnlOZm5fN2RudHU5UzZIcWVsUkwzQTBqUlJILUdnZnA1RlRBcFRrZw",
+      "headline": "Daniel S Sullivan Stock Trades and Disclosures",
+      "outlet": "TechGraph",
+      "outlet_domain": "techgraph.co",
+      "local": false,
+      "official": false,
+      "date": "2026-10-11T00:04:54.000Z",
+      "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE9tWll3Ym9OV3Zmc3lIS2xiMktzdjF6SU1Td2dMX3Nnd0VuQjZXdWh6dWZ2blpXaUlNcG5sTzhqXzY4Qm50VXdOUHhfUnlOZm5fN2RudHU5UzZIcWVsUkwzQTBqUlJILUdnZnA1RlRBcFRrZw?oc=5",
+      "candidates": [
+        "luria"
+      ],
+      "tags": []
+    },
     {
       "id": "CBMitgFBVV95cUxPMkRnS0lBdG42WXJURXhxaG1EcHRLTTItMHlRNzI2MmpxZkNqSUxJM0dCMmxvOU4tdWIxc2JCQWstc1VyQTl0VDhuZzJzTmZWZXc2NFhQUWwxOWVubVNzMUQ4V1M1UWs1NVhXUjFRdXpQWVlCOEw5cGdjY3NDQmQ3YlpIUXlVWjVQMDRLMHB6dG5DdTU4T2pURlpVRjdYMFNGMkt3aWRMa1RjcnZLeWI0U2s4VjVHZw",
       "headline": "EPA Deputy Administrator Fotouhi Wraps Two-Day Swing in Virginia, Joins Representative Kiggans to Announce Over $90 Million for Chesapeake Bay Program",
@@ -188,7 +202,8 @@
       "date": "2026-10-06T21:39:07.000Z",
       "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNbkpkNXRtbHRQdEJlc2V5eFFjU21TM1hyTGl4MWJGLUdWdWxOcjFzTWFrajZMcGt1T1NIRk1sOURtM3k1NzA1cVJhdW5xdHVMMkpRbkNCUkVCaXlnR3dnYlhtRlpodi1zc2NVbWl5d2RLMUs1R3dIQXZxcjRLTkZqY2E4S0xmVkk1WUNmZE9FR1Z5TDg?oc=5",
       "candidates": [
-        "kiggans"
+        "kiggans",
+        "luria"
       ],
       "tags": []
     },
@@ -1355,34 +1370,6 @@
       "link": "https://news.google.com/rss/articles/CBMiqgJBVV95cUxPLXpwUFJYSzJhT0U5QlZUajF0TDVrUjBvMFdJckpRTmU3bDluUzJERG9zdHZhTC1KNXFlbTBzTVdYdlQxZnB1U2Y3Z2FFU09DRlpIcXBucndPMGh6eTJuanVvUDhacy0yZVhxR1VENjJOYUpWWUtNQmVUODJ4WnR5TmxidFljc3lNQzMxUm9NMWNjZXktYzJyN0otU2VTaUgyVkVubHJpMzBVZjdjZTJIRTFxM3BKSkswOUMyM1JYdDRmc0YxRHNDZUlQT0VxcWJMTVpsMEduLWMzbmtUV251cjByRjJ3dFYxR25OYWQwUVByRVJuZXhUclFUcVJrengxVlRRWkpiSHE3VXhaN09qeGROVVViUzNKcTg4Yi0xT1FoRkVSNmxrYXNn?oc=5",
       "candidates": [
         "luria"
-      ],
-      "tags": [],
-      "official": false
-    },
-    {
-      "id": "CBMiggFBVV95cUxNUmRxSTVxX3c0NGZOZDR4ZzlCX090dW1zMFl5RUVNclk2S3ZnOUZkUC04NkUzcDhFTDBoMHp4bk9YbldfV0FWaHdtWEFqd0tuT0I5N0xkM1NXVjNQMDBuUmVoeGF6QkNxMFlLNVRiNTUzdGxUNEhpM0JFckRDLUJ6cUFB",
-      "headline": "Candidate Profile: Elaine G. Luria (2nd District, Virginia House of Representatives)",
-      "outlet": "aol.com",
-      "outlet_domain": "aol.com",
-      "local": false,
-      "date": "2026-09-11T07:00:00.000Z",
-      "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNUmRxSTVxX3c0NGZOZDR4ZzlCX090dW1zMFl5RUVNclk2S3ZnOUZkUC04NkUzcDhFTDBoMHp4bk9YbldfV0FWaHdtWEFqd0tuT0I5N0xkM1NXVjNQMDBuUmVoeGF6QkNxMFlLNVRiNTUzdGxUNEhpM0JFckRDLUJ6cUFB?oc=5",
-      "candidates": [
-        "luria"
-      ],
-      "tags": [],
-      "official": false
-    },
-    {
-      "id": "CBMigwFBVV95cUxOR1JKZmdqWkh2RTN1a2ZYMjlEeHdnbU16T2czMDRqZXlOc0ZQbm5faV95TXQxcnJ5ZS1WYnhKTWJoR2x2QUw4dTRoRUZIZDBxQ2RuVGs0T3hWV2owd3YzQVplWjRwQjJhTHVtZHlvTmstbjZwT3J3VTVVaG10MllqaW1kRQ",
-      "headline": "Candidate Profile: Jen Kiggans (2nd District, Virginia House of Representatives)",
-      "outlet": "aol.com",
-      "outlet_domain": "aol.com",
-      "local": false,
-      "date": "2026-09-11T07:00:00.000Z",
-      "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxOR1JKZmdqWkh2RTN1a2ZYMjlEeHdnbU16T2czMDRqZXlOc0ZQbm5faV95TXQxcnJ5ZS1WYnhKTWJoR2x2QUw4dTRoRUZIZDBxQ2RuVGs0T3hWV2owd3YzQVplWjRwQjJhTHVtZHlvTmstbjZwT3J3VTVVaG10MllqaW1kRQ?oc=5",
-      "candidates": [
-        "kiggans"
       ],
       "tags": [],
       "official": false
