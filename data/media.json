@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-12T21:19:55.278Z",
+  "updated_at": "2026-10-14T17:23:16.820Z",
   "source": "Google News RSS search",
   "queries": [
     "\"Jen Kiggans\"",
@@ -19,6 +19,127 @@
     "kiggans.house.gov"
   ],
   "items": [
+    {
+      "id": "CBMifEFVX3lxTE5vM3BQd01RTmtYaUppTmpwNDJKUXE4VUwwOURnRWpsSGwyckp0TzVPcks0VmlhUDRva2UtdFdhWGkxTi1qbjJXNjVVeVJnaEZVYmRGTWdzUUN0UklhdXM1ajUzdlNCdGlmRFREVWdfS0huZ09ndmJSdUJQSEM",
+      "headline": "Luria and Kiggans neck and neck in Virginia’s 2nd District, new poll shows",
+      "outlet": "The Virginian-Pilot",
+      "outlet_domain": "pilotonline.com",
+      "local": true,
+      "official": false,
+      "date": "2026-10-14T16:41:49.000Z",
+      "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTE5vM3BQd01RTmtYaUppTmpwNDJKUXE4VUwwOURnRWpsSGwyckp0TzVPcks0VmlhUDRva2UtdFdhWGkxTi1qbjJXNjVVeVJnaEZVYmRGTWdzUUN0UklhdXM1ajUzdlNCdGlmRFREVWdfS0huZ09ndmJSdUJQSEM?oc=5",
+      "candidates": [
+        "kiggans",
+        "luria"
+      ],
+      "tags": [
+        "poll"
+      ]
+    },
+    {
+      "id": "CBMiqgFBVV95cUxNMnZtcWZFQjBPaFViSTVIZ0prVXNza0hfOWMtXzAzZ2tJZ05jVjEyX3Z0eU9CaVRtTE9VRmNWa010NC1RMGtPZ0t3dEM3VnZQUGdUSlRudzFvTUJzV0t2ZlAzYmh6a2JlS3I3ZGN2aDQ3SDI3NllNVFFlWUl5RDMySFM2V3c4VGQzWEoyd0Fnc1VBSVYzSGlGZldvajZnVk5uVktsbDlxVWVqUQ",
+      "headline": "Poll shows Luria with 3 point lead over Kiggans in Va.'s second district",
+      "outlet": "WTKR (News 3)",
+      "outlet_domain": "wtkr.com",
+      "local": true,
+      "official": false,
+      "date": "2026-10-14T16:03:44.000Z",
+      "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNMnZtcWZFQjBPaFViSTVIZ0prVXNza0hfOWMtXzAzZ2tJZ05jVjEyX3Z0eU9CaVRtTE9VRmNWa010NC1RMGtPZ0t3dEM3VnZQUGdUSlRudzFvTUJzV0t2ZlAzYmh6a2JlS3I3ZGN2aDQ3SDI3NllNVFFlWUl5RDMySFM2V3c4VGQzWEoyd0Fnc1VBSVYzSGlGZldvajZnVk5uVktsbDlxVWVqUQ?oc=5",
+      "candidates": [
+        "kiggans",
+        "luria"
+      ],
+      "tags": [
+        "poll"
+      ]
+    },
+    {
+      "id": "CBMivwFBVV95cUxNYUZBeFhnMWZTWFYxOWwwTkN5MzZhZHl5Qm5EUVR4c2NKdi1TeFBpRlBfQUVKVVc3MkVtemJaRnF2V2hIQ194WEdBNjktbEw3RzhLVXRsTEQ1OFhkNENROVFoakdTa3Nid1E2WGE1R0FRcEU3aUNlemhOZnRYQmFHMkhySklpYW1zX01vSWxsaGJZNTFsclgzRFM3VWxXcHV1NkVZMkJ6VzNrYXZERDJPcDE3NjJMSUVwckI2X21sdw",
+      "headline": "New VA02 Poll: Democrat Elaine Luria Up 3 Pts. Over Rep. Jen Kiggans (R); Too Close for Comfort!",
+      "outlet": "Blue Virginia",
+      "outlet_domain": "bluevirginia.us",
+      "local": false,
+      "official": false,
+      "date": "2026-10-14T16:01:44.000Z",
+      "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNYUZBeFhnMWZTWFYxOWwwTkN5MzZhZHl5Qm5EUVR4c2NKdi1TeFBpRlBfQUVKVVc3MkVtemJaRnF2V2hIQ194WEdBNjktbEw3RzhLVXRsTEQ1OFhkNENROVFoakdTa3Nid1E2WGE1R0FRcEU3aUNlemhOZnRYQmFHMkhySklpYW1zX01vSWxsaGJZNTFsclgzRFM3VWxXcHV1NkVZMkJ6VzNrYXZERDJPcDE3NjJMSUVwckI2X21sdw?oc=5",
+      "candidates": [
+        "kiggans",
+        "luria"
+      ],
+      "tags": [
+        "poll"
+      ]
+    },
+    {
+      "id": "CBMisgFBVV95cUxNRXFfc1I0ZnlhajRFVEhMYm5hNlhOTEZ0Uy1SOWRSMnY1cVFjQmZLOUdtR05kSnYyd01TQ0N5WGdNN3JlNExidzRLaWtoRERhRTc5V1g3aUtnSDNTRFdKaTFUSE1sZ0pTZW1zd3BXT3k2SWRTR3dBeFZ0blVfWW9UZG9xWWQ2bHp6UGMydW9DV1FGaTRyM1R6ZnFnV2Y5a1RRdEZKYkx0a01zaWhiT0ozYWlB",
+      "headline": "Election 2026 Veterans",
+      "outlet": "Rutland Herald",
+      "outlet_domain": "rutlandherald.com",
+      "local": false,
+      "official": false,
+      "date": "2026-10-14T05:23:59.000Z",
+      "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNRXFfc1I0ZnlhajRFVEhMYm5hNlhOTEZ0Uy1SOWRSMnY1cVFjQmZLOUdtR05kSnYyd01TQ0N5WGdNN3JlNExidzRLaWtoRERhRTc5V1g3aUtnSDNTRFdKaTFUSE1sZ0pTZW1zd3BXT3k2SWRTR3dBeFZ0blVfWW9UZG9xWWQ2bHp6UGMydW9DV1FGaTRyM1R6ZnFnV2Y5a1RRdEZKYkx0a01zaWhiT0ozYWlB?oc=5",
+      "candidates": [
+        "luria"
+      ],
+      "tags": []
+    },
+    {
+      "id": "CBMiswFBVV95cUxOUEMwbGt0UzlvQVRBd1VTSU5vRDdiOW1oVVRVcU1WUVJEbk9uNlVjQl9DR3RvNGVVUmp0MXg1eDNKY0MzdmlOT2VPbW91SjBfTmhDQVVnWmdHOUhsN0NZWWEtd05IeU9JVVZzek9pUDNpMlpQR3dzZlc4MWJhWWNkLXVtT1dMRHJPdFZiN19Bb1RzYkprSHlwVzUzYzRZLTNCUzIxR3IyLTR6SzgyTG93UWMyMA",
+      "headline": "Election 2026 Veterans",
+      "outlet": "Post Register",
+      "outlet_domain": "postregister.com",
+      "local": false,
+      "official": false,
+      "date": "2026-10-14T04:02:26.000Z",
+      "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOUEMwbGt0UzlvQVRBd1VTSU5vRDdiOW1oVVRVcU1WUVJEbk9uNlVjQl9DR3RvNGVVUmp0MXg1eDNKY0MzdmlOT2VPbW91SjBfTmhDQVVnWmdHOUhsN0NZWWEtd05IeU9JVVZzek9pUDNpMlpQR3dzZlc4MWJhWWNkLXVtT1dMRHJPdFZiN19Bb1RzYkprSHlwVzUzYzRZLTNCUzIxR3IyLTR6SzgyTG93UWMyMA?oc=5",
+      "candidates": [
+        "luria"
+      ],
+      "tags": []
+    },
+    {
+      "id": "CBMitwFBVV95cUxPdUVBc3dsSXZsR1d6UVRyUWVKV05Gb1RhcGFVR1FMc3d5UHExU0lIOGcwalZEdVdlTjhKbV8wQXlNd0NNVHpxY0JKSmFWTzFXZWpKTmVMMnhITi1iY2xrOTZZOWd1OGhGclhzNVlKZzRCRGEyNUdWeTMyLTBEaVFQQ2IxV3VSWkVhWmdiM3gtSzVXQXRvY2hKaF92S2syZDFfMkdNOXFFOTZxN1BfbWF2TTQ1dWdSa28",
+      "headline": "Election 2026 Veterans",
+      "outlet": "Goshen News",
+      "outlet_domain": "goshennews.com",
+      "local": false,
+      "official": false,
+      "date": "2026-10-14T04:02:26.000Z",
+      "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPdUVBc3dsSXZsR1d6UVRyUWVKV05Gb1RhcGFVR1FMc3d5UHExU0lIOGcwalZEdVdlTjhKbV8wQXlNd0NNVHpxY0JKSmFWTzFXZWpKTmVMMnhITi1iY2xrOTZZOWd1OGhGclhzNVlKZzRCRGEyNUdWeTMyLTBEaVFQQ2IxV3VSWkVhWmdiM3gtSzVXQXRvY2hKaF92S2syZDFfMkdNOXFFOTZxN1BfbWF2TTQ1dWdSa28?oc=5",
+      "candidates": [
+        "luria"
+      ],
+      "tags": []
+    },
+    {
+      "id": "CBMisAFBVV95cUxPVXpNT3FhX29heXZwYlAyZ195dF90RUxJb28tQnpoN1doUjREbkFpdzZHeHBrRklLd2w4Q2dZUGVSaGQ0Qkd1VERHcmtLb090WTZoZHUxX1RneTJKeXdRWlF1SlBydXowNS05cm1mNkZwalhlZ0Zra3NKb1hpWGU5aU54VktEakNCMV83d0pTWk9YOUZub0Y4NW94YzBCbWlkcnpHNmpGRTlHUnZXa3Bmdg",
+      "headline": "Democrat Elaine Luria's Keeps Giving Voters Empty Promises on Affordability",
+      "outlet": "KSLM Radio",
+      "outlet_domain": "kslm.news",
+      "local": false,
+      "official": false,
+      "date": "2026-10-14T02:56:43.000Z",
+      "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPVXpNT3FhX29heXZwYlAyZ195dF90RUxJb28tQnpoN1doUjREbkFpdzZHeHBrRklLd2w4Q2dZUGVSaGQ0Qkd1VERHcmtLb090WTZoZHUxX1RneTJKeXdRWlF1SlBydXowNS05cm1mNkZwalhlZ0Zra3NKb1hpWGU5aU54VktEakNCMV83d0pTWk9YOUZub0Y4NW94YzBCbWlkcnpHNmpGRTlHUnZXa3Bmdg?oc=5",
+      "candidates": [
+        "luria"
+      ],
+      "tags": []
+    },
+    {
+      "id": "CBMicEFVX3lxTE04blJDSmVELWlESmJNZXRnbHNWdjRnbGNQM1FBUlpSRGU1cl9NSUNCNmpnQWFwUXFrZ0FrUTRCbkR2Z0tFNXRVZkxKNDBfYjBNVFlLWmZGVmxLY3dFYm1pMkk3djJUeVhkUF84cnpvRVM",
+      "headline": "DCCC Releases New TV Ad in VA-02: “Great Recipe”",
+      "outlet": "Democratic Congressional Campaign Committee",
+      "outlet_domain": "dccc.org",
+      "local": false,
+      "official": false,
+      "date": "2026-10-13T19:29:02.000Z",
+      "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE04blJDSmVELWlESmJNZXRnbHNWdjRnbGNQM1FBUlpSRGU1cl9NSUNCNmpnQWFwUXFrZ0FrUTRCbkR2Z0tFNXRVZkxKNDBfYjBNVFlLWmZGVmxLY3dFYm1pMkk3djJUeVhkUF84cnpvRVM?oc=5",
+      "candidates": [
+        "luria"
+      ],
+      "tags": []
+    },
     {
       "id": "CBMickFVX3lxTE9tWll3Ym9OV3Zmc3lIS2xiMktzdjF6SU1Td2dMX3Nnd0VuQjZXdWh6dWZ2blpXaUlNcG5sTzhqXzY4Qm50VXdOUHhfUnlOZm5fN2RudHU5UzZIcWVsUkwzQTBqUlJILUdnZnA1RlRBcFRrZw",
       "headline": "Daniel S Sullivan Stock Trades and Disclosures",
@@ -696,6 +817,20 @@
       "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPcjNfWWdCZlB0XzZnLWFCVFBTRDNXd1JFbjh1OVpBSkxyRWN3akZXeUVuOUNueHExMnFEYUhYdEZhN3BoS1pOeDNneFN4MGJRa3JJYjZZUlo4aXJrSEVfVkZWY3I0MVMtcThyanUwQ1RNUWxfaGJ5MWFTWUtWc25ROHN0a0FfUXlWN1RPQ0ZLOXdWVFo0bGh0SklXVk10TWpYMjJWcDhZcV9Hekg2SDJoOEI1ZnZOd0dsbl81alI4QkkwU1U?oc=5",
       "candidates": [
         "kiggans"
+      ],
+      "tags": []
+    },
+    {
+      "id": "CBMixgFBVV95cUxPN3l4Q0hrLVltaU1vUXNDX2FvNUJhXzMwVUNUUVdpWVFXblBma3RTRmN4OXREVGc5RjN6RjVXeG5WcTU2YzFmM0xGclNiQm5kN29KbTg1SnBOZ3R4RnNzVHkzN3NIYnRQVWVQWnVlY2hPNGZvOVBNWjR3ZTVHSVlsekpsY3lCTjVoQTBHT0FOQVJIbVVVTlpWTFlvUXNFeHMyLTEzcklqNGdheG1NQ3V4YVl2ZTRpWFYyamdsRHZYMmRUdEpoVXc",
+      "headline": "Luria and Kiggans Rematch in Virginia’s 2nd Congressional District Among Most-Watched Races In Nation",
+      "outlet": "Royal Examiner",
+      "outlet_domain": "royalexaminer.com",
+      "local": false,
+      "official": false,
+      "date": "2026-09-28T22:40:47.000Z",
+      "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPN3l4Q0hrLVltaU1vUXNDX2FvNUJhXzMwVUNUUVdpWVFXblBma3RTRmN4OXREVGc5RjN6RjVXeG5WcTU2YzFmM0xGclNiQm5kN29KbTg1SnBOZ3R4RnNzVHkzN3NIYnRQVWVQWnVlY2hPNGZvOVBNWjR3ZTVHSVlsekpsY3lCTjVoQTBHT0FOQVJIbVVVTlpWTFlvUXNFeHMyLTEzcklqNGdheG1NQ3V4YVl2ZTRpWFYyamdsRHZYMmRUdEpoVXc?oc=5",
+      "candidates": [
+        "luria"
       ],
       "tags": []
     },
