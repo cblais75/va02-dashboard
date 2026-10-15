@@ -273,12 +273,20 @@
   ],
   "wikipedia": [
     {
+      "key": "christopher newport university|october 1–10, 2026",
+      "matchup": "",
+      "pollster": "Christopher Newport University",
+      "dates": "October 1–10, 2026",
+      "sample": "702 (LV)",
+      "results": "Jen Kiggans (R) 43%, Elaine Luria (D) |46%, Other 2%\"Someone else\" with 2%, Undecided 10%"
+    },
+    {
       "key": "tulchin research (d)|july 9–13, 2026",
       "matchup": "",
       "pollster": "Tulchin Research (D)",
       "dates": "July 9–13, 2026",
       "sample": "700 (LV)",
-      "results": "Jen Kiggans (R) 47%, Elaine Luria (D) 47%, Undecided 6%"
+      "results": "Jen Kiggans (R) 47%, Elaine Luria (D) 47%, Other –, Undecided 6%"
     }
   ],
   "ratings": {
