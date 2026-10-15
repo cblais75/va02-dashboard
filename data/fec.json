@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-25T05:31:10.837Z",
+  "updated_at": "2026-10-15T15:06:22.351Z",
   "cycle": 2026,
   "source": "Federal Election Commission, OpenFEC API (api.open.fec.gov)",
   "source_url": "https://www.fec.gov/data/elections/house/VA/02/2026/",
@@ -42,19 +42,19 @@
         "name": "ELAINE LURIA FOR CONGRESS"
       },
       "totals": {
-        "raised": 4659795.3,
-        "spent": 1077072.09,
-        "cash_on_hand": 3582723.21,
-        "through": "2026-07-15",
-        "basis": "FEC processed totals"
+        "raised": 7364705.21,
+        "spent": 5629532.5,
+        "cash_on_hand": 1735172.71,
+        "through": "2026-09-30",
+        "basis": "FEC processed totals plus 1 newer e-filed report"
       },
       "latest_report": {
-        "type": "12P",
-        "name": "Pre-Primary",
-        "coverage_start": "2026-07-01",
-        "coverage_end": "2026-07-15",
-        "filed": "2026-07-23",
-        "url": "https://docquery.fec.gov/cgi-bin/forms/C00926303/2001554/"
+        "type": "Q3",
+        "name": "October Quarterly",
+        "coverage_start": "2026-07-16",
+        "coverage_end": "2026-09-30",
+        "filed": "2026-10-14",
+        "url": "https://docquery.fec.gov/cgi-bin/forms/C00926303/2022388/"
       },
       "fec_url": "https://www.fec.gov/data/candidate/H6VA02198/?cycle=2026"
     }
