@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-14T17:23:16.820Z",
+  "updated_at": "2026-10-15T17:12:05.470Z",
   "source": "Google News RSS search",
   "queries": [
     "\"Jen Kiggans\"",
@@ -20,6 +20,221 @@
   ],
   "items": [
     {
+      "id": "CBMirAFBVV95cUxNdkZPZXNXMGVuYkRFQ2tlMG5rdHVqbE5HMnZzZUJTZ3Zic21YVGRqRk9jNHhLUDNQZk1MRUk2bXRTdE02M3pFMlJ5MkM1LWtnejNNU3dES1hBTHVWanJUX3BpNkJqVnl5cWRtN3VIMDQtMm14SFVHMzJtTFNKM0hBYTczNVVhbldEajg4WVJldmxjVHFEVDBnbEhHb0lVcjZHa2xTelFPdE1ybFh1",
+      "headline": "New poll: In Virginia’s 2nd District, Luria leads Kiggans by 3 points",
+      "outlet": "WHRO",
+      "outlet_domain": "whro.org",
+      "local": true,
+      "official": false,
+      "date": "2026-10-15T13:49:00.000Z",
+      "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNdkZPZXNXMGVuYkRFQ2tlMG5rdHVqbE5HMnZzZUJTZ3Zic21YVGRqRk9jNHhLUDNQZk1MRUk2bXRTdE02M3pFMlJ5MkM1LWtnejNNU3dES1hBTHVWanJUX3BpNkJqVnl5cWRtN3VIMDQtMm14SFVHMzJtTFNKM0hBYTczNVVhbldEajg4WVJldmxjVHFEVDBnbEhHb0lVcjZHa2xTelFPdE1ybFh1?oc=5",
+      "candidates": [
+        "kiggans",
+        "luria"
+      ],
+      "tags": [
+        "poll"
+      ]
+    },
+    {
+      "id": "CBMigwJBVV95cUxQbWY0TGExVHJ3em9DMEptS0g2U2RoZnRXMGdqdjE1ZmZud0ktemkxemlfd3g0UW1JcVl0Tkl3MFROUk1TX0pLd2E1Z05nMS00ZS12NmlMTHpxZXlhako1R0tsSWk2a2R1VmRKbUZhWlZWY0ZYZ1JTbUd6djNLODd5VUJQNXJoUXJLTHgwY09NaWRleDFha1l4QzVkdE9XQVRXVlZhTGN6ZURPUG0tLWpQem96T1NtanBjejdhQ3VvRFRsVW83a3JvUkVqOTBGV1F5d244VHU3RWFSSGtFajRJU1dRX2NzdUoycjlkRmxyT3lHNkhtdnpDSW9NTG5GQ0dBeGc0",
+      "headline": "RELEASE: Inflation and Prices Continues to Soar, Americans Continue to Pay More Due to Donald Trump and Jen Kiggans’ War, Tariffs, and Corruption",
+      "outlet": "Blue Virginia",
+      "outlet_domain": "bluevirginia.us",
+      "local": false,
+      "official": false,
+      "date": "2026-10-15T13:46:49.000Z",
+      "link": "https://news.google.com/rss/articles/CBMigwJBVV95cUxQbWY0TGExVHJ3em9DMEptS0g2U2RoZnRXMGdqdjE1ZmZud0ktemkxemlfd3g0UW1JcVl0Tkl3MFROUk1TX0pLd2E1Z05nMS00ZS12NmlMTHpxZXlhako1R0tsSWk2a2R1VmRKbUZhWlZWY0ZYZ1JTbUd6djNLODd5VUJQNXJoUXJLTHgwY09NaWRleDFha1l4QzVkdE9XQVRXVlZhTGN6ZURPUG0tLWpQem96T1NtanBjejdhQ3VvRFRsVW83a3JvUkVqOTBGV1F5d244VHU3RWFSSGtFajRJU1dRX2NzdUoycjlkRmxyT3lHNkhtdnpDSW9NTG5GQ0dBeGc0?oc=5",
+      "candidates": [
+        "kiggans",
+        "luria"
+      ],
+      "tags": []
+    },
+    {
+      "id": "CBMiqgFBVV95cUxOZl8tbjd4dHowUGZZOG1vVHBoTDdHSmpLaHpjY0haRXh2Vndldjd1d09sVTZZX0M0UVREbDR3MDJJaDZDQ05xbFY5Q1VETTR1Zjdxd3llN0pNbVJJdzR5Sl9udl80WkVRUkRMMDRfWVFPRkU4MUtHalprTEtqdk84djV5aVhzVWFIWm1LNW54cTFvVVVldVFXMlNhbHpkMkttQmwzVXJBZEJaQQ",
+      "headline": "Luria Edges Kiggans in Hampton Roads Poll, but Not by Blue-Wave Margin",
+      "outlet": "The Roanoke Star",
+      "outlet_domain": "theroanokestar.com",
+      "local": false,
+      "official": false,
+      "date": "2026-10-15T13:46:27.000Z",
+      "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOZl8tbjd4dHowUGZZOG1vVHBoTDdHSmpLaHpjY0haRXh2Vndldjd1d09sVTZZX0M0UVREbDR3MDJJaDZDQ05xbFY5Q1VETTR1Zjdxd3llN0pNbVJJdzR5Sl9udl80WkVRUkRMMDRfWVFPRkU4MUtHalprTEtqdk84djV5aVhzVWFIWm1LNW54cTFvVVVldVFXMlNhbHpkMkttQmwzVXJBZEJaQQ?oc=5",
+      "candidates": [
+        "kiggans",
+        "luria"
+      ],
+      "tags": [
+        "poll"
+      ]
+    },
+    {
+      "id": "CBMiekFVX3lxTE9sby16Vkh3YWJTWk5nWjFEYVg2WC1yVU9uNzl6Qi1Uc0h2eWg1R3RRUTFHV0hoRnpheHNpMXY0enRWTWlFT1VCY041WE9Ib2xDcDhHSlBDVFJoY2hvampUNGVub1k3b1FyY2Nla1Uzc3htV0lLMkNiekxn",
+      "headline": "With anger spreading over Iran war, Democrats hope to flip Republican seats with veterans’ help",
+      "outlet": "Chicago Tribune",
+      "outlet_domain": "chicagotribune.com",
+      "local": false,
+      "official": false,
+      "date": "2026-10-15T12:09:00.000Z",
+      "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTE9sby16Vkh3YWJTWk5nWjFEYVg2WC1yVU9uNzl6Qi1Uc0h2eWg1R3RRUTFHV0hoRnpheHNpMXY0enRWTWlFT1VCY041WE9Ib2xDcDhHSlBDVFJoY2hvampUNGVub1k3b1FyY2Nla1Uzc3htV0lLMkNiekxn?oc=5",
+      "candidates": [
+        "luria"
+      ],
+      "tags": []
+    },
+    {
+      "id": "CBMiuAFBVV95cUxNUlo2cU5vdzhxSURHTU5XS2dCdzhBai1ldUhkSC1IN0daM0lob3U3ZEdfSzV3VFhSUGlhXzRkWVA1UDlhODljX3Uwa2JTVlc4a0RzV1J0Z29FbFZUSXhjdDRvcFJsSzFjMlRCSks5YlA3cjh1WDNwMS0wNW1WejUteXZCY0ZaZFpVZlB4Y3EwdW1ZeHd3QTVNOXJ5bTRtZHRHVTRfMi0wMmtXLV9OcTJpLW9KVUNQZVVk",
+      "headline": "Kiggans Hosts USDA Leadership to Highlight Aquaculture, Hold Industry Roundtable",
+      "outlet": "House.gov",
+      "outlet_domain": "kiggans.house.gov",
+      "local": false,
+      "official": true,
+      "date": "2026-10-15T11:38:33.000Z",
+      "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNUlo2cU5vdzhxSURHTU5XS2dCdzhBai1ldUhkSC1IN0daM0lob3U3ZEdfSzV3VFhSUGlhXzRkWVA1UDlhODljX3Uwa2JTVlc4a0RzV1J0Z29FbFZUSXhjdDRvcFJsSzFjMlRCSks5YlA3cjh1WDNwMS0wNW1WejUteXZCY0ZaZFpVZlB4Y3EwdW1ZeHd3QTVNOXJ5bTRtZHRHVTRfMi0wMmtXLV9OcTJpLW9KVUNQZVVk?oc=5",
+      "candidates": [
+        "kiggans"
+      ],
+      "tags": []
+    },
+    {
+      "id": "CBMiuwFBVV95cUxNcDFZcm5HMUVNbEtYQXdKYmkwTG1taWpFMkllN1BmeExoRjYyTE5vRFJabE9ISE91RDBsQnhkNHB3WW4yU2RMMzdsUzlXRURUSEdIeXBVTk1UMnhjaDJ6QUtOUUVCSk1hcVZGSDV0bnlOTEZRblhBU1gtb3VlQTRINllvbG80bDlXSFJ0aDY1NGhJVG00UDVhUUNheDI3amtlXzZPYUg4dk5oZnYzdjgySmZHM1piRlM5WEtr",
+      "headline": "CNU poll: Luria leads Kiggans by 3. What a 2nd District poll might tell us statewide.",
+      "outlet": "Cardinal News",
+      "outlet_domain": "cardinalnews.org",
+      "local": false,
+      "official": false,
+      "date": "2026-10-15T08:30:00.000Z",
+      "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNcDFZcm5HMUVNbEtYQXdKYmkwTG1taWpFMkllN1BmeExoRjYyTE5vRFJabE9ISE91RDBsQnhkNHB3WW4yU2RMMzdsUzlXRURUSEdIeXBVTk1UMnhjaDJ6QUtOUUVCSk1hcVZGSDV0bnlOTEZRblhBU1gtb3VlQTRINllvbG80bDlXSFJ0aDY1NGhJVG00UDVhUUNheDI3amtlXzZPYUg4dk5oZnYzdjgySmZHM1piRlM5WEtr?oc=5",
+      "candidates": [
+        "kiggans",
+        "luria"
+      ],
+      "tags": [
+        "poll"
+      ]
+    },
+    {
+      "id": "CBMiqgFBVV95cUxNSlJhQ0RIeDVyRXg0VTg5bHh0dFplYlJMU2ZudUZUNmo2MjBRUEdzMzJNbGU1bzQ5eDhSTEE3WGh1TzY4bmp6YWM2OU5Fc0I5a3AxVEZCSTl6aXB2c3AtX28tMVVseUFpUGw4Z0tyT1hMaU9SbWF6MUpCQ0lxOExpcDZnTGEyVGhMcUlzN3hsLXM4LUNJdklwa0J3WU54b0JyeV93cFJBSDJndw",
+      "headline": "With anger spreading over Iran war, Democrats hope to flip Republican seats with veterans' help",
+      "outlet": "New Haven Register",
+      "outlet_domain": "nhregister.com",
+      "local": false,
+      "official": false,
+      "date": "2026-10-15T04:08:59.000Z",
+      "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNSlJhQ0RIeDVyRXg0VTg5bHh0dFplYlJMU2ZudUZUNmo2MjBRUEdzMzJNbGU1bzQ5eDhSTEE3WGh1TzY4bmp6YWM2OU5Fc0I5a3AxVEZCSTl6aXB2c3AtX28tMVVseUFpUGw4Z0tyT1hMaU9SbWF6MUpCQ0lxOExpcDZnTGEyVGhMcUlzN3hsLXM4LUNJdklwa0J3WU54b0JyeV93cFJBSDJndw?oc=5",
+      "candidates": [
+        "kiggans"
+      ],
+      "tags": []
+    },
+    {
+      "id": "CBMilgJBVV95cUxQWm4zQ0huMFBic1YyVzZVQzNCUjBZNGtkdkZDWUVaX19lZ0lxOFZZUFRqa0tvY1hEUDBqYzFuVnA5RjR1V3lDUEhaYzJKUDZSbGc3VjNkak52OERrdkxZYW1DN3VWd3pwWGFrYmlTamlEM1VmVHppVlVsMFJkS2NvendlRFVTdy1rd0M1NHREbENQQU9fTUhsc25ZVXItUVJNX0tCYm1pMXVvZ3lZRjhMeTA5dzk5RjFadktPeUphS3ZFLUhBVEtzalRBSXgzSUgtd2dTaENhbTVpR3dueUVvdnZCdV92OE9FUE0wVWRlZVUzdzZEeENraldFSWViakxzNF9ocnRsNElabURld3JvdXNVN3JuQQ",
+      "headline": "With anger spreading over Iran war, Democrats hope to flip Republican seats with veterans' help",
+      "outlet": "Bluefield Daily Telegraph",
+      "outlet_domain": "bdtonline.com",
+      "local": false,
+      "official": false,
+      "date": "2026-10-15T04:02:36.000Z",
+      "link": "https://news.google.com/rss/articles/CBMilgJBVV95cUxQWm4zQ0huMFBic1YyVzZVQzNCUjBZNGtkdkZDWUVaX19lZ0lxOFZZUFRqa0tvY1hEUDBqYzFuVnA5RjR1V3lDUEhaYzJKUDZSbGc3VjNkak52OERrdkxZYW1DN3VWd3pwWGFrYmlTamlEM1VmVHppVlVsMFJkS2NvendlRFVTdy1rd0M1NHREbENQQU9fTUhsc25ZVXItUVJNX0tCYm1pMXVvZ3lZRjhMeTA5dzk5RjFadktPeUphS3ZFLUhBVEtzalRBSXgzSUgtd2dTaENhbTVpR3dueUVvdnZCdV92OE9FUE0wVWRlZVUzdzZEeENraldFSWViakxzNF9ocnRsNElabURld3JvdXNVN3JuQQ?oc=5",
+      "candidates": [
+        "kiggans"
+      ],
+      "tags": []
+    },
+    {
+      "id": "CBMiswFBVV95cUxOVjFxazc5c051TE9NUVFWMWhYTTJEd3c5d0pGQ2xhZEpjeVRYQzl5N2hKRDR5OERISUo5MTlRQTRlZE1CTWNsWjhJT3MwRnNMNlBJNmtjS0FjdlQwSEFHdERqUEpZSzFPNGdDN1NnMzFlX0d3VGxoYjlUNTFBTzRDeTA0dEpxeUR3cXJlR0FuSDE1QWQ1OUk5NjcwSy1sbFE3c2lIcmFUYnBqLXF4ZlNIZ3NtTQ",
+      "headline": "Poll: Elaine Luria has three-point lead over Jen Kiggans in the Second District",
+      "outlet": "Augusta Free Press",
+      "outlet_domain": "augustafreepress.com",
+      "local": false,
+      "official": false,
+      "date": "2026-10-14T23:25:56.000Z",
+      "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOVjFxazc5c051TE9NUVFWMWhYTTJEd3c5d0pGQ2xhZEpjeVRYQzl5N2hKRDR5OERISUo5MTlRQTRlZE1CTWNsWjhJT3MwRnNMNlBJNmtjS0FjdlQwSEFHdERqUEpZSzFPNGdDN1NnMzFlX0d3VGxoYjlUNTFBTzRDeTA0dEpxeUR3cXJlR0FuSDE1QWQ1OUk5NjcwSy1sbFE3c2lIcmFUYnBqLXF4ZlNIZ3NtTQ?oc=5",
+      "candidates": [
+        "kiggans",
+        "luria"
+      ],
+      "tags": [
+        "poll"
+      ]
+    },
+    {
+      "id": "CBMingFBVV95cUxOR1A3YkM3cUhBa3Q2VFdMbFZScFAyNnhuMkttREcteHl1M1MtQjBwdjRCaHNPMmZiU3paczNhU1VsbHFIcGFLRTUwdTRGSGdLNGEwbUEzY1JReHJrMi12Rlpjbnh0MkYtbzRmYnBEVEZxTTQyS2E3dGxQTGxaaElwaURCSnAzQlJic0UtdFB2a0p3WXdTSm41eFJTajRZZw",
+      "headline": "Poll shows close Luria-Kiggans race in Virginia",
+      "outlet": "The Black Chronicle",
+      "outlet_domain": "blackchronicle.com",
+      "local": false,
+      "official": false,
+      "date": "2026-10-14T21:44:57.000Z",
+      "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxOR1A3YkM3cUhBa3Q2VFdMbFZScFAyNnhuMkttREcteHl1M1MtQjBwdjRCaHNPMmZiU3paczNhU1VsbHFIcGFLRTUwdTRGSGdLNGEwbUEzY1JReHJrMi12Rlpjbnh0MkYtbzRmYnBEVEZxTTQyS2E3dGxQTGxaaElwaURCSnAzQlJic0UtdFB2a0p3WXdTSm41eFJTajRZZw?oc=5",
+      "candidates": [
+        "luria"
+      ],
+      "tags": [
+        "poll"
+      ]
+    },
+    {
+      "id": "CBMihAFBVV95cUxQcXB6N1hPdWJkRXZhWk5FSkIyaVFXTHVJdTBYVDYzRDhNangwSDZzWGsyRW5WV3JRM2J4dGV2US1ySWdlMjNPRVoxSWNjakRJRkpmMHpVVXR6RE1TWjY5UGRPU3BTMkQ2S2NiVWZ2UmJiRTZJSkh5RlBLT1FJcnc1OFBNZFQ",
+      "headline": "CNU survey shows Elaine Luria with 3-point lead over Jen Kiggans in Virginia’s 2nd District",
+      "outlet": "Yahoo",
+      "outlet_domain": "yahoo.com",
+      "local": false,
+      "official": false,
+      "date": "2026-10-14T21:15:04.000Z",
+      "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQcXB6N1hPdWJkRXZhWk5FSkIyaVFXTHVJdTBYVDYzRDhNangwSDZzWGsyRW5WV3JRM2J4dGV2US1ySWdlMjNPRVoxSWNjakRJRkpmMHpVVXR6RE1TWjY5UGRPU3BTMkQ2S2NiVWZ2UmJiRTZJSkh5RlBLT1FJcnc1OFBNZFQ?oc=5",
+      "candidates": [
+        "kiggans"
+      ],
+      "tags": []
+    },
+    {
+      "id": "CBMihgFBVV95cUxQMGpNMGtkbC1JSXhFMHhMaHBLMGJoeEc5SE9YWmhPUVJUc1JwdXNfYmE1cjBDRkM1bXFBUXp0M25mcnFrdkh4WGxwYVh6UmhOekhaLVhzZG9kWmhiUVZxRmdiNk5XM3BzWlRua2dWRjA0QVRDMnNHa3h4Y2RZLWx4MkdtQWc4Zw",
+      "headline": "OOPS: Democrat Campaigns and Lives in the Wrong District",
+      "outlet": "The Daily Signal",
+      "outlet_domain": "dailysignal.com",
+      "local": false,
+      "official": false,
+      "date": "2026-10-14T20:30:00.000Z",
+      "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQMGpNMGtkbC1JSXhFMHhMaHBLMGJoeEc5SE9YWmhPUVJUc1JwdXNfYmE1cjBDRkM1bXFBUXp0M25mcnFrdkh4WGxwYVh6UmhOekhaLVhzZG9kWmhiUVZxRmdiNk5XM3BzWlRua2dWRjA0QVRDMnNHa3h4Y2RZLWx4MkdtQWc4Zw?oc=5",
+      "candidates": [
+        "luria"
+      ],
+      "tags": []
+    },
+    {
+      "id": "CBMiqgFBVV95cUxOWVh3RXZOYlBtTVJmQlBuQjlXWmdLZHdwNVNUejhxN1dBY0ZEN1lWREt4UVVzcUhSd3RpTFZmWFNhaFdsN2pxRlZoc1JaOE83UEtYb3Q3YVhyUVQ3Z0puOGs3Tm9zY1E4SUswblR1VktFdHhLU28xNFNIc2lBQ190OFZzeFUzdVZrUG5WbHRqMy1iWW10aV9PdkktdndjY3d1WUI0RnBGaVNZUQ",
+      "headline": "New poll: In Virginia’s 2nd District, Luria leads Kiggans by 3 points",
+      "outlet": "Virginia Mercury",
+      "outlet_domain": "virginiamercury.com",
+      "local": false,
+      "official": false,
+      "date": "2026-10-14T18:48:41.000Z",
+      "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOWVh3RXZOYlBtTVJmQlBuQjlXWmdLZHdwNVNUejhxN1dBY0ZEN1lWREt4UVVzcUhSd3RpTFZmWFNhaFdsN2pxRlZoc1JaOE83UEtYb3Q3YVhyUVQ3Z0puOGs3Tm9zY1E4SUswblR1VktFdHhLU28xNFNIc2lBQ190OFZzeFUzdVZrUG5WbHRqMy1iWW10aV9PdkktdndjY3d1WUI0RnBGaVNZUQ?oc=5",
+      "candidates": [
+        "kiggans",
+        "luria"
+      ],
+      "tags": [
+        "poll"
+      ]
+    },
+    {
+      "id": "CBMivAJBVV95cUxPSDZqMUNZRXZqX1N4d1R4Tm9JMWFhZEVnMmFENGZTS1FDUnRLNkVjd3VtR3pmZU1OU21yQUdoSlp0VjhsR0N1R2lsb2JxNVZ2QU9abmFDN3JSVHdNU2JnbUhOdE5lal9ob2hra2RDOWVzcTVQVFNhZVdWRG1nRnJoQ2lMT1lsRm16UlNTdXM5Z1Z4THJaVW1pTUZlNkpTREZ5TGpfYzV4cldTNnVaM2ZlTllkY3NZQmdiaDVIT0VhcGtkUXFpTGdQRmJQdHpqQ3F5ZjkzaE5VX0dpT3lteWtJZUprTGsxOFZkdV95Ri1kdlVzSmhDSF9FVWxXMjl1Mk1FdWI1T0hNUllYTGhaWkNvcm9FVGVDVWNmdHVFWVN4WXZHUFFmTDdONm56dS0xSE5Tb3NFc1N4VnFVc3J0",
+      "headline": "CNU survey shows Elaine Luria with 3-point lead over Jen Kiggans in Virginia’s 2nd District",
+      "outlet": "13News Now (WVEC)",
+      "outlet_domain": "13newsnow.com",
+      "local": true,
+      "official": false,
+      "date": "2026-10-14T17:54:00.000Z",
+      "link": "https://news.google.com/rss/articles/CBMivAJBVV95cUxPSDZqMUNZRXZqX1N4d1R4Tm9JMWFhZEVnMmFENGZTS1FDUnRLNkVjd3VtR3pmZU1OU21yQUdoSlp0VjhsR0N1R2lsb2JxNVZ2QU9abmFDN3JSVHdNU2JnbUhOdE5lal9ob2hra2RDOWVzcTVQVFNhZVdWRG1nRnJoQ2lMT1lsRm16UlNTdXM5Z1Z4THJaVW1pTUZlNkpTREZ5TGpfYzV4cldTNnVaM2ZlTllkY3NZQmdiaDVIT0VhcGtkUXFpTGdQRmJQdHpqQ3F5ZjkzaE5VX0dpT3lteWtJZUprTGsxOFZkdV95Ri1kdlVzSmhDSF9FVWxXMjl1Mk1FdWI1T0hNUllYTGhaWkNvcm9FVGVDVWNmdHVFWVN4WXZHUFFmTDdONm56dS0xSE5Tb3NFc1N4VnFVc3J0?oc=5",
+      "candidates": [
+        "kiggans",
+        "luria"
+      ],
+      "tags": []
+    },
+    {
       "id": "CBMifEFVX3lxTE5vM3BQd01RTmtYaUppTmpwNDJKUXE4VUwwOURnRWpsSGwyckp0TzVPcks0VmlhUDRva2UtdFdhWGkxTi1qbjJXNjVVeVJnaEZVYmRGTWdzUUN0UklhdXM1ajUzdlNCdGlmRFREVWdfS0huZ09ndmJSdUJQSEM",
       "headline": "Luria and Kiggans neck and neck in Virginia’s 2nd District, new poll shows",
       "outlet": "The Virginian-Pilot",
@@ -28,6 +243,40 @@
       "official": false,
       "date": "2026-10-14T16:41:49.000Z",
       "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTE5vM3BQd01RTmtYaUppTmpwNDJKUXE4VUwwOURnRWpsSGwyckp0TzVPcks0VmlhUDRva2UtdFdhWGkxTi1qbjJXNjVVeVJnaEZVYmRGTWdzUUN0UklhdXM1ajUzdlNCdGlmRFREVWdfS0huZ09ndmJSdUJQSEM?oc=5",
+      "candidates": [
+        "kiggans",
+        "luria"
+      ],
+      "tags": [
+        "poll"
+      ]
+    },
+    {
+      "id": "CBMilAFBVV95cUxQOVBQTzkzTnB6MHZJMjZuS1hjanpOanBCR3ROZkxsTjJEUmUyQUJMeENPX09jbWh3cTdBMDJVQlpHTGd1Y01HdGcxRlQzZUdCYjNoVTdkZkdwQ2ZYMEdfR0xzRXIwTF80QzlEYVRueUJEaXVqTHBrVm9HTmtXSjlKTTRpRkI3dng0eC01a2VpN1lDLXlp0gGaAUFVX3lxTFBBcko4WlI5TElGdmlkQzNVOTJ3d3cyOXptZjN2OWI4ZUY2aDlIa2tDX1lvLXpmQTk4MVJySGppQ09PUktSWk9vV0R0MElxcktWZDlTVlktMUdTUlFZUHgwWUlkM0lfdWZmMVlTazVDbHFDb2J5bUFSaHJxT3YzbnQ0dUVYcTBNV01lNmRiMVE4bGlKdHhvZDNuc1E",
+      "headline": "Poll shows close Luria-Kiggans race in Virginia",
+      "outlet": "The Center Square",
+      "outlet_domain": "thecentersquare.com",
+      "local": false,
+      "official": false,
+      "date": "2026-10-14T16:18:00.000Z",
+      "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQOVBQTzkzTnB6MHZJMjZuS1hjanpOanBCR3ROZkxsTjJEUmUyQUJMeENPX09jbWh3cTdBMDJVQlpHTGd1Y01HdGcxRlQzZUdCYjNoVTdkZkdwQ2ZYMEdfR0xzRXIwTF80QzlEYVRueUJEaXVqTHBrVm9HTmtXSjlKTTRpRkI3dng0eC01a2VpN1lDLXlp0gGaAUFVX3lxTFBBcko4WlI5TElGdmlkQzNVOTJ3d3cyOXptZjN2OWI4ZUY2aDlIa2tDX1lvLXpmQTk4MVJySGppQ09PUktSWk9vV0R0MElxcktWZDlTVlktMUdTUlFZUHgwWUlkM0lfdWZmMVlTazVDbHFDb2J5bUFSaHJxT3YzbnQ0dUVYcTBNV01lNmRiMVE4bGlKdHhvZDNuc1E?oc=5",
+      "candidates": [
+        "kiggans",
+        "luria"
+      ],
+      "tags": [
+        "poll"
+      ]
+    },
+    {
+      "id": "CBMib0FVX3lxTFB5dmJ1dE1sa1BVRkVlQjNpMFQxdHZSSDdLQkFNdVpURUxBQV9GMmx4N2l2dUZveFRpTTFlaV9WVVNzc1NUMy1takRLbXhVLW5yYlNwWDhRTU9LV1R3UkdEVURud1NyZjZqQmNMTWVMVQ",
+      "headline": "Luria leads Kiggans in new poll",
+      "outlet": "Virginia Scope",
+      "outlet_domain": "virginiascope.com",
+      "local": false,
+      "official": false,
+      "date": "2026-10-14T16:04:02.000Z",
+      "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTFB5dmJ1dE1sa1BVRkVlQjNpMFQxdHZSSDdLQkFNdVpURUxBQV9GMmx4N2l2dUZveFRpTTFlaV9WVVNzc1NUMy1takRLbXhVLW5yYlNwWDhRTU9LV1R3UkdEVURud1NyZjZqQmNMTWVMVQ?oc=5",
       "candidates": [
         "kiggans",
         "luria"
@@ -149,6 +398,20 @@
       "official": false,
       "date": "2026-10-11T00:04:54.000Z",
       "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE9tWll3Ym9OV3Zmc3lIS2xiMktzdjF6SU1Td2dMX3Nnd0VuQjZXdWh6dWZ2blpXaUlNcG5sTzhqXzY4Qm50VXdOUHhfUnlOZm5fN2RudHU5UzZIcWVsUkwzQTBqUlJILUdnZnA1RlRBcFRrZw?oc=5",
+      "candidates": [
+        "luria"
+      ],
+      "tags": []
+    },
+    {
+      "id": "CBMiwwJBVV95cUxPblhKZmF6QTVJTjcta3UzQjBVYjdSS082RWlKODRVYW1YaXdJUDhGWGlEOVNpQ3Yzcm5YM0NhLWE4RjFnRGlVRkNkTWhMbFNybVdqN25kTDBPTlA1VURyeUpQQ3c4N3Q1bmE2dDk1dnZzbGdReFVfczh1Z25aMVkzTGNFNXVvR3VVcVdCZ2ttZF9UN3h1OERwNEtqUmk4V1pOeU85MUlpMnUyY1JJd0J4Vm91TUJlWE0zM1JDdDZYNDBuTTZraXVnYjdBcHlFZEdrLUE4aTM5LUlfWEZaWkx4c0hkYnJBSFVRR0pfQ2VRMUFIZm9uOWY5aHFuUUZnZEdOemEwZmVZZzc0RGI5RnEya3lGV3RHYnFZR1VfbGxmQ2R4NnR2aDA0M3pReVlzNDBndXBjR1dJbzhoZ1c3ZEhtNjBUMA",
+      "headline": "Jan. 6 committee: Trump 'chose not to act' as insurrection unfolded",
+      "outlet": "WKRC",
+      "outlet_domain": "local12.com",
+      "local": false,
+      "official": false,
+      "date": "2026-10-10T09:17:02.000Z",
+      "link": "https://news.google.com/rss/articles/CBMiwwJBVV95cUxPblhKZmF6QTVJTjcta3UzQjBVYjdSS082RWlKODRVYW1YaXdJUDhGWGlEOVNpQ3Yzcm5YM0NhLWE4RjFnRGlVRkNkTWhMbFNybVdqN25kTDBPTlA1VURyeUpQQ3c4N3Q1bmE2dDk1dnZzbGdReFVfczh1Z25aMVkzTGNFNXVvR3VVcVdCZ2ttZF9UN3h1OERwNEtqUmk4V1pOeU85MUlpMnUyY1JJd0J4Vm91TUJlWE0zM1JDdDZYNDBuTTZraXVnYjdBcHlFZEdrLUE4aTM5LUlfWEZaWkx4c0hkYnJBSFVRR0pfQ2VRMUFIZm9uOWY5aHFuUUZnZEdOemEwZmVZZzc0RGI5RnEya3lGV3RHYnFZR1VfbGxmQ2R4NnR2aDA0M3pReVlzNDBndXBjR1dJbzhoZ1c3ZEhtNjBUMA?oc=5",
       "candidates": [
         "luria"
       ],
@@ -1483,6 +1746,20 @@
       "official": false
     },
     {
+      "id": "CBMipAFBVV95cUxPXzV6cE1uS2YwSHFnZ05DRGRkVDk3Z182ZG1OUklIbU1YbXJLc3lJVUxwbFgteU1xTTlSNXVNTEh0cm5YYl96MHRjV2ZnZzdUTFg0cjlzZ0dOaXZreG50cTNwS3RCaE12aG5YSVVaTy15dUotVU9rejRBb0NOenlKZmlodDFZMWQ1bTllZlNJcnhFME9NNFRDOFBFZDZZSkhKbXdneA",
+      "headline": "2nd Congressional District candidate profile: Jen Kiggans",
+      "outlet": "Smithfield Times",
+      "outlet_domain": "smithfieldtimes.com",
+      "local": false,
+      "official": false,
+      "date": "2026-09-17T07:00:00.000Z",
+      "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPXzV6cE1uS2YwSHFnZ05DRGRkVDk3Z182ZG1OUklIbU1YbXJLc3lJVUxwbFgteU1xTTlSNXVNTEh0cm5YYl96MHRjV2ZnZzdUTFg0cjlzZ0dOaXZreG50cTNwS3RCaE12aG5YSVVaTy15dUotVU9rejRBb0NOenlKZmlodDFZMWQ1bTllZlNJcnhFME9NNFRDOFBFZDZZSkhKbXdneA?oc=5",
+      "candidates": [
+        "kiggans"
+      ],
+      "tags": []
+    },
+    {
       "id": "CBMirgFBVV95cUxOZ2VyS2N1LU9SeHowNmVpVnl1ZENER0xsTE81MUdBa3NvMkRFaTBRcDFxZFZsT21YRG1SMjJ5VGFfelhzRXdEbkxHd29FU1RrZVBIWVhkSElrZVBtS1F0aW5CQ0ZqaWFiSlFVUFJNdGVLdDA2SENqdFV6ak5RMDdRcm41dkxNRkp4THF1a1VFTnkwN2FXTlNOQVQ1dkloVG8zcWc4U2s0M2pSNDByZ3c",
       "headline": "With early voting set to begin, Trump holds virtual rally for Republican nominees in Virginia",
       "outlet": "Virginia Scope",
@@ -1509,20 +1786,6 @@
         "kiggans"
       ],
       "tags": []
-    },
-    {
-      "id": "CBMiqgJBVV95cUxPLXpwUFJYSzJhT0U5QlZUajF0TDVrUjBvMFdJckpRTmU3bDluUzJERG9zdHZhTC1KNXFlbTBzTVdYdlQxZnB1U2Y3Z2FFU09DRlpIcXBucndPMGh6eTJuanVvUDhacy0yZVhxR1VENjJOYUpWWUtNQmVUODJ4WnR5TmxidFljc3lNQzMxUm9NMWNjZXktYzJyN0otU2VTaUgyVkVubHJpMzBVZjdjZTJIRTFxM3BKSkswOUMyM1JYdDRmc0YxRHNDZUlQT0VxcWJMTVpsMEduLWMzbmtUV251cjByRjJ3dFYxR25OYWQwUVByRVJuZXhUclFUcVJrengxVlRRWkpiSHE3VXhaN09qeGROVVViUzNKcTg4Yi0xT1FoRkVSNmxrYXNn",
-      "headline": "Video: Elaine Luria Releases Two Ads (\"Vet Like Me,\" \"Burn Pits\") Contrasting Her Passage of the PACT Act to Expand Veterans’ Health Care with Jen Kiggans’ Record of Putting Trump Ahead of America’s Veterans",
-      "outlet": "Blue Virginia",
-      "outlet_domain": "bluevirginia.us",
-      "local": false,
-      "date": "2026-09-15T13:51:23.000Z",
-      "link": "https://news.google.com/rss/articles/CBMiqgJBVV95cUxPLXpwUFJYSzJhT0U5QlZUajF0TDVrUjBvMFdJckpRTmU3bDluUzJERG9zdHZhTC1KNXFlbTBzTVdYdlQxZnB1U2Y3Z2FFU09DRlpIcXBucndPMGh6eTJuanVvUDhacy0yZVhxR1VENjJOYUpWWUtNQmVUODJ4WnR5TmxidFljc3lNQzMxUm9NMWNjZXktYzJyN0otU2VTaUgyVkVubHJpMzBVZjdjZTJIRTFxM3BKSkswOUMyM1JYdDRmc0YxRHNDZUlQT0VxcWJMTVpsMEduLWMzbmtUV251cjByRjJ3dFYxR25OYWQwUVByRVJuZXhUclFUcVJrengxVlRRWkpiSHE3VXhaN09qeGROVVViUzNKcTg4Yi0xT1FoRkVSNmxrYXNn?oc=5",
-      "candidates": [
-        "luria"
-      ],
-      "tags": [],
-      "official": false
     }
   ]
 }
