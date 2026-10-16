@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-15T15:06:22.351Z",
+  "updated_at": "2026-10-16T14:54:57.217Z",
   "cycle": 2026,
   "source": "Federal Election Commission, OpenFEC API (api.open.fec.gov)",
   "source_url": "https://www.fec.gov/data/elections/house/VA/02/2026/",
@@ -15,19 +15,19 @@
         "name": "KIGGANS FOR CONGRESS"
       },
       "totals": {
-        "raised": 5954338.07,
-        "spent": 2608075.05,
-        "cash_on_hand": 3391740.42,
-        "through": "2026-07-15",
+        "raised": 7240304.45,
+        "spent": 5335749.67,
+        "cash_on_hand": 1950032.18,
+        "through": "2026-09-30",
         "basis": "FEC processed totals"
       },
       "latest_report": {
-        "type": "12P",
-        "name": "Pre-Primary",
-        "coverage_start": "2026-07-01",
-        "coverage_end": "2026-07-15",
-        "filed": "2026-07-23",
-        "url": "https://docquery.fec.gov/cgi-bin/forms/C00776120/2001494/"
+        "type": "Q3",
+        "name": "October Quarterly",
+        "coverage_start": "2026-07-16",
+        "coverage_end": "2026-09-30",
+        "filed": "2026-10-15",
+        "url": "https://docquery.fec.gov/cgi-bin/forms/C00776120/2023614/"
       },
       "fec_url": "https://www.fec.gov/data/candidate/H2VA02064/?cycle=2026"
     },
@@ -46,7 +46,7 @@
         "spent": 5629532.5,
         "cash_on_hand": 1735172.71,
         "through": "2026-09-30",
-        "basis": "FEC processed totals plus 1 newer e-filed report"
+        "basis": "FEC processed totals"
       },
       "latest_report": {
         "type": "Q3",
