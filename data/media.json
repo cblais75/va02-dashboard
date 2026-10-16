@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-15T17:12:05.470Z",
+  "updated_at": "2026-10-16T16:48:26.513Z",
   "source": "Google News RSS search",
   "queries": [
     "\"Jen Kiggans\"",
@@ -19,6 +19,192 @@
     "kiggans.house.gov"
   ],
   "items": [
+    {
+      "id": "CBMiuAFBVV95cUxPYm5sRU5jMVI2SWg3bkwxN2pVOUpGYl92clFscDllNGFlMjJtVDlwcHNQZUVNRXFEajRva3VEUzFVc0FpbU9Dc19LX2tvZXQ0TVBUdEtPMURQam5lUmdTWWZUS2ZvcjRSWWd6M3NwMDVreWI1R0FDcmdpck1JbUptQUVPZzJ1X05pUjFNc3pEeElqUG05YV9jQ003eDJHb0UtalNnMlFCZ1RWdGMtVkZxSTl0Vk9CX01o",
+      "headline": "“WE’RE NOT GOING TO TALK ABOUT THAT” – Jen Kiggans Refuses to Address Her Continued Support for Iran War",
+      "outlet": "Democratic Congressional Campaign Committee",
+      "outlet_domain": "dccc.org",
+      "local": false,
+      "official": false,
+      "date": "2026-10-16T13:42:17.000Z",
+      "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPYm5sRU5jMVI2SWg3bkwxN2pVOUpGYl92clFscDllNGFlMjJtVDlwcHNQZUVNRXFEajRva3VEUzFVc0FpbU9Dc19LX2tvZXQ0TVBUdEtPMURQam5lUmdTWWZUS2ZvcjRSWWd6M3NwMDVreWI1R0FDcmdpck1JbUptQUVPZzJ1X05pUjFNc3pEeElqUG05YV9jQ003eDJHb0UtalNnMlFCZ1RWdGMtVkZxSTl0Vk9CX01o?oc=5",
+      "candidates": [
+        "kiggans"
+      ],
+      "tags": []
+    },
+    {
+      "id": "CBMi7wFBVV95cUxNWjhycnhIOHZDdFJnLTBpR1pkRmJGVGRiT3J0dWtMS0kwYjZzVUFQTFpGZXhQelQ0bGRXSG1BWkc5TmwzOFFNZEtLeklCTE13eThVYmJfelIyU2gtQVB6LXVpMmF2aFhHYWZNME42SHM3T3haLTNBaFVuQzM5TEZ2ZllOYVRVazBkU2JyaDRTVDBhMlNaNWw3c1dGYlJ6VU94TTBLbURKZWFjb2NPYXN0cTU4aEZ1THU3UzFuWmt5VXEwYkRtNVMtWlhYajZyWHVqTmVKaDVfRkVpa3hsN08yenV4UmRNMjFXWWRUY0ZSaw",
+      "headline": "Video: MAGA Rep. Jen Kiggans (R-VA02) REFUSES to Answer Questions About Donald Trump’s War in Iran She Voted Six Times to Continue",
+      "outlet": "Blue Virginia",
+      "outlet_domain": "bluevirginia.us",
+      "local": false,
+      "official": false,
+      "date": "2026-10-16T13:25:02.000Z",
+      "link": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxNWjhycnhIOHZDdFJnLTBpR1pkRmJGVGRiT3J0dWtMS0kwYjZzVUFQTFpGZXhQelQ0bGRXSG1BWkc5TmwzOFFNZEtLeklCTE13eThVYmJfelIyU2gtQVB6LXVpMmF2aFhHYWZNME42SHM3T3haLTNBaFVuQzM5TEZ2ZllOYVRVazBkU2JyaDRTVDBhMlNaNWw3c1dGYlJ6VU94TTBLbURKZWFjb2NPYXN0cTU4aEZ1THU3UzFuWmt5VXEwYkRtNVMtWlhYajZyWHVqTmVKaDVfRkVpa3hsN08yenV4UmRNMjFXWWRUY0ZSaw?oc=5",
+      "candidates": [
+        "kiggans"
+      ],
+      "tags": []
+    },
+    {
+      "id": "CBMi-gFBVV95cUxNTDJ4ZFJLM0MtcHJITDNHZFktLXBOOVV2TTJCTFBDNUxIVlJ1cWRLN0dWT2F6UURac0VGSTJ4bnBFcjRzd0R1X1hTS3o2T0c0V3Nzdmd2YnZDTS11QUNqVnRXaURRdHAwVU9ZV2VLWTViNjJtV0NSbEtBVTM3VWpEeVVCUk9zT3o3aGdKSVgzWkxJRVI1S0NvLTdIc01rVmpqUkRrQ0lKQl94MGM1RWI5Y19MajE2VnBoenh1dEdCVDdScXdHUmNNSzVYZ1VURGw1THRkT29QaVR4bXBHVTA4UEtfLUk5UkdUaUZEQWFWMzExbEZsZzJ3RUNB",
+      "headline": "Kiggans, HHS Secretary Robert F. Kennedy, Jr. Discuss Healthcare Workforce Challenges, Tour Regional Health Professions Center at TCC",
+      "outlet": "House.gov",
+      "outlet_domain": "kiggans.house.gov",
+      "local": false,
+      "official": true,
+      "date": "2026-10-15T23:38:40.000Z",
+      "link": "https://news.google.com/rss/articles/CBMi-gFBVV95cUxNTDJ4ZFJLM0MtcHJITDNHZFktLXBOOVV2TTJCTFBDNUxIVlJ1cWRLN0dWT2F6UURac0VGSTJ4bnBFcjRzd0R1X1hTS3o2T0c0V3Nzdmd2YnZDTS11QUNqVnRXaURRdHAwVU9ZV2VLWTViNjJtV0NSbEtBVTM3VWpEeVVCUk9zT3o3aGdKSVgzWkxJRVI1S0NvLTdIc01rVmpqUkRrQ0lKQl94MGM1RWI5Y19MajE2VnBoenh1dEdCVDdScXdHUmNNSzVYZ1VURGw1THRkT29QaVR4bXBHVTA4UEtfLUk5UkdUaUZEQWFWMzExbEZsZzJ3RUNB?oc=5",
+      "candidates": [
+        "kiggans"
+      ],
+      "tags": []
+    },
+    {
+      "id": "CBMisAFBVV95cUxQZWQ2VUZhakxwNjI4WWhYSlB5UjFvWTdVeHE5RzZIX0VNSjd4WTdTNV9VV2x3aUxfTHQyU3o3aUxwX2tXRUxISWYwbjRFellUdDNiRFBRN2ZELVU3LW8yVklPbTZhMVJncGwtcm5LbUF0VW9OTU5zcm16a2VKaWtLWTFhdldXY2ZCUjJ1MHY3Q0dkMXkxZ0g5YVRJODhXaUVER05hT0xqN2xWRnYxNzIxadIBtgFBVV95cUxQZUJJdHRVeFl2Z0ZZYjNmUTRUMzFheDl1R0pTamhRRjgtaUIzdzRzWjlMV2JLQ2ktMkhYTG1ySERIVGlQZmticVdBSkw2M05LVTY2ZDJQTVNRYTU3a1J6VDNITzBDZUV1azY1WHJDTWtfS2xTOVB4akZxVFFDT094eVZnZ1o0ZkVBbXNvX0xqVWNGcjQ2bEpJSjY4bndYVHRXek5HTlY4Ylktb3YzM1k3RWdyendRZw",
+      "headline": "Robert F. Kennedy, Jr. visits Virginia Beach to address healthcare shortages",
+      "outlet": "WAVY",
+      "outlet_domain": "wavy.com",
+      "local": true,
+      "official": false,
+      "date": "2026-10-15T22:58:40.000Z",
+      "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQZWQ2VUZhakxwNjI4WWhYSlB5UjFvWTdVeHE5RzZIX0VNSjd4WTdTNV9VV2x3aUxfTHQyU3o3aUxwX2tXRUxISWYwbjRFellUdDNiRFBRN2ZELVU3LW8yVklPbTZhMVJncGwtcm5LbUF0VW9OTU5zcm16a2VKaWtLWTFhdldXY2ZCUjJ1MHY3Q0dkMXkxZ0g5YVRJODhXaUVER05hT0xqN2xWRnYxNzIxadIBtgFBVV95cUxQZUJJdHRVeFl2Z0ZZYjNmUTRUMzFheDl1R0pTamhRRjgtaUIzdzRzWjlMV2JLQ2ktMkhYTG1ySERIVGlQZmticVdBSkw2M05LVTY2ZDJQTVNRYTU3a1J6VDNITzBDZUV1azY1WHJDTWtfS2xTOVB4akZxVFFDT094eVZnZ1o0ZkVBbXNvX0xqVWNGcjQ2bEpJSjY4bndYVHRXek5HTlY4Ylktb3YzM1k3RWdyendRZw?oc=5",
+      "candidates": [
+        "kiggans"
+      ],
+      "tags": []
+    },
+    {
+      "id": "CBMiiAFBVV95cUxOdk1WTjh1SFNXdkNQSEYyY3RYQnJjRllPc3VmanRUM09xVU9JNzl5VExVMDd1MkYxc3hHUzBjeUpjU2VzTXRsdTdQLUJQWFpMbHhSV3Y4QVVQemkySUE3WGlSMUFweEw3Nk92NkNadXVyeVJWamQ1Ty1DX0hoenNjOWFrM3hmaHlf",
+      "headline": "HHS secretary visits VB with Rep. Jen Kiggans",
+      "outlet": "WAVY",
+      "outlet_domain": "wavy.com",
+      "local": true,
+      "official": false,
+      "date": "2026-10-15T22:44:19.000Z",
+      "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOdk1WTjh1SFNXdkNQSEYyY3RYQnJjRllPc3VmanRUM09xVU9JNzl5VExVMDd1MkYxc3hHUzBjeUpjU2VzTXRsdTdQLUJQWFpMbHhSV3Y4QVVQemkySUE3WGlSMUFweEw3Nk92NkNadXVyeVJWamQ1Ty1DX0hoenNjOWFrM3hmaHlf?oc=5",
+      "candidates": [
+        "kiggans"
+      ],
+      "tags": []
+    },
+    {
+      "id": "CBMikgJBVV95cUxOTjFoTXZOR1VFbkg2WHJ0YkVoUnBtVmlhaTRhMGtKYVZzSUw2MXMxREtZaHZlNExOdk5Xb0NZRGpZY1d5VXA2a1JHVld6dXVjMXM1bDVpUTBNMDdvYnZpUENNbG1FbzF4d2RaaEdNX3pseHpiN0RaUlRYOEtxclVrZU10dDRHZG0xT0R0Q2VaamZEbGpoS0RLRDdsQ1hPY1BlZGszaGpuRnZqNVNGeWFRTXRJbHdIQ2o4cWJWdHdSMllvWFh2RDNIdjFIQnVNbkNzUHFyQWJGTmJvOXBGOVR1UWZvMnQtSlFsRFJlNkxnSGJoY2RVRDdVV0RtU215T19nZjhfNmQwb2ljTVJkMDM5U0dn",
+      "headline": "'We’re not going to talk about that': Kiggans and RFK Jr. hold roundtable on healthcare workforce shortages in Virginia Beach",
+      "outlet": "13News Now (WVEC)",
+      "outlet_domain": "13newsnow.com",
+      "local": true,
+      "official": false,
+      "date": "2026-10-15T22:02:00.000Z",
+      "link": "https://news.google.com/rss/articles/CBMikgJBVV95cUxOTjFoTXZOR1VFbkg2WHJ0YkVoUnBtVmlhaTRhMGtKYVZzSUw2MXMxREtZaHZlNExOdk5Xb0NZRGpZY1d5VXA2a1JHVld6dXVjMXM1bDVpUTBNMDdvYnZpUENNbG1FbzF4d2RaaEdNX3pseHpiN0RaUlRYOEtxclVrZU10dDRHZG0xT0R0Q2VaamZEbGpoS0RLRDdsQ1hPY1BlZGszaGpuRnZqNVNGeWFRTXRJbHdIQ2o4cWJWdHdSMllvWFh2RDNIdjFIQnVNbkNzUHFyQWJGTmJvOXBGOVR1UWZvMnQtSlFsRFJlNkxnSGJoY2RVRDdVV0RtU215T19nZjhfNmQwb2ljTVJkMDM5U0dn?oc=5",
+      "candidates": [
+        "kiggans",
+        "luria"
+      ],
+      "tags": []
+    },
+    {
+      "id": "CBMikgJBVV95cUxQU09nWWJYeFFEcU91SC1RejFoc2lnckEtY09UNTA2eG0zTnNQSUFTYmlnTTBDd3pWOUpXSnBEakU2amo3WU9wckhmSlBhanh6bkZEc2NTamF6LW5Pc011cHFoeVpaZFJMSnJSWi1QT2Z0ZGJKYXR0cmc3ZmlsVkRobDY3dXVqeFJRYWZPRWJRaGhhb3NYbkdqOEI5eTcwZUlFUUhnZ09yZ3V0V1duTEg0N240aE9rbG5tcjVtSVVxVGlLdFMzQ1haYTRaNzRCSzlaLUZlWUZTaWJTSkxFNEVDeEFzQ0hxUlFCUjlOREpGTzVBTlF1cmhYRTcwT3JGOE1CbjlRYmpvU0xDXy1kSVlTazRB",
+      "headline": "Kiggans and RFK Jr. presser ends abruptly following health care roundtable discussion",
+      "outlet": "13News Now (WVEC)",
+      "outlet_domain": "13newsnow.com",
+      "local": true,
+      "official": false,
+      "date": "2026-10-15T21:34:00.000Z",
+      "link": "https://news.google.com/rss/articles/CBMikgJBVV95cUxQU09nWWJYeFFEcU91SC1RejFoc2lnckEtY09UNTA2eG0zTnNQSUFTYmlnTTBDd3pWOUpXSnBEakU2amo3WU9wckhmSlBhanh6bkZEc2NTamF6LW5Pc011cHFoeVpaZFJMSnJSWi1QT2Z0ZGJKYXR0cmc3ZmlsVkRobDY3dXVqeFJRYWZPRWJRaGhhb3NYbkdqOEI5eTcwZUlFUUhnZ09yZ3V0V1duTEg0N240aE9rbG5tcjVtSVVxVGlLdFMzQ1haYTRaNzRCSzlaLUZlWUZTaWJTSkxFNEVDeEFzQ0hxUlFCUjlOREpGTzVBTlF1cmhYRTcwT3JGOE1CbjlRYmpvU0xDXy1kSVlTazRB?oc=5",
+      "candidates": [
+        "kiggans"
+      ],
+      "tags": []
+    },
+    {
+      "id": "CBMipAFBVV95cUxPMzhHN3dvQXA1WUVrSTZfOXhZUGtaazZhcW5NLVhvcVpXSUhMX2RTLUM2R0tIWmp6YVd4WUxodlpoYm5odC16RXVlSXVoQW4yZEtGRDF6cnFRc3E5cGlQRWx0RlozeFBObG4yaHZwWTZsRVEtSnVfWHZmWXYwLXl1NkFLNnhlR1lQaEd2TWJpTHNObWh5Rkkzb0MzTUQwSHhvbFJ5WA",
+      "headline": "RFK Jr. visits Virginia Beach to discuss healthcare worker shortage",
+      "outlet": "WTKR (News 3)",
+      "outlet_domain": "wtkr.com",
+      "local": true,
+      "official": false,
+      "date": "2026-10-15T21:32:31.000Z",
+      "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPMzhHN3dvQXA1WUVrSTZfOXhZUGtaazZhcW5NLVhvcVpXSUhMX2RTLUM2R0tIWmp6YVd4WUxodlpoYm5odC16RXVlSXVoQW4yZEtGRDF6cnFRc3E5cGlQRWx0RlozeFBObG4yaHZwWTZsRVEtSnVfWHZmWXYwLXl1NkFLNnhlR1lQaEd2TWJpTHNObWh5Rkkzb0MzTUQwSHhvbFJ5WA?oc=5",
+      "candidates": [
+        "kiggans"
+      ],
+      "tags": []
+    },
+    {
+      "id": "CBMixgFBVV95cUxNOUhEVVBTbFNCY2Vxb1NrTWNVZUJndWVJTUp0Tzd5dnptSW1FLThiNDR0NTNRc3JjTUlwMVNlQTJaN3RHd2tHZ2dJLWFaS1ktRlV1LXdZbkp4Y1o1SU5ndkRBME5MYTk1dE5JaXJnakhBZ1ZubGJEY3FicmtyZXdtRE9kZnFGMWs4dlhNb2ZUVXJ2RUNpWmZISUZ1aTZMODdaXzRjM2wxQ3BwQmtZT2JxaG1RU25SckJfLVk4MVNsY2otckJobWc",
+      "headline": "In closing weeks of campaign, Rep. Jen Kiggans stumps with HHS Secretary RFK Jr. in Virginia Beach",
+      "outlet": "WVTF",
+      "outlet_domain": "wvtf.org",
+      "local": false,
+      "official": false,
+      "date": "2026-10-15T21:32:00.000Z",
+      "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNOUhEVVBTbFNCY2Vxb1NrTWNVZUJndWVJTUp0Tzd5dnptSW1FLThiNDR0NTNRc3JjTUlwMVNlQTJaN3RHd2tHZ2dJLWFaS1ktRlV1LXdZbkp4Y1o1SU5ndkRBME5MYTk1dE5JaXJnakhBZ1ZubGJEY3FicmtyZXdtRE9kZnFGMWs4dlhNb2ZUVXJ2RUNpWmZISUZ1aTZMODdaXzRjM2wxQ3BwQmtZT2JxaG1RU25SckJfLVk4MVNsY2otckJobWc?oc=5",
+      "candidates": [
+        "kiggans"
+      ],
+      "tags": []
+    },
+    {
+      "id": "CBMi4AFBVV95cUxPVHBXRHRfYUdOdDBKMjhUY2UyZG5IUk9OVTlaOVcxRDBfYWx4ZmlvMEd3dDJhUGVMdlE1SnZUeDFlbEVmWERUemRKNzlLZjlndmw5MzFMNHk4SGNheXQzMENVamhVY1M1RE9jbVZMOE5GXzRSTUdSNURVeEdMZkhzOC1rcEUxbF9JMUktZEtabmVRNWpBNEh6N0dMSHRmRTNjc1lrN3NxZzBqSEdKOGg1YjhkSTUzSEVyZkhYc3hLR1NQVXZMQWNHX0F4cEdjSUlWU0J3U0kwa2F6WE5UM045dw",
+      "headline": "In closing weeks of campaign, Rep. Jen Kiggans stumps with HHS Secretary RFK Jr. in Virginia Beach",
+      "outlet": "WHRO",
+      "outlet_domain": "whro.org",
+      "local": true,
+      "official": false,
+      "date": "2026-10-15T21:32:00.000Z",
+      "link": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxPVHBXRHRfYUdOdDBKMjhUY2UyZG5IUk9OVTlaOVcxRDBfYWx4ZmlvMEd3dDJhUGVMdlE1SnZUeDFlbEVmWERUemRKNzlLZjlndmw5MzFMNHk4SGNheXQzMENVamhVY1M1RE9jbVZMOE5GXzRSTUdSNURVeEdMZkhzOC1rcEUxbF9JMUktZEtabmVRNWpBNEh6N0dMSHRmRTNjc1lrN3NxZzBqSEdKOGg1YjhkSTUzSEVyZkhYc3hLR1NQVXZMQWNHX0F4cEdjSUlWU0J3U0kwa2F6WE5UM045dw?oc=5",
+      "candidates": [
+        "luria"
+      ],
+      "tags": []
+    },
+    {
+      "id": "CBMi7AFBVV95cUxPY3FLckRBU0pEUURiOGVmUTBGOU53YmliQTZ2SE5mUEJwTzd6OE5YVDI0bmlPMXpMTjdVak5pSmoyeWhHSkZZY0xDZkF0OHVtVFRXMUlPLVJOWGl5UExkNmxocFFxcHpnc0NvMjl5MWdnODNha3BDMi1jQVJWd1VvMVZOY2Mxc1d2c1o1RHBPdDZub0VaaW81WGZIT00xa0VQNFd4aE05ZXVSTkllZ2h4cW4tSGxkc3poVU5Rd24tMndUYnk5MndUVkNvZGsxbHRmOEMyVG0xUUlsT1liUVNiNjE3Y18yUzd4SW5jSg",
+      "headline": "Rep. Jen Kiggans campaigns with RFK Jr. in Virginia Beach",
+      "outlet": "13News Now (WVEC)",
+      "outlet_domain": "13newsnow.com",
+      "local": true,
+      "official": false,
+      "date": "2026-10-15T19:47:00.000Z",
+      "link": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxPY3FLckRBU0pEUURiOGVmUTBGOU53YmliQTZ2SE5mUEJwTzd6OE5YVDI0bmlPMXpMTjdVak5pSmoyeWhHSkZZY0xDZkF0OHVtVFRXMUlPLVJOWGl5UExkNmxocFFxcHpnc0NvMjl5MWdnODNha3BDMi1jQVJWd1VvMVZOY2Mxc1d2c1o1RHBPdDZub0VaaW81WGZIT00xa0VQNFd4aE05ZXVSTkllZ2h4cW4tSGxkc3poVU5Rd24tMndUYnk5MndUVkNvZGsxbHRmOEMyVG0xUUlsT1liUVNiNjE3Y18yUzd4SW5jSg?oc=5",
+      "candidates": [
+        "kiggans"
+      ],
+      "tags": []
+    },
+    {
+      "id": "CBMiiwFBVV95cUxOQ0t6RW1XNm5SamJWaGdORmVqT1RwUXN1eGN0aW5HQzlTYlR3YzF3V1FaV19kZ1hmaXp5eHRmVFBoS293a0Fjb3VtRnZuckE2dHlBNGhoMEJEc3dQNXFubll1RldNNV9pVzFOVFNJR2g2ZmFqdUk4OWdPZmMxWjRwLVB0STliSVhpWm00",
+      "headline": "Poll Shows Tight Race in Virginia’s 2nd Congressional District",
+      "outlet": "The Daily Signal",
+      "outlet_domain": "dailysignal.com",
+      "local": false,
+      "official": false,
+      "date": "2026-10-15T19:30:00.000Z",
+      "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxOQ0t6RW1XNm5SamJWaGdORmVqT1RwUXN1eGN0aW5HQzlTYlR3YzF3V1FaV19kZ1hmaXp5eHRmVFBoS293a0Fjb3VtRnZuckE2dHlBNGhoMEJEc3dQNXFubll1RldNNV9pVzFOVFNJR2g2ZmFqdUk4OWdPZmMxWjRwLVB0STliSVhpWm00?oc=5",
+      "candidates": [
+        "kiggans",
+        "luria"
+      ],
+      "tags": [
+        "poll"
+      ]
+    },
+    {
+      "id": "CBMiqgFBVV95cUxOSjFZYjhQZmx4dDhOV3F1dFFBN2lXUW90blp2NURyNmx2QUlKSTJUWUVydGZaY21CRnd1dkNQbEdjaThRb3RTa0d3Z0pJZ2hPUW9SUXZ3cTlsUmsyRUVjb3hlV0pDQkpwTEZxMnk2NEpCU0RQdEh4dXRESFFuR3h3dkdZNE9Wc1FJeW9Xd2NFMVIyRThlSm4zV1g5akpXRnpjN0lHckxCbzhWUQ",
+      "headline": "HHS Secy. Kennedy & Rep. Kiggans (R-VA) Speak to Reporters",
+      "outlet": "C-SPAN",
+      "outlet_domain": "c-span.org",
+      "local": false,
+      "official": false,
+      "date": "2026-10-15T18:23:12.000Z",
+      "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOSjFZYjhQZmx4dDhOV3F1dFFBN2lXUW90blp2NURyNmx2QUlKSTJUWUVydGZaY21CRnd1dkNQbEdjaThRb3RTa0d3Z0pJZ2hPUW9SUXZ3cTlsUmsyRUVjb3hlV0pDQkpwTEZxMnk2NEpCU0RQdEh4dXRESFFuR3h3dkdZNE9Wc1FJeW9Xd2NFMVIyRThlSm4zV1g5akpXRnpjN0lHckxCbzhWUQ?oc=5",
+      "candidates": [
+        "kiggans"
+      ],
+      "tags": []
+    },
     {
       "id": "CBMirAFBVV95cUxNdkZPZXNXMGVuYkRFQ2tlMG5rdHVqbE5HMnZzZUJTZ3Zic21YVGRqRk9jNHhLUDNQZk1MRUk2bXRTdE02M3pFMlJ5MkM1LWtnejNNU3dES1hBTHVWanJUX3BpNkJqVnl5cWRtN3VIMDQtMm14SFVHMzJtTFNKM0hBYTczNVVhbldEajg4WVJldmxjVHFEVDBnbEhHb0lVcjZHa2xTelFPdE1ybFh1",
       "headline": "New poll: In Virginia’s 2nd District, Luria leads Kiggans by 3 points",
@@ -142,6 +328,21 @@
       "tags": []
     },
     {
+      "id": "CBMi4gFBVV95cUxPNjVVWHczOGNGN0phQW5UQmlEb0k4cDdwdk1NeUJISWFLamltU1lJM1lyWkFOZkNWT0FMTHZSVnVXOGhqSVJ6a3hLNVdFeGxXNC1jQ2hLWU1Ya2JUTzBLNWtGZUltRjcwQzBxUzdLQnNGMkFBUXRRQ0FqaW1mdzdiTVpxTnBRUTFxbGdhQkcxRFhwdHV4NF9leTlrV1Bnc2k0SkQzUmhnXzlDSjk5bVlzZDJPS05fZTljcTZhUEEybHZGdEwxV0gyV3JuSTg5ZTBqVmQwUTFBY3FvZFlmMHVtejd3",
+      "headline": "With anger spreading over Iran war, Democrats hope to flip Republican seats with veterans' help",
+      "outlet": "WKMG",
+      "outlet_domain": "clickorlando.com",
+      "local": false,
+      "official": false,
+      "date": "2026-10-15T04:02:35.000Z",
+      "link": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxPNjVVWHczOGNGN0phQW5UQmlEb0k4cDdwdk1NeUJISWFLamltU1lJM1lyWkFOZkNWT0FMTHZSVnVXOGhqSVJ6a3hLNVdFeGxXNC1jQ2hLWU1Ya2JUTzBLNWtGZUltRjcwQzBxUzdLQnNGMkFBUXRRQ0FqaW1mdzdiTVpxTnBRUTFxbGdhQkcxRFhwdHV4NF9leTlrV1Bnc2k0SkQzUmhnXzlDSjk5bVlzZDJPS05fZTljcTZhUEEybHZGdEwxV0gyV3JuSTg5ZTBqVmQwUTFBY3FvZFlmMHVtejd3?oc=5",
+      "candidates": [
+        "kiggans",
+        "luria"
+      ],
+      "tags": []
+    },
+    {
       "id": "CBMiswFBVV95cUxOVjFxazc5c051TE9NUVFWMWhYTTJEd3c5d0pGQ2xhZEpjeVRYQzl5N2hKRDR5OERISUo5MTlRQTRlZE1CTWNsWjhJT3MwRnNMNlBJNmtjS0FjdlQwSEFHdERqUEpZSzFPNGdDN1NnMzFlX0d3VGxoYjlUNTFBTzRDeTA0dEpxeUR3cXJlR0FuSDE1QWQ1OUk5NjcwSy1sbFE3c2lIcmFUYnBqLXF4ZlNIZ3NtTQ",
       "headline": "Poll: Elaine Luria has three-point lead over Jen Kiggans in the Second District",
       "outlet": "Augusta Free Press",
@@ -152,6 +353,22 @@
       "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOVjFxazc5c051TE9NUVFWMWhYTTJEd3c5d0pGQ2xhZEpjeVRYQzl5N2hKRDR5OERISUo5MTlRQTRlZE1CTWNsWjhJT3MwRnNMNlBJNmtjS0FjdlQwSEFHdERqUEpZSzFPNGdDN1NnMzFlX0d3VGxoYjlUNTFBTzRDeTA0dEpxeUR3cXJlR0FuSDE1QWQ1OUk5NjcwSy1sbFE3c2lIcmFUYnBqLXF4ZlNIZ3NtTQ?oc=5",
       "candidates": [
         "kiggans",
+        "luria"
+      ],
+      "tags": [
+        "poll"
+      ]
+    },
+    {
+      "id": "CBMihAJBVV95cUxNMXIwdnFja0I3WmlOc21UZXZRS3J5X2Znb0o2b0VHa0JkV0ZGbEtxZkxzUzZWNEMyVVB4LUd6QThXdDhoZU1lXzBmUGdXeTQtR0FwdXU0TzE4VlF5TFhUcVdFNmgydndIdFlzNmZJdk9MaEYzeEpmZm50ZWJlaDZsekc0SFNnT1FqSE9uTnJxekxIZGUxdU5KOUwtR29tUC1TLUNHb2pRSF8xM3pXT0szOVE0cW1BRVpEaHhwM01vVk16RXEtVl9MY1hKVlNrT1BwTXR6V2dmczdadlpMYWQ4Z3NOWUZRTG1IelJnTXhSQmlIYk0xLWF2bEduUjFodU1YcVZyXw",
+      "headline": "New poll puts Luria ahead of Kiggans in closely watched VA-02 race",
+      "outlet": "13News Now (WVEC)",
+      "outlet_domain": "13newsnow.com",
+      "local": true,
+      "official": false,
+      "date": "2026-10-14T23:23:00.000Z",
+      "link": "https://news.google.com/rss/articles/CBMihAJBVV95cUxNMXIwdnFja0I3WmlOc21UZXZRS3J5X2Znb0o2b0VHa0JkV0ZGbEtxZkxzUzZWNEMyVVB4LUd6QThXdDhoZU1lXzBmUGdXeTQtR0FwdXU0TzE4VlF5TFhUcVdFNmgydndIdFlzNmZJdk9MaEYzeEpmZm50ZWJlaDZsekc0SFNnT1FqSE9uTnJxekxIZGUxdU5KOUwtR29tUC1TLUNHb2pRSF8xM3pXT0szOVE0cW1BRVpEaHhwM01vVk16RXEtVl9MY1hKVlNrT1BwTXR6V2dmczdadlpMYWQ4Z3NOWUZRTG1IelJnTXhSQmlIYk0xLWF2bEduUjFodU1YcVZyXw?oc=5",
+      "candidates": [
         "luria"
       ],
       "tags": [
@@ -175,6 +392,23 @@
       ]
     },
     {
+      "id": "CBMi-gFBVV95cUxPWDhGeUw3VU52NzQ4RXZBWWJrYjBrZ3ZUU0ZscUVCNHpuYkFkcVZXc1NaREdWa2UzRHZnY3pZUmhtUnMzaE5NUHBmbzRKVGlTZmpUem0wblkzaWVnd3hmRWpEeU5HTFAyWW5QSC1OeUNBVG5mWVlvazhxanVPMWhsaHBjWjZpZFBwSk16UURiNXQtaVdsM1Axd0dUNW4tcmtDbzltS0xqdDB6RGlsdjhSRGhkT2NUTDg3aXo4WnlHSWxwWTF3bFM5QkhzSUFCMUwtMFh4MUpSTWhLNFVvaEIxSFdBSDdPUHpoZXhINE9yMXloZ3FUM19HUmtB",
+      "headline": "No stage, no show: Virginia voters left in the dark as candidates skip debates this cycle",
+      "outlet": "13News Now (WVEC)",
+      "outlet_domain": "13newsnow.com",
+      "local": true,
+      "official": false,
+      "date": "2026-10-14T21:29:00.000Z",
+      "link": "https://news.google.com/rss/articles/CBMi-gFBVV95cUxPWDhGeUw3VU52NzQ4RXZBWWJrYjBrZ3ZUU0ZscUVCNHpuYkFkcVZXc1NaREdWa2UzRHZnY3pZUmhtUnMzaE5NUHBmbzRKVGlTZmpUem0wblkzaWVnd3hmRWpEeU5HTFAyWW5QSC1OeUNBVG5mWVlvazhxanVPMWhsaHBjWjZpZFBwSk16UURiNXQtaVdsM1Axd0dUNW4tcmtDbzltS0xqdDB6RGlsdjhSRGhkT2NUTDg3aXo4WnlHSWxwWTF3bFM5QkhzSUFCMUwtMFh4MUpSTWhLNFVvaEIxSFdBSDdPUHpoZXhINE9yMXloZ3FUM19HUmtB?oc=5",
+      "candidates": [
+        "kiggans",
+        "luria"
+      ],
+      "tags": [
+        "debate"
+      ]
+    },
+    {
       "id": "CBMihAFBVV95cUxQcXB6N1hPdWJkRXZhWk5FSkIyaVFXTHVJdTBYVDYzRDhNangwSDZzWGsyRW5WV3JRM2J4dGV2US1ySWdlMjNPRVoxSWNjakRJRkpmMHpVVXR6RE1TWjY5UGRPU3BTMkQ2S2NiVWZ2UmJiRTZJSkh5RlBLT1FJcnc1OFBNZFQ",
       "headline": "CNU survey shows Elaine Luria with 3-point lead over Jen Kiggans in Virginia’s 2nd District",
       "outlet": "Yahoo",
@@ -184,7 +418,8 @@
       "date": "2026-10-14T21:15:04.000Z",
       "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQcXB6N1hPdWJkRXZhWk5FSkIyaVFXTHVJdTBYVDYzRDhNangwSDZzWGsyRW5WV3JRM2J4dGV2US1ySWdlMjNPRVoxSWNjakRJRkpmMHpVVXR6RE1TWjY5UGRPU3BTMkQ2S2NiVWZ2UmJiRTZJSkh5RlBLT1FJcnc1OFBNZFQ?oc=5",
       "candidates": [
-        "kiggans"
+        "kiggans",
+        "luria"
       ],
       "tags": []
     },
@@ -320,6 +555,20 @@
       ]
     },
     {
+      "id": "CBMihAFBVV95cUxNcWlQYUhZYkV6NFNZb0NHUDZ2WVF2WGtSQ0sxR3FBVlRWOW1oeENIOE1GcVFUd2YzaWJiZ1VBc0ktX01UbHVMM0t4bWdRMzN5YVhvMDBTeW9RWmVvdWhWUDhLTGVOTnRlb2VwcXZXeEZndG0xaDJLQ0dhRVlaVVlvT1BFc0E",
+      "headline": "ELAINE’S EMBARRASSMENT: Lyin’ Luria Caught AGAIN",
+      "outlet": "National Republican Congressional Committee",
+      "outlet_domain": "nrcc.org",
+      "local": false,
+      "official": false,
+      "date": "2026-10-14T07:00:00.000Z",
+      "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNcWlQYUhZYkV6NFNZb0NHUDZ2WVF2WGtSQ0sxR3FBVlRWOW1oeENIOE1GcVFUd2YzaWJiZ1VBc0ktX01UbHVMM0t4bWdRMzN5YVhvMDBTeW9RWmVvdWhWUDhLTGVOTnRlb2VwcXZXeEZndG0xaDJLQ0dhRVlaVVlvT1BFc0E?oc=5",
+      "candidates": [
+        "luria"
+      ],
+      "tags": []
+    },
+    {
       "id": "CBMisgFBVV95cUxNRXFfc1I0ZnlhajRFVEhMYm5hNlhOTEZ0Uy1SOWRSMnY1cVFjQmZLOUdtR05kSnYyd01TQ0N5WGdNN3JlNExidzRLaWtoRERhRTc5V1g3aUtnSDNTRFdKaTFUSE1sZ0pTZW1zd3BXT3k2SWRTR3dBeFZ0blVfWW9UZG9xWWQ2bHp6UGMydW9DV1FGaTRyM1R6ZnFnV2Y5a1RRdEZKYkx0a01zaWhiT0ozYWlB",
       "headline": "Election 2026 Veterans",
       "outlet": "Rutland Herald",
@@ -384,6 +633,34 @@
       "official": false,
       "date": "2026-10-13T19:29:02.000Z",
       "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE04blJDSmVELWlESmJNZXRnbHNWdjRnbGNQM1FBUlpSRGU1cl9NSUNCNmpnQWFwUXFrZ0FrUTRCbkR2Z0tFNXRVZkxKNDBfYjBNVFlLWmZGVmxLY3dFYm1pMkk3djJUeVhkUF84cnpvRVM?oc=5",
+      "candidates": [
+        "luria"
+      ],
+      "tags": []
+    },
+    {
+      "id": "CBMiXEFVX3lxTFBnR3lRSDdoOW8tYTZXM1JnWS1ac1BtLVpKdTFaZFNfQzRpbjEtXzY3aFZEd2Q1OGJvaFVwVjZsMjB0NE5BVWJnVXFwSjNWZ2xyN2h5cEZpejdFSlRr",
+      "headline": "Jen Kiggans and the Myth of the \"Moderate\" Republican",
+      "outlet": "YouTube",
+      "outlet_domain": "youtu.be",
+      "local": false,
+      "official": false,
+      "date": "2026-10-13T15:07:35.000Z",
+      "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFBnR3lRSDdoOW8tYTZXM1JnWS1ac1BtLVpKdTFaZFNfQzRpbjEtXzY3aFZEd2Q1OGJvaFVwVjZsMjB0NE5BVWJnVXFwSjNWZ2xyN2h5cEZpejdFSlRr?oc=5",
+      "candidates": [
+        "kiggans"
+      ],
+      "tags": []
+    },
+    {
+      "id": "CBMihwFBVV95cUxPMmVzenJkSlFaTzItRm1iWVFKWGwyeGxVcnc0R1M2alYwWkM4ZzBYdDlCaklwU1Z4ZFAzNFRDbmgxWThCT0JkcTZPb1oyLUZiVHp0N1JlR3VKdGZXV1RKUXREUjF6OTZ5MHlUblpoSng4OUg0OEZxRWxaUTUtdHhYakRfWXl1WEE",
+      "headline": "Candidates campaign for House seats in districts where they don’t live",
+      "outlet": "The Hill",
+      "outlet_domain": "thehill.com",
+      "local": false,
+      "official": false,
+      "date": "2026-10-13T10:00:00.000Z",
+      "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPMmVzenJkSlFaTzItRm1iWVFKWGwyeGxVcnc0R1M2alYwWkM4ZzBYdDlCaklwU1Z4ZFAzNFRDbmgxWThCT0JkcTZPb1oyLUZiVHp0N1JlR3VKdGZXV1RKUXREUjF6OTZ5MHlUblpoSng4OUg0OEZxRWxaUTUtdHhYakRfWXl1WEE?oc=5",
       "candidates": [
         "luria"
       ],
@@ -1772,20 +2049,6 @@
       ],
       "tags": [],
       "official": false
-    },
-    {
-      "id": "CBMikgFBVV95cUxNMFhMU01EaFZzdDdSTmVHemZPNGs0SW9IM20wWXY0dnZuTUtKWWRPVGhTZFlwcjZhSE0xWVhSZXZhZEVGNTBETUU5TjBSN1VveDcyUXZrakpQaVZkVUVXWXYwYXpOcTl6dHk1S004LUpoS194Q29RaGp4QnYzOG1uNmM2c0RsQl9NSlVsRkVNZm1odw",
-      "headline": "ICYMI: Kiggans Takes Action to Protect Families at the Beach",
-      "outlet": "National Republican Congressional Committee",
-      "outlet_domain": "nrcc.org",
-      "local": false,
-      "official": false,
-      "date": "2026-09-16T07:00:00.000Z",
-      "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNMFhMU01EaFZzdDdSTmVHemZPNGs0SW9IM20wWXY0dnZuTUtKWWRPVGhTZFlwcjZhSE0xWVhSZXZhZEVGNTBETUU5TjBSN1VveDcyUXZrakpQaVZkVUVXWXYwYXpOcTl6dHk1S004LUpoS194Q29RaGp4QnYzOG1uNmM2c0RsQl9NSlVsRkVNZm1odw?oc=5",
-      "candidates": [
-        "kiggans"
-      ],
-      "tags": []
     }
   ]
 }
