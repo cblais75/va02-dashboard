@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-16T14:54:57.217Z",
+  "updated_at": "2026-10-18T14:03:30.106Z",
   "cycle": 2026,
   "source": "Federal Election Commission, OpenFEC API (api.open.fec.gov)",
   "source_url": "https://www.fec.gov/data/elections/house/VA/02/2026/",
@@ -60,6 +60,348 @@
     }
   ],
   "forty_eight_hour_reports": [
+    {
+      "candidate": "luria",
+      "committee_id": "C00926303",
+      "file_number": 2029644,
+      "form_type": "F6N",
+      "filed": "2026-10-17",
+      "total": 46874.99,
+      "contributions": [
+        {
+          "contributor": "Renee Grisham",
+          "entity_type": "IND",
+          "city": "North Garden",
+          "state": "VA",
+          "employer": "Not Employed",
+          "occupation": "Not Employed",
+          "date": "2026-10-16",
+          "amount": 3500
+        },
+        {
+          "contributor": "Kevin McKeon",
+          "entity_type": "IND",
+          "city": "Washington",
+          "state": "DC",
+          "employer": "Not Employed",
+          "occupation": "Not Employed",
+          "date": "2026-10-16",
+          "amount": 3500
+        },
+        {
+          "contributor": "UNITED STEELWORKERS POLITICAL ACTION FUND",
+          "entity_type": "ORG",
+          "city": "Pittsburgh",
+          "state": "PA",
+          "employer": null,
+          "occupation": null,
+          "date": "2026-10-16",
+          "amount": 2500
+        },
+        {
+          "contributor": "Jerry Croan",
+          "entity_type": "IND",
+          "city": "Centreville",
+          "state": "VA",
+          "employer": "Self Employed",
+          "occupation": "Consultant",
+          "date": "2026-10-16",
+          "amount": 2000
+        },
+        {
+          "contributor": "Keith Curtis",
+          "entity_type": "IND",
+          "city": "Virginia Beach",
+          "state": "VA",
+          "employer": "The Curtis Group",
+          "occupation": "Fundraising Consultant",
+          "date": "2026-10-16",
+          "amount": 1500
+        },
+        {
+          "contributor": "Walter Smith",
+          "entity_type": "IND",
+          "city": "Baton Rouge",
+          "state": "LA",
+          "employer": "Not Employed",
+          "occupation": "Not Employed",
+          "date": "2026-10-16",
+          "amount": 1458.33
+        },
+        {
+          "contributor": "Nancy Miller",
+          "entity_type": "IND",
+          "city": "Gordonsville",
+          "state": "VA",
+          "employer": "The Miller Firm",
+          "occupation": "Attorney",
+          "date": "2026-10-16",
+          "amount": 1250
+        },
+        {
+          "contributor": "Blair Williamson",
+          "entity_type": "IND",
+          "city": "Charlottesville",
+          "state": "VA",
+          "employer": "S. L. Williamson Co., Inc.",
+          "occupation": "President",
+          "date": "2026-10-16",
+          "amount": 1250
+        },
+        {
+          "contributor": "David A Felt",
+          "entity_type": "IND",
+          "city": "Greenbackville",
+          "state": "VA",
+          "employer": "Not Employed",
+          "occupation": "Not Employed",
+          "date": "2026-10-16",
+          "amount": 1000
+        },
+        {
+          "contributor": "Paula Felt",
+          "entity_type": "IND",
+          "city": "Arlington",
+          "state": "VA",
+          "employer": "Communication And Energy Solutions",
+          "occupation": "President",
+          "date": "2026-10-16",
+          "amount": 1000
+        },
+        {
+          "contributor": "Edward Scott Gilbert",
+          "entity_type": "IND",
+          "city": "East Hampton",
+          "state": "NY",
+          "employer": "Not Employed",
+          "occupation": "Not Employed",
+          "date": "2026-10-16",
+          "amount": 1000
+        },
+        {
+          "contributor": "Harold E Greer",
+          "entity_type": "IND",
+          "city": "North Chesterfield",
+          "state": "VA",
+          "employer": "JLARC",
+          "occupation": "Director",
+          "date": "2026-10-16",
+          "amount": 1000
+        },
+        {
+          "contributor": "Kathryn Hanley",
+          "entity_type": "IND",
+          "city": "Washington",
+          "state": "DC",
+          "employer": "Not Employed",
+          "occupation": "Not Employed",
+          "date": "2026-10-16",
+          "amount": 1000
+        },
+        {
+          "contributor": "Michael Morris",
+          "entity_type": "IND",
+          "city": "Annapolis",
+          "state": "MD",
+          "employer": "Not Employed",
+          "occupation": "Not Employed",
+          "date": "2026-10-16",
+          "amount": 1000
+        },
+        {
+          "contributor": "Mark Tyndall",
+          "entity_type": "IND",
+          "city": "Washington",
+          "state": "VA",
+          "employer": "ST Shared Services LLC",
+          "occupation": "Attorney",
+          "date": "2026-10-16",
+          "amount": 1000
+        },
+        {
+          "contributor": "Robert Wellen",
+          "entity_type": "IND",
+          "city": "Washington",
+          "state": "DC",
+          "employer": "Ivins Phillips & Barker Chartered",
+          "occupation": "Attorney",
+          "date": "2026-10-16",
+          "amount": 1000
+        },
+        {
+          "contributor": "Amy Goldman Fowler",
+          "entity_type": "IND",
+          "city": "Rhinebeck",
+          "state": "NY",
+          "employer": "Solil Management",
+          "occupation": "Co-Owner",
+          "date": "2026-10-15",
+          "amount": 3500
+        },
+        {
+          "contributor": "Marc Utay",
+          "entity_type": "IND",
+          "city": "New York",
+          "state": "NY",
+          "employer": "Clarion Capital Partners",
+          "occupation": "Investment Manager",
+          "date": "2026-10-15",
+          "amount": 3500
+        },
+        {
+          "contributor": "David Ragins",
+          "entity_type": "IND",
+          "city": "Chatham Twp",
+          "state": "NJ",
+          "employer": "Clarion Capital Partners",
+          "occupation": "President",
+          "date": "2026-10-15",
+          "amount": 2666.66
+        },
+        {
+          "contributor": "Lewis Levin",
+          "entity_type": "IND",
+          "city": "Seattle",
+          "state": "WA",
+          "employer": "Not Employed",
+          "occupation": "Not Employed",
+          "date": "2026-10-15",
+          "amount": 2500
+        },
+        {
+          "contributor": "JULIA BROWNLEY FOR CONGRESS",
+          "entity_type": "CCM",
+          "city": "Thousand Oaks",
+          "state": "CA",
+          "employer": null,
+          "occupation": null,
+          "date": "2026-10-15",
+          "amount": 2000
+        },
+        {
+          "contributor": "John Dean",
+          "entity_type": "IND",
+          "city": "Waimanalo",
+          "state": "HI",
+          "employer": "Startup Capital Ventures",
+          "occupation": "Investor",
+          "date": "2026-10-15",
+          "amount": 1500
+        },
+        {
+          "contributor": "John Haywood Blakemore",
+          "entity_type": "IND",
+          "city": "Charlottesville",
+          "state": "VA",
+          "employer": "Qatar Investment Authority",
+          "occupation": "Attorney",
+          "date": "2026-10-15",
+          "amount": 1250
+        },
+        {
+          "contributor": "Bob Beard",
+          "entity_type": "IND",
+          "city": "Charlottesville",
+          "state": "VA",
+          "employer": "Albemarle County",
+          "occupation": "School Board Member",
+          "date": "2026-10-15",
+          "amount": 1000
+        },
+        {
+          "contributor": "Jeremiah Denton",
+          "entity_type": "IND",
+          "city": "Virginia Beach",
+          "state": "VA",
+          "employer": "Self Employed",
+          "occupation": "Attorney",
+          "date": "2026-10-15",
+          "amount": 1000
+        },
+        {
+          "contributor": "Peter Leone",
+          "entity_type": "IND",
+          "city": "Villanova",
+          "state": "PA",
+          "employer": "Not Employed",
+          "occupation": "Not Employed",
+          "date": "2026-10-15",
+          "amount": 1000
+        },
+        {
+          "contributor": "Robert Powers",
+          "entity_type": "IND",
+          "city": "Alexandria",
+          "state": "VA",
+          "employer": "Nuclear Energy Institute",
+          "occupation": "Senior Director",
+          "date": "2026-10-15",
+          "amount": 1000
+        },
+        {
+          "contributor": "Sheli Rosenberg",
+          "entity_type": "IND",
+          "city": "Chicago",
+          "state": "IL",
+          "employer": "Not Employed",
+          "occupation": "Not Employed",
+          "date": "2026-10-15",
+          "amount": 1000
+        }
+      ],
+      "url": "https://docquery.fec.gov/cgi-bin/forms/C00926303/2029644/"
+    },
+    {
+      "candidate": "kiggans",
+      "committee_id": "C00776120",
+      "file_number": 2029556,
+      "form_type": "F6N",
+      "filed": "2026-10-17",
+      "total": 5582.04,
+      "contributions": [
+        {
+          "contributor": "\"\"",
+          "entity_type": "IND",
+          "city": "\"LEESBURG\"",
+          "state": "VA",
+          "employer": "\"MCALEESE ASSOCIATES, P.C.\"",
+          "occupation": "\"CONSULTANT ATTORNEY\"",
+          "date": "2026-10-16",
+          "amount": 2000
+        },
+        {
+          "contributor": "\"\"",
+          "entity_type": "IND",
+          "city": "\"BIRMINGHAM\"",
+          "state": "AL",
+          "employer": "\"RETIRED\"",
+          "occupation": "\"RETIRED\"",
+          "date": "2026-10-16",
+          "amount": 1500
+        },
+        {
+          "contributor": "\"\"",
+          "entity_type": "IND",
+          "city": "\"VIRGINIA BEACH\"",
+          "state": "VA",
+          "employer": "\"MERRILL LYNCH\"",
+          "occupation": "\"FINANCIAL ADVISOR\"",
+          "date": "2026-10-16",
+          "amount": 1041.02
+        },
+        {
+          "contributor": "\"\"",
+          "entity_type": "IND",
+          "city": "\"HOLLYWOOD\"",
+          "state": "FL",
+          "employer": "\"OASB\"",
+          "occupation": "\"SURGEON\"",
+          "date": "2026-10-16",
+          "amount": 1041.02
+        }
+      ],
+      "url": "https://docquery.fec.gov/cgi-bin/forms/C00776120/2029556/"
+    },
     {
       "candidate": "luria",
       "committee_id": "C00926303",
