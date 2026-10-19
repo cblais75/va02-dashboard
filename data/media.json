@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-18T16:01:04.708Z",
+  "updated_at": "2026-10-19T18:46:05.152Z",
   "source": "Google News RSS search",
   "queries": [
     "\"Jen Kiggans\"",
@@ -19,6 +19,21 @@
     "kiggans.house.gov"
   ],
   "items": [
+    {
+      "id": "CBMi3gFBVV95cUxPS1ViSkpnMzBpX3hiZ2lqN2lxNERRVk9MZlRBd013N3JBMWhUeTY4Sy02Q0N4R2FIZi1ab1B2WGt4Vm5RSDlwNEM5RWFteVdUUTNSNUFzRHlVV3c1ZnQ4NG5zcTNNVXNFSm4zN0RlcXNwTWw0bHZSeWV2akQ3M2JGMlY2SU00WjI3R1JpZ0xxR2JYaXo5d0pydGlSQlVObGdIc0ptSFBFNDVNb3hmeFZhVjZVRWpKeUl4dTVCc19pVkVNUTJCR3dzZXM3RmtGZTF2XzhuVFIxX3ozRnAtZ2c",
+      "headline": "Elaine Luria Launches \"Republicans for Elaine\" Coalition, Releases Digital Video with Former Jen Kiggans Supporters",
+      "outlet": "Blue Virginia",
+      "outlet_domain": "bluevirginia.us",
+      "local": false,
+      "official": false,
+      "date": "2026-10-19T13:49:41.000Z",
+      "link": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxPS1ViSkpnMzBpX3hiZ2lqN2lxNERRVk9MZlRBd013N3JBMWhUeTY4Sy02Q0N4R2FIZi1ab1B2WGt4Vm5RSDlwNEM5RWFteVdUUTNSNUFzRHlVV3c1ZnQ4NG5zcTNNVXNFSm4zN0RlcXNwTWw0bHZSeWV2akQ3M2JGMlY2SU00WjI3R1JpZ0xxR2JYaXo5d0pydGlSQlVObGdIc0ptSFBFNDVNb3hmeFZhVjZVRWpKeUl4dTVCc19pVkVNUTJCR3dzZXM3RmtGZTF2XzhuVFIxX3ozRnAtZ2c?oc=5",
+      "candidates": [
+        "kiggans",
+        "luria"
+      ],
+      "tags": []
+    },
     {
       "id": "CBMihgFBVV95cUxOclBaZUtWendDZl95RGJ0Uk9KQkprSWFYZ1pxNXdTSlFHVC1NclMxVGN4Vi14dDEySWRiaTVRVFJlRjlyQUI0RUM3eEdwWkFEU0xGTEJnUjJKYnZOc1JoZzgyY3pEdEItUTZMeDBsUUZyS1BjcVA0NDNpYkRVSGFNU2N6Z2J2Zw",
       "headline": "Here’s how much candidates in the 1st and 2nd District have raised so far",
@@ -43,7 +58,8 @@
       "date": "2026-10-17T17:42:37.000Z",
       "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOaTBFdTJiajJiV0hjWlB3ZTlxMHI3b1Zkem96eDRDc3RoLThLTnYtUWJqaE9naVpBWGVXcF80a2JabXZ0X1dieTJlUHFsR2l3WUN1c3JwX3doSkVDNHNrU0NpazAwQ1YtSF9SVGlPVWZsTWlqRGdhYlViQjl5cTFvYVEzcTVNV2s?oc=5",
       "candidates": [
-        "kiggans"
+        "kiggans",
+        "luria"
       ],
       "tags": []
     },
@@ -128,6 +144,20 @@
       "official": false,
       "date": "2026-10-16T13:25:02.000Z",
       "link": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxNWjhycnhIOHZDdFJnLTBpR1pkRmJGVGRiT3J0dWtMS0kwYjZzVUFQTFpGZXhQelQ0bGRXSG1BWkc5TmwzOFFNZEtLeklCTE13eThVYmJfelIyU2gtQVB6LXVpMmF2aFhHYWZNME42SHM3T3haLTNBaFVuQzM5TEZ2ZllOYVRVazBkU2JyaDRTVDBhMlNaNWw3c1dGYlJ6VU94TTBLbURKZWFjb2NPYXN0cTU4aEZ1THU3UzFuWmt5VXEwYkRtNVMtWlhYajZyWHVqTmVKaDVfRkVpa3hsN08yenV4UmRNMjFXWWRUY0ZSaw?oc=5",
+      "candidates": [
+        "kiggans"
+      ],
+      "tags": []
+    },
+    {
+      "id": "CBMiekFVX3lxTE53bzF6Yk9OVURNZjA1V3JXYkdHMm4tcXdqMHBTU1AtSjNtblFPdUxmaEo5WHBQN1BzX0wzc3hGWFV1WVhRLV85UkJkZkZ4Z2Z5dUl4VkowS1M4TVRXTnZoUzEyV1hRbEtka0VCTFJJYUdOQ1lzdXJzamdR",
+      "headline": "Robert F. Kennedy, Jr. visits Virginia Beach to address healthcare shortages",
+      "outlet": "AOL.com",
+      "outlet_domain": "aol.com",
+      "local": false,
+      "official": false,
+      "date": "2026-10-16T01:35:00.000Z",
+      "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTE53bzF6Yk9OVURNZjA1V3JXYkdHMm4tcXdqMHBTU1AtSjNtblFPdUxmaEo5WHBQN1BzX0wzc3hGWFV1WVhRLV85UkJkZkZ4Z2Z5dUl4VkowS1M4TVRXTnZoUzEyV1hRbEtka0VCTFJJYUdOQ1lzdXJzamdR?oc=5",
       "candidates": [
         "kiggans"
       ],
@@ -387,6 +417,21 @@
       ]
     },
     {
+      "id": "CBMi4wFBVV95cUxQenMzeDNBMW9xcXJ5eWtQWHJWOFA2SzdXOVRhMmhpQl9MWVF6WjM4SnJGQm10ZW9LTUJ5cEpIU3hXZjZpTi1MYzZYVmRKdkZfbE9KT0hVQS1JOGNJQnlpRnlXRElvMWtDdE9YQ0xaTE14UFhYSHdIU0NnYkRMU0ZwdmFfMmRqNXdjbE1nU01Db1U2N25sa0pzXzB6aVNRZ1M3RzlWTnBUV2lfLTBUZi1NOFNTaGNEYlhtZFh0R0J0ZG1nYW5GQkI3ME5xSENLVUF6T2ZOaTRoLUpPOUVsSlZRNHhnUQ",
+      "headline": "With anger spreading over Iran war, Democrats hope to flip Republican seats with veterans' help",
+      "outlet": "Click2Houston",
+      "outlet_domain": "click2houston.com",
+      "local": false,
+      "official": false,
+      "date": "2026-10-15T05:44:40.000Z",
+      "link": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxQenMzeDNBMW9xcXJ5eWtQWHJWOFA2SzdXOVRhMmhpQl9MWVF6WjM4SnJGQm10ZW9LTUJ5cEpIU3hXZjZpTi1MYzZYVmRKdkZfbE9KT0hVQS1JOGNJQnlpRnlXRElvMWtDdE9YQ0xaTE14UFhYSHdIU0NnYkRMU0ZwdmFfMmRqNXdjbE1nU01Db1U2N25sa0pzXzB6aVNRZ1M3RzlWTnBUV2lfLTBUZi1NOFNTaGNEYlhtZFh0R0J0ZG1nYW5GQkI3ME5xSENLVUF6T2ZOaTRoLUpPOUVsSlZRNHhnUQ?oc=5",
+      "candidates": [
+        "kiggans",
+        "luria"
+      ],
+      "tags": []
+    },
+    {
       "id": "CBMi1gFBVV95cUxPTU9CSmp2cmVfMEJzVW5RSGd4LXhUbW1wTUtRZWtka2s0NWNjZEllWGFST09tT0ZubTFkeFBmZlpHV281WC1NUTN2VEJ2aF9zaWpxSC1EazdQUEZ1aU9HdG5GLXdWWlUzVU9HNTZYLWItUG5EclpFeklDc0o5OUlMYkZWcnB1bzdYQXQyUDFySDVvenp0eXM2WER3SmJUUGRVYi1QZDd4RkhXZExROFVFd2dHUC1VVXNFend0SkJVSkhVQVl1bHZlbGZfekZLdUxWS0ltZHBn",
       "headline": "With anger spreading over Iran war, Democrats hope to flip Republican seats with veterans' help",
       "outlet": "KSAT",
@@ -632,6 +677,22 @@
       "candidates": [
         "kiggans",
         "luria"
+      ],
+      "tags": [
+        "poll"
+      ]
+    },
+    {
+      "id": "CBMilAFBVV95cUxQb3poWnRqU2dhLVZLNlNqdWNPWm54TUU4cWFlRGh3UzVZdHU0NEtvQjRsNUh5anF6ZTQ5VkN4X0dTV3NEcXNEOWxuSnk5X2ZMVVpiN19kckVGS0wwWXRwS1RUUWhheVU4Q0tKLTFiZnIzQkJLSWFWb1lub0wzNlNaN29pM3dwakZYemRDSUJLa0ZhbmQz",
+      "headline": "Poll shows close Luria-Kiggans race in Virginia",
+      "outlet": "Yahoo",
+      "outlet_domain": "yahoo.com",
+      "local": false,
+      "official": false,
+      "date": "2026-10-14T16:18:00.000Z",
+      "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQb3poWnRqU2dhLVZLNlNqdWNPWm54TUU4cWFlRGh3UzVZdHU0NEtvQjRsNUh5anF6ZTQ5VkN4X0dTV3NEcXNEOWxuSnk5X2ZMVVpiN19kckVGS0wwWXRwS1RUUWhheVU4Q0tKLTFiZnIzQkJLSWFWb1lub0wzNlNaN29pM3dwakZYemRDSUJLa0ZhbmQz?oc=5",
+      "candidates": [
+        "kiggans"
       ],
       "tags": [
         "poll"
@@ -955,6 +1016,20 @@
       "candidates": [
         "kiggans",
         "luria"
+      ],
+      "tags": []
+    },
+    {
+      "id": "CBMimgFBVV95cUxNWHFCd1ZOcE9SSDJRd3UwYnBrdjMyZUowSkhTaFNoMlBQb0dtaXM3VXNmcUhMSXF4LTJxZXZLSlJLbFk3S0Jkc0VmNkxnUHEyOVVFRk5qam5LcVduSmg0UnAxUFo4YXNtV3U4c0RuNk1QX3hRQ3Z1SEJPWjdXNXpoaDBmSEVXUWhJS21Nc1FlRmZ0bGpJMTJyeVdB",
+      "headline": "VERIFY: Does Kiggans support Trump's policies 100% of the time?",
+      "outlet": "Yahoo",
+      "outlet_domain": "yahoo.com",
+      "local": false,
+      "official": false,
+      "date": "2026-10-07T07:00:00.000Z",
+      "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNWHFCd1ZOcE9SSDJRd3UwYnBrdjMyZUowSkhTaFNoMlBQb0dtaXM3VXNmcUhMSXF4LTJxZXZLSlJLbFk3S0Jkc0VmNkxnUHEyOVVFRk5qam5LcVduSmg0UnAxUFo4YXNtV3U4c0RuNk1QX3hRQ3Z1SEJPWjdXNXpoaDBmSEVXUWhJS21Nc1FlRmZ0bGpJMTJyeVdB?oc=5",
+      "candidates": [
+        "kiggans"
       ],
       "tags": []
     },
@@ -2026,62 +2101,6 @@
         "luria"
       ],
       "tags": []
-    },
-    {
-      "id": "CBMivAFBVV95cUxPeHZKVnpJUEllZTBzX2l5NFdUelI0V2xkTnlVaThYQnB2MUhESnBUM1hSamVkVEQ2UmQ3VzRDR2lGUVVkNFQzdjA3ekFSeF9mRU5UWHl5eU44dkNzSFgwWWRwcEVEV0dSSUFoWFFfaGRKanJVTXVmN2s1OUtVNVdBX1J6MDF4bDk0WTVrQ2ZkVTMyY1RNbjRBMDBmRW1PTzBCMjdFb3BjdjREWk5xSTVXNWhBNVU4LUJ5ZjNSNQ",
-      "headline": "Trump tele-rallies for Wittman, McGuire, Kiggans",
-      "outlet": "Richmond Times-Dispatch",
-      "outlet_domain": "richmond.com",
-      "local": false,
-      "date": "2026-09-19T14:26:00.000Z",
-      "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPeHZKVnpJUEllZTBzX2l5NFdUelI0V2xkTnlVaThYQnB2MUhESnBUM1hSamVkVEQ2UmQ3VzRDR2lGUVVkNFQzdjA3ekFSeF9mRU5UWHl5eU44dkNzSFgwWWRwcEVEV0dSSUFoWFFfaGRKanJVTXVmN2s1OUtVNVdBX1J6MDF4bDk0WTVrQ2ZkVTMyY1RNbjRBMDBmRW1PTzBCMjdFb3BjdjREWk5xSTVXNWhBNVU4LUJ5ZjNSNQ?oc=5",
-      "candidates": [
-        "kiggans"
-      ],
-      "tags": [],
-      "official": false
-    },
-    {
-      "id": "CBMiiAFBVV95cUxQdlVyOVdFQW9RaHpFaFFpZ1Zkc2V0eGVyc25kczFxdjlzNDdzdXFBVi1xLW1LUUVJUlBzcEp6ZUhQWmItbWtsNW91X0E2WnZ6VFMyUE94Q011dDRzRy00SS1SN2wyR1lRV3RGckpCeHR1eG1zR2x2LThsMWpkOXA1U0RlTUtlVmJ0",
-      "headline": "Democrat Elaine Luria greets VB early voters",
-      "outlet": "WAVY",
-      "outlet_domain": "wavy.com",
-      "local": true,
-      "date": "2026-09-18T22:52:30.000Z",
-      "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQdlVyOVdFQW9RaHpFaFFpZ1Zkc2V0eGVyc25kczFxdjlzNDdzdXFBVi1xLW1LUUVJUlBzcEp6ZUhQWmItbWtsNW91X0E2WnZ6VFMyUE94Q011dDRzRy00SS1SN2wyR1lRV3RGckpCeHR1eG1zR2x2LThsMWpkOXA1U0RlTUtlVmJ0?oc=5",
-      "candidates": [
-        "luria"
-      ],
-      "tags": [],
-      "official": false
-    },
-    {
-      "id": "CBMihwFBVV95cUxOTkQ4RW5SWExWWm45SlRYRE50X2xPWjZtZ1cweWp4Y1k5ZWZJZ1U1WkZtY1ZMbDFuXzFKTGRQZXA5X0ZnN1pxY1VBMDkyOXNtVkQwWjlMYk9YY2ZQNmN2V1NzMTVoNzhYcVZYclhKVE42bV9JRVpVRlhYeDJVd1JPUmEtcVdEdG8",
-      "headline": "Democrat Elaine Luria greets VB early voters",
-      "outlet": "Yahoo",
-      "outlet_domain": "yahoo.com",
-      "local": false,
-      "date": "2026-09-18T22:26:01.000Z",
-      "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOTkQ4RW5SWExWWm45SlRYRE50X2xPWjZtZ1cweWp4Y1k5ZWZJZ1U1WkZtY1ZMbDFuXzFKTGRQZXA5X0ZnN1pxY1VBMDkyOXNtVkQwWjlMYk9YY2ZQNmN2V1NzMTVoNzhYcVZYclhKVE42bV9JRVpVRlhYeDJVd1JPUmEtcVdEdG8?oc=5",
-      "candidates": [
-        "luria"
-      ],
-      "tags": [],
-      "official": false
-    },
-    {
-      "id": "CBMiywFBVV95cUxOSmJNSjhkNTB3TFloVGZrOEpGV1ZsQVQzWkRNVHNnejg2VkFXLXd6OHpZdlpFVmRWV0JpT2tQMGNxOXBLNHdDX1FNY0JBMEdaUDZEd3NYWndJTnJIYm1iV2xXUmttNFU4MFliNVNfMFMzRWs4VVFabWQzdjZoclRSRGRpSGlfR3Qyb2FFSWpjWjBlSUxGcWd1amtRZzRpMGtybXkyNzJMUkIxNUZzUVdsTjBleVFMR1ZGbVhxTEhEMkNiRVR2SkxIWmh1bw",
-      "headline": "Press Release: Tonko, Kiggans Introduce Resolution on Pharmacy Workforce Suicide Awareness Day",
-      "outlet": "Quiver Quantitative",
-      "outlet_domain": "quiverquant.com",
-      "local": false,
-      "date": "2026-09-18T16:21:00.000Z",
-      "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxOSmJNSjhkNTB3TFloVGZrOEpGV1ZsQVQzWkRNVHNnejg2VkFXLXd6OHpZdlpFVmRWV0JpT2tQMGNxOXBLNHdDX1FNY0JBMEdaUDZEd3NYWndJTnJIYm1iV2xXUmttNFU4MFliNVNfMFMzRWs4VVFabWQzdjZoclRSRGRpSGlfR3Qyb2FFSWpjWjBlSUxGcWd1amtRZzRpMGtybXkyNzJMUkIxNUZzUVdsTjBleVFMR1ZGbVhxTEhEMkNiRVR2SkxIWmh1bw?oc=5",
-      "candidates": [
-        "kiggans"
-      ],
-      "tags": [],
-      "official": false
     }
   ]
 }
