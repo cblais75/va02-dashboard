@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-18T14:03:30.106Z",
+  "updated_at": "2026-10-20T15:10:03.636Z",
   "cycle": 2026,
   "source": "Federal Election Commission, OpenFEC API (api.open.fec.gov)",
   "source_url": "https://www.fec.gov/data/elections/house/VA/02/2026/",
@@ -60,6 +60,188 @@
     }
   ],
   "forty_eight_hour_reports": [
+    {
+      "candidate": "kiggans",
+      "committee_id": "C00776120",
+      "file_number": 2031319,
+      "form_type": "F6N",
+      "filed": "2026-10-19",
+      "total": 1000,
+      "contributions": [
+        {
+          "contributor": "\"\"",
+          "entity_type": "IND",
+          "city": "\"RICHMOND\"",
+          "state": "VA",
+          "employer": "\"SELF EMPLOYED\"",
+          "occupation": "\"ATTORNEY\"",
+          "date": "2026-10-18",
+          "amount": 1000
+        }
+      ],
+      "url": "https://docquery.fec.gov/cgi-bin/forms/C00776120/2031319/"
+    },
+    {
+      "candidate": "luria",
+      "committee_id": "C00926303",
+      "file_number": 2031207,
+      "form_type": "F6N",
+      "filed": "2026-10-19",
+      "total": 32235.75,
+      "contributions": [
+        {
+          "contributor": "Jennifer Bonney",
+          "entity_type": "IND",
+          "city": "Washington",
+          "state": "DC",
+          "employer": "Not Employed",
+          "occupation": "Not Employed",
+          "date": "2026-10-18",
+          "amount": 3500
+        },
+        {
+          "contributor": "Helen Abadzi",
+          "entity_type": "IND",
+          "city": "Alexandria",
+          "state": "VA",
+          "employer": "Not Employed",
+          "occupation": "Not Employed",
+          "date": "2026-10-18",
+          "amount": 3496
+        },
+        {
+          "contributor": "Lisa Alumkal",
+          "entity_type": "IND",
+          "city": "Oakland",
+          "state": "CA",
+          "employer": "Not Employed",
+          "occupation": "Not Employed",
+          "date": "2026-10-18",
+          "amount": 3496
+        },
+        {
+          "contributor": "Carson Gleberman",
+          "entity_type": "IND",
+          "city": "New York",
+          "state": "NY",
+          "employer": "Self Employed",
+          "occupation": "Producer",
+          "date": "2026-10-18",
+          "amount": 2693.75
+        },
+        {
+          "contributor": "Linda Daitz",
+          "entity_type": "IND",
+          "city": "New York",
+          "state": "NY",
+          "employer": "Not Employed",
+          "occupation": "Not Employed",
+          "date": "2026-10-18",
+          "amount": 1000
+        },
+        {
+          "contributor": "Samuel Meekins",
+          "entity_type": "IND",
+          "city": "Virginia Beach",
+          "state": "VA",
+          "employer": "ESG Companies",
+          "occupation": "Attorney",
+          "date": "2026-10-18",
+          "amount": 1000
+        },
+        {
+          "contributor": "Shoma Haque",
+          "entity_type": "IND",
+          "city": "Boston",
+          "state": "MA",
+          "employer": "Self Employed",
+          "occupation": "Landscape Designer",
+          "date": "2026-10-17",
+          "amount": 3500
+        },
+        {
+          "contributor": "Joshua Schultz",
+          "entity_type": "IND",
+          "city": "Boston",
+          "state": "MA",
+          "employer": "Arsenal Capital",
+          "occupation": "Operating Partner",
+          "date": "2026-10-17",
+          "amount": 3500
+        },
+        {
+          "contributor": "Patricia Woodard",
+          "entity_type": "IND",
+          "city": "Charlottesville",
+          "state": "VA",
+          "employer": "Not Employed",
+          "occupation": "Not Employed",
+          "date": "2026-10-17",
+          "amount": 2500
+        },
+        {
+          "contributor": "Jeffrey Richards",
+          "entity_type": "IND",
+          "city": "Denver",
+          "state": "CO",
+          "employer": "Not Employed",
+          "occupation": "Not Employed",
+          "date": "2026-10-17",
+          "amount": 2000
+        },
+        {
+          "contributor": "Angelica Light",
+          "entity_type": "IND",
+          "city": "Charlottesville",
+          "state": "VA",
+          "employer": "Not Employed",
+          "occupation": "Not Employed",
+          "date": "2026-10-17",
+          "amount": 1300
+        },
+        {
+          "contributor": "Michael Dick",
+          "entity_type": "IND",
+          "city": "Earlysville",
+          "state": "VA",
+          "employer": "Not Employed",
+          "occupation": "Not Employed",
+          "date": "2026-10-17",
+          "amount": 1250
+        },
+        {
+          "contributor": "Cathleen Noland",
+          "entity_type": "IND",
+          "city": "New York",
+          "state": "NY",
+          "employer": "Not Employed",
+          "occupation": "Not Employed",
+          "date": "2026-10-17",
+          "amount": 1000
+        },
+        {
+          "contributor": "Barbara Steakley",
+          "entity_type": "IND",
+          "city": "Alexandria",
+          "state": "VA",
+          "employer": "Not Employed",
+          "occupation": "Not Employed",
+          "date": "2026-10-17",
+          "amount": 1000
+        },
+        {
+          "contributor": "Eugene Stoltzfus",
+          "entity_type": "IND",
+          "city": "Keezletown",
+          "state": "VA",
+          "employer": "Eugene Stoltzfus Architects",
+          "occupation": "Architect",
+          "date": "2026-10-17",
+          "amount": 1000
+        }
+      ],
+      "url": "https://docquery.fec.gov/cgi-bin/forms/C00926303/2031207/"
+    },
     {
       "candidate": "luria",
       "committee_id": "C00926303",
@@ -1988,7 +2170,7 @@
       },
       "luria": {
         "support": 18052.38,
-        "oppose": 0
+        "oppose": 34466.2
       }
     },
     "groups": [
@@ -1998,6 +2180,14 @@
         "candidate": "kiggans",
         "support_oppose": "support",
         "total": 90978.24,
+        "count": 2
+      },
+      {
+        "committee_id": "C00737411",
+        "committee_name": "THE GOVERNING MAJORITY FUND",
+        "candidate": "luria",
+        "support_oppose": "oppose",
+        "total": 34466.2,
         "count": 2
       },
       {
