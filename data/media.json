@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-20T17:22:46.410Z",
+  "updated_at": "2026-10-21T17:25:21.071Z",
   "source": "Google News RSS search",
   "queries": [
     "\"Jen Kiggans\"",
@@ -19,6 +19,34 @@
     "kiggans.house.gov"
   ],
   "items": [
+    {
+      "id": "CBMijgFBVV95cUxNajBJX3dkWmpEOHliYmdQQXIwdTRMeDlEVzRoYnBHcGVEYTg2d2hTWE5pS25vTFIwbnZxUlN2bEhpNkhOQlpkcDBqWW51QzA2SG5YVmxzT1R5STJxSW9VNW5RN0JhR3g4YURRS2w5SmJ0eU1FRXNwdm94dUJSU09LRjBMZ1gxa2Y3VGZRNEp3",
+      "headline": "How 3 Virginia races showcase the House battleground",
+      "outlet": "Roll Call",
+      "outlet_domain": "rollcall.com",
+      "local": false,
+      "official": false,
+      "date": "2026-10-20T22:42:35.000Z",
+      "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNajBJX3dkWmpEOHliYmdQQXIwdTRMeDlEVzRoYnBHcGVEYTg2d2hTWE5pS25vTFIwbnZxUlN2bEhpNkhOQlpkcDBqWW51QzA2SG5YVmxzT1R5STJxSW9VNW5RN0JhR3g4YURRS2w5SmJ0eU1FRXNwdm94dUJSU09LRjBMZ1gxa2Y3VGZRNEp3?oc=5",
+      "candidates": [
+        "luria"
+      ],
+      "tags": []
+    },
+    {
+      "id": "CBMipwFBVV95cUxQOGQtU0lrZ2w2ejVCX2tsM09BUHFIbkxwMkVaWmtDbXhBX0NteVdyV3htLVcxRVlGZDVrRFkxWWwyeURWZEVoUkRZYldXZ3pSMzZZQUtOMWlPRmFFZlNhYjRyRlBuY0lwQ1BGZjZXXzlEdkxKMUFYMGJ6RHM3Y0o4T2wxdkdJZWNneDZhQUc0ajhLVDNlMVlVSnJaa2g1SkdYWVBtQ3Buaw",
+      "headline": "Virginia Democrats Rally in Henrico Before Nov. 3 Election",
+      "outlet": "Hoodline",
+      "outlet_domain": "hoodline.com",
+      "local": false,
+      "official": false,
+      "date": "2026-10-20T20:58:04.000Z",
+      "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQOGQtU0lrZ2w2ejVCX2tsM09BUHFIbkxwMkVaWmtDbXhBX0NteVdyV3htLVcxRVlGZDVrRFkxWWwyeURWZEVoUkRZYldXZ3pSMzZZQUtOMWlPRmFFZlNhYjRyRlBuY0lwQ1BGZjZXXzlEdkxKMUFYMGJ6RHM3Y0o4T2wxdkdJZWNneDZhQUc0ajhLVDNlMVlVSnJaa2g1SkdYWVBtQ3Buaw?oc=5",
+      "candidates": [
+        "luria"
+      ],
+      "tags": []
+    },
     {
       "id": "CBMixwFBVV95cUxNRkF4TEgzT3Jvd21aZjZLZ0FYVlc4eVpFOGJxTXlZZUlZZ081RnljcTZ4QWxMeGtNTTZGSlllWmh6bDZoUEtBT1NnZFFjYW9XUk5Wcy1lNnhNLVl1dklkNjZSYUVHT1phNkZpemxNaXphQnRTazBZWG1seHY2c1dNUWw0dUR6cUZPRkpGY3NSb1VIdFJqY3pxeGFVc3F6MVNnREg3Ulg4ZnV5M0Nvek9UbkJ1eVI0Z2lTczRJRnJlRnItRW0tbF9B",
       "headline": "Economy, Iran put House seats in play in Virginia 2nd District race",
@@ -42,6 +70,20 @@
       "official": false,
       "date": "2026-10-20T17:03:01.000Z",
       "link": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxPZVRHRHViakZPbUl2N2RJcUlXVE1YZVlMTlhiTnNrN1lzNEZ3Zm5tU2M5UHlqb2F3Q0RNdmpIS0k5Y1Z4NTFzOWU3UnRtNEp3dzBoRmJ4UDMxY1RabWJibUVjbTZUWFkxUzhKR3hGRE9aWnZhUDNPd0sxZlNHZmVCeDdpMzZJWXVySVFwWWI3Y2ljWmRGMU9ycDRNSlE3Mk1NczZEam4tOWxZLU5CSFJJS3Jmei1Wcll3dlEzSjZTRmtkVUlOOFJRNzFMM1Rray0wWTZBUFhiUjJRYUd6bHZj?oc=5",
+      "candidates": [
+        "kiggans"
+      ],
+      "tags": []
+    },
+    {
+      "id": "CBMif0FVX3lxTE5kSW9QQ1NKdlNzS3BKOENYcUJLRGdRbjl1M3FPcGE2ZUFYYzljZVl0VjhGN1JjUUloZTlMRVMwTDdyVDBrUEp0dW1HWTZ6MU16WDREb1NjQUU1cjRFeFg1OHBpU09wNkNCa0Jia3preDl4cV9rZ08yQVFFU3FWckU",
+      "headline": "Military voters, Iran war focus of Kiggans-Luria Virginia rematch",
+      "outlet": "AOL.com",
+      "outlet_domain": "aol.com",
+      "local": false,
+      "official": false,
+      "date": "2026-10-20T17:01:27.000Z",
+      "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5kSW9QQ1NKdlNzS3BKOENYcUJLRGdRbjl1M3FPcGE2ZUFYYzljZVl0VjhGN1JjUUloZTlMRVMwTDdyVDBrUEp0dW1HWTZ6MU16WDREb1NjQUU1cjRFeFg1OHBpU09wNkNCa0Jia3preDl4cV9rZ08yQVFFU3FWckU?oc=5",
       "candidates": [
         "kiggans"
       ],
@@ -667,6 +709,20 @@
       "link": "https://news.google.com/rss/articles/CBMilgJBVV95cUxQWm4zQ0huMFBic1YyVzZVQzNCUjBZNGtkdkZDWUVaX19lZ0lxOFZZUFRqa0tvY1hEUDBqYzFuVnA5RjR1V3lDUEhaYzJKUDZSbGc3VjNkak52OERrdkxZYW1DN3VWd3pwWGFrYmlTamlEM1VmVHppVlVsMFJkS2NvendlRFVTdy1rd0M1NHREbENQQU9fTUhsc25ZVXItUVJNX0tCYm1pMXVvZ3lZRjhMeTA5dzk5RjFadktPeUphS3ZFLUhBVEtzalRBSXgzSUgtd2dTaENhbTVpR3dueUVvdnZCdV92OE9FUE0wVWRlZVUzdzZEeENraldFSWViakxzNF9ocnRsNElabURld3JvdXNVN3JuQQ?oc=5",
       "candidates": [
         "kiggans"
+      ],
+      "tags": []
+    },
+    {
+      "id": "CBMi1gFBVV95cUxQSVJCRDFRSWJmUTJHSi1TX3NyM20ydTRNZF9uWTY1QWhMdmwxUHdpQ3pJTS1LSGU1NzhwOFh0dDVIRkQyS1YxS1JOLUpZWUJpcHBNQnFTUFNOcUxhZlVKMFVWV04xVmtoVUo1dU0xT0lvb0diUWtDcUQ4UlZNclZsV0Z6VlU2d3lJQ1BPYk1ENF9rNTdOVlFkQ1ZFQWVkZUc3NlBiV004aHZ1TUVRQ0lGdUwzbjJPN3EzQndCWUh1bkZOREY0bFY0Wl9qUkdGcWlYVVY0dGVR0gHbAUFVX3lxTE8wXzZFNjJGTkRqeWFDYlY1elZLdzdmQXBoRW85MV91WWJjM3dIdl8wamZKem5jcUhQM3F2UG5xcEQ2dk9YRjFBVXdBUHdLeEY0SmhGU0VpYjFrRjhCb2tVTVBfbll4bUl1a3hzRHlhTVJ0Y3ZQSzU1bHh2MU1Yb1pOWjJzNDA5WlZPTjFkOFBEdWhUZ3ZRdG5xR3hDRTdwWUlURWZUVFJpYUNkdXd4WFZkRjZiU3h5eU82dFBfVm9nNElTZGZJZG9lOVBwVzdMR3d6cEhpMGZXYmFlRQ",
+      "headline": "With anger spreading over Iran war, Democrats hope to flip Republican seats with veterans’ help",
+      "outlet": "MyStateline",
+      "outlet_domain": "mystateline.com",
+      "local": false,
+      "official": false,
+      "date": "2026-10-15T04:02:36.000Z",
+      "link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxQSVJCRDFRSWJmUTJHSi1TX3NyM20ydTRNZF9uWTY1QWhMdmwxUHdpQ3pJTS1LSGU1NzhwOFh0dDVIRkQyS1YxS1JOLUpZWUJpcHBNQnFTUFNOcUxhZlVKMFVWV04xVmtoVUo1dU0xT0lvb0diUWtDcUQ4UlZNclZsV0Z6VlU2d3lJQ1BPYk1ENF9rNTdOVlFkQ1ZFQWVkZUc3NlBiV004aHZ1TUVRQ0lGdUwzbjJPN3EzQndCWUh1bkZOREY0bFY0Wl9qUkdGcWlYVVY0dGVR0gHbAUFVX3lxTE8wXzZFNjJGTkRqeWFDYlY1elZLdzdmQXBoRW85MV91WWJjM3dIdl8wamZKem5jcUhQM3F2UG5xcEQ2dk9YRjFBVXdBUHdLeEY0SmhGU0VpYjFrRjhCb2tVTVBfbll4bUl1a3hzRHlhTVJ0Y3ZQSzU1bHh2MU1Yb1pOWjJzNDA5WlZPTjFkOFBEdWhUZ3ZRdG5xR3hDRTdwWUlURWZUVFJpYUNkdXd4WFZkRjZiU3h5eU82dFBfVm9nNElTZGZJZG9lOVBwVzdMR3d6cEhpMGZXYmFlRQ?oc=5",
+      "candidates": [
+        "luria"
       ],
       "tags": []
     },
@@ -1578,6 +1634,20 @@
       "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNOWUxTENyRWVpb3Z6Yjlyb0pCeVp5UlNtWXBCRHl4dnNfODM4c21OLWdrN3JLbnVOS2J4b0owTzVuLU5oZzNXY0c5WlJYLXVwUGR4ZFZYRk1NczI3NzBPTXktby1pRk1wUjNjdjI1YTh2eXpMazRQemVnSFN6eGhGQ0pDdkxjVmJuOE9rN1FXS2VhTTQzS01pRUtJOEpDNS0zLU1kcFl1dDZWam8?oc=5",
       "candidates": [
         "luria"
+      ],
+      "tags": []
+    },
+    {
+      "id": "CBMi0AFBVV95cUxOS0xrZWlVSWM5X0V5QWJfX3h1cEttX2hCb1VJNkE3blcwTFk1UXZPM3BmZ2lpRm5JY0kwRUM2dnlxYS1Cczh5TXZ5b2c0M3Mwc2c5djVyLV9lOVlWbmQ4ZzdTam1WazYwU3VTdks0UEowVXJuMkMtU1ViQnBodHJ5R3hwNzBFbEY3aFZURGh0akVGazF0Mlg5YWdzM2pURjQ2MUNxMGFiUl92alN2bVdJSVpoanNmRVBlTzlYUjVtMHEwUEZaOHFuYi1ybk42WkVm",
+      "headline": "Kiggans faces questions over financial industry money and consumer protection votes",
+      "outlet": "WHRO",
+      "outlet_domain": "whro.org",
+      "local": true,
+      "official": false,
+      "date": "2026-10-01T13:00:00.000Z",
+      "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxOS0xrZWlVSWM5X0V5QWJfX3h1cEttX2hCb1VJNkE3blcwTFk1UXZPM3BmZ2lpRm5JY0kwRUM2dnlxYS1Cczh5TXZ5b2c0M3Mwc2c5djVyLV9lOVlWbmQ4ZzdTam1WazYwU3VTdks0UEowVXJuMkMtU1ViQnBodHJ5R3hwNzBFbEY3aFZURGh0akVGazF0Mlg5YWdzM2pURjQ2MUNxMGFiUl92alN2bVdJSVpoanNmRVBlTzlYUjVtMHEwUEZaOHFuYi1ybk42WkVm?oc=5",
+      "candidates": [
+        "kiggans"
       ],
       "tags": []
     },
