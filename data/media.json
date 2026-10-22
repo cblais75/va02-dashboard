@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-21T17:25:21.071Z",
+  "updated_at": "2026-10-22T17:22:53.654Z",
   "source": "Google News RSS search",
   "queries": [
     "\"Jen Kiggans\"",
@@ -19,6 +19,34 @@
     "kiggans.house.gov"
   ],
   "items": [
+    {
+      "id": "CBMinwFBVV95cUxNSDVRSVdSZU9aM0hRbjB5ejZfZlFzMGdtOUJzdjYwSWNJMjBZQ3ZTT08tWGc1OVE5T0cyLWlwUHZFZFI5a0FfRl9WRXlQaXkyWFZuNWRmVTkzbmp6TTUyejF2OWllbDNrTV96Y3NySC1GazNZelVlQ3U0X0JlQXJjSElmRk9fREk5NFB1MWp3YWl4dGs4OWtETFRSZWlCVWs",
+      "headline": "EXCLUSIVE: Washington Reporter fact check cited in tossup race’s ad",
+      "outlet": "Washington Reporter",
+      "outlet_domain": "washingtonreporter.news",
+      "local": false,
+      "official": false,
+      "date": "2026-10-21T15:35:19.000Z",
+      "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNSDVRSVdSZU9aM0hRbjB5ejZfZlFzMGdtOUJzdjYwSWNJMjBZQ3ZTT08tWGc1OVE5T0cyLWlwUHZFZFI5a0FfRl9WRXlQaXkyWFZuNWRmVTkzbmp6TTUyejF2OWllbDNrTV96Y3NySC1GazNZelVlQ3U0X0JlQXJjSElmRk9fREk5NFB1MWp3YWl4dGs4OWtETFRSZWlCVWs?oc=5",
+      "candidates": [
+        "luria"
+      ],
+      "tags": []
+    },
+    {
+      "id": "CBMizAFBVV95cUxOdlR6TndlVjNjQWdWcWJlV2NoZGNad0NUUzdIVkVZN1ROOEZTdUwxQlBHWHZKM1N0eWsxTURfN1IzT043RnBTOVZsN3E1WlNPakVLN3BfSk92aWc0U0Y2NEVwOG1PbTJ0ZGs1bVZ2a1RTVVFhZjFLUHBNSnR3SGFXT203QUFJaDkzZ2VMaFQwcWxwVmZVQ3VqOU9qSjMxd0ZHOGtQQW9yWnlsa2hxT1lTZnZibTNES1BRTjZiX2gzS2UxVzBUc0V1dlRKcTI",
+      "headline": "Where the candidates in three competitive Virginia US House races stand on the issues",
+      "outlet": "The Virginia Independent",
+      "outlet_domain": "virginiaindependentnews.com",
+      "local": false,
+      "official": false,
+      "date": "2026-10-21T14:28:13.000Z",
+      "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxOdlR6TndlVjNjQWdWcWJlV2NoZGNad0NUUzdIVkVZN1ROOEZTdUwxQlBHWHZKM1N0eWsxTURfN1IzT043RnBTOVZsN3E1WlNPakVLN3BfSk92aWc0U0Y2NEVwOG1PbTJ0ZGs1bVZ2a1RTVVFhZjFLUHBNSnR3SGFXT203QUFJaDkzZ2VMaFQwcWxwVmZVQ3VqOU9qSjMxd0ZHOGtQQW9yWnlsa2hxT1lTZnZibTNES1BRTjZiX2gzS2UxVzBUc0V1dlRKcTI?oc=5",
+      "candidates": [
+        "luria"
+      ],
+      "tags": []
+    },
     {
       "id": "CBMijgFBVV95cUxNajBJX3dkWmpEOHliYmdQQXIwdTRMeDlEVzRoYnBHcGVEYTg2d2hTWE5pS25vTFIwbnZxUlN2bEhpNkhOQlpkcDBqWW51QzA2SG5YVmxzT1R5STJxSW9VNW5RN0JhR3g4YURRS2w5SmJ0eU1FRXNwdm94dUJSU09LRjBMZ1gxa2Y3VGZRNEp3",
       "headline": "How 3 Virginia races showcase the House battleground",
@@ -71,7 +99,8 @@
       "date": "2026-10-20T17:03:01.000Z",
       "link": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxPZVRHRHViakZPbUl2N2RJcUlXVE1YZVlMTlhiTnNrN1lzNEZ3Zm5tU2M5UHlqb2F3Q0RNdmpIS0k5Y1Z4NTFzOWU3UnRtNEp3dzBoRmJ4UDMxY1RabWJibUVjbTZUWFkxUzhKR3hGRE9aWnZhUDNPd0sxZlNHZmVCeDdpMzZJWXVySVFwWWI3Y2ljWmRGMU9ycDRNSlE3Mk1NczZEam4tOWxZLU5CSFJJS3Jmei1Wcll3dlEzSjZTRmtkVUlOOFJRNzFMM1Rray0wWTZBUFhiUjJRYUd6bHZj?oc=5",
       "candidates": [
-        "kiggans"
+        "kiggans",
+        "luria"
       ],
       "tags": []
     },
@@ -170,7 +199,8 @@
       "date": "2026-10-20T14:37:29.000Z",
       "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPSGV0OUduakhuTW1tLTI0cUkzQi1nbllHbjdKeUV3X0RLRDl1Zk1vOFlFV2xWb1liZTVhNll5cVFpamR4NENEOE5KeFpmSVo5bWhGNl9mQm9TN3NnQXE2OWNRSk9kNGNrWVhjOEZNczdUZWdwa1NfcDNCbDMzWkhBeTdNVnYtS195QzFGZ0NHNnlrdFRu?oc=5",
       "candidates": [
-        "kiggans"
+        "kiggans",
+        "luria"
       ],
       "tags": []
     },
@@ -241,6 +271,20 @@
       "link": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxPS1ViSkpnMzBpX3hiZ2lqN2lxNERRVk9MZlRBd013N3JBMWhUeTY4Sy02Q0N4R2FIZi1ab1B2WGt4Vm5RSDlwNEM5RWFteVdUUTNSNUFzRHlVV3c1ZnQ4NG5zcTNNVXNFSm4zN0RlcXNwTWw0bHZSeWV2akQ3M2JGMlY2SU00WjI3R1JpZ0xxR2JYaXo5d0pydGlSQlVObGdIc0ptSFBFNDVNb3hmeFZhVjZVRWpKeUl4dTVCc19pVkVNUTJCR3dzZXM3RmtGZTF2XzhuVFIxX3ozRnAtZ2c?oc=5",
       "candidates": [
         "kiggans",
+        "luria"
+      ],
+      "tags": []
+    },
+    {
+      "id": "CBMi-wFBVV95cUxON3RTcWhacHd0dlhRdmVsWHE5R1VJSV9EbmRYcV9FMlhLWVFmTFNwN0tIZy15TDViUTgxNUM2N09nSXFWMDlEVGkwUkI3b0QxSlRjZzQySFNWT1pHRE9zTi1WQ1Q1WmwxUUM0XzFFYTNybmpxblAzSG12LWVqdlFIbUxMa0g3eGJ6cnZTcXRJWjRwMUZicUhldHlZeHpuNUM3Y0hVNXFpTVQ0SWYxRDlCQm5lWkhNY2xaY0J3UVU3U3hsNmFSVEZiZC1HOHVTWG9kVlgweUlkeVZtcmdnTDJsU1FnOTVFZDhiYVhmNS1EOXNRQnEzZElpdGY3NA",
+      "headline": "With anger spreading over Iran war, Democrats hope to flip Republican seats with veterans' help",
+      "outlet": "Japan Today",
+      "outlet_domain": "japantoday.com",
+      "local": false,
+      "official": false,
+      "date": "2026-10-17T20:06:00.000Z",
+      "link": "https://news.google.com/rss/articles/CBMi-wFBVV95cUxON3RTcWhacHd0dlhRdmVsWHE5R1VJSV9EbmRYcV9FMlhLWVFmTFNwN0tIZy15TDViUTgxNUM2N09nSXFWMDlEVGkwUkI3b0QxSlRjZzQySFNWT1pHRE9zTi1WQ1Q1WmwxUUM0XzFFYTNybmpxblAzSG12LWVqdlFIbUxMa0g3eGJ6cnZTcXRJWjRwMUZicUhldHlZeHpuNUM3Y0hVNXFpTVQ0SWYxRDlCQm5lWkhNY2xaY0J3UVU3U3hsNmFSVEZiZC1HOHVTWG9kVlgweUlkeVZtcmdnTDJsU1FnOTVFZDhiYVhmNS1EOXNRQnEzZElpdGY3NA?oc=5",
+      "candidates": [
         "luria"
       ],
       "tags": []
@@ -369,6 +413,20 @@
       "official": false,
       "date": "2026-10-16T01:35:00.000Z",
       "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTE53bzF6Yk9OVURNZjA1V3JXYkdHMm4tcXdqMHBTU1AtSjNtblFPdUxmaEo5WHBQN1BzX0wzc3hGWFV1WVhRLV85UkJkZkZ4Z2Z5dUl4VkowS1M4TVRXTnZoUzEyV1hRbEtka0VCTFJJYUdOQ1lzdXJzamdR?oc=5",
+      "candidates": [
+        "kiggans"
+      ],
+      "tags": []
+    },
+    {
+      "id": "CBMisAFBVV95cUxOTW9CR1VDVTc1QXgzOVZmNXBfRWs2WUdBMHJnNTNXQU5VcFVSbjBxV3BiZjRwX3hGcEVnUUpFTXhlRHJpQnA0ZW5iRUduRXY4WFcxNW9rY0hiNzBwVmF1cXJ4SElIMURzNi1BVEhuY0tyc2RRNzYxSWJNM0lNeWUxRGtaYkFuY1NzQW9TdkZrSkJTbDVVS3FWVGQzSG43TkFmVVZURVU4UUUwdGlNUzhPUg",
+      "headline": "Kiggans Hosts USDA Leadership to Highlight Aquaculture, Hold Industry Roundtable",
+      "outlet": "Morning Ag Clips",
+      "outlet_domain": "morningagclips.com",
+      "local": false,
+      "official": false,
+      "date": "2026-10-16T00:40:48.000Z",
+      "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOTW9CR1VDVTc1QXgzOVZmNXBfRWs2WUdBMHJnNTNXQU5VcFVSbjBxV3BiZjRwX3hGcEVnUUpFTXhlRHJpQnA0ZW5iRUduRXY4WFcxNW9rY0hiNzBwVmF1cXJ4SElIMURzNi1BVEhuY0tyc2RRNzYxSWJNM0lNeWUxRGtaYkFuY1NzQW9TdkZrSkJTbDVVS3FWVGQzSG43TkFmVVZURVU4UUUwdGlNUzhPUg?oc=5",
       "candidates": [
         "kiggans"
       ],
@@ -738,6 +796,20 @@
       "candidates": [
         "kiggans",
         "luria"
+      ],
+      "tags": []
+    },
+    {
+      "id": "CBMi2gFBVV95cUxQRlZoWnBoVTJobmRUaXdoS3JYSklEdWhwUEJUdjVEdE9MdVlUS0dlTWh1dnNkRHpreWFmVHVteXVROFkydWItSFdiYms4Y1pYTktRTDYwNzM5YWV5dnVadk1xRUVmWUdUQTNMQ3BzUFByckVUeVZ1TEhIbU1CWWNiQWROWk42VWtRams5SDZ3YllFbnhWQkdlNWtIaWdZQ0FySEpqLUc5YlFmN09pZEt1elR0a1RXcUhSejgxVm5IWnFSWHpoTkk3ZmJQLVpLRzV6LUR2LVdBbUpudw",
+      "headline": "With anger spreading over Iran war, Democrats hope to flip Republican seats with veterans' help",
+      "outlet": "WPLG Local 10",
+      "outlet_domain": "local10.com",
+      "local": false,
+      "official": false,
+      "date": "2026-10-15T04:02:35.000Z",
+      "link": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxQRlZoWnBoVTJobmRUaXdoS3JYSklEdWhwUEJUdjVEdE9MdVlUS0dlTWh1dnNkRHpreWFmVHVteXVROFkydWItSFdiYms4Y1pYTktRTDYwNzM5YWV5dnVadk1xRUVmWUdUQTNMQ3BzUFByckVUeVZ1TEhIbU1CWWNiQWROWk42VWtRams5SDZ3YllFbnhWQkdlNWtIaWdZQ0FySEpqLUc5YlFmN09pZEt1elR0a1RXcUhSejgxVm5IWnFSWHpoTkk3ZmJQLVpLRzV6LUR2LVdBbUpudw?oc=5",
+      "candidates": [
+        "kiggans"
       ],
       "tags": []
     },
@@ -1940,6 +2012,20 @@
       ]
     },
     {
+      "id": "CBMi2gFBVV95cUxPUGxySm0zb1k3VG1rMTIwd3FwbEVWSzlYY2FyMkUwa3VFaHVOaUlQaHZqRll6TGZKMC1pNkFabV9TRGs1STRLUVUxZVp1QmNUYkhKUE9jWE1Kd19saWRJQm5ISU1BZlk0VXZ4MEZpS1RlZ1Y1RUpRdGFHeDFFbi1DclB1bmVfc0NyWjQ1aGs0ZUtmN2ROYXZRbnllWkFncGxzNXg5V3dmVHZ5cWpsN0Z0aklOZG4xdWViYXkyLXBkVkhxTzZuR3V0clhTdWRPTHQtMWNHb2d2N3hmQQ",
+      "headline": "Luria and Kiggans rematch in Virginia’s 2nd Congressional District among most watched races in nation",
+      "outlet": "WHRO",
+      "outlet_domain": "whro.org",
+      "local": true,
+      "official": false,
+      "date": "2026-09-28T07:00:00.000Z",
+      "link": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxPUGxySm0zb1k3VG1rMTIwd3FwbEVWSzlYY2FyMkUwa3VFaHVOaUlQaHZqRll6TGZKMC1pNkFabV9TRGs1STRLUVUxZVp1QmNUYkhKUE9jWE1Kd19saWRJQm5ISU1BZlk0VXZ4MEZpS1RlZ1Y1RUpRdGFHeDFFbi1DclB1bmVfc0NyWjQ1aGs0ZUtmN2ROYXZRbnllWkFncGxzNXg5V3dmVHZ5cWpsN0Z0aklOZG4xdWViYXkyLXBkVkhxTzZuR3V0clhTdWRPTHQtMWNHb2d2N3hmQQ?oc=5",
+      "candidates": [
+        "luria"
+      ],
+      "tags": []
+    },
+    {
       "id": "CBMiwgFBVV95cUxPZEtlWXV4VXlXQmxxbjZZSGZEaXhDaXgtVWVlRnRtcC0zaUE1cjNBc1Y1SGxiRzdQZ0h6ck0zQkc3Y1VFdXhKYUJPb0N4c3E5WkFnX0lMZUV4SGhLMHZXNHpKbGp5Y3hTbkNuRm1vamxQYkJsTFNfZkdWd3EtblFiNHRpRjVNQ0NXSzFBUGZPRk10VkgydGN4SXlPWS11UmR2R04zYzE5WllNV0dDUGFwSFFmS0w4eXpWTGYzTEZMOHJidw",
       "headline": "NEW: Millionaire Jen Kiggans Has Nearly Tripled Her Net Worth Since Joining Congress",
       "outlet": "thehousemajoritypac.com",
@@ -2358,20 +2444,6 @@
       ],
       "tags": [],
       "official": false
-    },
-    {
-      "id": "CBMihwFBVV95cUxOaW5JNVQ2MDFELUhFdXJ0Q2hKTkN3dTMwcWROOXozLWhuTW53eGFjYkZPRThwNHQxUzNRb2s0Tkd4eHg1MHZxc0o4Z1loa1lCdmVvMWY1WUpyaDRqdTF4VENpWnBFZUVwU3NSVmZVUkt6TUVWazNwdEtCZjRJSmxRLXVUdWRSWms",
-      "headline": "Verify: Claims about Elaine Luria's net worth",
-      "outlet": "Yahoo",
-      "outlet_domain": "yahoo.com",
-      "local": false,
-      "official": false,
-      "date": "2026-09-22T07:00:00.000Z",
-      "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOaW5JNVQ2MDFELUhFdXJ0Q2hKTkN3dTMwcWROOXozLWhuTW53eGFjYkZPRThwNHQxUzNRb2s0Tkd4eHg1MHZxc0o4Z1loa1lCdmVvMWY1WUpyaDRqdTF4VENpWnBFZUVwU3NSVmZVUkt6TUVWazNwdEtCZjRJSmxRLXVUdWRSWms?oc=5",
-      "candidates": [
-        "luria"
-      ],
-      "tags": []
     }
   ]
 }
