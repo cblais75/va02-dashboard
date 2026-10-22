@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-20T15:10:03.636Z",
+  "updated_at": "2026-10-22T15:21:06.388Z",
   "cycle": 2026,
   "source": "Federal Election Commission, OpenFEC API (api.open.fec.gov)",
   "source_url": "https://www.fec.gov/data/elections/house/VA/02/2026/",
@@ -60,6 +60,648 @@
     }
   ],
   "forty_eight_hour_reports": [
+    {
+      "candidate": "kiggans",
+      "committee_id": "C00776120",
+      "file_number": 2035242,
+      "form_type": "F6N",
+      "filed": "2026-10-21",
+      "total": 53541.02,
+      "contributions": [
+        {
+          "contributor": "\"NATIONAL AUTOMOBILE DEALERS ASSOCIATION PAC\"",
+          "entity_type": "PAC",
+          "city": "\"WASHINGTON\"",
+          "state": "DC",
+          "employer": "\"\"",
+          "occupation": "\"\"",
+          "date": "2026-10-20",
+          "amount": 5000
+        },
+        {
+          "contributor": "\"BRINGING REPUBLICAN EXCELLENCE TO TOWN PAC\"",
+          "entity_type": "PAC",
+          "city": "\"LOUISVILLE\"",
+          "state": "KY",
+          "employer": "\"\"",
+          "occupation": "\"\"",
+          "date": "2026-10-20",
+          "amount": 5000
+        },
+        {
+          "contributor": "\"REPUBLICAN MAINSTREET PARTNERSHIP PAC\"",
+          "entity_type": "PAC",
+          "city": "\"WASHINGTON\"",
+          "state": "DC",
+          "employer": "\"\"",
+          "occupation": "\"\"",
+          "date": "2026-10-20",
+          "amount": 4000
+        },
+        {
+          "contributor": "\"\"",
+          "entity_type": "IND",
+          "city": "\"VIRGINIA BEACH\"",
+          "state": "VA",
+          "employer": "\"HOFFMAN BEVERAGE CO\"",
+          "occupation": "\"VICE PRESIDENT\"",
+          "date": "2026-10-20",
+          "amount": 3500
+        },
+        {
+          "contributor": "\"\"",
+          "entity_type": "IND",
+          "city": "\"BOCA RATON\"",
+          "state": "FL",
+          "employer": "\"RETIRED\"",
+          "occupation": "\"RETIRED\"",
+          "date": "2026-10-20",
+          "amount": 3500
+        },
+        {
+          "contributor": "\"REPUBLICAN MAINSTREET PARTNERSHIP PAC\"",
+          "entity_type": "PAC",
+          "city": "\"WASHINGTON\"",
+          "state": "DC",
+          "employer": "\"\"",
+          "occupation": "\"\"",
+          "date": "2026-10-20",
+          "amount": 2500
+        },
+        {
+          "contributor": "\"\"",
+          "entity_type": "IND",
+          "city": "\"VIRGINIA BEACH\"",
+          "state": "VA",
+          "employer": "\"HERCULES REAL ESTATE SERVICES\"",
+          "occupation": "\"OWNER\"",
+          "date": "2026-10-20",
+          "amount": 2500
+        },
+        {
+          "contributor": "\"\"",
+          "entity_type": "IND",
+          "city": "\"VIENNA\"",
+          "state": "VA",
+          "employer": "\"SELF EMPLOYED\"",
+          "occupation": "\"AUTO DEALER\"",
+          "date": "2026-10-20",
+          "amount": 2500
+        },
+        {
+          "contributor": "\"\"",
+          "entity_type": "IND",
+          "city": "\"OLD WESTBURY\"",
+          "state": "NY",
+          "employer": "\" BOLLA OIL CORP\"",
+          "occupation": "\" CEO\"",
+          "date": "2026-10-20",
+          "amount": 2500
+        },
+        {
+          "contributor": "\"\"",
+          "entity_type": "IND",
+          "city": "\"NEW YORK\"",
+          "state": "NY",
+          "employer": "\"BLACKSTONE\"",
+          "occupation": "\"FINANCE\"",
+          "date": "2026-10-20",
+          "amount": 2000
+        },
+        {
+          "contributor": "\"\"",
+          "entity_type": "IND",
+          "city": "\"VIRGINIA BEACH\"",
+          "state": "VA",
+          "employer": "\"RETIRED \"",
+          "occupation": "\"RETIRED \"",
+          "date": "2026-10-20",
+          "amount": 1500
+        },
+        {
+          "contributor": "\"\"",
+          "entity_type": "IND",
+          "city": "\"ALEXANDRIA\"",
+          "state": "VA",
+          "employer": "\"BGR GROUP\"",
+          "occupation": "\"CONSULTANT\"",
+          "date": "2026-10-20",
+          "amount": 1500
+        },
+        {
+          "contributor": "\"\"",
+          "entity_type": "IND",
+          "city": "\"VIRGINIA BEACH\"",
+          "state": "VA",
+          "employer": "\"MERRILL LYNCH\"",
+          "occupation": "\"FINANCIAL ADVISOR\"",
+          "date": "2026-10-20",
+          "amount": 1041.02
+        },
+        {
+          "contributor": "\"\"",
+          "entity_type": "IND",
+          "city": "\"ELKINS PARK\"",
+          "state": "PA",
+          "employer": "\"RYDAL VENTURES, LLC\"",
+          "occupation": "\"EXECUTIVE\"",
+          "date": "2026-10-20",
+          "amount": 1000
+        },
+        {
+          "contributor": "\"\"",
+          "entity_type": "IND",
+          "city": "\"CHESAPEAKE\"",
+          "state": "VA",
+          "employer": "\"BEAZLEY FOUNDATION, INC.\"",
+          "occupation": "\"PRESIDENT / CEO\"",
+          "date": "2026-10-20",
+          "amount": 1000
+        },
+        {
+          "contributor": "\"\"",
+          "entity_type": "IND",
+          "city": "\"ANNAPOLIS\"",
+          "state": "MD",
+          "employer": "\"THE STANTON PARK GROUP\"",
+          "occupation": "\"CONSULTANT\"",
+          "date": "2026-10-20",
+          "amount": 1000
+        },
+        {
+          "contributor": "\"\"",
+          "entity_type": "IND",
+          "city": "\"WEBB\"",
+          "state": "AL",
+          "employer": "\"QUALICO STEEL CO., INC.\"",
+          "occupation": "\"PRESIDENT\"",
+          "date": "2026-10-20",
+          "amount": 1000
+        },
+        {
+          "contributor": "\"\"",
+          "entity_type": "IND",
+          "city": "\"VIRGINIA BEACH\"",
+          "state": "VA",
+          "employer": "\"FAGGERT & FRIEDEN\"",
+          "occupation": "\"ATTORNEY\"",
+          "date": "2026-10-20",
+          "amount": 1000
+        },
+        {
+          "contributor": "\"\"",
+          "entity_type": "IND",
+          "city": "\"VIRGINIA BEACH\"",
+          "state": "VA",
+          "employer": "\"LITTLE NECK TOWERS\"",
+          "occupation": "\"OWNER\"",
+          "date": "2026-10-20",
+          "amount": 1000
+        },
+        {
+          "contributor": "\"\"",
+          "entity_type": "IND",
+          "city": "\"HENRICO\"",
+          "state": "VA",
+          "employer": "\"SELF EMPLOYED\"",
+          "occupation": "\"CONSULTANT\"",
+          "date": "2026-10-20",
+          "amount": 1000
+        },
+        {
+          "contributor": "\"\"",
+          "entity_type": "IND",
+          "city": "\"VIRGINIA BEACH\"",
+          "state": "VA",
+          "employer": "\"COLONNA'S SHIPYARD\"",
+          "occupation": "\"EXECUTIVE\"",
+          "date": "2026-10-20",
+          "amount": 1000
+        },
+        {
+          "contributor": "\"\"",
+          "entity_type": "IND",
+          "city": "\"WILLIAMSBURG\"",
+          "state": "VA",
+          "employer": "\"RETIRED\"",
+          "occupation": "\"RETIRED\"",
+          "date": "2026-10-20",
+          "amount": 1000
+        },
+        {
+          "contributor": "\"\"",
+          "entity_type": "IND",
+          "city": "\"VIRGINIA BEACH\"",
+          "state": "VA",
+          "employer": "\"L.M. SANDER AND SONS INC.\"",
+          "occupation": "\"OWNER\"",
+          "date": "2026-10-20",
+          "amount": 1000
+        },
+        {
+          "contributor": "\"\"",
+          "entity_type": "IND",
+          "city": "\"VIRGINIA BEACH\"",
+          "state": "VA",
+          "employer": "\"PALMS ASSOCIATES\"",
+          "occupation": "\"REAL ESTATE DEVELOPER\"",
+          "date": "2026-10-20",
+          "amount": 1000
+        },
+        {
+          "contributor": "\"\"",
+          "entity_type": "IND",
+          "city": "\"VIRGINIA BEACH\"",
+          "state": "VA",
+          "employer": "\"STRECO FIBRES\"",
+          "occupation": "\"OWNER\"",
+          "date": "2026-10-20",
+          "amount": 1000
+        },
+        {
+          "contributor": "\"\"",
+          "entity_type": "IND",
+          "city": "\"SAN DIEGO\"",
+          "state": "CA",
+          "employer": "\"RETIRED\"",
+          "occupation": "\"RETIRED\"",
+          "date": "2026-10-20",
+          "amount": 1000
+        },
+        {
+          "contributor": "\"FREEDOM FORCE PAC\"",
+          "entity_type": "PAC",
+          "city": "\"MIAMI\"",
+          "state": "FL",
+          "employer": "\"\"",
+          "occupation": "\"\"",
+          "date": "2026-10-19",
+          "amount": 3500
+        }
+      ],
+      "url": "https://docquery.fec.gov/cgi-bin/forms/C00776120/2035242/"
+    },
+    {
+      "candidate": "luria",
+      "committee_id": "C00926303",
+      "file_number": 2034891,
+      "form_type": "F6N",
+      "filed": "2026-10-21",
+      "total": 70700,
+      "contributions": [
+        {
+          "contributor": "DEMOCRATIC MAJORITY ACTION (DMA PAC)",
+          "entity_type": "PAC",
+          "city": "Paris",
+          "state": "KY",
+          "employer": null,
+          "occupation": null,
+          "date": "2026-10-20",
+          "amount": 5000
+        },
+        {
+          "contributor": "Paul Graham",
+          "entity_type": "IND",
+          "city": "Mountain View",
+          "state": "CA",
+          "employer": "Not Employed",
+          "occupation": "Not Employed",
+          "date": "2026-10-20",
+          "amount": 3500
+        },
+        {
+          "contributor": "Jessica Livingston",
+          "entity_type": "IND",
+          "city": "Mountain View",
+          "state": "CA",
+          "employer": "Not Employed",
+          "occupation": "Not Employed",
+          "date": "2026-10-20",
+          "amount": 3500
+        },
+        {
+          "contributor": "Joel Rubinstein",
+          "entity_type": "IND",
+          "city": "San Francisco",
+          "state": "CA",
+          "employer": "Self Employed",
+          "occupation": "Real Estate Manager",
+          "date": "2026-10-20",
+          "amount": 3500
+        },
+        {
+          "contributor": "Sylvia Sabel",
+          "entity_type": "IND",
+          "city": "San Francisco",
+          "state": "CA",
+          "employer": "Not Employed",
+          "occupation": "Not Employed",
+          "date": "2026-10-20",
+          "amount": 3500
+        },
+        {
+          "contributor": "Todd Stottlemyer",
+          "entity_type": "IND",
+          "city": "Vienna",
+          "state": "VA",
+          "employer": "Acentra Health",
+          "occupation": "CEO",
+          "date": "2026-10-20",
+          "amount": 3500
+        },
+        {
+          "contributor": "Randolph W Butler",
+          "entity_type": "IND",
+          "city": "Falls Church",
+          "state": "VA",
+          "employer": "Not Employed",
+          "occupation": "Not Employed",
+          "date": "2026-10-20",
+          "amount": 3300
+        },
+        {
+          "contributor": "MISSION TO DELIVER PAC",
+          "entity_type": "PAC",
+          "city": "West Orange",
+          "state": "NJ",
+          "employer": null,
+          "occupation": null,
+          "date": "2026-10-20",
+          "amount": 3000
+        },
+        {
+          "contributor": "MASTERS MATES AND PILOTS POLITICAL CONTRIBUTION FUND",
+          "entity_type": "PAC",
+          "city": "Linthicum Heights",
+          "state": "MD",
+          "employer": null,
+          "occupation": null,
+          "date": "2026-10-20",
+          "amount": 2500
+        },
+        {
+          "contributor": "DR. RAUL RUIZ FOR CONGRESS",
+          "entity_type": "CCM",
+          "city": "Indio",
+          "state": "CA",
+          "employer": null,
+          "occupation": null,
+          "date": "2026-10-20",
+          "amount": 2000
+        },
+        {
+          "contributor": "Kristin Jones",
+          "entity_type": "IND",
+          "city": "Virginia Beach",
+          "state": "VA",
+          "employer": "Not Employed",
+          "occupation": "Not Employed",
+          "date": "2026-10-20",
+          "amount": 2000
+        },
+        {
+          "contributor": "Ronay Menschel",
+          "entity_type": "IND",
+          "city": "New York",
+          "state": "NY",
+          "employer": "Not Employed",
+          "occupation": "Not Employed",
+          "date": "2026-10-20",
+          "amount": 2000
+        },
+        {
+          "contributor": "AMERICAN DEFENSE AND MILITARY PAC (ADAM PAC)",
+          "entity_type": "PAC",
+          "city": "Seattle",
+          "state": "WA",
+          "employer": null,
+          "occupation": null,
+          "date": "2026-10-20",
+          "amount": 1000
+        },
+        {
+          "contributor": "Barbara Friedman",
+          "entity_type": "IND",
+          "city": "Culpeper",
+          "state": "VA",
+          "employer": "Not Employed",
+          "occupation": "Not Employed",
+          "date": "2026-10-20",
+          "amount": 1000
+        },
+        {
+          "contributor": "Richard Friedman",
+          "entity_type": "IND",
+          "city": "Cambridge",
+          "state": "MA",
+          "employer": "Carpenter & Company, Inc.",
+          "occupation": "President",
+          "date": "2026-10-20",
+          "amount": 1000
+        },
+        {
+          "contributor": "Stephen Friedman",
+          "entity_type": "IND",
+          "city": "Culpeper",
+          "state": "VA",
+          "employer": "Not Employed",
+          "occupation": "Not Employed",
+          "date": "2026-10-20",
+          "amount": 1000
+        },
+        {
+          "contributor": "GREEN ON TOP PAC",
+          "entity_type": "PAC",
+          "city": "Syracuse",
+          "state": "NY",
+          "employer": null,
+          "occupation": null,
+          "date": "2026-10-20",
+          "amount": 1000
+        },
+        {
+          "contributor": "Gail Kitch",
+          "entity_type": "IND",
+          "city": "Charlottesville",
+          "state": "VA",
+          "employer": "Not Employed",
+          "occupation": "Not Employed",
+          "date": "2026-10-20",
+          "amount": 1000
+        },
+        {
+          "contributor": "David Levine",
+          "entity_type": "IND",
+          "city": "Los Angeles",
+          "state": "CA",
+          "employer": "Jerry B Epstein Management",
+          "occupation": "Real Estate Property Manager",
+          "date": "2026-10-20",
+          "amount": 1000
+        },
+        {
+          "contributor": "Lynn Lumbard",
+          "entity_type": "IND",
+          "city": "Langley",
+          "state": "WA",
+          "employer": "Not Employed",
+          "occupation": "Not Employed",
+          "date": "2026-10-20",
+          "amount": 1000
+        },
+        {
+          "contributor": "Patricia Powers",
+          "entity_type": "IND",
+          "city": "Rockville",
+          "state": "MD",
+          "employer": "Not Employed",
+          "occupation": "Not Employed",
+          "date": "2026-10-20",
+          "amount": 1000
+        },
+        {
+          "contributor": "DO THE WORK PAC",
+          "entity_type": "PAC",
+          "city": "Andover",
+          "state": "MA",
+          "employer": null,
+          "occupation": null,
+          "date": "2026-10-19",
+          "amount": 3500
+        },
+        {
+          "contributor": "Marjorie Roswell",
+          "entity_type": "IND",
+          "city": "Baltimore",
+          "state": "MD",
+          "employer": "Roswell Infographics",
+          "occupation": "CEO",
+          "date": "2026-10-19",
+          "amount": 3500
+        },
+        {
+          "contributor": "Robert Hardie",
+          "entity_type": "IND",
+          "city": "Charlottesville",
+          "state": "VA",
+          "employer": "Level One Partners LLC",
+          "occupation": "CEO",
+          "date": "2026-10-19",
+          "amount": 2500
+        },
+        {
+          "contributor": "Bradley Wechsler",
+          "entity_type": "IND",
+          "city": "New York",
+          "state": "NY",
+          "employer": "Elysium Management",
+          "occupation": "CEO",
+          "date": "2026-10-19",
+          "amount": 2500
+        },
+        {
+          "contributor": "Edward O'Keefe",
+          "entity_type": "IND",
+          "city": "Arlington",
+          "state": "VA",
+          "employer": null,
+          "occupation": null,
+          "date": "2026-10-19",
+          "amount": 2400
+        },
+        {
+          "contributor": "Martin Mandelberg",
+          "entity_type": "IND",
+          "city": "Falls Church",
+          "state": "VA",
+          "employer": "Self Employed",
+          "occupation": "Writer",
+          "date": "2026-10-19",
+          "amount": 2000
+        },
+        {
+          "contributor": "HIMES FOR CONGRESS",
+          "entity_type": "CCM",
+          "city": "Fairfield",
+          "state": "CT",
+          "employer": null,
+          "occupation": null,
+          "date": "2026-10-19",
+          "amount": 1000
+        },
+        {
+          "contributor": "LEADERS IN LIFE ACTING COOPERATIVELY (LILAC) PAC",
+          "entity_type": "PAC",
+          "city": "Rochester",
+          "state": "NY",
+          "employer": null,
+          "occupation": null,
+          "date": "2026-10-19",
+          "amount": 1000
+        },
+        {
+          "contributor": "Terry Penn",
+          "entity_type": "IND",
+          "city": "Virginia Beach",
+          "state": "VA",
+          "employer": "Not Employed",
+          "occupation": "Not Employed",
+          "date": "2026-10-19",
+          "amount": 1000
+        },
+        {
+          "contributor": "SECURE PROGRESS",
+          "entity_type": "ORG",
+          "city": "Fairfax Station",
+          "state": "VA",
+          "employer": null,
+          "occupation": null,
+          "date": "2026-10-19",
+          "amount": 1000
+        },
+        {
+          "contributor": "Deirdre Smith",
+          "entity_type": "IND",
+          "city": "Charlottesville",
+          "state": "VA",
+          "employer": "Not Employed",
+          "occupation": "Not Employed",
+          "date": "2026-10-19",
+          "amount": 1000
+        },
+        {
+          "contributor": "Deirdre Smith",
+          "entity_type": "IND",
+          "city": "Charlottesville",
+          "state": "VA",
+          "employer": "Not Employed",
+          "occupation": "Not Employed",
+          "date": "2026-10-19",
+          "amount": 1000
+        },
+        {
+          "contributor": "STORM PAC",
+          "entity_type": "PAC",
+          "city": "Moline",
+          "state": "IL",
+          "employer": null,
+          "occupation": null,
+          "date": "2026-10-19",
+          "amount": 1000
+        },
+        {
+          "contributor": "UPLIFT PAC",
+          "entity_type": "PAC",
+          "city": "Bay City",
+          "state": "MI",
+          "employer": null,
+          "occupation": null,
+          "date": "2026-10-19",
+          "amount": 1000
+        }
+      ],
+      "url": "https://docquery.fec.gov/cgi-bin/forms/C00926303/2034891/"
+    },
     {
       "candidate": "kiggans",
       "committee_id": "C00776120",
@@ -2166,14 +2808,46 @@
     "by_candidate": {
       "kiggans": {
         "support": 110978.24,
-        "oppose": 1765.03
+        "oppose": 2431578.98
       },
       "luria": {
-        "support": 18052.38,
+        "support": 210771.83,
         "oppose": 34466.2
       }
     },
     "groups": [
+      {
+        "committee_id": "C00495028",
+        "committee_name": "HMP",
+        "candidate": "kiggans",
+        "support_oppose": "oppose",
+        "total": 1307847.39,
+        "count": 14
+      },
+      {
+        "committee_id": "C00540443",
+        "committee_name": "GIFFORDS PAC",
+        "candidate": "kiggans",
+        "support_oppose": "oppose",
+        "total": 921966.56,
+        "count": 3
+      },
+      {
+        "committee_id": "C00580068",
+        "committee_name": "PROGRESSIVE TURNOUT PROJECT",
+        "candidate": "luria",
+        "support_oppose": "support",
+        "total": 210256.75,
+        "count": 6
+      },
+      {
+        "committee_id": "C00418897",
+        "committee_name": "VOTEVETS",
+        "candidate": "kiggans",
+        "support_oppose": "oppose",
+        "total": 200000,
+        "count": 1
+      },
       {
         "committee_id": "C00608943",
         "committee_name": "CLEARPATH ACTION FUND, INC.",
@@ -2196,14 +2870,6 @@
         "candidate": "kiggans",
         "support_oppose": "support",
         "total": 20000,
-        "count": 1
-      },
-      {
-        "committee_id": "C00580068",
-        "committee_name": "PROGRESSIVE TURNOUT PROJECT",
-        "candidate": "luria",
-        "support_oppose": "support",
-        "total": 17537.3,
         "count": 1
       },
       {
