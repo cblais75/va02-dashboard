@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-22T15:21:06.388Z",
+  "updated_at": "2026-10-23T15:10:56.500Z",
   "cycle": 2026,
   "source": "Federal Election Commission, OpenFEC API (api.open.fec.gov)",
   "source_url": "https://www.fec.gov/data/elections/house/VA/02/2026/",
@@ -15,19 +15,19 @@
         "name": "KIGGANS FOR CONGRESS"
       },
       "totals": {
-        "raised": 7240304.45,
-        "spent": 5335749.67,
-        "cash_on_hand": 1950032.18,
-        "through": "2026-09-30",
+        "raised": 7589812.06,
+        "spent": 6342881.09,
+        "cash_on_hand": 1292408.37,
+        "through": "2026-10-14",
         "basis": "FEC processed totals"
       },
       "latest_report": {
-        "type": "Q3",
-        "name": "October Quarterly",
-        "coverage_start": "2026-07-16",
-        "coverage_end": "2026-09-30",
-        "filed": "2026-10-15",
-        "url": "https://docquery.fec.gov/cgi-bin/forms/C00776120/2023614/"
+        "type": "12G",
+        "name": "Pre-General",
+        "coverage_start": "2026-10-01",
+        "coverage_end": "2026-10-14",
+        "filed": "2026-10-22",
+        "url": "https://docquery.fec.gov/cgi-bin/forms/C00776120/2036496/"
       },
       "fec_url": "https://www.fec.gov/data/candidate/H2VA02064/?cycle=2026"
     },
@@ -42,19 +42,19 @@
         "name": "ELAINE LURIA FOR CONGRESS"
       },
       "totals": {
-        "raised": 7364705.21,
-        "spent": 5629532.5,
-        "cash_on_hand": 1735172.71,
-        "through": "2026-09-30",
+        "raised": 8044063.94,
+        "spent": 7565201.72,
+        "cash_on_hand": 478862.22,
+        "through": "2026-10-14",
         "basis": "FEC processed totals"
       },
       "latest_report": {
-        "type": "Q3",
-        "name": "October Quarterly",
-        "coverage_start": "2026-07-16",
-        "coverage_end": "2026-09-30",
-        "filed": "2026-10-14",
-        "url": "https://docquery.fec.gov/cgi-bin/forms/C00926303/2022388/"
+        "type": "12G",
+        "name": "Pre-General",
+        "coverage_start": "2026-10-01",
+        "coverage_end": "2026-10-14",
+        "filed": "2026-10-22",
+        "url": "https://docquery.fec.gov/cgi-bin/forms/C00926303/2036798/"
       },
       "fec_url": "https://www.fec.gov/data/candidate/H6VA02198/?cycle=2026"
     }
@@ -2807,7 +2807,7 @@
     "note": "Independent expenditures from FEC processed data, totaled by spending group; the newest 24/48-hour reports can take a few days to appear.",
     "by_candidate": {
       "kiggans": {
-        "support": 110978.24,
+        "support": 371271.36,
         "oppose": 2431578.98
       },
       "luria": {
@@ -2831,6 +2831,14 @@
         "support_oppose": "oppose",
         "total": 921966.56,
         "count": 3
+      },
+      {
+        "committee_id": "C00173153",
+        "committee_name": "AMERICAN ASSOCIATION OF NURSE ANESTHETISTS SEPARATE SEGREGATED FUND (CRNA-PAC)",
+        "candidate": "kiggans",
+        "support_oppose": "support",
+        "total": 260293.12,
+        "count": 5
       },
       {
         "committee_id": "C00580068",
