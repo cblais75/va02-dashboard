@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-22T17:22:53.654Z",
+  "updated_at": "2026-10-23T17:18:55.137Z",
   "source": "Google News RSS search",
   "queries": [
     "\"Jen Kiggans\"",
@@ -19,6 +19,35 @@
     "kiggans.house.gov"
   ],
   "items": [
+    {
+      "id": "CBMizgFBVV95cUxQSm1rMnc2YTF6Si1ramdxUG5pQ292NFFxTlZlQjB2clNLSTBubFhKSXRWQ0h4LVpxSzMzbFFlVk9ZSUJkV0xBRTE3OHdDalBhc3pnVXdrRy1rVXZueUd3Ymx3V1dKdlY2S05FYWczTHg0cGtmQ196QTBLYmRyaGF2c2FQR2szN1NwcmVWWWhWS2VUUXk0bVh1SXF1ajdCODc2ekFLTFhyOFdXY3NDRTZXYV9Mb3lGVGJjRFFNQlhjQlllNl9GbFQ1bXQ5UVhaUQ",
+      "headline": "Outside donors bankroll Virginia’s campaigns for Congress",
+      "outlet": "WHRO",
+      "outlet_domain": "whro.org",
+      "local": true,
+      "official": false,
+      "date": "2026-10-23T04:05:00.000Z",
+      "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxQSm1rMnc2YTF6Si1ramdxUG5pQ292NFFxTlZlQjB2clNLSTBubFhKSXRWQ0h4LVpxSzMzbFFlVk9ZSUJkV0xBRTE3OHdDalBhc3pnVXdrRy1rVXZueUd3Ymx3V1dKdlY2S05FYWczTHg0cGtmQ196QTBLYmRyaGF2c2FQR2szN1NwcmVWWWhWS2VUUXk0bVh1SXF1ajdCODc2ekFLTFhyOFdXY3NDRTZXYV9Mb3lGVGJjRFFNQlhjQlllNl9GbFQ1bXQ5UVhaUQ?oc=5",
+      "candidates": [
+        "kiggans",
+        "luria"
+      ],
+      "tags": []
+    },
+    {
+      "id": "CBMihgFBVV95cUxPMkhhTG1UMnBEWGthQ2NRWXR4UHlfU3ZvUm5WaGl5RUN3MmJlQW02ckVfbExxWXJTNHQxSVJWU0dEQlM1bnhaNUZjMkdnNWFDcmRnSHBxdzRrMzBzX3lzX3lBMERLdHhmdWdkNEJReXhDVG14T2lRN1lmUjZUSmprLW5zSTQ4dw",
+      "headline": "A Congressional District Where the Iran War Is Personal",
+      "outlet": "The Atlantic",
+      "outlet_domain": "theatlantic.com",
+      "local": false,
+      "official": false,
+      "date": "2026-10-22T18:18:03.000Z",
+      "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPMkhhTG1UMnBEWGthQ2NRWXR4UHlfU3ZvUm5WaGl5RUN3MmJlQW02ckVfbExxWXJTNHQxSVJWU0dEQlM1bnhaNUZjMkdnNWFDcmRnSHBxdzRrMzBzX3lzX3lBMERLdHhmdWdkNEJReXhDVG14T2lRN1lmUjZUSmprLW5zSTQ4dw?oc=5",
+      "candidates": [
+        "kiggans"
+      ],
+      "tags": []
+    },
     {
       "id": "CBMinwFBVV95cUxNSDVRSVdSZU9aM0hRbjB5ejZfZlFzMGdtOUJzdjYwSWNJMjBZQ3ZTT08tWGc1OVE5T0cyLWlwUHZFZFI5a0FfRl9WRXlQaXkyWFZuNWRmVTkzbmp6TTUyejF2OWllbDNrTV96Y3NySC1GazNZelVlQ3U0X0JlQXJjSElmRk9fREk5NFB1MWp3YWl4dGs4OWtETFRSZWlCVWs",
       "headline": "EXCLUSIVE: Washington Reporter fact check cited in tossup race’s ad",
@@ -57,6 +86,7 @@
       "date": "2026-10-20T22:42:35.000Z",
       "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNajBJX3dkWmpEOHliYmdQQXIwdTRMeDlEVzRoYnBHcGVEYTg2d2hTWE5pS25vTFIwbnZxUlN2bEhpNkhOQlpkcDBqWW51QzA2SG5YVmxzT1R5STJxSW9VNW5RN0JhR3g4YURRS2w5SmJ0eU1FRXNwdm94dUJSU09LRjBMZ1gxa2Y3VGZRNEp3?oc=5",
       "candidates": [
+        "kiggans",
         "luria"
       ],
       "tags": []
@@ -200,6 +230,20 @@
       "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPSGV0OUduakhuTW1tLTI0cUkzQi1nbllHbjdKeUV3X0RLRDl1Zk1vOFlFV2xWb1liZTVhNll5cVFpamR4NENEOE5KeFpmSVo5bWhGNl9mQm9TN3NnQXE2OWNRSk9kNGNrWVhjOEZNczdUZWdwa1NfcDNCbDMzWkhBeTdNVnYtS195QzFGZ0NHNnlrdFRu?oc=5",
       "candidates": [
         "kiggans",
+        "luria"
+      ],
+      "tags": []
+    },
+    {
+      "id": "CBMilgFBVV95cUxPcWZQdzVyMWlyNk5aUGl3bnZMN2JCT0NPd05wY1Rvdkx6Rm5RU0c3QWNCSi10a2VaVFhFMWc3SWw4S1hQTzdibjFidlBKWmNvcW82T2F5VHhEa1dxRUFUV0syeUo4T3hPNzF1TzRmbFQ1VHl5eElmYmRpeGJSMkg1dlJleXdsVUg5V3ZwWWdJVmlsRkdoVlHSAZsBQVVfeXFMTW53dmxJOF9CdjBzamM5ZVZxOE9PR0ZZSWJpMl9vb1U4b1hZNTBZOS1MeHJwVG5nbzlQU3Y3VGEta0RJRVI2b1ZBUFlDNUFaSzdOWHl2aVVJYjNTaExhVXl3U3pTWjIyY3FhLUZTZ3UwX3NReXdxREFEMHZ3SWtvSzFWZWJ4SkNZeUZ3TzNONERUckhibGNwRk54Wmc",
+      "headline": "Buttigieg joins Democratic congressional candidates in Henrico",
+      "outlet": "WFXR News",
+      "outlet_domain": "wfxrtv.com",
+      "local": false,
+      "official": false,
+      "date": "2026-10-20T12:36:56.000Z",
+      "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPcWZQdzVyMWlyNk5aUGl3bnZMN2JCT0NPd05wY1Rvdkx6Rm5RU0c3QWNCSi10a2VaVFhFMWc3SWw4S1hQTzdibjFidlBKWmNvcW82T2F5VHhEa1dxRUFUV0syeUo4T3hPNzF1TzRmbFQ1VHl5eElmYmRpeGJSMkg1dlJleXdsVUg5V3ZwWWdJVmlsRkdoVlHSAZsBQVVfeXFMTW53dmxJOF9CdjBzamM5ZVZxOE9PR0ZZSWJpMl9vb1U4b1hZNTBZOS1MeHJwVG5nbzlQU3Y3VGEta0RJRVI2b1ZBUFlDNUFaSzdOWHl2aVVJYjNTaExhVXl3U3pTWjIyY3FhLUZTZ3UwX3NReXdxREFEMHZ3SWtvSzFWZWJ4SkNZeUZ3TzNONERUckhibGNwRk54Wmc?oc=5",
+      "candidates": [
         "luria"
       ],
       "tags": []
@@ -616,6 +660,20 @@
       "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOSjFZYjhQZmx4dDhOV3F1dFFBN2lXUW90blp2NURyNmx2QUlKSTJUWUVydGZaY21CRnd1dkNQbEdjaThRb3RTa0d3Z0pJZ2hPUW9SUXZ3cTlsUmsyRUVjb3hlV0pDQkpwTEZxMnk2NEpCU0RQdEh4dXRESFFuR3h3dkdZNE9Wc1FJeW9Xd2NFMVIyRThlSm4zV1g5akpXRnpjN0lHckxCbzhWUQ?oc=5",
       "candidates": [
         "kiggans"
+      ],
+      "tags": []
+    },
+    {
+      "id": "CBMic0FVX3lxTE1DYmtsUFZvc1ptXzJBemxFRkxuRHV1ZVN1aXlvX010OUFxNmRUeHdFQnRDS0VJLVN0dlRrWW04SmRLeTYyaEpiNk9lcmQySnppaEtnTmpIRWNzWGFMSzA1THJHclRkZ2M4VGFvOWNSQ0toSjg",
+      "headline": "With anger spreading over Iran war, Democrats hope to flip Republican seats with veterans’ help",
+      "outlet": "Pioneer Press",
+      "outlet_domain": "twincities.com",
+      "local": false,
+      "official": false,
+      "date": "2026-10-15T15:25:07.000Z",
+      "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE1DYmtsUFZvc1ptXzJBemxFRkxuRHV1ZVN1aXlvX010OUFxNmRUeHdFQnRDS0VJLVN0dlRrWW04SmRLeTYyaEpiNk9lcmQySnppaEtnTmpIRWNzWGFMSzA1THJHclRkZ2M4VGFvOWNSQ0toSjg?oc=5",
+      "candidates": [
+        "luria"
       ],
       "tags": []
     },
@@ -2352,94 +2410,6 @@
       "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxORmNNaXNlejJidzN5aEpBdDhSbHBIaHdvRHkycV9hUU9EamhzaWRha2NmWDdLUlRuWm9yUEhDZ0pnUHVFX1cyUjN0Z0thc0l0enR6dWZvX2hqdEVKWGZUaXBZRjY2THlBd29saGNnQVZvTHJhVC0zVWpVZ05YeUhOVg?oc=5",
       "candidates": [
         "kiggans",
-        "luria"
-      ],
-      "tags": [],
-      "official": false
-    },
-    {
-      "id": "CBMi6gFBVV95cUxQMWJLZGZrbWtzbEJkMk04Y1h4NGhzVWlSQ0ltdnc0NllkbDdNSTNzS3EyZXQyaFRpXzBveEg0c3BCRnFIY2V5Zzd4d014MWxiaWg3dDVzSUI1Nk1OZ081WjZQVU1FS045a0ZEWlItRWxiaEJFQ0lzc0NaSTJmT2V2c1ZiLUZyQUI5ZWlaaGFhb0VUM1Vxdl9hNEZUeWJuM2VCQzBTY2Mxa3ZsVnpncTE4WHF6ODBjXzdmN0E1UWptbXZaeXZNZlA5Mm1KODBKVDR6N1ZCMWpWMFdGUTRwc21EcS04bF9KaUpFZVE",
-      "headline": "Video: Elaine Luria Out with Two New Ads; Hits Jen Kiggans for \"Kicking 21,000 Virginians in VA-02 Off Their Health Insurance\"",
-      "outlet": "Blue Virginia",
-      "outlet_domain": "bluevirginia.us",
-      "local": false,
-      "date": "2026-09-23T12:23:16.000Z",
-      "link": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxQMWJLZGZrbWtzbEJkMk04Y1h4NGhzVWlSQ0ltdnc0NllkbDdNSTNzS3EyZXQyaFRpXzBveEg0c3BCRnFIY2V5Zzd4d014MWxiaWg3dDVzSUI1Nk1OZ081WjZQVU1FS045a0ZEWlItRWxiaEJFQ0lzc0NaSTJmT2V2c1ZiLUZyQUI5ZWlaaGFhb0VUM1Vxdl9hNEZUeWJuM2VCQzBTY2Mxa3ZsVnpncTE4WHF6ODBjXzdmN0E1UWptbXZaeXZNZlA5Mm1KODBKVDR6N1ZCMWpWMFdGUTRwc21EcS04bF9KaUpFZVE?oc=5",
-      "candidates": [
-        "kiggans",
-        "luria"
-      ],
-      "tags": [],
-      "official": false
-    },
-    {
-      "id": "CBMioAFBVV95cUxPdUZTOU1SZ0dvMVNrMG1JUzBVV0lwaFA0UF9NQnlTb2I4R3B4NGhCUTVLS0FIeFpUY0pPa0E4V2FfOEdoay13Z3h3RUZaaW9tT3J3ZmpYd2lzY1ZlVkZmSDdZOHY1ZnMtSW1ETlU2TUJXQ0dueEQtSnVPSWFCT0I0MGgtTGlrbE4yWE9IQzcxYkY3U1lINVlCNE01UmQzei05",
-      "headline": "🚨 13NEWS NOW FACT CHECKS JEN KIGGANS’ FALSE CLAIMS AGAINST ELAINE LURIA",
-      "outlet": "Democratic Congressional Campaign Committee",
-      "outlet_domain": "dccc.org",
-      "local": false,
-      "date": "2026-09-23T01:17:07.000Z",
-      "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPdUZTOU1SZ0dvMVNrMG1JUzBVV0lwaFA0UF9NQnlTb2I4R3B4NGhCUTVLS0FIeFpUY0pPa0E4V2FfOEdoay13Z3h3RUZaaW9tT3J3ZmpYd2lzY1ZlVkZmSDdZOHY1ZnMtSW1ETlU2TUJXQ0dueEQtSnVPSWFCT0I0MGgtTGlrbE4yWE9IQzcxYkY3U1lINVlCNE01UmQzei05?oc=5",
-      "candidates": [
-        "kiggans",
-        "luria"
-      ],
-      "tags": [],
-      "official": false
-    },
-    {
-      "id": "CBMi2AFBVV95cUxQdXdqb2VBVjRjcVZpNFlJZU1ZQ3dfVkZNbzNPaVlYazBXNWZBczBpbVJnZk1WQU5QbWlmMWtmRXFNeEg2aVozRnZoOGlhcXZHTXR3eTNVT1NXWURYZFlaWW84MFpkU1BJN09tdDlpaEhGc29sWkdITFZSbGFPaV8tUWcxRWQ1VmxSSUlHTkZlWHVpaGdob1NQMEhjWUlTSnpITVJCSV9uX2RWMDJkNC1DQ0RRMFdieFU3VEVHWWQ2NFJ0Q2NHZDF0XzQtY0Q1LWRYMXBvaVNyejA",
-      "headline": "VERIFY | Did Elaine Luria leave Congress $21 million richer?",
-      "outlet": "13News Now (WVEC)",
-      "outlet_domain": "13newsnow.com",
-      "local": true,
-      "date": "2026-09-23T00:35:00.000Z",
-      "link": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxQdXdqb2VBVjRjcVZpNFlJZU1ZQ3dfVkZNbzNPaVlYazBXNWZBczBpbVJnZk1WQU5QbWlmMWtmRXFNeEg2aVozRnZoOGlhcXZHTXR3eTNVT1NXWURYZFlaWW84MFpkU1BJN09tdDlpaEhGc29sWkdITFZSbGFPaV8tUWcxRWQ1VmxSSUlHTkZlWHVpaGdob1NQMEhjWUlTSnpITVJCSV9uX2RWMDJkNC1DQ0RRMFdieFU3VEVHWWQ2NFJ0Q2NHZDF0XzQtY0Q1LWRYMXBvaVNyejA?oc=5",
-      "candidates": [
-        "luria"
-      ],
-      "tags": [],
-      "official": false
-    },
-    {
-      "id": "CBMi_gFBVV95cUxNUTZxaHRxRm5aMTJJeUZLNGxWekF4amFXTmVlN2ZNUE5oemZIdzBwSHQyTjBqNjd4d0VmZUFiRXNHanZ5MnAzYUE2UUd1eHAtT1ZjaHVWQzlrd21EZTZWLVFkWjhKaFVXdDVqUHBHNHFyU2tEN1RTV29oRjR4ZHE5NjYwSEt5TVd3MGxPMTZrODZqU1Nkb2VTOU91U2hIUXJ0bzJqVmROMWhlMHhNMG5venFZVHBuZWRKR1VzM0FCenA5aUVERExEcnVQcVNqa1h1WjRtZFdBam1jRS1aclo4TGdLWG5ObkhiOV9Fd1dVODdlaUZyeFVIX014TllXUQ",
-      "headline": "VERIFY: Did Elaine Luria leave Congress $21M richer?",
-      "outlet": "13News Now (WVEC)",
-      "outlet_domain": "13newsnow.com",
-      "local": true,
-      "date": "2026-09-22T20:47:00.000Z",
-      "link": "https://news.google.com/rss/articles/CBMi_gFBVV95cUxNUTZxaHRxRm5aMTJJeUZLNGxWekF4amFXTmVlN2ZNUE5oemZIdzBwSHQyTjBqNjd4d0VmZUFiRXNHanZ5MnAzYUE2UUd1eHAtT1ZjaHVWQzlrd21EZTZWLVFkWjhKaFVXdDVqUHBHNHFyU2tEN1RTV29oRjR4ZHE5NjYwSEt5TVd3MGxPMTZrODZqU1Nkb2VTOU91U2hIUXJ0bzJqVmROMWhlMHhNMG5venFZVHBuZWRKR1VzM0FCenA5aUVERExEcnVQcVNqa1h1WjRtZFdBam1jRS1aclo4TGdLWG5ObkhiOV9Fd1dVODdlaUZyeFVIX014TllXUQ?oc=5",
-      "candidates": [
-        "kiggans",
-        "luria"
-      ],
-      "tags": [],
-      "official": false
-    },
-    {
-      "id": "CBMiqwFBVV95cUxPR3JicUFOaUI5TkYyMUlwME80c0JlTkF2Ty1tOHlYSnFucm5NdnFGOWttVjN3eDAtT295LXRLRmdFcHRJTGp4SlMxbnVWYlpLZlZYU1VoN2duTjNRX29yZWRqdWhVZGZoS0NzWWRsUXN5WDRxaHJqeEZvejBCMURFVHJMUWtPT0YxR2hzLWZockl6TXZNTXBHNzdzQ0hnaVN1T2lyekRrQUJQd3c",
-      "headline": "Virginia primary voters choose candidates for November races",
-      "outlet": "The Virginia Independent",
-      "outlet_domain": "virginiaindependentnews.com",
-      "local": false,
-      "date": "2026-09-22T20:35:39.000Z",
-      "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPR3JicUFOaUI5TkYyMUlwME80c0JlTkF2Ty1tOHlYSnFucm5NdnFGOWttVjN3eDAtT295LXRLRmdFcHRJTGp4SlMxbnVWYlpLZlZYU1VoN2duTjNRX29yZWRqdWhVZGZoS0NzWWRsUXN5WDRxaHJqeEZvejBCMURFVHJMUWtPT0YxR2hzLWZockl6TXZNTXBHNzdzQ0hnaVN1T2lyekRrQUJQd3c?oc=5",
-      "candidates": [
-        "kiggans",
-        "luria"
-      ],
-      "tags": [],
-      "official": false
-    },
-    {
-      "id": "CBMi1wFBVV95cUxQLTIyaVpyQ2JPblcwX0x2TEVBeWwzZkl2NXdBVEJTQ1dWVkh3Z3gwc1BnaWlBV1VvRDhkV0lnU240Y05RbFBBQnlncnJvalRLbF8xUlhYVWlYcmZDRXEyOUttV2JSaGJtdEQ4Rk5KMEdGUXlEX0ZUYmRTbmE4dWZmaDZZeHBzZi1tTExBNHJ2ekpSdjl3SEFBVXVyVnVtT192TlpMU0FiWjE0NXp1RUJYYVc0RnVaWFV0QURNbmNRRTlrZmc5RWkwUlJqdWNFQ1RaSWdNMUFMSQ",
-      "headline": "Verify: Claims about Elaine Luria's net worth",
-      "outlet": "13News Now (WVEC)",
-      "outlet_domain": "13newsnow.com",
-      "local": true,
-      "date": "2026-09-22T20:18:00.000Z",
-      "link": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxQLTIyaVpyQ2JPblcwX0x2TEVBeWwzZkl2NXdBVEJTQ1dWVkh3Z3gwc1BnaWlBV1VvRDhkV0lnU240Y05RbFBBQnlncnJvalRLbF8xUlhYVWlYcmZDRXEyOUttV2JSaGJtdEQ4Rk5KMEdGUXlEX0ZUYmRTbmE4dWZmaDZZeHBzZi1tTExBNHJ2ekpSdjl3SEFBVXVyVnVtT192TlpMU0FiWjE0NXp1RUJYYVc0RnVaWFV0QURNbmNRRTlrZmc5RWkwUlJqdWNFQ1RaSWdNMUFMSQ?oc=5",
-      "candidates": [
         "luria"
       ],
       "tags": [],
