@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-23T17:18:55.137Z",
+  "updated_at": "2026-10-24T16:06:43.341Z",
   "source": "Google News RSS search",
   "queries": [
     "\"Jen Kiggans\"",
@@ -19,6 +19,49 @@
     "kiggans.house.gov"
   ],
   "items": [
+    {
+      "id": "CBMiigFBVV95cUxPSU5KR24tZHg4a2F0ZXU4Z1pRV0cwX01peVpYcnJ6Q1dMX2l5eEZ4TkR0cDhYelRVMWZySWMyZXk4V3gzY2xtTFlQanF2bWNYelNra1dkQVB6ZUNHQk5QYXdaY1NVY2llS2RFWkVZVU9sMGhLYlpOTFM5cHhZcEZvQl9PQW8wb3NVckE",
+      "headline": "Letter – Jen Kiggans ‘walks the walk’",
+      "outlet": "Smithfield Times",
+      "outlet_domain": "smithfieldtimes.com",
+      "local": false,
+      "official": false,
+      "date": "2026-10-24T13:07:56.000Z",
+      "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPSU5KR24tZHg4a2F0ZXU4Z1pRV0cwX01peVpYcnJ6Q1dMX2l5eEZ4TkR0cDhYelRVMWZySWMyZXk4V3gzY2xtTFlQanF2bWNYelNra1dkQVB6ZUNHQk5QYXdaY1NVY2llS2RFWkVZVU9sMGhLYlpOTFM5cHhZcEZvQl9PQW8wb3NVckE?oc=5",
+      "candidates": [
+        "kiggans"
+      ],
+      "tags": []
+    },
+    {
+      "id": "CBMiaEFVX3lxTE03RFpmR0pMdU95eHI2REpUNHcxbl9FeTcwRzZLSVBlSE9nSzhUQzBfX0IxZjFoaHR0UUJxTTNjdXFzcy1DZ2lBUTRyUF9Ra1lVNHo1ZzZFcHBxSjMxczkxTlV4RDhVb191",
+      "headline": "Rep. Jen Kiggans refuses to answer question on Iran war",
+      "outlet": "The Dogwood",
+      "outlet_domain": "vadogwood.com",
+      "local": false,
+      "official": false,
+      "date": "2026-10-23T19:02:58.000Z",
+      "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE03RFpmR0pMdU95eHI2REpUNHcxbl9FeTcwRzZLSVBlSE9nSzhUQzBfX0IxZjFoaHR0UUJxTTNjdXFzcy1DZ2lBUTRyUF9Ra1lVNHo1ZzZFcHBxSjMxczkxTlV4RDhVb191?oc=5",
+      "candidates": [
+        "kiggans"
+      ],
+      "tags": []
+    },
+    {
+      "id": "CBMikAJBVV95cUxONFFrMTVMWTk1Um5UVVdHODBic3FLcXBybUt2S1czeWQwdmY5aml4TUJsOG16NDZzdVJ4a1FkQWFnN2ItSW1WU0JTbVdXQ3l4V29DaEgyYzBpMlgtYUZTWVRpUVVVLURFbW5hblpXNWJQUGQ4STV2WG45alZWOXBfMHFmbGNTeFR3MW5xVzZBdGJtMjFIeXpLUTZhOGFhNDU3a3JoZ3FudTROZy04X2FkY1duMVR0Z2RlRXBhejNrOXdaUEpaMGVmM2o3NzhqWENQWHZYY3ZMS1FkNFAwbUJtbHNtYWk3NkVPZl96M3NfcjNOak9oMUxLRG1qejRIRWdGbEJBYzRMeEhvcHV4bHFLbg",
+      "headline": "Video: Elaine Luria Releases Closing Ad Asking Hampton Roads if the Road We’re on is Worth Staying on for Two More Years or if It’s Time to Change Course",
+      "outlet": "Blue Virginia",
+      "outlet_domain": "bluevirginia.us",
+      "local": false,
+      "official": false,
+      "date": "2026-10-23T17:26:14.000Z",
+      "link": "https://news.google.com/rss/articles/CBMikAJBVV95cUxONFFrMTVMWTk1Um5UVVdHODBic3FLcXBybUt2S1czeWQwdmY5aml4TUJsOG16NDZzdVJ4a1FkQWFnN2ItSW1WU0JTbVdXQ3l4V29DaEgyYzBpMlgtYUZTWVRpUVVVLURFbW5hblpXNWJQUGQ4STV2WG45alZWOXBfMHFmbGNTeFR3MW5xVzZBdGJtMjFIeXpLUTZhOGFhNDU3a3JoZ3FudTROZy04X2FkY1duMVR0Z2RlRXBhejNrOXdaUEpaMGVmM2o3NzhqWENQWHZYY3ZMS1FkNFAwbUJtbHNtYWk3NkVPZl96M3NfcjNOak9oMUxLRG1qejRIRWdGbEJBYzRMeEhvcHV4bHFLbg?oc=5",
+      "candidates": [
+        "kiggans",
+        "luria"
+      ],
+      "tags": []
+    },
     {
       "id": "CBMizgFBVV95cUxQSm1rMnc2YTF6Si1ramdxUG5pQ292NFFxTlZlQjB2clNLSTBubFhKSXRWQ0h4LVpxSzMzbFFlVk9ZSUJkV0xBRTE3OHdDalBhc3pnVXdrRy1rVXZueUd3Ymx3V1dKdlY2S05FYWczTHg0cGtmQ196QTBLYmRyaGF2c2FQR2szN1NwcmVWWWhWS2VUUXk0bVh1SXF1ajdCODc2ekFLTFhyOFdXY3NDRTZXYV9Mb3lGVGJjRFFNQlhjQlllNl9GbFQ1bXQ5UVhaUQ",
       "headline": "Outside donors bankroll Virginia’s campaigns for Congress",
@@ -43,6 +86,20 @@
       "official": false,
       "date": "2026-10-22T18:18:03.000Z",
       "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPMkhhTG1UMnBEWGthQ2NRWXR4UHlfU3ZvUm5WaGl5RUN3MmJlQW02ckVfbExxWXJTNHQxSVJWU0dEQlM1bnhaNUZjMkdnNWFDcmRnSHBxdzRrMzBzX3lzX3lBMERLdHhmdWdkNEJReXhDVG14T2lRN1lmUjZUSmprLW5zSTQ4dw?oc=5",
+      "candidates": [
+        "kiggans"
+      ],
+      "tags": []
+    },
+    {
+      "id": "CBMijwFBVV95cUxObFQyUDVKN01xZWpsVDB6OWliZEhjYnh5dTcyX1NYSkI1NVBkeDZzbDJmWHllQTJsMGcxQllWRW14cGIyb2NsQkYyV0F3aUJ1dExHb1U5Nm5ZZEd1M1h3X3JYd1prZkFzVUdRLXNLWXlZSTJseGw4MGw4b2NSdGh5UGNGLVNpcktrcHJ1amg0MA",
+      "headline": "Virginia Elections: Who’s Leading In Prediction Markets?",
+      "outlet": "Forbes",
+      "outlet_domain": "forbes.com",
+      "local": false,
+      "official": false,
+      "date": "2026-10-22T13:02:00.000Z",
+      "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxObFQyUDVKN01xZWpsVDB6OWliZEhjYnh5dTcyX1NYSkI1NVBkeDZzbDJmWHllQTJsMGcxQllWRW14cGIyb2NsQkYyV0F3aUJ1dExHb1U5Nm5ZZEd1M1h3X3JYd1prZkFzVUdRLXNLWXlZSTJseGw4MGw4b2NSdGh5UGNGLVNpcktrcHJ1amg0MA?oc=5",
       "candidates": [
         "kiggans"
       ],
@@ -513,6 +570,20 @@
       "official": false,
       "date": "2026-10-15T22:44:19.000Z",
       "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOdk1WTjh1SFNXdkNQSEYyY3RYQnJjRllPc3VmanRUM09xVU9JNzl5VExVMDd1MkYxc3hHUzBjeUpjU2VzTXRsdTdQLUJQWFpMbHhSV3Y4QVVQemkySUE3WGlSMUFweEw3Nk92NkNadXVyeVJWamQ1Ty1DX0hoenNjOWFrM3hmaHlf?oc=5",
+      "candidates": [
+        "kiggans"
+      ],
+      "tags": []
+    },
+    {
+      "id": "CBMiggFBVV95cUxOcG9zSFM3NFBjb2VfTi1nUllTd1VqLUdSZGQ2ckJqeFdOd2pISUlEQ1dya2F1QVVvTzdqaXE5cklnYkhtRWJtWUVUZlk3OEctalh6SlAwRXQtX0t0Y2RYRWFsMFdFeGxHUDVkRmVLeGdDdXBuUWxSVy1wWmY4NzdMX1RR",
+      "headline": "HHS secretary visits VB with Rep. Jen Kiggans",
+      "outlet": "Yahoo",
+      "outlet_domain": "yahoo.com",
+      "local": false,
+      "official": false,
+      "date": "2026-10-15T22:44:19.000Z",
+      "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxOcG9zSFM3NFBjb2VfTi1nUllTd1VqLUdSZGQ2ckJqeFdOd2pISUlEQ1dya2F1QVVvTzdqaXE5cklnYkhtRWJtWUVUZlk3OEctalh6SlAwRXQtX0t0Y2RYRWFsMFdFeGxHUDVkRmVLeGdDdXBuUWxSVy1wWmY4NzdMX1RR?oc=5",
       "candidates": [
         "kiggans"
       ],
@@ -2328,92 +2399,6 @@
         "luria"
       ],
       "tags": []
-    },
-    {
-      "id": "CBMiuwFBVV95cUxQOWUtcVpzZUFwX2hUbXJzd3hPQWZEYzBYdzE5eWtGN3NVNFA0T0pCcE9HMVJFQ21CNk45dl9maGp4NXhoZmQwUVc1bW5KdGVSWmc2bTFLV08tNU81d2lIbjF6R3RjSk5nSkhfY21tbk04SkgwVHU2elNkaS1ZaEZ6Tm1KcWFZTXJFLTAwYjdtdUxpUFV3elZ1MlBhN05ZclNjQTdQVFJrc25XR1h1ejNUV3hEVHM0Y09QSmE0",
-      "headline": "Kiggans Hosts VA Secretary Doug Collins for Veterans Roundtable in Virginia Beach",
-      "outlet": "kiggans.house.gov",
-      "outlet_domain": "kiggans.house.gov",
-      "local": false,
-      "date": "2026-09-24T14:08:33.000Z",
-      "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQOWUtcVpzZUFwX2hUbXJzd3hPQWZEYzBYdzE5eWtGN3NVNFA0T0pCcE9HMVJFQ21CNk45dl9maGp4NXhoZmQwUVc1bW5KdGVSWmc2bTFLV08tNU81d2lIbjF6R3RjSk5nSkhfY21tbk04SkgwVHU2elNkaS1ZaEZ6Tm1KcWFZTXJFLTAwYjdtdUxpUFV3elZ1MlBhN05ZclNjQTdQVFJrc25XR1h1ejNUV3hEVHM0Y09QSmE0?oc=5",
-      "candidates": [
-        "kiggans"
-      ],
-      "tags": [],
-      "official": true
-    },
-    {
-      "id": "CBMijgFBVV95cUxOVk9ZbkRmNFpCTUxLQk5rdGFmaVl4X2tqaUZTWHBEYngzajloU19sOHZfUmhyNUVydDR0Z3FPdVNuVG11Tm9oUFQ3WGxSRHFZZUkzZXRQUjMyeXNWc01fQmIwUGtzWWZqM29peWxSb1JJbVdXNnZHSTM4ZjJJd2dDYW1NRmlEQWQ4bEMyakJn",
-      "headline": "Truth Tracker: Race for 2nd Congressional District",
-      "outlet": "Yahoo",
-      "outlet_domain": "yahoo.com",
-      "local": false,
-      "official": false,
-      "date": "2026-09-24T07:00:00.000Z",
-      "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOVk9ZbkRmNFpCTUxLQk5rdGFmaVl4X2tqaUZTWHBEYngzajloU19sOHZfUmhyNUVydDR0Z3FPdVNuVG11Tm9oUFQ3WGxSRHFZZUkzZXRQUjMyeXNWc01fQmIwUGtzWWZqM29peWxSb1JJbVdXNnZHSTM4ZjJJd2dDYW1NRmlEQWQ4bEMyakJn?oc=5",
-      "candidates": [
-        "luria"
-      ],
-      "tags": []
-    },
-    {
-      "id": "CBMi0gFBVV95cUxPVF8wQUFtM2VKdjNndmJ3RkpTU2JFeVBrckpwbkxkdmZGTjNZYk9uZ3Y2SVZwMm9kc0hteThkRGRqaENQMkFPazJsQkxBMTdHUEdNaWN5OWF3VjBRLXZ4Q3d0Q1ViTElrVFdRVUd2dGFDbW5senNGQTNSQ2tFSnVScVpmQkxyc2NyTzFaRjRGQ3o3RlhXVW45OERIQTVpbldsN0ktQ19IRzIzQjVPRjJDZkVkSXB5TWJPaGo2bURzQjg2b0FzYU1sLUY1TXZ3TndMZ0E",
-      "headline": "2nd Congressional District nominee Elaine Luria holds affordability roundtable on campaign trail",
-      "outlet": "The Virginian-Pilot",
-      "outlet_domain": "pilotonline.com",
-      "local": true,
-      "date": "2026-09-24T00:51:16.000Z",
-      "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxPVF8wQUFtM2VKdjNndmJ3RkpTU2JFeVBrckpwbkxkdmZGTjNZYk9uZ3Y2SVZwMm9kc0hteThkRGRqaENQMkFPazJsQkxBMTdHUEdNaWN5OWF3VjBRLXZ4Q3d0Q1ViTElrVFdRVUd2dGFDbW5senNGQTNSQ2tFSnVScVpmQkxyc2NyTzFaRjRGQ3o3RlhXVW45OERIQTVpbldsN0ktQ19IRzIzQjVPRjJDZkVkSXB5TWJPaGo2bURzQjg2b0FzYU1sLUY1TXZ3TndMZ0E?oc=5",
-      "candidates": [
-        "luria"
-      ],
-      "tags": [],
-      "official": false
-    },
-    {
-      "id": "CBMi8AFBVV95cUxPVWY1RkNWR0NOQ2UyZEZzXy0xa2VKOWVuSEJsT2I5ZkdFR0oxSXVyX3hyWVNZMVZDaHVJejhuQ3ZvMXJNNE5QNzlNTmZtQWFIdDN6NHVkZDBfeC1rRXFaSTl4ZUtFbnozaVhFWG1mcG9DOGw2NVp1a3JIYVozSFFkVDZHNzFQc0F2VVNrRnZmOF9PWGpkZ1dhbkdkZlZWUWpOVWxULWZvbVZvTFhROGZuaWZYR1FPRm92YmJtWjl5OXp6M0MtdThIQnUzUmhIYmRCbzhnejZULVZ1VmIxR3ZCSE1UOE1vNEVFU19FRTJQTW8",
-      "headline": "Video: Elaine Luria Out with Two New Ads; Hits Jen Kiggans for “Kicking 21,000 Virginians in VA-02 Off Their Health Insurance”",
-      "outlet": "InsuranceNewsNet",
-      "outlet_domain": "insurancenewsnet.com",
-      "local": false,
-      "date": "2026-09-23T18:41:31.000Z",
-      "link": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxPVWY1RkNWR0NOQ2UyZEZzXy0xa2VKOWVuSEJsT2I5ZkdFR0oxSXVyX3hyWVNZMVZDaHVJejhuQ3ZvMXJNNE5QNzlNTmZtQWFIdDN6NHVkZDBfeC1rRXFaSTl4ZUtFbnozaVhFWG1mcG9DOGw2NVp1a3JIYVozSFFkVDZHNzFQc0F2VVNrRnZmOF9PWGpkZ1dhbkdkZlZWUWpOVWxULWZvbVZvTFhROGZuaWZYR1FPRm92YmJtWjl5OXp6M0MtdThIQnUzUmhIYmRCbzhnejZULVZ1VmIxR3ZCSE1UOE1vNEVFU19FRTJQTW8?oc=5",
-      "candidates": [
-        "kiggans",
-        "luria"
-      ],
-      "tags": [],
-      "official": false
-    },
-    {
-      "id": "CBMicEFVX3lxTE81aUsxQ1pvODZXNXBJNFItYTlWeGFTQTRtMGRZUi1EZl9QcVpJMnFZTnUzYUZxUjEwam5LUEJCRXpYdjlVR2ZSWVFLaW90dmpGeWs5MXBUa1puZ1drYmlORnBGMWpydC15R2wwR3VqZUQ",
-      "headline": "Elaine Luria talks affordability crisis with 2nd District voters",
-      "outlet": "vadogwood.com",
-      "outlet_domain": "vadogwood.com",
-      "local": false,
-      "date": "2026-09-23T17:46:34.000Z",
-      "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE81aUsxQ1pvODZXNXBJNFItYTlWeGFTQTRtMGRZUi1EZl9QcVpJMnFZTnUzYUZxUjEwam5LUEJCRXpYdjlVR2ZSWVFLaW90dmpGeWs5MXBUa1puZ1drYmlORnBGMWpydC15R2wwR3VqZUQ?oc=5",
-      "candidates": [
-        "luria"
-      ],
-      "tags": [],
-      "official": false
-    },
-    {
-      "id": "CBMigAFBVV95cUxORmNNaXNlejJidzN5aEpBdDhSbHBIaHdvRHkycV9hUU9EamhzaWRha2NmWDdLUlRuWm9yUEhDZ0pnUHVFX1cyUjN0Z0thc0l0enR6dWZvX2hqdEVKWGZUaXBZRjY2THlBd29saGNnQVZvTHJhVC0zVWpVZ05YeUhOVg",
-      "headline": "Meet the candidates: Virginia’s 2nd Congressional District",
-      "outlet": "The Virginian-Pilot",
-      "outlet_domain": "pilotonline.com",
-      "local": true,
-      "date": "2026-09-23T17:39:44.000Z",
-      "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxORmNNaXNlejJidzN5aEpBdDhSbHBIaHdvRHkycV9hUU9EamhzaWRha2NmWDdLUlRuWm9yUEhDZ0pnUHVFX1cyUjN0Z0thc0l0enR6dWZvX2hqdEVKWGZUaXBZRjY2THlBd29saGNnQVZvTHJhVC0zVWpVZ05YeUhOVg?oc=5",
-      "candidates": [
-        "kiggans",
-        "luria"
-      ],
-      "tags": [],
-      "official": false
     }
   ]
 }
