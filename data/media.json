@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-24T16:06:43.341Z",
+  "updated_at": "2026-10-25T16:37:17.362Z",
   "source": "Google News RSS search",
   "queries": [
     "\"Jen Kiggans\"",
@@ -19,6 +19,20 @@
     "kiggans.house.gov"
   ],
   "items": [
+    {
+      "id": "CBMioAFBVV95cUxPbUhLZThjbmFxUXpOV2Y3ckZYeWNOam5VbWRNMDM4cVFFMjBaUzBPZnV4UE9fME1kTGRRTWVxYmVFZER3Z0owUGdsTm5Dei1CZ3VOazM3Z2hxRXhfRC1Lcjl2RXNnMnJxWVpxSUw4eml1dU9GdzhOTy1NcmpFdURIdjdCOTVaU0lZM2paU0dXT3MxOVlrZkg3UFVGNTF6dmNO",
+      "headline": "Letters for Oct. 25: Former U.S. Rep Luria is no Ronald Reagan",
+      "outlet": "The Virginian-Pilot",
+      "outlet_domain": "pilotonline.com",
+      "local": true,
+      "official": false,
+      "date": "2026-10-24T20:01:49.000Z",
+      "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPbUhLZThjbmFxUXpOV2Y3ckZYeWNOam5VbWRNMDM4cVFFMjBaUzBPZnV4UE9fME1kTGRRTWVxYmVFZER3Z0owUGdsTm5Dei1CZ3VOazM3Z2hxRXhfRC1Lcjl2RXNnMnJxWVpxSUw4eml1dU9GdzhOTy1NcmpFdURIdjdCOTVaU0lZM2paU0dXT3MxOVlrZkg3UFVGNTF6dmNO?oc=5",
+      "candidates": [
+        "luria"
+      ],
+      "tags": []
+    },
     {
       "id": "CBMiigFBVV95cUxPSU5KR24tZHg4a2F0ZXU4Z1pRV0cwX01peVpYcnJ6Q1dMX2l5eEZ4TkR0cDhYelRVMWZySWMyZXk4V3gzY2xtTFlQanF2bWNYelNra1dkQVB6ZUNHQk5QYXdaY1NVY2llS2RFWkVZVU9sMGhLYlpOTFM5cHhZcEZvQl9PQW8wb3NVckE",
       "headline": "Letter – Jen Kiggans ‘walks the walk’",
@@ -42,6 +56,20 @@
       "official": false,
       "date": "2026-10-23T19:02:58.000Z",
       "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE03RFpmR0pMdU95eHI2REpUNHcxbl9FeTcwRzZLSVBlSE9nSzhUQzBfX0IxZjFoaHR0UUJxTTNjdXFzcy1DZ2lBUTRyUF9Ra1lVNHo1ZzZFcHBxSjMxczkxTlV4RDhVb191?oc=5",
+      "candidates": [
+        "kiggans"
+      ],
+      "tags": []
+    },
+    {
+      "id": "CBMimAFBVV95cUxOMjdzOWtRUlZ0Nl90UkxJcUpEXy1lVXVqNzdxeVZCbWpFeVdjbDVSdW92Z2dQZlAtY0FvTzNicjNjcEdmSEJqOXhmSlhZQ0RId1hvX0dXMGZjNzNzaFcwN2U0dlRjNW9YVEtGVG8wd05WU2g2a3FGQlFteTdwcGh5cTlaTzhRalRSMkN3bHBmeDlET3Z1YmpQUA",
+      "headline": "Rep. Kiggans to Newsmax: 'We Will Win' Virginia's Pivotal House Race",
+      "outlet": "Yahoo",
+      "outlet_domain": "yahoo.com",
+      "local": false,
+      "official": false,
+      "date": "2026-10-23T18:47:47.000Z",
+      "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOMjdzOWtRUlZ0Nl90UkxJcUpEXy1lVXVqNzdxeVZCbWpFeVdjbDVSdW92Z2dQZlAtY0FvTzNicjNjcEdmSEJqOXhmSlhZQ0RId1hvX0dXMGZjNzNzaFcwN2U0dlRjNW9YVEtGVG8wd05WU2g2a3FGQlFteTdwcGh5cTlaTzhRalRSMkN3bHBmeDlET3Z1YmpQUA?oc=5",
       "candidates": [
         "kiggans"
       ],
@@ -129,6 +157,7 @@
       "date": "2026-10-21T14:28:13.000Z",
       "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxOdlR6TndlVjNjQWdWcWJlV2NoZGNad0NUUzdIVkVZN1ROOEZTdUwxQlBHWHZKM1N0eWsxTURfN1IzT043RnBTOVZsN3E1WlNPakVLN3BfSk92aWc0U0Y2NEVwOG1PbTJ0ZGs1bVZ2a1RTVVFhZjFLUHBNSnR3SGFXT203QUFJaDkzZ2VMaFQwcWxwVmZVQ3VqOU9qSjMxd0ZHOGtQQW9yWnlsa2hxT1lTZnZibTNES1BRTjZiX2gzS2UxVzBUc0V1dlRKcTI?oc=5",
       "candidates": [
+        "kiggans",
         "luria"
       ],
       "tags": []
@@ -373,6 +402,20 @@
       "candidates": [
         "kiggans",
         "luria"
+      ],
+      "tags": []
+    },
+    {
+      "id": "CBMisAFBVV95cUxQclBNb0Y0enVYYnhlQmNpck5vSkVxdFBSUEZRNGE2bEVVbk5jbU1pNGJodm5hMHN1RERwdDkwTms1aEktU0FoTURMalpaVzZjUHVrdEstQllTWl9rZ3pPVXM1LXFZdlFIT0pFWUpHYlJvNUNZekVoMkFNZ1JEQ1luQklBcV91REJWZGxxNURXa1IxVFdYOUlPVFNKeDQ3YjQtYWZaYm1vYVJkN203Y0VLQg",
+      "headline": "Letters for Oct. 19: Should government control AI like it does the dollar?",
+      "outlet": "The Virginian-Pilot",
+      "outlet_domain": "pilotonline.com",
+      "local": true,
+      "official": false,
+      "date": "2026-10-18T20:03:14.000Z",
+      "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQclBNb0Y0enVYYnhlQmNpck5vSkVxdFBSUEZRNGE2bEVVbk5jbU1pNGJodm5hMHN1RERwdDkwTms1aEktU0FoTURMalpaVzZjUHVrdEstQllTWl9rZ3pPVXM1LXFZdlFIT0pFWUpHYlJvNUNZekVoMkFNZ1JEQ1luQklBcV91REJWZGxxNURXa1IxVFdYOUlPVFNKeDQ3YjQtYWZaYm1vYVJkN203Y0VLQg?oc=5",
+      "candidates": [
+        "kiggans"
       ],
       "tags": []
     },
@@ -1868,6 +1911,20 @@
       "tags": []
     },
     {
+      "id": "CBMiwwFBVV95cUxNTGpQcDFTQ2RVYzV0NWhvcU50N1FYLVM2X01OMVhHZFZpYUZhYTVFOGU2VXFUc1VKTXpJZERHMjRncGJEMWxrcXh2UHM4d1VJYXdERWpla2I4Y21UWlFzSzdPak14LXRXYzd1aW50aUg4MTFUTW1tQ0ZpMFEzVDg4U1JtdWxaczZ4aDFxLTZiaWJURVppYjZLaW9hUldhN18zRFVBZUpRbzN4cjhNT0g5V2RZb1g4SUprQUF5eklpdDJPT0U",
+      "headline": "Kiggans faces questions over financial industry money and consumer protection votes",
+      "outlet": "InsideNoVa",
+      "outlet_domain": "insidenova.com",
+      "local": false,
+      "official": false,
+      "date": "2026-10-01T07:00:00.000Z",
+      "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNTGpQcDFTQ2RVYzV0NWhvcU50N1FYLVM2X01OMVhHZFZpYUZhYTVFOGU2VXFUc1VKTXpJZERHMjRncGJEMWxrcXh2UHM4d1VJYXdERWpla2I4Y21UWlFzSzdPak14LXRXYzd1aW50aUg4MTFUTW1tQ0ZpMFEzVDg4U1JtdWxaczZ4aDFxLTZiaWJURVppYjZLaW9hUldhN18zRFVBZUpRbzN4cjhNT0g5V2RZb1g4SUprQUF5eklpdDJPT0U?oc=5",
+      "candidates": [
+        "kiggans"
+      ],
+      "tags": []
+    },
+    {
       "id": "CBMijAFBVV95cUxNeVZDdlliQVpSNjhCVGE0N3JrdnNQZDJOaTBGcXFRTE1MVnR2UWlDQzlPNGR6ZS1ISk1IRUVFZHo4bTN1eFpTWHB2bU5mb1l6UjVjazV2YWNFcGl4OXR5aXlsUkFXZWFackdCRnQ5dDJKNThBU3Bta0djckhjVlRHMTRPOGlEaDF1dGNrRA",
       "headline": "Congressional hopefuls visit Rappahannock",
       "outlet": "Rappahannock News",
@@ -2326,79 +2383,6 @@
       ],
       "tags": [],
       "official": true
-    },
-    {
-      "id": "CBMioAFBVV95cUxPZ2h6NHFWMjRsdVVEdHVYOFJLYWQxeW9NcVl0VUdmb3NyUmdNWVRFT3NmRGI2bG9wakpGVVM0cEJyWmVRbVlXeE9GcTkwaXBzOHRGR0xKbzhuamRtazNlYUxaWXhpeVVRajhNazZpanU2dHVHemZobmY4U09jbTJPN3lJd1A0VFRkOFJUVDNxZlpTTE1WWVdJRDhXMmtXSnJD0gGmAUFVX3lxTE9Sdno4TXFqZG9Mcjl4YU9FRjM3c2xjQTlDcW16Sm9lNXVjaWpMVXh5WE4xejE1ZlJjTnh2S0FNOW1tY1BSWG9MM1pHeDY0MFNrbmYtTTNNSnh0Qjd6UHdHM1poU0Mxc083Z08ySFdkWE1FTUJhdUo3VGFmVVYyVmxuQzlkbVFkTzBVOVdhYWFvaXpIeVdXQ3N4TUlFR3lSZEFpUUN6N3c",
-      "headline": "Truth Tracker: Race for 2nd Congressional District",
-      "outlet": "WAVY",
-      "outlet_domain": "wavy.com",
-      "local": true,
-      "date": "2026-09-24T22:55:14.000Z",
-      "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPZ2h6NHFWMjRsdVVEdHVYOFJLYWQxeW9NcVl0VUdmb3NyUmdNWVRFT3NmRGI2bG9wakpGVVM0cEJyWmVRbVlXeE9GcTkwaXBzOHRGR0xKbzhuamRtazNlYUxaWXhpeVVRajhNazZpanU2dHVHemZobmY4U09jbTJPN3lJd1A0VFRkOFJUVDNxZlpTTE1WWVdJRDhXMmtXSnJD0gGmAUFVX3lxTE9Sdno4TXFqZG9Mcjl4YU9FRjM3c2xjQTlDcW16Sm9lNXVjaWpMVXh5WE4xejE1ZlJjTnh2S0FNOW1tY1BSWG9MM1pHeDY0MFNrbmYtTTNNSnh0Qjd6UHdHM1poU0Mxc083Z08ySFdkWE1FTUJhdUo3VGFmVVYyVmxuQzlkbVFkTzBVOVdhYWFvaXpIeVdXQ3N4TUlFR3lSZEFpUUN6N3c?oc=5",
-      "candidates": [
-        "kiggans",
-        "luria"
-      ],
-      "tags": [],
-      "official": false
-    },
-    {
-      "id": "CBMilAFBVV95cUxOc18yUm9Ta2VjNWJ5Y093Y3dUYzJyeDU5ak9MYU1QcHdKU2t3a1dINTgxdHdzR1dRTXFYSkVId2hmQmJsY0VIb1Atb1J4bjBmUmlaY0xWakU0OVA5YlZCbTRMMnZnRnh3WExuWHI2b1l0eEFkZ01WU0xreGs1cHQxT20xM2E5VlUtOXhmb21DUlZmVVpz",
-      "headline": "2nd District Q&A: Matt Baker, Jen Kiggans, Elaine Luria, Geral “Bishop” Staten",
-      "outlet": "VPM",
-      "outlet_domain": "vpm.org",
-      "local": false,
-      "date": "2026-09-24T20:57:59.000Z",
-      "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOc18yUm9Ta2VjNWJ5Y093Y3dUYzJyeDU5ak9MYU1QcHdKU2t3a1dINTgxdHdzR1dRTXFYSkVId2hmQmJsY0VIb1Atb1J4bjBmUmlaY0xWakU0OVA5YlZCbTRMMnZnRnh3WExuWHI2b1l0eEFkZ01WU0xreGs1cHQxT20xM2E5VlUtOXhmb21DUlZmVVpz?oc=5",
-      "candidates": [
-        "kiggans",
-        "luria"
-      ],
-      "tags": [],
-      "official": false
-    },
-    {
-      "id": "CBMi6AFBVV95cUxNSksxME9meVhmeGVNa1BXWGhwTWx4UDc5LVVEaUpnUTBlMnBjYkdKVXZsYzFLa3pxOGFJaE03SzZRaF81dDlvTTg4bUstSUE0ajZwOHNIMlYzeEFFTGNENWxadlJzOUlRd1FJN215d05nRk9VeTFWek1haEpvZndDdE54OHVoblVjN2dCTk9GSHRGaHo2TWlFYUk0SnJPcS1iTkNRdEhHSkRHdVNiSnB2RHprQmliOWd2ZTk3eENJYllQZFN4WkN2MEd2MGtXa3VJTC1vWHJBdU1Ya0RpdTR0ZGlTSERjTGdY",
-      "headline": "Video: Elaine Luria Releases “Two Codes” Ad Highlighting How Rep. Jen Kiggans (R-VA02) Will Say and Do *Anything* to Get Elected",
-      "outlet": "Blue Virginia",
-      "outlet_domain": "bluevirginia.us",
-      "local": false,
-      "date": "2026-09-24T20:17:07.000Z",
-      "link": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxNSksxME9meVhmeGVNa1BXWGhwTWx4UDc5LVVEaUpnUTBlMnBjYkdKVXZsYzFLa3pxOGFJaE03SzZRaF81dDlvTTg4bUstSUE0ajZwOHNIMlYzeEFFTGNENWxadlJzOUlRd1FJN215d05nRk9VeTFWek1haEpvZndDdE54OHVoblVjN2dCTk9GSHRGaHo2TWlFYUk0SnJPcS1iTkNRdEhHSkRHdVNiSnB2RHprQmliOWd2ZTk3eENJYllQZFN4WkN2MEd2MGtXa3VJTC1vWHJBdU1Ya0RpdTR0ZGlTSERjTGdY?oc=5",
-      "candidates": [
-        "kiggans",
-        "luria"
-      ],
-      "tags": [],
-      "official": false
-    },
-    {
-      "id": "CBMixwFBVV95cUxPYkZkVlhDOUpyb3BoMUF4OFNVb254NEhqYVI5TFVMM3VLdHRYNGdFek9BMHBfeXpCR0xlajFqSFVPUUtsRllJbWtFanJ3alBObW9PUHV3elBydGRCS1dsX1o3b0hBS0E1UC1SblJ6ZVBJekJrQzRQb0M5ZDNRc1h3NzZJcU5DZFpWWmFUWWVmWWhGS1JlZnF2bXdNd2FnRWhHMThHMTJ0YjFpSGpHUVhDWDEzVU5EaXU5VEVaWHV4ZHZGT2xVMDQ0",
-      "headline": "How corruption is popping up in Republican and Democratic ads everywhere ahead of the election",
-      "outlet": "NBC News",
-      "outlet_domain": "nbcnews.com",
-      "local": false,
-      "date": "2026-09-24T20:14:49.000Z",
-      "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPYkZkVlhDOUpyb3BoMUF4OFNVb254NEhqYVI5TFVMM3VLdHRYNGdFek9BMHBfeXpCR0xlajFqSFVPUUtsRllJbWtFanJ3alBObW9PUHV3elBydGRCS1dsX1o3b0hBS0E1UC1SblJ6ZVBJekJrQzRQb0M5ZDNRc1h3NzZJcU5DZFpWWmFUWWVmWWhGS1JlZnF2bXdNd2FnRWhHMThHMTJ0YjFpSGpHUVhDWDEzVU5EaXU5VEVaWHV4ZHZGT2xVMDQ0?oc=5",
-      "candidates": [
-        "kiggans"
-      ],
-      "tags": [],
-      "official": false
-    },
-    {
-      "id": "CBMingFBVV95cUxOQTV3c1REbEk5S0lNY1hXWmRCSWJWM0Zwck5aX0ZTN0kyOXhGZlhPX2JscVVCbk1LVnQzZEJ3el9tTndaUTBCeFJWWnRQeVlrXzVMY0NMakRoYUJncWgtN3haZ0Fkdm03bFUwNUU5TU1xWjQtYmhvNnNiRHNsUVpxVUktSDU2THdLaGZRSExwU2M5X2kyS3lhZnNKdXQ2Zw",
-      "headline": "How the fate of a rural hospital could help flip the House",
-      "outlet": "The Washington Post",
-      "outlet_domain": "washingtonpost.com",
-      "local": false,
-      "official": false,
-      "date": "2026-09-24T17:00:01.000Z",
-      "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxOQTV3c1REbEk5S0lNY1hXWmRCSWJWM0Zwck5aX0ZTN0kyOXhGZlhPX2JscVVCbk1LVnQzZEJ3el9tTndaUTBCeFJWWnRQeVlrXzVMY0NMakRoYUJncWgtN3haZ0Fkdm03bFUwNUU5TU1xWjQtYmhvNnNiRHNsUVpxVUktSDU2THdLaGZRSExwU2M5X2kyS3lhZnNKdXQ2Zw?oc=5",
-      "candidates": [
-        "luria"
-      ],
-      "tags": []
     }
   ]
 }
