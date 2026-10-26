@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-24T14:02:26.540Z",
+  "updated_at": "2026-10-26T16:49:33.533Z",
   "cycle": 2026,
   "source": "Federal Election Commission, OpenFEC API (api.open.fec.gov)",
   "source_url": "https://www.fec.gov/data/elections/house/VA/02/2026/",
@@ -60,6 +60,318 @@
     }
   ],
   "forty_eight_hour_reports": [
+    {
+      "candidate": "kiggans",
+      "committee_id": "C00776120",
+      "file_number": 2041897,
+      "form_type": "F6N",
+      "filed": "2026-10-25",
+      "total": 26000,
+      "contributions": [
+        {
+          "contributor": "\"\"",
+          "entity_type": "IND",
+          "city": "\"CHESTERFIELD\"",
+          "state": "VA",
+          "employer": "\"LOYALTY AUTOMOTIVE\"",
+          "occupation": "\"PRESIDENT\"",
+          "date": "2026-10-24",
+          "amount": 7000
+        },
+        {
+          "contributor": "\"\"",
+          "entity_type": "IND",
+          "city": "\"FAIRHOPE\"",
+          "state": "AL",
+          "employer": "\"RETIRED\"",
+          "occupation": "\"RETIRED\"",
+          "date": "2026-10-24",
+          "amount": 1000
+        },
+        {
+          "contributor": "\"\"",
+          "entity_type": "IND",
+          "city": "\"CLIFTON\"",
+          "state": "VA",
+          "employer": "\"RETIRED\"",
+          "occupation": "\"RETIRED\"",
+          "date": "2026-10-24",
+          "amount": 1000
+        },
+        {
+          "contributor": "\"AMERICA'S CREDIT UNIONS PAC\"",
+          "entity_type": "PAC",
+          "city": "\"WASHINGTON\"",
+          "state": "DC",
+          "employer": "\"\"",
+          "occupation": "\"\"",
+          "date": "2026-10-23",
+          "amount": 5000
+        },
+        {
+          "contributor": "\"BUILD PAC OF THE NATINOLA ASSOCIATION OF HOME BUILDERS\"",
+          "entity_type": "PAC",
+          "city": "\"WASHINGTON\"",
+          "state": "DC",
+          "employer": "\"\"",
+          "occupation": "\"\"",
+          "date": "2026-10-23",
+          "amount": 5000
+        },
+        {
+          "contributor": "\"MCKESSON CORPORATION EMPLOYEES POLITICAL FUND\"",
+          "entity_type": "PAC",
+          "city": "\"WASHINGTON\"",
+          "state": "DC",
+          "employer": "\"\"",
+          "occupation": "\"\"",
+          "date": "2026-10-23",
+          "amount": 4000
+        },
+        {
+          "contributor": "\"CHESAPEAKE UTILITIES CORP PAC\"",
+          "entity_type": "PAC",
+          "city": "\"DOVER\"",
+          "state": "DE",
+          "employer": "\"\"",
+          "occupation": "\"\"",
+          "date": "2026-10-23",
+          "amount": 1500
+        },
+        {
+          "contributor": "\"EMD SERONO INC. PAC\"",
+          "entity_type": "PAC",
+          "city": "\"ROCKLAND\"",
+          "state": "MA",
+          "employer": "\"\"",
+          "occupation": "\"\"",
+          "date": "2026-10-23",
+          "amount": 1500
+        }
+      ],
+      "url": "https://docquery.fec.gov/cgi-bin/forms/C00776120/2041897/"
+    },
+    {
+      "candidate": "luria",
+      "committee_id": "C00926303",
+      "file_number": 2041703,
+      "form_type": "F6N",
+      "filed": "2026-10-25",
+      "total": 48466.66,
+      "contributions": [
+        {
+          "contributor": "UA UNION PLUMBERS & PIPEFITTERS VOTE! PAC (UNITED ASSOCIATION OF JOURNEYMEN AND APPRENTICE",
+          "entity_type": "PAC",
+          "city": "Annapolis",
+          "state": "MD",
+          "employer": null,
+          "occupation": null,
+          "date": "2026-10-24",
+          "amount": 5000
+        },
+        {
+          "contributor": "Terry Grossman",
+          "entity_type": "IND",
+          "city": "Los Angeles",
+          "state": "CA",
+          "employer": "Not Employed",
+          "occupation": "Not Employed",
+          "date": "2026-10-24",
+          "amount": 1800
+        },
+        {
+          "contributor": "Barbara Friedman",
+          "entity_type": "IND",
+          "city": "Culpeper",
+          "state": "VA",
+          "employer": "Not Employed",
+          "occupation": "Not Employed",
+          "date": "2026-10-24",
+          "amount": 1500
+        },
+        {
+          "contributor": "Jon Gold",
+          "entity_type": "IND",
+          "city": "Westport",
+          "state": "CT",
+          "employer": "Edgehill Partner",
+          "occupation": "Partner",
+          "date": "2026-10-24",
+          "amount": 1000
+        },
+        {
+          "contributor": "Don Ryan",
+          "entity_type": "IND",
+          "city": "Arlington",
+          "state": "VA",
+          "employer": "Rebuilding Together-AFF",
+          "occupation": "Director Of Partnerships",
+          "date": "2026-10-24",
+          "amount": 1000
+        },
+        {
+          "contributor": "Alan Shapiro",
+          "entity_type": "IND",
+          "city": "Virginia Beach",
+          "state": "VA",
+          "employer": "Not Employed",
+          "occupation": "Not Employed",
+          "date": "2026-10-24",
+          "amount": 1000
+        },
+        {
+          "contributor": "Conrad Hall",
+          "entity_type": "IND",
+          "city": "Norfolk",
+          "state": "VA",
+          "employer": "Not Employed",
+          "occupation": "Not Employed",
+          "date": "2026-10-23",
+          "amount": 5000
+        },
+        {
+          "contributor": "MITTEN PAC",
+          "entity_type": "PAC",
+          "city": "Southfield",
+          "state": "MI",
+          "employer": null,
+          "occupation": null,
+          "date": "2026-10-23",
+          "amount": 5000
+        },
+        {
+          "contributor": "AGAINST THE MACHINE PAC",
+          "entity_type": "PAC",
+          "city": "Scranton",
+          "state": "PA",
+          "employer": null,
+          "occupation": null,
+          "date": "2026-10-23",
+          "amount": 3500
+        },
+        {
+          "contributor": "Rory Gates",
+          "entity_type": "IND",
+          "city": "Washington",
+          "state": "DC",
+          "employer": "U.S. Senate",
+          "occupation": "Analyst",
+          "date": "2026-10-23",
+          "amount": 3500
+        },
+        {
+          "contributor": "Gary McCollum",
+          "entity_type": "IND",
+          "city": "Virginia Beach",
+          "state": "VA",
+          "employer": "Not Employed",
+          "occupation": "Not Employed",
+          "date": "2026-10-23",
+          "amount": 3500
+        },
+        {
+          "contributor": "Eric Kogan",
+          "entity_type": "IND",
+          "city": "New York",
+          "state": "NY",
+          "employer": "Clarion Capital Partners",
+          "occupation": "Partner",
+          "date": "2026-10-23",
+          "amount": 2666.66
+        },
+        {
+          "contributor": "ADVANCING DEMOCRACY AND MOBILIZATION PAC",
+          "entity_type": "PAC",
+          "city": "Boston",
+          "state": "MA",
+          "employer": null,
+          "occupation": null,
+          "date": "2026-10-23",
+          "amount": 2500
+        },
+        {
+          "contributor": "LEAGUE OF CONSERVATION VOTERS ACTION FUND",
+          "entity_type": "PAC",
+          "city": "Washington",
+          "state": "DC",
+          "employer": null,
+          "occupation": null,
+          "date": "2026-10-23",
+          "amount": 2500
+        },
+        {
+          "contributor": "EQUALITY PAC",
+          "entity_type": "PAC",
+          "city": "Washington",
+          "state": "DC",
+          "employer": null,
+          "occupation": null,
+          "date": "2026-10-23",
+          "amount": 2000
+        },
+        {
+          "contributor": "Donald Henley",
+          "entity_type": "IND",
+          "city": "Charlottesville",
+          "state": "VA",
+          "employer": "Self Employed",
+          "occupation": "Musician",
+          "date": "2026-10-23",
+          "amount": 2000
+        },
+        {
+          "contributor": "BRIDGE THE GAP PAC",
+          "entity_type": "PAC",
+          "city": "Gaithersburg",
+          "state": "MD",
+          "employer": null,
+          "occupation": null,
+          "date": "2026-10-23",
+          "amount": 1000
+        },
+        {
+          "contributor": "Brian Camden",
+          "entity_type": "IND",
+          "city": "Virginia Beach",
+          "state": "VA",
+          "employer": "Hardened Structures",
+          "occupation": "Engineer",
+          "date": "2026-10-23",
+          "amount": 1000
+        },
+        {
+          "contributor": "Edwin Kellam",
+          "entity_type": "IND",
+          "city": "Norfolk",
+          "state": "VA",
+          "employer": "Ware Insurance",
+          "occupation": "Risk Management Advisor",
+          "date": "2026-10-23",
+          "amount": 1000
+        },
+        {
+          "contributor": "Lawrence Silverstein",
+          "entity_type": "IND",
+          "city": "Waban",
+          "state": "MA",
+          "employer": "Not Employed",
+          "occupation": "Not Employed",
+          "date": "2026-10-23",
+          "amount": 1000
+        },
+        {
+          "contributor": "Leotis L. Williams",
+          "entity_type": "IND",
+          "city": "Suffolk",
+          "state": "VA",
+          "employer": "LW's Lawn Service LLC",
+          "occupation": "Manager",
+          "date": "2026-10-23",
+          "amount": 1000
+        }
+      ],
+      "url": "https://docquery.fec.gov/cgi-bin/forms/C00926303/2041703/"
+    },
     {
       "candidate": "kiggans",
       "committee_id": "C00776120",
