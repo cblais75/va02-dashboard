@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-25T16:37:17.362Z",
+  "updated_at": "2026-10-26T18:44:29.451Z",
   "source": "Google News RSS search",
   "queries": [
     "\"Jen Kiggans\"",
@@ -20,6 +20,34 @@
   ],
   "items": [
     {
+      "id": "CBMiwwFBVV95cUxPeGJ1UXlIRHpUbzBGR241cGluNGp2eVdWNXJ4MHN0a1lhdG9OcUdvZjZxVFNfS1lHXy1HRUQtVjZDM2FPZmdlcHNLWnN3VEdzQW5BLTVIVEw4cmhKb3Z1b04tUlFWNXBRQURidUVMRDVzY0tsYVhKNnpnYmtzZU9Jb0psZURibE9EcU5VZ29ZME04ai1yazktWGVZVldEMlhtNW55M1hpZUFNZnRRTHdvZnhnUzNoeTlCRFFkN3RNNnZaYm8",
+      "headline": "Kiggans, Goodlander Work to Strengthen Oversight of Navy’s Shipyard Modernization Program",
+      "outlet": "House.gov",
+      "outlet_domain": "kiggans.house.gov",
+      "local": false,
+      "official": true,
+      "date": "2026-10-26T16:34:30.000Z",
+      "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPeGJ1UXlIRHpUbzBGR241cGluNGp2eVdWNXJ4MHN0a1lhdG9OcUdvZjZxVFNfS1lHXy1HRUQtVjZDM2FPZmdlcHNLWnN3VEdzQW5BLTVIVEw4cmhKb3Z1b04tUlFWNXBRQURidUVMRDVzY0tsYVhKNnpnYmtzZU9Jb0psZURibE9EcU5VZ29ZME04ai1yazktWGVZVldEMlhtNW55M1hpZUFNZnRRTHdvZnhnUzNoeTlCRFFkN3RNNnZaYm8?oc=5",
+      "candidates": [
+        "kiggans"
+      ],
+      "tags": []
+    },
+    {
+      "id": "CBMifEFVX3lxTE42UXVIOE92YnNEU3dlOWlnbk1ZN1YwYjdSWEl2UUJsTk5hTjFoM0tVWThTQUtFeTQ2dmRhcnJ3TlZEdnlGd0pqNXVCNUw2SHFGZmx5bEJBMUVaRWxvamdOaEZuNGlmRnhqU0lTU0JENUFmZjFVbVhfNWJWTU0",
+      "headline": "Letter – Kiggins vs. Luria",
+      "outlet": "Smithfield Times",
+      "outlet_domain": "smithfieldtimes.com",
+      "local": false,
+      "official": false,
+      "date": "2026-10-26T13:03:49.000Z",
+      "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTE42UXVIOE92YnNEU3dlOWlnbk1ZN1YwYjdSWEl2UUJsTk5hTjFoM0tVWThTQUtFeTQ2dmRhcnJ3TlZEdnlGd0pqNXVCNUw2SHFGZmx5bEJBMUVaRWxvamdOaEZuNGlmRnhqU0lTU0JENUFmZjFVbVhfNWJWTU0?oc=5",
+      "candidates": [
+        "luria"
+      ],
+      "tags": []
+    },
+    {
       "id": "CBMioAFBVV95cUxPbUhLZThjbmFxUXpOV2Y3ckZYeWNOam5VbWRNMDM4cVFFMjBaUzBPZnV4UE9fME1kTGRRTWVxYmVFZER3Z0owUGdsTm5Dei1CZ3VOazM3Z2hxRXhfRC1Lcjl2RXNnMnJxWVpxSUw4eml1dU9GdzhOTy1NcmpFdURIdjdCOTVaU0lZM2paU0dXT3MxOVlrZkg3UFVGNTF6dmNO",
       "headline": "Letters for Oct. 25: Former U.S. Rep Luria is no Ronald Reagan",
       "outlet": "The Virginian-Pilot",
@@ -28,6 +56,20 @@
       "official": false,
       "date": "2026-10-24T20:01:49.000Z",
       "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPbUhLZThjbmFxUXpOV2Y3ckZYeWNOam5VbWRNMDM4cVFFMjBaUzBPZnV4UE9fME1kTGRRTWVxYmVFZER3Z0owUGdsTm5Dei1CZ3VOazM3Z2hxRXhfRC1Lcjl2RXNnMnJxWVpxSUw4eml1dU9GdzhOTy1NcmpFdURIdjdCOTVaU0lZM2paU0dXT3MxOVlrZkg3UFVGNTF6dmNO?oc=5",
+      "candidates": [
+        "luria"
+      ],
+      "tags": []
+    },
+    {
+      "id": "CBMinwFBVV95cUxPU29ncW91V1pSZlhEUG1JTjRVYnk2em5CUFhkSml5ZE9fTkxpMHp2V2hGd0tQSVg0SGN5Zy1VTU95TTBJZTBIVk40TGR3X1U0SEVmYVdOTHo5dkVDZXFWYmN1M1ZGRXJDTUZvdUZXOXR6UHUzTGx3UUdvQmZRRmpkYURySVJVTm8yWXJscDZKSTcyQjNvRnM4UUY0NzVWN2s",
+      "headline": "Letters for Oct. 25: Former U.S. Rep Luria is no Ronald Reagan",
+      "outlet": "Daily Press",
+      "outlet_domain": "dailypress.com",
+      "local": true,
+      "official": false,
+      "date": "2026-10-24T20:01:37.000Z",
+      "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPU29ncW91V1pSZlhEUG1JTjRVYnk2em5CUFhkSml5ZE9fTkxpMHp2V2hGd0tQSVg0SGN5Zy1VTU95TTBJZTBIVk40TGR3X1U0SEVmYVdOTHo5dkVDZXFWYmN1M1ZGRXJDTUZvdUZXOXR6UHUzTGx3UUdvQmZRRmpkYURySVJVTm8yWXJscDZKSTcyQjNvRnM4UUY0NzVWN2s?oc=5",
       "candidates": [
         "luria"
       ],
@@ -230,7 +272,8 @@
       "date": "2026-10-20T17:01:27.000Z",
       "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5kSW9QQ1NKdlNzS3BKOENYcUJLRGdRbjl1M3FPcGE2ZUFYYzljZVl0VjhGN1JjUUloZTlMRVMwTDdyVDBrUEp0dW1HWTZ6MU16WDREb1NjQUU1cjRFeFg1OHBpU09wNkNCa0Jia3preDl4cV9rZ08yQVFFU3FWckU?oc=5",
       "candidates": [
-        "kiggans"
+        "kiggans",
+        "luria"
       ],
       "tags": []
     },
@@ -980,6 +1023,20 @@
       "official": false,
       "date": "2026-10-15T04:02:35.000Z",
       "link": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxQRlZoWnBoVTJobmRUaXdoS3JYSklEdWhwUEJUdjVEdE9MdVlUS0dlTWh1dnNkRHpreWFmVHVteXVROFkydWItSFdiYms4Y1pYTktRTDYwNzM5YWV5dnVadk1xRUVmWUdUQTNMQ3BzUFByckVUeVZ1TEhIbU1CWWNiQWROWk42VWtRams5SDZ3YllFbnhWQkdlNWtIaWdZQ0FySEpqLUc5YlFmN09pZEt1elR0a1RXcUhSejgxVm5IWnFSWHpoTkk3ZmJQLVpLRzV6LUR2LVdBbUpudw?oc=5",
+      "candidates": [
+        "kiggans"
+      ],
+      "tags": []
+    },
+    {
+      "id": "CBMi1wFBVV95cUxNVWxYaC1LZ1dpMzZoMm1qczR2aGI4X1NpdzlaaWVnNFFBZHMzRW9PMmRDZzNicDFXWUZYczF2U0VJU3dmTko1THllelVLTERrVTl0UkZVcjEwekktR0J2bWhzQU84Q05fLWNDc1pwNGFPMTNVSHR1cVpiMkstSHc5Sm5RQVdieV9KWVkxR016RVR4QVpFMmhPaVZCdXpPMGtId2xyWDJaOElGT002ZGd0VlROZHVfejk3WnNEVHQtWWpwWlRzcDZadVVmdWdWZW5SWWFFS2RxNA",
+      "headline": "With anger spreading over Iran war, Democrats hope to flip Republican seats with veterans' help",
+      "outlet": "WSLS",
+      "outlet_domain": "wsls.com",
+      "local": false,
+      "official": false,
+      "date": "2026-10-15T04:02:35.000Z",
+      "link": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxNVWxYaC1LZ1dpMzZoMm1qczR2aGI4X1NpdzlaaWVnNFFBZHMzRW9PMmRDZzNicDFXWUZYczF2U0VJU3dmTko1THllelVLTERrVTl0UkZVcjEwekktR0J2bWhzQU84Q05fLWNDc1pwNGFPMTNVSHR1cVpiMkstSHc5Sm5RQVdieV9KWVkxR016RVR4QVpFMmhPaVZCdXpPMGtId2xyWDJaOElGT002ZGd0VlROZHVfejk3WnNEVHQtWWpwWlRzcDZadVVmdWdWZW5SWWFFS2RxNA?oc=5",
       "candidates": [
         "kiggans"
       ],
@@ -1911,6 +1968,20 @@
       "tags": []
     },
     {
+      "id": "CBMizAFBVV95cUxPT204OG1VMnAtUDQtdEdsMWxfMWpzdGluazNTNGRwVWhZd3hqZVAxaGZTck9aQTQ5U3FzN3M0XzV1TE1TQlN2R05SYzcydkNLOEFLd28wY0tjODcxM2JzcnBob1pXdHFCQjEwY1Ewb1NXc2hRWEhmUXdFN2hKSXh0OHJscTREZzhTajc2V1ZCV19xS1BtVG1oaVQ4SEtaSnhSc2o5QTI5Y19nZ3FXRVBScXlpUXNrdVdwaDFYYUk1VnFEWnQ4ZVVUNnBydVM",
+      "headline": "Here’s how incumbents in Virginia’s 1st, 2nd and 5th Congressional Districts have voted on abortion",
+      "outlet": "News From The States",
+      "outlet_domain": "newsfromthestates.com",
+      "local": false,
+      "official": false,
+      "date": "2026-10-01T07:00:00.000Z",
+      "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxPT204OG1VMnAtUDQtdEdsMWxfMWpzdGluazNTNGRwVWhZd3hqZVAxaGZTck9aQTQ5U3FzN3M0XzV1TE1TQlN2R05SYzcydkNLOEFLd28wY0tjODcxM2JzcnBob1pXdHFCQjEwY1Ewb1NXc2hRWEhmUXdFN2hKSXh0OHJscTREZzhTajc2V1ZCV19xS1BtVG1oaVQ4SEtaSnhSc2o5QTI5Y19nZ3FXRVBScXlpUXNrdVdwaDFYYUk1VnFEWnQ4ZVVUNnBydVM?oc=5",
+      "candidates": [
+        "kiggans"
+      ],
+      "tags": []
+    },
+    {
       "id": "CBMiwwFBVV95cUxNTGpQcDFTQ2RVYzV0NWhvcU50N1FYLVM2X01OMVhHZFZpYUZhYTVFOGU2VXFUc1VKTXpJZERHMjRncGJEMWxrcXh2UHM4d1VJYXdERWpla2I4Y21UWlFzSzdPak14LXRXYzd1aW50aUg4MTFUTW1tQ0ZpMFEzVDg4U1JtdWxaczZ4aDFxLTZiaWJURVppYjZLaW9hUldhN18zRFVBZUpRbzN4cjhNT0g5V2RZb1g4SUprQUF5eklpdDJPT0U",
       "headline": "Kiggans faces questions over financial industry money and consumer protection votes",
       "outlet": "InsideNoVa",
@@ -2268,121 +2339,6 @@
       ],
       "tags": [],
       "official": false
-    },
-    {
-      "id": "CBMisgFBVV95cUxOR0Vpeld6dUVQZk5EUVpPbHRfeXg1VFNEZk5ndndjaF9tR3FuelQ3UGVHUHVfaE1OS0hWVnoxZGw5eWVRZkRuRTkyb05pd2F6eWNLdlRjYkhGWkhtN2E2WkZXM3ZhT1ktUVRha1k1YUpiaGtQRjdSRW9pZTZlU190dGt6d01hcTdadVBUTjdXT09ZZm9hdXkycVZHU2x4ZDh6NUZZcFl1Ylh2TTJ1akFmci1n",
-      "headline": "Election 2026 Virginia",
-      "outlet": "rutlandherald.com",
-      "outlet_domain": "rutlandherald.com",
-      "local": false,
-      "date": "2026-09-26T17:35:13.000Z",
-      "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOR0Vpeld6dUVQZk5EUVpPbHRfeXg1VFNEZk5ndndjaF9tR3FuelQ3UGVHUHVfaE1OS0hWVnoxZGw5eWVRZkRuRTkyb05pd2F6eWNLdlRjYkhGWkhtN2E2WkZXM3ZhT1ktUVRha1k1YUpiaGtQRjdSRW9pZTZlU190dGt6d01hcTdadVBUTjdXT09ZZm9hdXkycVZHU2x4ZDh6NUZZcFl1Ylh2TTJ1akFmci1n?oc=5",
-      "candidates": [
-        "kiggans"
-      ],
-      "tags": [],
-      "official": false
-    },
-    {
-      "id": "CBMitwFBVV95cUxPUXZuRjhEMkV5dVBBd3dXNG1RN3gtbkFYSFZiWkhYS3huSlJoLXUyYTZaRUNFTGMzWndLbHQtNUNzb0JTakVMZXJlLWJfMXZhRkdVRTRuNWJCRm8xN0gzclJvaGptaDdodXBIaVlhQ1AwNXQwZEFZUVZhR3pmQkRjRW9GRElzNk5oY05aZkt6cERhZUVfdFN5SThER2ROYzBJZ25qbnUxYVJIcldSQTh1Q1FOdkJ1bXc",
-      "headline": "Election 2026 Virginia",
-      "outlet": "Goshen News",
-      "outlet_domain": "goshennews.com",
-      "local": false,
-      "official": false,
-      "date": "2026-09-26T17:19:35.000Z",
-      "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPUXZuRjhEMkV5dVBBd3dXNG1RN3gtbkFYSFZiWkhYS3huSlJoLXUyYTZaRUNFTGMzWndLbHQtNUNzb0JTakVMZXJlLWJfMXZhRkdVRTRuNWJCRm8xN0gzclJvaGptaDdodXBIaVlhQ1AwNXQwZEFZUVZhR3pmQkRjRW9GRElzNk5oY05aZkt6cERhZUVfdFN5SThER2ROYzBJZ25qbnUxYVJIcldSQTh1Q1FOdkJ1bXc?oc=5",
-      "candidates": [
-        "kiggans",
-        "luria"
-      ],
-      "tags": []
-    },
-    {
-      "id": "CBMiogFBVV95cUxNS04xWXl4UXdubGFmLUVYaDFMellNTUtwTnNYSXQ3ZnN3Rl9tdkRVbkppclJWdjZmXy1VXzF0Y3BsUnoyX2R2N1hsQXZSLTBUaG9iaDdfR1YtSUlFT3BYWWxPdV9OU2ZlcFlPOWZXZ2lKcUU1TVVFT3RYanFCQWh1VjFiekRRckhHaUM3SDVrTE9PUnNZR0d3MXVpSU1Ndl95aVE",
-      "headline": "Election 2026 Virginia",
-      "outlet": "The Herald Journal",
-      "outlet_domain": "hjnews.com",
-      "local": false,
-      "date": "2026-09-26T17:19:26.000Z",
-      "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNS04xWXl4UXdubGFmLUVYaDFMellNTUtwTnNYSXQ3ZnN3Rl9tdkRVbkppclJWdjZmXy1VXzF0Y3BsUnoyX2R2N1hsQXZSLTBUaG9iaDdfR1YtSUlFT3BYWWxPdV9OU2ZlcFlPOWZXZ2lKcUU1TVVFT3RYanFCQWh1VjFiekRRckhHaUM3SDVrTE9PUnNZR0d3MXVpSU1Ndl95aVE?oc=5",
-      "candidates": [
-        "kiggans",
-        "luria"
-      ],
-      "tags": [],
-      "official": false
-    },
-    {
-      "id": "CBMitAFBVV95cUxOaTRlWWx1ZGZ1SF9fXzQtMk5vU3BmTTlPR1RJNWFhTzFzd2VVdGQ0TDMxUXRJVVpMdUpaQXZtLXJKVzZXV0ItSVk4Z0tHcHRfazQ3ZklCZW8xcDgwd20zYktLY1lNcXlRZmZxaTgzNkFyejBlY1JtNzVnbzl3OUpnSVVWYzhEUG5OWVE1dnJsWTc4NEI3VUhkMVdSUkNUT0Jxbmg1and3VEVXZVVoX2gzS1JtOWs",
-      "headline": "Election 2026 Virginia",
-      "outlet": "Bluefield Daily Telegraph",
-      "outlet_domain": "bdtonline.com",
-      "local": false,
-      "official": false,
-      "date": "2026-09-26T17:19:25.000Z",
-      "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOaTRlWWx1ZGZ1SF9fXzQtMk5vU3BmTTlPR1RJNWFhTzFzd2VVdGQ0TDMxUXRJVVpMdUpaQXZtLXJKVzZXV0ItSVk4Z0tHcHRfazQ3ZklCZW8xcDgwd20zYktLY1lNcXlRZmZxaTgzNkFyejBlY1JtNzVnbzl3OUpnSVVWYzhEUG5OWVE1dnJsWTc4NEI3VUhkMVdSUkNUT0Jxbmg1and3VEVXZVVoX2gzS1JtOWs?oc=5",
-      "candidates": [
-        "kiggans",
-        "luria"
-      ],
-      "tags": []
-    },
-    {
-      "id": "CBMikgFBVV95cUxOVmQtZFBZSHV4R3FFWGNIMzZBd2tKeUppaXZSODh4TEJRc1UzSWl0Wm1jcV9FcXBCcU04S3ZpaE1WLXozV0tWLWMzZkdHRDh3UDJ2djJ3TjBjLUlualVuWkU5NmFDSVZLLXpXUkNpeGhIeUpRaWplX1AtZmJXa1JabEJFSzZtUXA4YzFWenAtaTJ0QQ",
-      "headline": "House approves Kiggans’ Safe Beaches, Safe Swimmers Act",
-      "outlet": "Ripon Advance",
-      "outlet_domain": "riponadvance.com",
-      "local": false,
-      "date": "2026-09-26T04:12:31.000Z",
-      "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOVmQtZFBZSHV4R3FFWGNIMzZBd2tKeUppaXZSODh4TEJRc1UzSWl0Wm1jcV9FcXBCcU04S3ZpaE1WLXozV0tWLWMzZkdHRDh3UDJ2djJ3TjBjLUlualVuWkU5NmFDSVZLLXpXUkNpeGhIeUpRaWplX1AtZmJXa1JabEJFSzZtUXA4YzFWenAtaTJ0QQ?oc=5",
-      "candidates": [
-        "kiggans"
-      ],
-      "tags": [],
-      "official": false
-    },
-    {
-      "id": "CBMipwFBVV95cUxPTG9kMmNLNVNIb1F6SDBCU1JkclZsTFpOZGVoLVhvZ1ZwUUZqVGtwLVY1V2o5Um82TG1KVFVRcU1YNEdDdzFra25ZNVhmUTJWSndtV1I0bkxseTZYbnM5R2lxdm1SU0RJWDhuUXFPSVkzZGE1YVJSNHFRc2tmSDdfWVp6RzJfbWVGX2tXRTlkRWVvUHFiWEhIemc4NTJOczk4S1U4UF9uTQ",
-      "headline": "Rep. Jim Jordan (R-OH) Campaigns for Rep. Jen Kiggans (R-VA)",
-      "outlet": "C-SPAN",
-      "outlet_domain": "c-span.org",
-      "local": false,
-      "date": "2026-09-26T04:00:00.000Z",
-      "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPTG9kMmNLNVNIb1F6SDBCU1JkclZsTFpOZGVoLVhvZ1ZwUUZqVGtwLVY1V2o5Um82TG1KVFVRcU1YNEdDdzFra25ZNVhmUTJWSndtV1I0bkxseTZYbnM5R2lxdm1SU0RJWDhuUXFPSVkzZGE1YVJSNHFRc2tmSDdfWVp6RzJfbWVGX2tXRTlkRWVvUHFiWEhIemc4NTJOczk4S1U4UF9uTQ?oc=5",
-      "candidates": [
-        "kiggans"
-      ],
-      "tags": [],
-      "official": false
-    },
-    {
-      "id": "CBMiqAFBVV95cUxNNHd5elZobFRzdTFNZEhYQVpHVFVFdS1CWExiM3V0azV5dnR1VlVpTEZvakJzNkhzS3R3NnNTRXdudDZWWXZ3LUtleXU0US1IZDM0VkM0YW5FM2hyUmV4SEtMTlN4aXlxWTE5N29tRENNTnlyS1BvV0hjSWdpeEZ2NTRRdExQRk1MczYzRWZLUHZBQ1NYZWNQRmJFRXFkMzUxdkM1NTNEaUs",
-      "headline": "House advances Kiggans’ bipartisan bill to protect historic battlefields",
-      "outlet": "Ripon Advance",
-      "outlet_domain": "riponadvance.com",
-      "local": false,
-      "official": false,
-      "date": "2026-09-25T21:21:33.000Z",
-      "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNNHd5elZobFRzdTFNZEhYQVpHVFVFdS1CWExiM3V0azV5dnR1VlVpTEZvakJzNkhzS3R3NnNTRXdudDZWWXZ3LUtleXU0US1IZDM0VkM0YW5FM2hyUmV4SEtMTlN4aXlxWTE5N29tRENNTnlyS1BvV0hjSWdpeEZ2NTRRdExQRk1MczYzRWZLUHZBQ1NYZWNQRmJFRXFkMzUxdkM1NTNEaUs?oc=5",
-      "candidates": [
-        "kiggans"
-      ],
-      "tags": []
-    },
-    {
-      "id": "CBMi6wFBVV95cUxOdUstd1piYlo1M0w5NVlmVjQ3bGRyMktPSWxYWEtFYnBKU2FuZElMU0t0RmlMelREdnJYZkg3WDJjUW43NHVTVEVMdVFpRFdqMFJEUUI2cTNUOXhfLUN3QUZEcFZKYTRzRnJWRzFCX0Jid2JneVRvb28xS2xwdmdVc1RrS05BbzQzN0VKcjNUeVlOd09QZGhQUnd0TVhMa3ZCSTFwU3hnNEx2VVdELWtRUHZZNzVKaWc0OGd0UC1IcWl4cnBvMHpRbGlkMERsdG9pV245ekRyOUFpN3d2MmN1ZVNza29iUDBZcmQw",
-      "headline": "Kiggans, Wittman Call on USDA to Provide Federal Assistance for Virginia Oyster Growers in Light of Recent Algal Bloom",
-      "outlet": "kiggans.house.gov",
-      "outlet_domain": "kiggans.house.gov",
-      "local": false,
-      "date": "2026-09-25T18:18:03.000Z",
-      "link": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxOdUstd1piYlo1M0w5NVlmVjQ3bGRyMktPSWxYWEtFYnBKU2FuZElMU0t0RmlMelREdnJYZkg3WDJjUW43NHVTVEVMdVFpRFdqMFJEUUI2cTNUOXhfLUN3QUZEcFZKYTRzRnJWRzFCX0Jid2JneVRvb28xS2xwdmdVc1RrS05BbzQzN0VKcjNUeVlOd09QZGhQUnd0TVhMa3ZCSTFwU3hnNEx2VVdELWtRUHZZNzVKaWc0OGd0UC1IcWl4cnBvMHpRbGlkMERsdG9pV245ekRyOUFpN3d2MmN1ZVNza29iUDBZcmQw?oc=5",
-      "candidates": [
-        "kiggans"
-      ],
-      "tags": [],
-      "official": true
     }
   ]
 }
