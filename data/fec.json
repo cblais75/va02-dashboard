@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-26T16:49:33.533Z",
+  "updated_at": "2026-10-27T15:54:49.380Z",
   "cycle": 2026,
   "source": "Federal Election Commission, OpenFEC API (api.open.fec.gov)",
   "source_url": "https://www.fec.gov/data/elections/house/VA/02/2026/",
@@ -3882,7 +3882,7 @@
     "by_candidate": {
       "kiggans": {
         "support": 371271.36,
-        "oppose": 2431578.98
+        "oppose": 2655858.07
       },
       "luria": {
         "support": 210771.83,
@@ -3913,6 +3913,14 @@
         "support_oppose": "support",
         "total": 260293.12,
         "count": 5
+      },
+      {
+        "committee_id": "C00633248",
+        "committee_name": "314 ACTION FUND",
+        "candidate": "kiggans",
+        "support_oppose": "oppose",
+        "total": 224279.09,
+        "count": 3
       },
       {
         "committee_id": "C00580068",
