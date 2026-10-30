@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-29T16:58:32.351Z",
+  "updated_at": "2026-10-30T16:43:35.441Z",
   "cycle": 2026,
   "source": "Federal Election Commission, OpenFEC API (api.open.fec.gov)",
   "source_url": "https://www.fec.gov/data/elections/house/VA/02/2026/",
@@ -60,6 +60,948 @@
     }
   ],
   "forty_eight_hour_reports": [
+    {
+      "candidate": "kiggans",
+      "committee_id": "C00776120",
+      "file_number": 2043953,
+      "form_type": "F6N",
+      "filed": "2026-10-29",
+      "total": 135787.6,
+      "contributions": [
+        {
+          "contributor": "\"GROWING OUR OWN DYNAMIC ECONOMY NOW\"",
+          "entity_type": "PAC",
+          "city": "\"TERRELL\"",
+          "state": "TX",
+          "employer": "\"\"",
+          "occupation": "\"\"",
+          "date": "2026-10-28",
+          "amount": 5000
+        },
+        {
+          "contributor": "\"VITORIA PAC\"",
+          "entity_type": "PAC",
+          "city": "\"FRESNO\"",
+          "state": "CA",
+          "employer": "\"\"",
+          "occupation": "\"\"",
+          "date": "2026-10-28",
+          "amount": 5000
+        },
+        {
+          "contributor": "\"TIMBERLINE PAC\"",
+          "entity_type": "PAC",
+          "city": "\"CHEHALIS\"",
+          "state": "WA",
+          "employer": "\"\"",
+          "occupation": "\"\"",
+          "date": "2026-10-28",
+          "amount": 3500
+        },
+        {
+          "contributor": "\"\"",
+          "entity_type": "IND",
+          "city": "\"TULSA\"",
+          "state": "OK",
+          "employer": "\"ALLIANCE RESOURCE PARTNERS LP\"",
+          "occupation": "\"PRESIDENT\"",
+          "date": "2026-10-28",
+          "amount": 3500
+        },
+        {
+          "contributor": "\"\"",
+          "entity_type": "IND",
+          "city": "\"COURTLAND\"",
+          "state": "VA",
+          "employer": "\"RETIRED \"",
+          "occupation": "\"RETIRED \"",
+          "date": "2026-10-28",
+          "amount": 3500
+        },
+        {
+          "contributor": "\"\"",
+          "entity_type": "IND",
+          "city": "\"WILMETTE\"",
+          "state": "IL",
+          "employer": "\"SELF EMPLOYED\"",
+          "occupation": "\"INVESTMENT MANAGER\"",
+          "date": "2026-10-28",
+          "amount": 3500
+        },
+        {
+          "contributor": "\"CONSERVATIVE SERVICE ACTION RESULTS CSAR PAC\"",
+          "entity_type": "PAC",
+          "city": "\"ALEXANDRIA\"",
+          "state": "VA",
+          "employer": "\"\"",
+          "occupation": "\"\"",
+          "date": "2026-10-28",
+          "amount": 3000
+        },
+        {
+          "contributor": "\"\"",
+          "entity_type": "IND",
+          "city": "\"RANCHO SANTA FE\"",
+          "state": "CA",
+          "employer": "\"SELF EMPLOYED\"",
+          "occupation": "\"INVESTOR\"",
+          "date": "2026-10-28",
+          "amount": 2768.06
+        },
+        {
+          "contributor": "\"NEXTERA ENERGY, INC. PAC\"",
+          "entity_type": "PAC",
+          "city": "\"JUNO BEACH\"",
+          "state": "FL",
+          "employer": "\"\"",
+          "occupation": "\"\"",
+          "date": "2026-10-28",
+          "amount": 2500
+        },
+        {
+          "contributor": "\"LET'S ALL KEEP ELECTING REPUBLICANS PAC\"",
+          "entity_type": "PAC",
+          "city": "\"HUDSON\"",
+          "state": "WI",
+          "employer": "\"\"",
+          "occupation": "\"\"",
+          "date": "2026-10-28",
+          "amount": 2000
+        },
+        {
+          "contributor": "\"\"",
+          "entity_type": "IND",
+          "city": "\"MOUNTAIN BROOK\"",
+          "state": "AL",
+          "employer": "\"CRANEWORKS \"",
+          "occupation": "\"OWNER\"",
+          "date": "2026-10-28",
+          "amount": 2000
+        },
+        {
+          "contributor": "\"\"",
+          "entity_type": "IND",
+          "city": "\"VIRGINIA BEACH\"",
+          "state": "VA",
+          "employer": "\"RETIRED\"",
+          "occupation": "\"RETIRED\"",
+          "date": "2026-10-28",
+          "amount": 1500
+        },
+        {
+          "contributor": "\"\"",
+          "entity_type": "IND",
+          "city": "\"SAVANNAH\"",
+          "state": "GA",
+          "employer": "\"RETIRED\"",
+          "occupation": "\"RETIRED\"",
+          "date": "2026-10-28",
+          "amount": 1041.02
+        },
+        {
+          "contributor": "\"\"",
+          "entity_type": "IND",
+          "city": "\"VIRGINIA BEACH\"",
+          "state": "VA",
+          "employer": "\"CRISIS PREGNANCY CENTER OF TIDEWATER\"",
+          "occupation": "\"ADMIN DIRECTOR\"",
+          "date": "2026-10-28",
+          "amount": 1041.02
+        },
+        {
+          "contributor": "\"RANGER PAC\"",
+          "entity_type": "PAC",
+          "city": "\"ATHENS\"",
+          "state": "GA",
+          "employer": "\"\"",
+          "occupation": "\"\"",
+          "date": "2026-10-28",
+          "amount": 1000
+        },
+        {
+          "contributor": "\"\"",
+          "entity_type": "IND",
+          "city": "\"BIRMINGHAM\"",
+          "state": "AL",
+          "employer": "\"CS BEATTY CONSTRUCTION \"",
+          "occupation": "\"FOUNDER\"",
+          "date": "2026-10-28",
+          "amount": 1000
+        },
+        {
+          "contributor": "\"\"",
+          "entity_type": "IND",
+          "city": "\"WASHINGTON\"",
+          "state": "DC",
+          "employer": "\"RETIRED\"",
+          "occupation": "\"RETIRED\"",
+          "date": "2026-10-28",
+          "amount": 1000
+        },
+        {
+          "contributor": "\"\"",
+          "entity_type": "IND",
+          "city": "\"BOCA RATON\"",
+          "state": "FL",
+          "employer": "\"RETIRED\"",
+          "occupation": "\"RETIRED\"",
+          "date": "2026-10-28",
+          "amount": 1000
+        },
+        {
+          "contributor": "\"\"",
+          "entity_type": "IND",
+          "city": "\"ALEXANDRIA\"",
+          "state": "VA",
+          "employer": "\"THE LIVINGSTON GROUP\"",
+          "occupation": "\"LOBBYIST\"",
+          "date": "2026-10-28",
+          "amount": 1000
+        },
+        {
+          "contributor": "\"\"",
+          "entity_type": "IND",
+          "city": "\"CRAGFORD\"",
+          "state": "AL",
+          "employer": "\"WELLBORN CABINETS\"",
+          "occupation": "\"CREDIT MANAGER\"",
+          "date": "2026-10-28",
+          "amount": 1000
+        },
+        {
+          "contributor": "\"\"",
+          "entity_type": "IND",
+          "city": "\"APPLING\"",
+          "state": "GA",
+          "employer": "\"POLLARD LUMBER CO\"",
+          "occupation": "\"PRESIDENT\"",
+          "date": "2026-10-28",
+          "amount": 1000
+        },
+        {
+          "contributor": "\"\"",
+          "entity_type": "IND",
+          "city": "\"BIRMINGHAM\"",
+          "state": "AL",
+          "employer": "\"RETIRED \"",
+          "occupation": "\"RETIRED \"",
+          "date": "2026-10-28",
+          "amount": 1000
+        },
+        {
+          "contributor": "\"\"",
+          "entity_type": "IND",
+          "city": "\"VIRGINIA BEACH\"",
+          "state": "VA",
+          "employer": "\"RETIRED\"",
+          "occupation": "\"RETIRED\"",
+          "date": "2026-10-28",
+          "amount": 1000
+        },
+        {
+          "contributor": "\"MR PAC\"",
+          "entity_type": "PAC",
+          "city": "\"SAINT JOSEPH\"",
+          "state": "MI",
+          "employer": "\"\"",
+          "occupation": "\"\"",
+          "date": "2026-10-27",
+          "amount": 5000
+        },
+        {
+          "contributor": "\"\"",
+          "entity_type": "IND",
+          "city": "\"LOCUST VALLEY\"",
+          "state": "NY",
+          "employer": "\"RETIRED\"",
+          "occupation": "\"RETIRED\"",
+          "date": "2026-10-27",
+          "amount": 3500
+        },
+        {
+          "contributor": "\"\"",
+          "entity_type": "IND",
+          "city": "\"DALLAS\"",
+          "state": "TX",
+          "employer": "\"RETIRED \"",
+          "occupation": "\"RETIRED \"",
+          "date": "2026-10-27",
+          "amount": 3500
+        },
+        {
+          "contributor": "\"\"",
+          "entity_type": "IND",
+          "city": "\"PLANO\"",
+          "state": "TX",
+          "employer": "\"FISHER INVESTMENTS\"",
+          "occupation": "\"EXECUTIVE CHAIRMAN\"",
+          "date": "2026-10-27",
+          "amount": 3500
+        },
+        {
+          "contributor": "\"\"",
+          "entity_type": "IND",
+          "city": "\"PLANO\"",
+          "state": "TX",
+          "employer": "\"PLANO 6500 LLC\"",
+          "occupation": "\"MEMBER\"",
+          "date": "2026-10-27",
+          "amount": 3500
+        },
+        {
+          "contributor": "\"\"",
+          "entity_type": "IND",
+          "city": "\"SAN ANTONIO\"",
+          "state": "TX",
+          "employer": "\"ENERGY TRANSFER PARTNERS\"",
+          "occupation": "\"EXECUTIVE\"",
+          "date": "2026-10-27",
+          "amount": 3500
+        },
+        {
+          "contributor": "\"\"",
+          "entity_type": "IND",
+          "city": "\"GREENWICH\"",
+          "state": "CT",
+          "employer": "\"HOMEMAKER\"",
+          "occupation": "\"HOMEMAKER\"",
+          "date": "2026-10-27",
+          "amount": 3500
+        },
+        {
+          "contributor": "\"\"",
+          "entity_type": "IND",
+          "city": "\"GREENWICH\"",
+          "state": "CT",
+          "employer": "\"BGP\"",
+          "occupation": "\"MANAGER\"",
+          "date": "2026-10-27",
+          "amount": 3500
+        },
+        {
+          "contributor": "\"\"",
+          "entity_type": "IND",
+          "city": "\"MIAMI BEACH\"",
+          "state": "FL",
+          "employer": "\"SATTER INVESTMENT MANAGEMENT\"",
+          "occupation": "\"INVESTOR\"",
+          "date": "2026-10-27",
+          "amount": 3500
+        },
+        {
+          "contributor": "\"\"",
+          "entity_type": "IND",
+          "city": "\"MILL CREEK\"",
+          "state": "WA",
+          "employer": "\"ADAMANT HOMES, INC.\"",
+          "occupation": "\"HOMEBUILDER\"",
+          "date": "2026-10-27",
+          "amount": 1437.5
+        },
+        {
+          "contributor": "\"FOR OUR NATION'S GREATNESS, RESILIENCE, EXCELLENCE, STRENGTH\"",
+          "entity_type": "PAC",
+          "city": "\"BETHESDA\"",
+          "state": "MD",
+          "employer": "\"\"",
+          "occupation": "\"\"",
+          "date": "2026-10-27",
+          "amount": 1000
+        },
+        {
+          "contributor": "\"\"",
+          "entity_type": "IND",
+          "city": "\"FORT LAUDERDALE\"",
+          "state": "FL",
+          "employer": "\"RETIRED\"",
+          "occupation": "\"RETIRED\"",
+          "date": "2026-10-26",
+          "amount": 2500
+        },
+        {
+          "contributor": "\"\"",
+          "entity_type": "IND",
+          "city": "\"CHESAPEAKE\"",
+          "state": "VA",
+          "employer": "\"HOMEMAKER\"",
+          "occupation": "\"HOMEMAKER\"",
+          "date": "2026-10-22",
+          "amount": 3500
+        },
+        {
+          "contributor": "\"\"",
+          "entity_type": "IND",
+          "city": "\"NAPLES\"",
+          "state": "FL",
+          "employer": "\"RETIRED \"",
+          "occupation": "\"RETIRED \"",
+          "date": "2026-10-22",
+          "amount": 2500
+        },
+        {
+          "contributor": "\"\"",
+          "entity_type": "IND",
+          "city": "\"VIRGINIA BEACH\"",
+          "state": "VA",
+          "employer": "\"C & T ASSOCIATES\"",
+          "occupation": "\"OWNER\"",
+          "date": "2026-10-22",
+          "amount": 2500
+        },
+        {
+          "contributor": "\"\"",
+          "entity_type": "IND",
+          "city": "\"SUFFOLK\"",
+          "state": "VA",
+          "employer": "\"BIRDSODA CORPORATION\"",
+          "occupation": "\"ATTORNEY\"",
+          "date": "2026-10-22",
+          "amount": 1250
+        },
+        {
+          "contributor": "\"\"",
+          "entity_type": "IND",
+          "city": "\"VIRGINIA BEACH\"",
+          "state": "VA",
+          "employer": "\"EDLOGICS\"",
+          "occupation": "\"CEO\"",
+          "date": "2026-10-22",
+          "amount": 1250
+        },
+        {
+          "contributor": "\"\"",
+          "entity_type": "IND",
+          "city": "\"GREENWOOD VILLAGE\"",
+          "state": "CO",
+          "employer": "\"RETIRED \"",
+          "occupation": "\"RETIRED\"",
+          "date": "2026-10-20",
+          "amount": 3500
+        },
+        {
+          "contributor": "\"\"",
+          "entity_type": "IND",
+          "city": "\"VIRGINIA BEACH\"",
+          "state": "VA",
+          "employer": "\"LONDON BRIDGE TRADING INC \"",
+          "occupation": "\"PRESIDENT\"",
+          "date": "2026-10-19",
+          "amount": 3500
+        },
+        {
+          "contributor": "\"MARC ASSOCIATES\"",
+          "entity_type": "ORG",
+          "city": "\"VIRGINIA BEACH\"",
+          "state": "VA",
+          "employer": "\"\"",
+          "occupation": "\"\"",
+          "date": "2026-10-19",
+          "amount": 2500
+        },
+        {
+          "contributor": "\"\"",
+          "entity_type": "IND",
+          "city": "\"VIRGINIA BEACH\"",
+          "state": "VA",
+          "employer": "\"RIGID SECURITY GROUP INC\"",
+          "occupation": "\"CEO\"",
+          "date": "2026-10-19",
+          "amount": 2500
+        },
+        {
+          "contributor": "\"\"",
+          "entity_type": "IND",
+          "city": "\"VIRGINIA BEACH\"",
+          "state": "VA",
+          "employer": "\"SELF EMPLOYED\"",
+          "occupation": "\"REAL ESTATE\"",
+          "date": "2026-10-19",
+          "amount": 1500
+        },
+        {
+          "contributor": "\"\"",
+          "entity_type": "IND",
+          "city": "\"YOUNGSTOWN\"",
+          "state": "OH",
+          "employer": "\"NMK CONSULTING LLC\"",
+          "occupation": "\"CEO\"",
+          "date": "2026-10-19",
+          "amount": 1000
+        },
+        {
+          "contributor": "\"\"",
+          "entity_type": "IND",
+          "city": "\"VIRGINIA BEACH\"",
+          "state": "VA",
+          "employer": "\"RETIRED\"",
+          "occupation": "\"RETIRED\"",
+          "date": "2026-10-16",
+          "amount": 3500
+        },
+        {
+          "contributor": "\"\"",
+          "entity_type": "IND",
+          "city": "\"JACKSONVILLE\"",
+          "state": "FL",
+          "employer": "\"S23 HOLDINGS, LLC\"",
+          "occupation": "\"SHIP BUILDING AND REPAIR\"",
+          "date": "2026-10-16",
+          "amount": 2500
+        },
+        {
+          "contributor": "\"\"",
+          "entity_type": "IND",
+          "city": "\"VIRGINIA BEACH\"",
+          "state": "VA",
+          "employer": "\"DRIVEWAY MOTORS INC\"",
+          "occupation": "\"AUTO DEALER\"",
+          "date": "2026-10-16",
+          "amount": 1000
+        },
+        {
+          "contributor": "\"\"",
+          "entity_type": "IND",
+          "city": "\"FRANKLIN\"",
+          "state": "VA",
+          "employer": "\"SELF EMPLOYED\"",
+          "occupation": "\"ATTORNEY\"",
+          "date": "2026-10-15",
+          "amount": 2500
+        },
+        {
+          "contributor": "\"\"",
+          "entity_type": "IND",
+          "city": "\"VIRGINIA BEACH\"",
+          "state": "VA",
+          "employer": "\"GBS GROUP\"",
+          "occupation": "\"CEO\"",
+          "date": "2026-10-15",
+          "amount": 2500
+        },
+        {
+          "contributor": "\"\"",
+          "entity_type": "IND",
+          "city": "\"VIRGINIA BEACH\"",
+          "state": "VA",
+          "employer": "\"RETIRED\"",
+          "occupation": "\"RETIRED\"",
+          "date": "2026-10-15",
+          "amount": 1000
+        },
+        {
+          "contributor": "\"\"",
+          "entity_type": "IND",
+          "city": "\"VIRGINIA BEACH\"",
+          "state": "VA",
+          "employer": "\"FINFIT\"",
+          "occupation": "\"CEO\"",
+          "date": "2026-10-14",
+          "amount": 3500
+        },
+        {
+          "contributor": "\"\"",
+          "entity_type": "IND",
+          "city": "\"VIRGINIA BEACH\"",
+          "state": "VA",
+          "employer": "\"VECTRONA\"",
+          "occupation": "\"EXECUTIVE\"",
+          "date": "2026-10-14",
+          "amount": 2500
+        },
+        {
+          "contributor": "\"\"",
+          "entity_type": "IND",
+          "city": "\"RICHMOND\"",
+          "state": "VA",
+          "employer": "\"ESTES EXPRESS LINES\"",
+          "occupation": "\"CFO\"",
+          "date": "2026-10-13",
+          "amount": 3500
+        },
+        {
+          "contributor": "\"\"",
+          "entity_type": "IND",
+          "city": "\"NEWPORT NEWS\"",
+          "state": "VA",
+          "employer": "\"RAND ENTERPRISES\"",
+          "occupation": "\"CONTRACTOR\"",
+          "date": "2026-10-13",
+          "amount": 1000
+        }
+      ],
+      "url": "https://docquery.fec.gov/cgi-bin/forms/C00776120/2043953/"
+    },
+    {
+      "candidate": "luria",
+      "committee_id": "C00926303",
+      "file_number": 2043600,
+      "form_type": "F6N",
+      "filed": "2026-10-29",
+      "total": 73391.38,
+      "contributions": [
+        {
+          "contributor": "CARPENTERS LEGISLATIVE IMPROVEMENT COMMITTEE UNITED BROTHERHOOD OF CARPENTERS AND JOINERS",
+          "entity_type": "PAC",
+          "city": "Washington",
+          "state": "DC",
+          "employer": null,
+          "occupation": null,
+          "date": "2026-10-28",
+          "amount": 5000
+        },
+        {
+          "contributor": "GOOD NEWS PAC",
+          "entity_type": "PAC",
+          "city": "Lemoyne",
+          "state": "PA",
+          "employer": null,
+          "occupation": null,
+          "date": "2026-10-28",
+          "amount": 3500
+        },
+        {
+          "contributor": "GOVERNMENT THAT WORKS PAC",
+          "entity_type": "PAC",
+          "city": "Washington",
+          "state": "DC",
+          "employer": null,
+          "occupation": null,
+          "date": "2026-10-28",
+          "amount": 3500
+        },
+        {
+          "contributor": "Keith Hebeisen",
+          "entity_type": "IND",
+          "city": "Chicago",
+          "state": "IL",
+          "employer": "Clifford Law Offices",
+          "occupation": "Attorney",
+          "date": "2026-10-28",
+          "amount": 3500
+        },
+        {
+          "contributor": "Jan Sramek",
+          "entity_type": "IND",
+          "city": "Fairfield",
+          "state": "CA",
+          "employer": "California Forever",
+          "occupation": "Founder",
+          "date": "2026-10-28",
+          "amount": 3500
+        },
+        {
+          "contributor": "NATIONAL TREASURY EMPLOYEES UNION POLITICAL ACTION COMMITTEE",
+          "entity_type": "PAC",
+          "city": "Washington",
+          "state": "DC",
+          "employer": null,
+          "occupation": null,
+          "date": "2026-10-28",
+          "amount": 2500
+        },
+        {
+          "contributor": "UNITY FIRST PAC",
+          "entity_type": "ORG",
+          "city": "Baltimore",
+          "state": "MD",
+          "employer": null,
+          "occupation": null,
+          "date": "2026-10-28",
+          "amount": 2500
+        },
+        {
+          "contributor": "Bruce Smith",
+          "entity_type": "IND",
+          "city": "Virginia Beach",
+          "state": "VA",
+          "employer": "Bruce Smith Enterprise",
+          "occupation": "Owner",
+          "date": "2026-10-28",
+          "amount": 2000
+        },
+        {
+          "contributor": "SOUTHERN CALIFORNIA FUND",
+          "entity_type": "PAC",
+          "city": "Los Angeles",
+          "state": "CA",
+          "employer": null,
+          "occupation": null,
+          "date": "2026-10-28",
+          "amount": 2000
+        },
+        {
+          "contributor": "David Arias",
+          "entity_type": "IND",
+          "city": "Virginia Beach",
+          "state": "VA",
+          "employer": "Not Employed",
+          "occupation": "Not Employed",
+          "date": "2026-10-28",
+          "amount": 1750
+        },
+        {
+          "contributor": "Nathan Punwani",
+          "entity_type": "IND",
+          "city": "Paradise Valley",
+          "state": "AZ",
+          "employer": "Mayo Clinic",
+          "occupation": "Physician",
+          "date": "2026-10-28",
+          "amount": 1001
+        },
+        {
+          "contributor": "Joseph Alsop",
+          "entity_type": "IND",
+          "city": "Beverly",
+          "state": "MA",
+          "employer": "Alsop Louie Partners",
+          "occupation": "Venture Partner",
+          "date": "2026-10-28",
+          "amount": 1000
+        },
+        {
+          "contributor": "Frances Crutchfield",
+          "entity_type": "IND",
+          "city": "Midlothian",
+          "state": "VA",
+          "employer": "Not Employed",
+          "occupation": "Not Employed",
+          "date": "2026-10-28",
+          "amount": 1000
+        },
+        {
+          "contributor": "Robert Kahn",
+          "entity_type": "IND",
+          "city": "Atlanta",
+          "state": "GA",
+          "employer": "Canal Partners Media",
+          "occupation": "Attorney",
+          "date": "2026-10-28",
+          "amount": 1000
+        },
+        {
+          "contributor": "Alan D. Levow",
+          "entity_type": "IND",
+          "city": "Atlanta",
+          "state": "GA",
+          "employer": "Crowne Partners Inc",
+          "occupation": "Real Estate Developer",
+          "date": "2026-10-28",
+          "amount": 1000
+        },
+        {
+          "contributor": "Jeremy Mcgee",
+          "entity_type": "IND",
+          "city": "Norfolk",
+          "state": "VA",
+          "employer": "Radiant Digital",
+          "occupation": "CEO",
+          "date": "2026-10-28",
+          "amount": 1000
+        },
+        {
+          "contributor": "Tamin Pechet",
+          "entity_type": "IND",
+          "city": "Atherton",
+          "state": "CA",
+          "employer": "Upwell LLC",
+          "occupation": "CEO",
+          "date": "2026-10-28",
+          "amount": 1000
+        },
+        {
+          "contributor": "SHERMAN FOR CONGRESS",
+          "entity_type": "CCM",
+          "city": "Los Angeles",
+          "state": "CA",
+          "employer": null,
+          "occupation": null,
+          "date": "2026-10-28",
+          "amount": 1000
+        },
+        {
+          "contributor": "Harold Singer",
+          "entity_type": "IND",
+          "city": "Metairie",
+          "state": "LA",
+          "employer": "Not Employed",
+          "occupation": "Not Employed",
+          "date": "2026-10-28",
+          "amount": 1000
+        },
+        {
+          "contributor": "Albert Small",
+          "entity_type": "IND",
+          "city": "Bethesda",
+          "state": "MD",
+          "employer": "Renaissance Centro",
+          "occupation": "Founder",
+          "date": "2026-10-28",
+          "amount": 1000
+        },
+        {
+          "contributor": "Daniel Walsh",
+          "entity_type": "IND",
+          "city": "Cincinnati",
+          "state": "OH",
+          "employer": "Not Employed",
+          "occupation": "Not Employed",
+          "date": "2026-10-28",
+          "amount": 1000
+        },
+        {
+          "contributor": "Douglas Beck",
+          "entity_type": "IND",
+          "city": "Saratoga",
+          "state": "CA",
+          "employer": "Yale University",
+          "occupation": "Senior Fellow",
+          "date": "2026-10-27",
+          "amount": 3500
+        },
+        {
+          "contributor": "John Bennett",
+          "entity_type": "IND",
+          "city": "Delray Beach",
+          "state": "FL",
+          "employer": "Not Employed",
+          "occupation": "Not Employed",
+          "date": "2026-10-27",
+          "amount": 3500
+        },
+        {
+          "contributor": "DC51",
+          "entity_type": "PAC",
+          "city": "Washington",
+          "state": "DC",
+          "employer": null,
+          "occupation": null,
+          "date": "2026-10-27",
+          "amount": 3500
+        },
+        {
+          "contributor": "Nicole Mutchnik",
+          "entity_type": "IND",
+          "city": "Beverly Hills",
+          "state": "CA",
+          "employer": "Not Employed",
+          "occupation": "Not Employed",
+          "date": "2026-10-27",
+          "amount": 3500
+        },
+        {
+          "contributor": "Steven Rubenstein",
+          "entity_type": "IND",
+          "city": "Brooklyn",
+          "state": "NY",
+          "employer": "Rubenstein Communications",
+          "occupation": "President",
+          "date": "2026-10-27",
+          "amount": 3500
+        },
+        {
+          "contributor": "POLITICAL ACTION COMMITTEE OF THE INTERNATIONAL ALLIANCE OF THEATRICAL STAGE EMPLOYEES",
+          "entity_type": "ORG",
+          "city": "New York",
+          "state": "NY",
+          "employer": null,
+          "occupation": null,
+          "date": "2026-10-27",
+          "amount": 2500
+        },
+        {
+          "contributor": "DCCC",
+          "entity_type": "PTY",
+          "city": "Washington",
+          "state": "DC",
+          "employer": null,
+          "occupation": null,
+          "date": "2026-10-27",
+          "amount": 2140.38
+        },
+        {
+          "contributor": "Sarah McLain",
+          "entity_type": "IND",
+          "city": "DPO",
+          "state": "AE",
+          "employer": "US Government",
+          "occupation": "Administrator",
+          "date": "2026-10-27",
+          "amount": 2000
+        },
+        {
+          "contributor": "Cynthia Sears",
+          "entity_type": "IND",
+          "city": "Bainbridge Island",
+          "state": "WA",
+          "employer": "Not Employed",
+          "occupation": "Not Employed",
+          "date": "2026-10-27",
+          "amount": 2000
+        },
+        {
+          "contributor": "Sandra Kay Taub",
+          "entity_type": "IND",
+          "city": "Silver Spring",
+          "state": "MD",
+          "employer": "Not Employed",
+          "occupation": "Not Employed",
+          "date": "2026-10-27",
+          "amount": 1500
+        },
+        {
+          "contributor": "COMMITTEE FOR A STRONGER AMERICA",
+          "entity_type": "PAC",
+          "city": "Santa Rosa",
+          "state": "CA",
+          "employer": null,
+          "occupation": null,
+          "date": "2026-10-27",
+          "amount": 1000
+        },
+        {
+          "contributor": "Anthony Harrington",
+          "entity_type": "IND",
+          "city": "Washington",
+          "state": "DC",
+          "employer": "Albright Stonebridge Group LLC",
+          "occupation": "Founding Partner",
+          "date": "2026-10-27",
+          "amount": 1000
+        },
+        {
+          "contributor": "Michael H Lewis",
+          "entity_type": "IND",
+          "city": "Onancock",
+          "state": "VA",
+          "employer": "Not Employed",
+          "occupation": "Not Employed",
+          "date": "2026-10-27",
+          "amount": 1000
+        },
+        {
+          "contributor": "Suzann Matthews",
+          "entity_type": "IND",
+          "city": "McLean",
+          "state": "VA",
+          "employer": "Not Employed",
+          "occupation": "Not Employed",
+          "date": "2026-10-27",
+          "amount": 1000
+        },
+        {
+          "contributor": "SHORE PAC",
+          "entity_type": "PAC",
+          "city": "Long Branch",
+          "state": "NJ",
+          "employer": null,
+          "occupation": null,
+          "date": "2026-10-27",
+          "amount": 1000
+        }
+      ],
+      "url": "https://docquery.fec.gov/cgi-bin/forms/C00926303/2043600/"
+    },
     {
       "candidate": "kiggans",
       "committee_id": "C00776120",
