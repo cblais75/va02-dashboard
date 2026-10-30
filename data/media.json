@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-29T18:34:15.581Z",
+  "updated_at": "2026-10-30T18:06:26.938Z",
   "source": "Google News RSS search",
   "queries": [
     "\"Jen Kiggans\"",
@@ -19,6 +19,80 @@
     "kiggans.house.gov"
   ],
   "items": [
+    {
+      "id": "CBMizAFBVV95cUxNZ3JpVk9LMWxBb3RWMlVVeGV0aVhSa18tY1NBLXl6UWNTX2E0ZnlxUlc4OUMxa1c0LThkcENGNV9fcklteGJGaE5fZHo2b2k1TlkzeGhjNUxmcWpNWHhocHZDMTFXMjM0M3JRNmlYS1k1THIxVmlza3RKbmdYZHBhX0FrYi1YbFQ3eU5VNVMyS3NkQ2toRXQ0Mk5PeXotMjdYUnRualVHdFkxVDJ5N3hqcm4yMlZGZVhfdHg2N1B1QlZSeW5VWncyLWt4aXA",
+      "headline": "Two Navy Veterans, One Flooding District: Why Sea-Level Rise Matters in Kiggans vs. Luria",
+      "outlet": "Mother Jones",
+      "outlet_domain": "motherjones.com",
+      "local": false,
+      "official": false,
+      "date": "2026-10-30T11:31:28.000Z",
+      "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxNZ3JpVk9LMWxBb3RWMlVVeGV0aVhSa18tY1NBLXl6UWNTX2E0ZnlxUlc4OUMxa1c0LThkcENGNV9fcklteGJGaE5fZHo2b2k1TlkzeGhjNUxmcWpNWHhocHZDMTFXMjM0M3JRNmlYS1k1THIxVmlza3RKbmdYZHBhX0FrYi1YbFQ3eU5VNVMyS3NkQ2toRXQ0Mk5PeXotMjdYUnRualVHdFkxVDJ5N3hqcm4yMlZGZVhfdHg2N1B1QlZSeW5VWncyLWt4aXA?oc=5",
+      "candidates": [
+        "luria"
+      ],
+      "tags": []
+    },
+    {
+      "id": "CBMixwFBVV95cUxOVG5nZXYtdWpPa2VDX0l5N3RYVmhhOU9mMXBHOTBoeWRYcE9qdkl5SC1KWVp2c0FKdjQyc0c2Y0Y4OFlGLXRtZlNQSGRXNlFWdlZ0Mm5XQUdvN1Q3eENZdjNIT1FyWUYtMy1hMVV1Y0Q1dGR0RUNxcHVJQ2Y5ejdzM2NzUi15S1lUcVZhR0dvZkJUbnR5UGlmdjFjYWJwZXB0aDJMYlYtSFpfZ0tYX01RbnkxMkRkWUMtVUxHNm1wU0tDMHI3ZHRv",
+      "headline": "Virginia's 2nd Congressional District: Kiggans and Luria",
+      "outlet": "WBOC TV",
+      "outlet_domain": "wboc.com",
+      "local": false,
+      "official": false,
+      "date": "2026-10-30T00:28:00.000Z",
+      "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxOVG5nZXYtdWpPa2VDX0l5N3RYVmhhOU9mMXBHOTBoeWRYcE9qdkl5SC1KWVp2c0FKdjQyc0c2Y0Y4OFlGLXRtZlNQSGRXNlFWdlZ0Mm5XQUdvN1Q3eENZdjNIT1FyWUYtMy1hMVV1Y0Q1dGR0RUNxcHVJQ2Y5ejdzM2NzUi15S1lUcVZhR0dvZkJUbnR5UGlmdjFjYWJwZXB0aDJMYlYtSFpfZ0tYX01RbnkxMkRkWUMtVUxHNm1wU0tDMHI3ZHRv?oc=5",
+      "candidates": [
+        "kiggans",
+        "luria"
+      ],
+      "tags": []
+    },
+    {
+      "id": "CBMijAFBVV95cUxOTDVpdEYyYTVFU2twaEM2czFjNmVfejdmb2puM3pUUjJuNW8zLWFrdVowenBiRmM3SmxNeVdSc2NkdzZiSXZjb2VuWng3UDFEZkd6M1g5Q1Y0WndjbURsal9XRENBc1dfOWxId21kdHZqcTdLb1dUV1lXU2tNYmlGNmhDZTVFU2NPaUNBdA",
+      "headline": "Nearly $26.5M spent on ads in Kiggans-Luria race",
+      "outlet": "WAVY",
+      "outlet_domain": "wavy.com",
+      "local": true,
+      "official": false,
+      "date": "2026-10-29T22:27:34.000Z",
+      "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOTDVpdEYyYTVFU2twaEM2czFjNmVfejdmb2puM3pUUjJuNW8zLWFrdVowenBiRmM3SmxNeVdSc2NkdzZiSXZjb2VuWng3UDFEZkd6M1g5Q1Y0WndjbURsal9XRENBc1dfOWxId21kdHZqcTdLb1dUV1lXU2tNYmlGNmhDZTVFU2NPaUNBdA?oc=5",
+      "candidates": [
+        "kiggans",
+        "luria"
+      ],
+      "tags": []
+    },
+    {
+      "id": "CBMitwFBVV95cUxNU0lSdlljcGRsaDU0a192TEVCRlgzN3hhWFJjQWFKd1R0ZTdOMDR2Z2tZNks5c1dGVTRxSWpwZWVnWHk0M0JFRGxSbmw0c3ZEYzhGUDBTZUtKR09aUFM2cnRHNXJXdlVwQ182Q0JLUjFZVEZVQjNiX3ZWVzRXNWx6V0JhaENidzhyX3A4N2o2RXlnNlplX21md28xSnpnUUhpY29qSkJQN2RyUWJIUm44VHM2OVBGajTSAbwBQVVfeXFMUGFOZUtyNkdlZjRuN1FpeTEtbGJuQXY4S3dtUHNuTXpSQkFBMm5lczluczJXXy1xcUhWQUFJVW1TLTFTSVhLLUZaNnFUTEl5eGxXVXF5eGFMeG1wOWlUVFljbFhVUXRlUEFBdE4yU182ZC1EUXo5QlF4RHNQd3dBeWJYNDFtZUl2eHdRanZQLUJsdHkwSHJYd1pocUdzWDNFamlDTFFkalFFbmVWR0tUQWdGQ1JURHNDdFJXWFk",
+      "headline": "Truth Tracker: Nearly $26.5M spent on ads in Kiggans race with Luria",
+      "outlet": "WAVY",
+      "outlet_domain": "wavy.com",
+      "local": true,
+      "official": false,
+      "date": "2026-10-29T21:21:26.000Z",
+      "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNU0lSdlljcGRsaDU0a192TEVCRlgzN3hhWFJjQWFKd1R0ZTdOMDR2Z2tZNks5c1dGVTRxSWpwZWVnWHk0M0JFRGxSbmw0c3ZEYzhGUDBTZUtKR09aUFM2cnRHNXJXdlVwQ182Q0JLUjFZVEZVQjNiX3ZWVzRXNWx6V0JhaENidzhyX3A4N2o2RXlnNlplX21md28xSnpnUUhpY29qSkJQN2RyUWJIUm44VHM2OVBGajTSAbwBQVVfeXFMUGFOZUtyNkdlZjRuN1FpeTEtbGJuQXY4S3dtUHNuTXpSQkFBMm5lczluczJXXy1xcUhWQUFJVW1TLTFTSVhLLUZaNnFUTEl5eGxXVXF5eGFMeG1wOWlUVFljbFhVUXRlUEFBdE4yU182ZC1EUXo5QlF4RHNQd3dBeWJYNDFtZUl2eHdRanZQLUJsdHkwSHJYd1pocUdzWDNFamlDTFFkalFFbmVWR0tUQWdGQ1JURHNDdFJXWFk?oc=5",
+      "candidates": [
+        "kiggans",
+        "luria"
+      ],
+      "tags": []
+    },
+    {
+      "id": "CBMiwwFBVV95cUxNN1p3SzlMakJpZnZjQjNBOUpwall3dEpuZ19seExtVVU3OEFzU25Yay1rVG14SjhvUXZIMjZqY1lEb1BGT3VNUlFjX3BKWXZrRVd3emxIcVlvWVFoT2FCVTliWmhYd1NhakJoZ3JaWjdidGFWZzE0bzZXVFRGQ3pWbzJiUE5uQUI4UngtczhmYkJBQ283RXEtcFE2UXNKeVlFMlhZLWp3SjFLcThjMnJTWExtdXJRNC1LNVhEYkRiYzhiV1U",
+      "headline": "Kiggans and Luria clash over issues in 2nd Congressional District rematch",
+      "outlet": "WTKR (News 3)",
+      "outlet_domain": "wtkr.com",
+      "local": true,
+      "official": false,
+      "date": "2026-10-29T18:29:20.000Z",
+      "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNN1p3SzlMakJpZnZjQjNBOUpwall3dEpuZ19seExtVVU3OEFzU25Yay1rVG14SjhvUXZIMjZqY1lEb1BGT3VNUlFjX3BKWXZrRVd3emxIcVlvWVFoT2FCVTliWmhYd1NhakJoZ3JaWjdidGFWZzE0bzZXVFRGQ3pWbzJiUE5uQUI4UngtczhmYkJBQ283RXEtcFE2UXNKeVlFMlhZLWp3SjFLcThjMnJTWExtdXJRNC1LNVhEYkRiYzhiV1U?oc=5",
+      "candidates": [
+        "kiggans",
+        "luria"
+      ],
+      "tags": []
+    },
     {
       "id": "CBMipAFBVV95cUxOLU16VWFHZjAwbUdsS3pZWU01YV9BOGlmNk5DdkZOZlRZLXR4YWVBNEFpbVB4Mm1HdGlFMUlTcTJqUVA1VEUtWjlrX0I0QWNINktDTWRxMlhQeEZaRHp5RzhGQVFnTUI1NE84amJqeVRiMm9JQU96VmlKTU1GWUpKVjF3b2xtcGdqT1VoS3M4azRfZE1wbVFiNlpfSUx0MTBNSnh1VA",
       "headline": "Kiggans, Luria differ on costs in Virginia House race",
@@ -43,6 +117,21 @@
       "official": false,
       "date": "2026-10-29T16:00:41.000Z",
       "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPX2E2dHFwQUM4Z004VHZPZFZnRm9vNTFBdkd1dV9KWmcxZ2lOYXU5YS1RalBiNmxWVlN5RlJ6ZG96NVZyUWREVEltZ2ZGMTBwQnphb0JsQzFIUFV0eDdQblVZU0htMGFWS2I5dTdpc3ZmN0F2X1lZbV9SWmw3RFctb29Da1gxdw?oc=5",
+      "candidates": [
+        "kiggans",
+        "luria"
+      ],
+      "tags": []
+    },
+    {
+      "id": "CBMilAFBVV95cUxPQVI5bXh1LUpRbW5aSTVDeldXd0FDOWoxRHYzSjlvWHQ5cEV1SUlueFFTRGVTT2lTalVYcjVYcFBRUWdfUXJhWEJqdllvbVJ0UXdhSUx2d1VmRldVSHByTU1LT1VLVmtFc3FZd05OWEZYY0ZRRnlsSGlEd09sa3J2b050RFZXNGNZcW9tdUgzSHpVZC1X0gGaAUFVX3lxTE1wY3R6YWtmbW8zTmxTeFFjX3BYajZfUjJvRXRWbWFMeVVWV3pMTFkydkpLQTFIZnJpTGtwZng4cW1WUVVsc2RpbHowTmFFOG9PR0M0WnVOdjkxT2d6dkplSmFDQUNOa2hubDgwQWVhelZOZ1RaR01YNUwyejQ5RjhDN1F1T1BBblZlZjBTRUFoQ3VmRy1wYVVmMWc",
+      "headline": "Kiggans, Luria differ on costs in Virginia House race",
+      "outlet": "The Center Square",
+      "outlet_domain": "thecentersquare.com",
+      "local": false,
+      "official": false,
+      "date": "2026-10-29T15:47:00.000Z",
+      "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPQVI5bXh1LUpRbW5aSTVDeldXd0FDOWoxRHYzSjlvWHQ5cEV1SUlueFFTRGVTT2lTalVYcjVYcFBRUWdfUXJhWEJqdllvbVJ0UXdhSUx2d1VmRldVSHByTU1LT1VLVmtFc3FZd05OWEZYY0ZRRnlsSGlEd09sa3J2b050RFZXNGNZcW9tdUgzSHpVZC1X0gGaAUFVX3lxTE1wY3R6YWtmbW8zTmxTeFFjX3BYajZfUjJvRXRWbWFMeVVWV3pMTFkydkpLQTFIZnJpTGtwZng4cW1WUVVsc2RpbHowTmFFOG9PR0M0WnVOdjkxT2d6dkplSmFDQUNOa2hubDgwQWVhelZOZ1RaR01YNUwyejQ5RjhDN1F1T1BBblZlZjBTRUFoQ3VmRy1wYVVmMWc?oc=5",
       "candidates": [
         "kiggans",
         "luria"
@@ -130,6 +219,20 @@
       "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9KS1B3X3MzTklfdjNVdUQ4YWU3Ul9lem9GXzJkeExnTmxFcV9oSnZMNVRMX0xRVzNEUUxiWlp2YUU2b0pxR0c2c1dOTjlaU2hmUzB5NXk4UTN5MURQWlNocU92dEl4WTBrUnc?oc=5",
       "candidates": [
         "kiggans",
+        "luria"
+      ],
+      "tags": []
+    },
+    {
+      "id": "CBMingFBVV95cUxPRVlnTkl2RDFha29tZjFpVjN4RWVHZGJ1VmNVdnp4MXBFX1ZJSEgwVXBGU3FTSVp3eHUwaG1rTWlvc2NvODFvTVh1Mi1XQVp4RHo2dm9mcDNaLXA3Z2s2WEQ0MHowUzNkZUhGaEh4N2JLOW1TZ3BhbEhQZE1YVURSMVM0NVo1ZU54RldWZ3hsMUJDZFJDSjYwUGFmbGlmZw",
+      "headline": "Outside donors bankroll Virginia’s campaigns for Congress",
+      "outlet": "VPM",
+      "outlet_domain": "vpm.org",
+      "local": false,
+      "official": false,
+      "date": "2026-10-28T15:42:23.000Z",
+      "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxPRVlnTkl2RDFha29tZjFpVjN4RWVHZGJ1VmNVdnp4MXBFX1ZJSEgwVXBGU3FTSVp3eHUwaG1rTWlvc2NvODFvTVh1Mi1XQVp4RHo2dm9mcDNaLXA3Z2s2WEQ0MHowUzNkZUhGaEh4N2JLOW1TZ3BhbEhQZE1YVURSMVM0NVo1ZU54RldWZ3hsMUJDZFJDSjYwUGFmbGlmZw?oc=5",
+      "candidates": [
         "luria"
       ],
       "tags": []
@@ -690,6 +793,20 @@
       "official": false,
       "date": "2026-10-20T12:36:56.000Z",
       "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPcWZQdzVyMWlyNk5aUGl3bnZMN2JCT0NPd05wY1Rvdkx6Rm5RU0c3QWNCSi10a2VaVFhFMWc3SWw4S1hQTzdibjFidlBKWmNvcW82T2F5VHhEa1dxRUFUV0syeUo4T3hPNzF1TzRmbFQ1VHl5eElmYmRpeGJSMkg1dlJleXdsVUg5V3ZwWWdJVmlsRkdoVlHSAZsBQVVfeXFMTW53dmxJOF9CdjBzamM5ZVZxOE9PR0ZZSWJpMl9vb1U4b1hZNTBZOS1MeHJwVG5nbzlQU3Y3VGEta0RJRVI2b1ZBUFlDNUFaSzdOWHl2aVVJYjNTaExhVXl3U3pTWjIyY3FhLUZTZ3UwX3NReXdxREFEMHZ3SWtvSzFWZWJ4SkNZeUZ3TzNONERUckhibGNwRk54Wmc?oc=5",
+      "candidates": [
+        "luria"
+      ],
+      "tags": []
+    },
+    {
+      "id": "CBMilwFBVV95cUxQcVIzVkRvcWNfWHk4ZjJxdDVnNnFMblQ1LVRFOUxrZXFoM0o2a0VUbkRfNDZHNDZYbDVqRGpQM0gwajU1dDBFWENLQWR3dnBsWmUzQUZ5ZlBxM2l0SzNFbGx1Y1J3dlBaWEVfbS04NHB1YlIxZklicmd4NUhZQjVZVnZEWnQtaHRVdkxJYnIxbkpxTkN0M3NZ",
+      "headline": "Virginia House District 2 Primary Election Live Results 2026",
+      "outlet": "NBC News",
+      "outlet_domain": "nbcnews.com",
+      "local": false,
+      "official": false,
+      "date": "2026-10-20T07:00:00.000Z",
+      "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQcVIzVkRvcWNfWHk4ZjJxdDVnNnFMblQ1LVRFOUxrZXFoM0o2a0VUbkRfNDZHNDZYbDVqRGpQM0gwajU1dDBFWENLQWR3dnBsWmUzQUZ5ZlBxM2l0SzNFbGx1Y1J3dlBaWEVfbS04NHB1YlIxZklicmd4NUhZQjVZVnZEWnQtaHRVdkxJYnIxbkpxTkN0M3NZ?oc=5",
       "candidates": [
         "luria"
       ],
@@ -2392,63 +2509,6 @@
       "official": false,
       "date": "2026-09-30T19:57:27.000Z",
       "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPaW04RF9UR01RWjhnZWRLYUxoMGl0SmhueFJNSUpNZDJicmIxYkVJMEZuMjlGdkNnSVB2eFhxXzhvVXJiV2RrenF5SXlmdnJ6VTUwdGlRc3F3RWVzZUxzTldaSzZrbkEtb2tvOU1peVFOOXJDbjlIN0J1OUhIQmU1ZDhiMA?oc=5",
-      "candidates": [
-        "kiggans",
-        "luria"
-      ],
-      "tags": []
-    },
-    {
-      "id": "CBMikgFBVV95cUxOaVhmRmRYSWxyQzRXV2dYbW5ZdXZqU3Bjd1VBc3R1Q2twdnc0TWxkc3NwWnJQTUkxSjRCV3hBemV4TkNQODR2Q2R6UFdLNllOVFk3dHpadkxYVFc1VnVGRjBnZHNZMVhyOHJpVVRvSWFEVC0tMmF1cjR2WHZiNEhoUnZzVk1DRXJWdnBZb2t6c1NCUQ",
-      "headline": "Republicans Get Warning Signs As 11 Seats Shift Toward Democrats",
-      "outlet": "Newsweek",
-      "outlet_domain": "newsweek.com",
-      "local": false,
-      "official": false,
-      "date": "2026-09-30T09:13:00.000Z",
-      "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOaVhmRmRYSWxyQzRXV2dYbW5ZdXZqU3Bjd1VBc3R1Q2twdnc0TWxkc3NwWnJQTUkxSjRCV3hBemV4TkNQODR2Q2R6UFdLNllOVFk3dHpadkxYVFc1VnVGRjBnZHNZMVhyOHJpVVRvSWFEVC0tMmF1cjR2WHZiNEhoUnZzVk1DRXJWdnBZb2t6c1NCUQ?oc=5",
-      "candidates": [
-        "luria"
-      ],
-      "tags": []
-    },
-    {
-      "id": "CBMirgFBVV95cUxNUk9RVkI1QzRGWVFnR0xPTXg5WGszczBjdmk5UUJmVTZzYk1ZWUdmRUZxZjZDMGRfVjBESlJDUDhWWmdRVnV2dEpwTldlX3VaenZuWlJycU40bVZQWTVuNG1iajBjUzJfSVhQeERSRnRlc3ZIWEFjeDd2UGw0UTNkLV9Nem9sR2h0Ty1jQUlycmxpSllJQjNabW1RQTIwSElhUU5VZDhjWURiUUNxeHc",
-      "headline": "VA-03 Democrat Elaine Luria Brings in Maryland Democrat to Campaign in VA-02",
-      "outlet": "National Republican Congressional Committee",
-      "outlet_domain": "nrcc.org",
-      "local": false,
-      "official": false,
-      "date": "2026-09-30T07:00:00.000Z",
-      "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNUk9RVkI1QzRGWVFnR0xPTXg5WGszczBjdmk5UUJmVTZzYk1ZWUdmRUZxZjZDMGRfVjBESlJDUDhWWmdRVnV2dEpwTldlX3VaenZuWlJycU40bVZQWTVuNG1iajBjUzJfSVhQeERSRnRlc3ZIWEFjeDd2UGw0UTNkLV9Nem9sR2h0Ty1jQUlycmxpSllJQjNabW1RQTIwSElhUU5VZDhjWURiUUNxeHc?oc=5",
-      "candidates": [
-        "luria"
-      ],
-      "tags": []
-    },
-    {
-      "id": "CBMiqAFBVV95cUxQYUhVODltck0xTktTTXBfMVIzVUhYM3M4YXdabE0xdkgwT2Y0akp6aGNpaENXcVVVRW5tSHh0bklucmRnQUUzUjVjd3lZaTUxMDhzMG1ZMnF5UTdvdHh0UlpZcktrY0dtMkI0REdndmo5NzlzQXhFd3Qwdkd5WGlFMU1NdDNtYVRDclNMMDZJZ0xqdkFPLUVCV2JqWkV0OW50cE52azZZY0o",
-      "headline": "VA-03 Democrat Elaine Luria Brings in Maryland Democrat to Campaign in VA-02",
-      "outlet": "nrcc.org",
-      "outlet_domain": "nrcc.org",
-      "local": false,
-      "official": false,
-      "date": "2026-09-30T07:00:00.000Z",
-      "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQYUhVODltck0xTktTTXBfMVIzVUhYM3M4YXdabE0xdkgwT2Y0akp6aGNpaENXcVVVRW5tSHh0bklucmRnQUUzUjVjd3lZaTUxMDhzMG1ZMnF5UTdvdHh0UlpZcktrY0dtMkI0REdndmo5NzlzQXhFd3Qwdkd5WGlFMU1NdDNtYVRDclNMMDZJZ0xqdkFPLUVCV2JqWkV0OW50cE52azZZY0o?oc=5",
-      "candidates": [
-        "luria"
-      ],
-      "tags": []
-    },
-    {
-      "id": "CBMipAFBVV95cUxPbncxUUJLRlNOaFdXUEdtSHljMUVNQ2NpbmpxWmZ5bzRnLXdzbkFZRjRJSjg2NGJRSlk2ek9DanJxOGZ4NGxoMzkycEk2VzdVWWtCSUNIWEkyc1ctTm1ldzRianZ4Umdlc2FFQXlFZXF3VU0xNVE0azFrVmFQVGdnWmVXNVZDUmYwRVBxa2paTjdidnJIYmVKRENKQ2hXZG1QMUF4Uw",
-      "headline": "DMFI launches $1 million ad campaign supporting Elaine Luria",
-      "outlet": "Jewish Insider",
-      "outlet_domain": "jewishinsider.com",
-      "local": false,
-      "official": false,
-      "date": "2026-09-30T00:11:36.000Z",
-      "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPbncxUUJLRlNOaFdXUEdtSHljMUVNQ2NpbmpxWmZ5bzRnLXdzbkFZRjRJSjg2NGJRSlk2ek9DanJxOGZ4NGxoMzkycEk2VzdVWWtCSUNIWEkyc1ctTm1ldzRianZ4Umdlc2FFQXlFZXF3VU0xNVE0azFrVmFQVGdnWmVXNVZDUmYwRVBxa2paTjdidnJIYmVKRENKQ2hXZG1QMUF4Uw?oc=5",
       "candidates": [
         "kiggans",
         "luria"
