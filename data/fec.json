@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-30T16:43:35.441Z",
+  "updated_at": "2026-11-01T16:50:20.131Z",
   "cycle": 2026,
   "source": "Federal Election Commission, OpenFEC API (api.open.fec.gov)",
   "source_url": "https://www.fec.gov/data/elections/house/VA/02/2026/",
@@ -60,6 +60,318 @@
     }
   ],
   "forty_eight_hour_reports": [
+    {
+      "candidate": "kiggans",
+      "committee_id": "C00776120",
+      "file_number": 2045098,
+      "form_type": "F6N",
+      "filed": "2026-10-31",
+      "total": 20500,
+      "contributions": [
+        {
+          "contributor": "\"ABRAHAM LINCOLN PAC\"",
+          "entity_type": "PAC",
+          "city": "\"ATHENS\"",
+          "state": "GA",
+          "employer": "\"\"",
+          "occupation": "\"\"",
+          "date": "2026-10-30",
+          "amount": 5000
+        },
+        {
+          "contributor": "\"ASSOCIATED GENERAL CONTRACTORS OF AMERICA PAC\"",
+          "entity_type": "PAC",
+          "city": "\"ARLINGTON\"",
+          "state": "VA",
+          "employer": "\"\"",
+          "occupation": "\"\"",
+          "date": "2026-10-30",
+          "amount": 2500
+        },
+        {
+          "contributor": "\"ASSOCIATED GENERAL CONTRACTORS OF AMERICA PAC\"",
+          "entity_type": "PAC",
+          "city": "\"ARLINGTON\"",
+          "state": "VA",
+          "employer": "\"\"",
+          "occupation": "\"\"",
+          "date": "2026-10-30",
+          "amount": 2500
+        },
+        {
+          "contributor": "\"UNITEDHEALTH GROUP INCORPORATED PAC\"",
+          "entity_type": "PAC",
+          "city": "\"WASHINGTON\"",
+          "state": "DC",
+          "employer": "\"\"",
+          "occupation": "\"\"",
+          "date": "2026-10-30",
+          "amount": 2000
+        },
+        {
+          "contributor": "\"AUGUST PFLUGER FOR CONGRESS\"",
+          "entity_type": "CCM",
+          "city": "\"SAN ANGELO\"",
+          "state": "TX",
+          "employer": "\"\"",
+          "occupation": "\"\"",
+          "date": "2026-10-30",
+          "amount": 2000
+        },
+        {
+          "contributor": "\"INDEPENDENT ELECTRICAL CONTRACTORS PAC\"",
+          "entity_type": "PAC",
+          "city": "\"NASHVILLE\"",
+          "state": "TN",
+          "employer": "\"\"",
+          "occupation": "\"\"",
+          "date": "2026-10-30",
+          "amount": 1500
+        },
+        {
+          "contributor": "\"AMERICAN SUGAR CANE LEAGUE PAC\"",
+          "entity_type": "PAC",
+          "city": "\"THIBODAUX\"",
+          "state": "LA",
+          "employer": "\"\"",
+          "occupation": "\"\"",
+          "date": "2026-10-30",
+          "amount": 1000
+        },
+        {
+          "contributor": "\"NEW YORK LIFE INSURANCE COMPANY PAC\"",
+          "entity_type": "PAC",
+          "city": "\"NEW YORK\"",
+          "state": "NY",
+          "employer": "\"\"",
+          "occupation": "\"\"",
+          "date": "2026-10-30",
+          "amount": 1000
+        },
+        {
+          "contributor": "\"FOOD SOLUTIONS ACTION PAC\"",
+          "entity_type": "PAC",
+          "city": "\"WASHINGTON\"",
+          "state": "DC",
+          "employer": "\"\"",
+          "occupation": "\"\"",
+          "date": "2026-10-30",
+          "amount": 1000
+        },
+        {
+          "contributor": "\"LAHOOD FOR CONGRESS\"",
+          "entity_type": "CCM",
+          "city": "\"PEORIA\"",
+          "state": "IL",
+          "employer": "\"\"",
+          "occupation": "\"\"",
+          "date": "2026-10-29",
+          "amount": 2000
+        }
+      ],
+      "url": "https://docquery.fec.gov/cgi-bin/forms/C00776120/2045098/"
+    },
+    {
+      "candidate": "luria",
+      "committee_id": "C00926303",
+      "file_number": 2045045,
+      "form_type": "F6N",
+      "filed": "2026-10-31",
+      "total": 42200,
+      "contributions": [
+        {
+          "contributor": "IN THIS TOGETHER PAC",
+          "entity_type": "PAC",
+          "city": "Louisville",
+          "state": "KY",
+          "employer": null,
+          "occupation": null,
+          "date": "2026-10-30",
+          "amount": 5000
+        },
+        {
+          "contributor": "Scott Stempel",
+          "entity_type": "IND",
+          "city": "Potomac",
+          "state": "MD",
+          "employer": "Not Employed",
+          "occupation": "Not Employed",
+          "date": "2026-10-30",
+          "amount": 3200
+        },
+        {
+          "contributor": "NATIONAL EMERGENCY MEDICINE POLITICAL ACTION COMMITTEE / AMERICAN COLLEGE OF EMERGENCY PHY",
+          "entity_type": "PAC",
+          "city": "Irving",
+          "state": "TX",
+          "employer": null,
+          "occupation": null,
+          "date": "2026-10-30",
+          "amount": 2500
+        },
+        {
+          "contributor": "Matthew Fass",
+          "entity_type": "IND",
+          "city": "Williamsburg",
+          "state": "VA",
+          "employer": "Maritime Products International",
+          "occupation": "President",
+          "date": "2026-10-30",
+          "amount": 2000
+        },
+        {
+          "contributor": "Dylan McAuley",
+          "entity_type": "IND",
+          "city": "Richmond",
+          "state": "VA",
+          "employer": "Henrico County",
+          "occupation": "Assistant Commonwealth's Attorney",
+          "date": "2026-10-30",
+          "amount": 1500
+        },
+        {
+          "contributor": "Michael J Carron",
+          "entity_type": "IND",
+          "city": "Williamsburg",
+          "state": "VA",
+          "employer": "Gulf Of Mexico Alliance",
+          "occupation": "Executive Director",
+          "date": "2026-10-30",
+          "amount": 1000
+        },
+        {
+          "contributor": "DMFI PAC",
+          "entity_type": "PAC",
+          "city": "Washington",
+          "state": "DC",
+          "employer": null,
+          "occupation": null,
+          "date": "2026-10-30",
+          "amount": 1000
+        },
+        {
+          "contributor": "Richard K Parrott",
+          "entity_type": "IND",
+          "city": "Carmichael",
+          "state": "CA",
+          "employer": "Self Employed",
+          "occupation": "Landlord",
+          "date": "2026-10-30",
+          "amount": 1000
+        },
+        {
+          "contributor": "Will Trinkle",
+          "entity_type": "IND",
+          "city": "Roanoke",
+          "state": "VA",
+          "employer": "C. W. Francis & Son, Inc.",
+          "occupation": "President",
+          "date": "2026-10-30",
+          "amount": 1000
+        },
+        {
+          "contributor": "314 ACTION FUND",
+          "entity_type": "PAC",
+          "city": "Washington",
+          "state": "DC",
+          "employer": null,
+          "occupation": null,
+          "date": "2026-10-29",
+          "amount": 5000
+        },
+        {
+          "contributor": "LABORERS INTERNATIONAL UNION OF NORTH AMERICA (LIUNA) PAC",
+          "entity_type": "PAC",
+          "city": "Washington",
+          "state": "DC",
+          "employer": null,
+          "occupation": null,
+          "date": "2026-10-29",
+          "amount": 5000
+        },
+        {
+          "contributor": "Michael L. Cantor",
+          "entity_type": "IND",
+          "city": "Washington",
+          "state": "DC",
+          "employer": "Equator Capital",
+          "occupation": "Managing Partner",
+          "date": "2026-10-29",
+          "amount": 3500
+        },
+        {
+          "contributor": "Stacy Gorelick",
+          "entity_type": "IND",
+          "city": "Charlotte",
+          "state": "NC",
+          "employer": "Not Employed",
+          "occupation": "Not Employed",
+          "date": "2026-10-29",
+          "amount": 3500
+        },
+        {
+          "contributor": "Air Technology LLC",
+          "entity_type": "ORG",
+          "city": "Phoenix",
+          "state": "AZ",
+          "employer": null,
+          "occupation": null,
+          "date": "2026-10-29",
+          "amount": 2000
+        },
+        {
+          "contributor": "Rebecca Fass",
+          "entity_type": "IND",
+          "city": "Newport News",
+          "state": "VA",
+          "employer": "Not Employed",
+          "occupation": "Not Employed",
+          "date": "2026-10-29",
+          "amount": 1000
+        },
+        {
+          "contributor": "Adrian Kellam Jones",
+          "entity_type": "IND",
+          "city": "Virginia Beach",
+          "state": "VA",
+          "employer": "Not Employed",
+          "occupation": "Not Employed",
+          "date": "2026-10-29",
+          "amount": 1000
+        },
+        {
+          "contributor": "Harry Lester",
+          "entity_type": "IND",
+          "city": "Virginia Bch",
+          "state": "VA",
+          "employer": "Not Employed",
+          "occupation": "Not Employed",
+          "date": "2026-10-29",
+          "amount": 1000
+        },
+        {
+          "contributor": "Keith Newby",
+          "entity_type": "IND",
+          "city": "Norfolk",
+          "state": "VA",
+          "employer": "Bon Secours",
+          "occupation": "Physician",
+          "date": "2026-10-29",
+          "amount": 1000
+        },
+        {
+          "contributor": "James W. Ottaway",
+          "entity_type": "IND",
+          "city": "Brookline",
+          "state": "MA",
+          "employer": "Self Employed",
+          "occupation": "Songwriter",
+          "date": "2026-10-29",
+          "amount": 1000
+        }
+      ],
+      "url": "https://docquery.fec.gov/cgi-bin/forms/C00926303/2045045/"
+    },
     {
       "candidate": "kiggans",
       "committee_id": "C00776120",
