@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-01T16:50:20.131Z",
+  "updated_at": "2026-11-02T20:24:07.677Z",
   "cycle": 2026,
   "source": "Federal Election Commission, OpenFEC API (api.open.fec.gov)",
   "source_url": "https://www.fec.gov/data/elections/house/VA/02/2026/",
@@ -60,6 +60,118 @@
     }
   ],
   "forty_eight_hour_reports": [
+    {
+      "candidate": "kiggans",
+      "committee_id": "C00776120",
+      "file_number": 2045736,
+      "form_type": "F6N",
+      "filed": "2026-11-02",
+      "total": 3000,
+      "contributions": [
+        {
+          "contributor": "\"U.S. ISRAEL PAC\"",
+          "entity_type": "PAC",
+          "city": "\"HOLLYWOOD\"",
+          "state": "FL",
+          "employer": "\"\"",
+          "occupation": "\"\"",
+          "date": "2026-10-31",
+          "amount": 1000
+        },
+        {
+          "contributor": "\"\"",
+          "entity_type": "IND",
+          "city": "\"NEW YORK\"",
+          "state": "NY",
+          "employer": "\"JUNIPER CAPITAL NYC\"",
+          "occupation": "\"INVESTMENTS\"",
+          "date": "2026-10-31",
+          "amount": 1000
+        },
+        {
+          "contributor": "\"\"",
+          "entity_type": "IND",
+          "city": "\"VIRGINIA BEACH\"",
+          "state": "VA",
+          "employer": "\"UROLOGY OF VIRGINIA\"",
+          "occupation": "\"PHYSICIAN\"",
+          "date": "2026-10-31",
+          "amount": 1000
+        }
+      ],
+      "url": "https://docquery.fec.gov/cgi-bin/forms/C00776120/2045736/"
+    },
+    {
+      "candidate": "luria",
+      "committee_id": "C00926303",
+      "file_number": 2045381,
+      "form_type": "F6N",
+      "filed": "2026-11-01",
+      "total": 15000,
+      "contributions": [
+        {
+          "contributor": "Michel Jeruchim",
+          "entity_type": "IND",
+          "city": "Philadelphia",
+          "state": "PA",
+          "employer": "Not Employed",
+          "occupation": "Not Employed",
+          "date": "2026-10-31",
+          "amount": 3500
+        },
+        {
+          "contributor": "Anne Kramer",
+          "entity_type": "IND",
+          "city": "Virginia Beach",
+          "state": "VA",
+          "employer": "Kramer Properties LLC",
+          "occupation": "Partner",
+          "date": "2026-10-31",
+          "amount": 2500
+        },
+        {
+          "contributor": "Edward Kramer",
+          "entity_type": "IND",
+          "city": "Virginia Beach",
+          "state": "VA",
+          "employer": "Self Employed",
+          "occupation": "Property Manager",
+          "date": "2026-10-31",
+          "amount": 2500
+        },
+        {
+          "contributor": "Karen M Reynes",
+          "entity_type": "IND",
+          "city": "Norfolk",
+          "state": "VA",
+          "employer": "Not Employed",
+          "occupation": "Not Employed",
+          "date": "2026-10-31",
+          "amount": 2500
+        },
+        {
+          "contributor": "David Archer",
+          "entity_type": "IND",
+          "city": "Norfolk",
+          "state": "VA",
+          "employer": "Old Dominion University",
+          "occupation": "Physician",
+          "date": "2026-10-31",
+          "amount": 2000
+        },
+        {
+          "contributor": "Mark Goodwin",
+          "entity_type": "IND",
+          "city": "Charlottesville",
+          "state": "VA",
+          "employer": "Not Employed",
+          "occupation": "Not Employed",
+          "date": "2026-10-31",
+          "amount": 2000
+        }
+      ],
+      "url": "https://docquery.fec.gov/cgi-bin/forms/C00926303/2045381/"
+    },
     {
       "candidate": "kiggans",
       "committee_id": "C00776120",
