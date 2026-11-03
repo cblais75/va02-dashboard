@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-02T20:24:07.677Z",
+  "updated_at": "2026-11-03T17:54:25.216Z",
   "cycle": 2026,
   "source": "Federal Election Commission, OpenFEC API (api.open.fec.gov)",
   "source_url": "https://www.fec.gov/data/elections/house/VA/02/2026/",
@@ -5560,10 +5560,10 @@
     "by_candidate": {
       "kiggans": {
         "support": 371271.36,
-        "oppose": 2655858.07
+        "oppose": 2656198.41
       },
       "luria": {
-        "support": 210771.83,
+        "support": 210983.59,
         "oppose": 34466.2
       }
     },
@@ -5657,12 +5657,36 @@
         "count": 1
       },
       {
+        "committee_id": "C00955138",
+        "committee_name": "BUILDING TOGETHER",
+        "candidate": "kiggans",
+        "support_oppose": "oppose",
+        "total": 340.34,
+        "count": 1
+      },
+      {
+        "committee_id": "C00955138",
+        "committee_name": "BUILDING TOGETHER",
+        "candidate": "luria",
+        "support_oppose": "support",
+        "total": 180.11,
+        "count": 1
+      },
+      {
         "committee_id": "C00802389",
         "committee_name": "GIVEGREEN UNITED ACTION",
         "candidate": "luria",
         "support_oppose": "support",
         "total": 133.26,
         "count": 9
+      },
+      {
+        "committee_id": "C00878025",
+        "committee_name": "MOMSRISING PAC",
+        "candidate": "luria",
+        "support_oppose": "support",
+        "total": 31.65,
+        "count": 3
       },
       {
         "committee_id": "C00489799",
