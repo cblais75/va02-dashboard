@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-02T21:49:25.313Z",
+  "updated_at": "2026-11-03T19:39:49.694Z",
   "source": "Google News RSS search",
   "queries": [
     "\"Jen Kiggans\"",
@@ -19,6 +19,221 @@
     "kiggans.house.gov"
   ],
   "items": [
+    {
+      "id": "CBMijAFBVV95cUxQdU04QU1xVlJVaG1scVJRd1I3cTVaUmdNRkRpcEpMMXBGZVRGSUVPbE9ZYTdELVExMmVGSnFoaGktZXBzdmN1V1hmdEEwb3lRREpPaDI0SGVZeUg1Qk5MMENOcC1qM3gydVE2QVRGODZKdnNoTGpDVDRnSmtZa1dxTW9PZENXNDV5N0NjZA",
+      "headline": "Virginia House District 2 Midterm Election 2026: Live Results",
+      "outlet": "NBC News",
+      "outlet_domain": "nbcnews.com",
+      "local": false,
+      "official": false,
+      "date": "2026-11-03T19:37:47.000Z",
+      "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQdU04QU1xVlJVaG1scVJRd1I3cTVaUmdNRkRpcEpMMXBGZVRGSUVPbE9ZYTdELVExMmVGSnFoaGktZXBzdmN1V1hmdEEwb3lRREpPaDI0SGVZeUg1Qk5MMENOcC1qM3gydVE2QVRGODZKdnNoTGpDVDRnSmtZa1dxTW9PZENXNDV5N0NjZA?oc=5",
+      "candidates": [
+        "luria"
+      ],
+      "tags": []
+    },
+    {
+      "id": "CBMiigJBVV95cUxNVy03NkEtVHhlTWFkbkdnMUIyUHpRU0pVc1NWUHF5N2tXRFJlOUdHTnozaEZUT3puUHBFY29FalM1cG1Fd18xaXpySktzVTlIcjNCMDhOZ1hYQkkxbUxuQ3JnSUNCMEFEd0JtQ0E3bWY3UmlzQjNNOEZmYlZ2cFN0YndLd0x0WVFJNUUwZzk1dFBoVGJvOXRYUGpIUmdGRDR2REtVeVVydnJVYmVobHl5UU1oeU1hSmI3ZXJ5NTBCYk9janhMUE5XTHF3cDhHS0JUUWRIV3FSZU83RV9kNk1ybUx2aXQzb0c1cjEtNW9XSnJuSnB0dUN3cTBmTTM2djZPU0ZvSml5NkRwUQ",
+      "headline": "Kiggans, Luria make final push to voters in Virginia's 2nd Congressional District",
+      "outlet": "13News Now (WVEC)",
+      "outlet_domain": "13newsnow.com",
+      "local": true,
+      "official": false,
+      "date": "2026-11-03T19:19:00.000Z",
+      "link": "https://news.google.com/rss/articles/CBMiigJBVV95cUxNVy03NkEtVHhlTWFkbkdnMUIyUHpRU0pVc1NWUHF5N2tXRFJlOUdHTnozaEZUT3puUHBFY29FalM1cG1Fd18xaXpySktzVTlIcjNCMDhOZ1hYQkkxbUxuQ3JnSUNCMEFEd0JtQ0E3bWY3UmlzQjNNOEZmYlZ2cFN0YndLd0x0WVFJNUUwZzk1dFBoVGJvOXRYUGpIUmdGRDR2REtVeVVydnJVYmVobHl5UU1oeU1hSmI3ZXJ5NTBCYk9janhMUE5XTHF3cDhHS0JUUWRIV3FSZU83RV9kNk1ybUx2aXQzb0c1cjEtNW9XSnJuSnB0dUN3cTBmTTM2djZPU0ZvSml5NkRwUQ?oc=5",
+      "candidates": [
+        "kiggans",
+        "luria"
+      ],
+      "tags": []
+    },
+    {
+      "id": "CBMilwFBVV95cUxNVTQ0bzJ0TW93QWtSLXFyVE9aTGhSVjRpd1JlM3MwaXVjZGhSMnNtay1uUC04N1hIZjRocTJCNmtsZFMzN1dHSWFLc0d5WXIwNlhCSWs4SlA2cmJOdV80TGtQWG53eUQtN3N0MUF5a1FhYlExOHNQRFN4MjVVOEFHSkh5QngzRUFYY3ZWMDJ5a0xjd2N6T2tn",
+      "headline": "Virginia Second Congressional District 2026: Live Election Results, Kiggans vs. Luria",
+      "outlet": "The New York Times",
+      "outlet_domain": "nytimes.com",
+      "local": false,
+      "official": false,
+      "date": "2026-11-03T18:15:05.000Z",
+      "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNVTQ0bzJ0TW93QWtSLXFyVE9aTGhSVjRpd1JlM3MwaXVjZGhSMnNtay1uUC04N1hIZjRocTJCNmtsZFMzN1dHSWFLc0d5WXIwNlhCSWs4SlA2cmJOdV80TGtQWG53eUQtN3N0MUF5a1FhYlExOHNQRFN4MjVVOEFHSkh5QngzRUFYY3ZWMDJ5a0xjd2N6T2tn?oc=5",
+      "candidates": [
+        "luria"
+      ],
+      "tags": []
+    },
+    {
+      "id": "CBMi-wFBVV95cUxNbkJMVTY5Q3VRTm80cFBtbjVRR1h6QUxGX01NWEFGdE9NejBPekdRMmpWMnBQN3VPWGxHNVpxZ3B0VVhHYTByXzk0blI5ZFByX19NUy1FcHl3OGlGVDNqTS1rclRDNDFUbGwzYndQX3M2TDFXaWFiQnA2X3I4eWt3bDdILS1DS0ZfZDdnME5EeUxYbUlTRDd4ZkpRV1k3aFZHU2RlZkdDZUxHOXREY3Fyb0lmc1JlVC1oX2pSOERRZFJlVmxPVHdpZGIwLS1pbzdRZWNhV0JadUtpbGh1ak53MDFucXAyeWRBeVExZnNza3BDOVhVZGNkdkRONA",
+      "headline": "Kiggans and Luria share final messages to voters ahead of Election Day",
+      "outlet": "13News Now (WVEC)",
+      "outlet_domain": "13newsnow.com",
+      "local": true,
+      "official": false,
+      "date": "2026-11-03T17:31:00.000Z",
+      "link": "https://news.google.com/rss/articles/CBMi-wFBVV95cUxNbkJMVTY5Q3VRTm80cFBtbjVRR1h6QUxGX01NWEFGdE9NejBPekdRMmpWMnBQN3VPWGxHNVpxZ3B0VVhHYTByXzk0blI5ZFByX19NUy1FcHl3OGlGVDNqTS1rclRDNDFUbGwzYndQX3M2TDFXaWFiQnA2X3I4eWt3bDdILS1DS0ZfZDdnME5EeUxYbUlTRDd4ZkpRV1k3aFZHU2RlZkdDZUxHOXREY3Fyb0lmc1JlVC1oX2pSOERRZFJlVmxPVHdpZGIwLS1pbzdRZWNhV0JadUtpbGh1ak53MDFucXAyeWRBeVExZnNza3BDOVhVZGNkdkRONA?oc=5",
+      "candidates": [
+        "kiggans",
+        "luria"
+      ],
+      "tags": []
+    },
+    {
+      "id": "CBMihwFBVV95cUxOVmZBREdqYVJjUXhuWjFfXzhCX0gxUUd2aktoV1Y2S0p6dzRtUENaVjJGamNNSmhvRF91M0xyT1ctUHZGblVUV2l3SXR3OFkwMlRjblNteUdoNkhFcVozSXdGaU9jTTNMN0hLSnlaelZHN2h5NkFDYV9CVmkya3RKWnc1UUhoaWs",
+      "headline": "Election Day Hours Away: Kiggans, Luria Make Final Appeals in Virginia Beach",
+      "outlet": "Yahoo",
+      "outlet_domain": "yahoo.com",
+      "local": false,
+      "official": false,
+      "date": "2026-11-03T13:36:14.000Z",
+      "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOVmZBREdqYVJjUXhuWjFfXzhCX0gxUUd2aktoV1Y2S0p6dzRtUENaVjJGamNNSmhvRF91M0xyT1ctUHZGblVUV2l3SXR3OFkwMlRjblNteUdoNkhFcVozSXdGaU9jTTNMN0hLSnlaelZHN2h5NkFDYV9CVmkya3RKWnc1UUhoaWs?oc=5",
+      "candidates": [
+        "kiggans",
+        "luria"
+      ],
+      "tags": []
+    },
+    {
+      "id": "CBMigAFBVV95cUxPYkFpTFBPd1p0ai1kTGhjMnpCanYtN3pDaF9HN0ZMQklWTHJJVV9haXFPUDI1dVUtbW4wMVJ0d1lkcTZGdUJ4azdtRWd1MkFuOGJDV2RUZ0RPTUROckdRNEYzZzQ3X3Z4NTJHSkFGa0tzZGZBdlVpLWRYN2JvRV9NTQ",
+      "headline": "Live results: Elaine Luria faces Jen Kiggans in Virginia’s 2nd District race",
+      "outlet": "AOL.com",
+      "outlet_domain": "aol.com",
+      "local": false,
+      "official": false,
+      "date": "2026-11-03T12:15:34.000Z",
+      "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPYkFpTFBPd1p0ai1kTGhjMnpCanYtN3pDaF9HN0ZMQklWTHJJVV9haXFPUDI1dVUtbW4wMVJ0d1lkcTZGdUJ4azdtRWd1MkFuOGJDV2RUZ0RPTUROckdRNEYzZzQ3X3Z4NTJHSkFGa0tzZGZBdlVpLWRYN2JvRV9NTQ?oc=5",
+      "candidates": [
+        "kiggans",
+        "luria"
+      ],
+      "tags": []
+    },
+    {
+      "id": "CBMijAFBVV95cUxPaGhPMlZlNUpleS16LXpCMjdlV3gyV1M3ZFpaeHJkMi15SW85alV3ZmpMR2pfamdFcTJ4TjQwSDQ3Q2UtcW8zRnNKanpBWjVBQmVqLW9rNmpLQk1OUm9pSVZmUjMwYzZBQ0JxbTFIVzVQYTM5UVBCQTd6cWlDUDZEYkhnX0ZZc1A3YVdzUQ",
+      "headline": "Is It the Dems’ Big Night? Watch These Eight Races With Early Results.",
+      "outlet": "The New Republic",
+      "outlet_domain": "newrepublic.com",
+      "local": false,
+      "official": false,
+      "date": "2026-11-03T11:00:00.000Z",
+      "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPaGhPMlZlNUpleS16LXpCMjdlV3gyV1M3ZFpaeHJkMi15SW85alV3ZmpMR2pfamdFcTJ4TjQwSDQ3Q2UtcW8zRnNKanpBWjVBQmVqLW9rNmpLQk1OUm9pSVZmUjMwYzZBQ0JxbTFIVzVQYTM5UVBCQTd6cWlDUDZEYkhnX0ZZc1A3YVdzUQ?oc=5",
+      "candidates": [
+        "luria"
+      ],
+      "tags": []
+    },
+    {
+      "id": "CBMijAFBVV95cUxPSjZQT2lFU3NwaS1hLXlDUDg0amFXZFdITXAxQ2pLa1lOSEhISk9YRDdlNE52RVBaVzZhSlVrdHlid0NrVlRHVGlDUkJMSGxkMW1rQ2FTWWRwVDM0NnBvV0d1TjJ6VndpOWxhS1ctTFNycndSUW9CbmhwVFl0dk4wS1FyMEdoblFVRWQ0eg",
+      "headline": "Youngkin, House speaker join Kiggans at VB rally",
+      "outlet": "WAVY",
+      "outlet_domain": "wavy.com",
+      "local": true,
+      "official": false,
+      "date": "2026-11-03T05:01:34.000Z",
+      "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPSjZQT2lFU3NwaS1hLXlDUDg0amFXZFdITXAxQ2pLa1lOSEhISk9YRDdlNE52RVBaVzZhSlVrdHlid0NrVlRHVGlDUkJMSGxkMW1rQ2FTWWRwVDM0NnBvV0d1TjJ6VndpOWxhS1ctTFNycndSUW9CbmhwVFl0dk4wS1FyMEdoblFVRWQ0eg?oc=5",
+      "candidates": [
+        "kiggans"
+      ],
+      "tags": []
+    },
+    {
+      "id": "CBMiowJBVV95cUxNdjBjdmc3eFc3TVZERXhrQUM5T21BV1NfcGprMVdJY3JsYV9CWXlRZTg0WmVnc0xRZzhZUlIzSGNLNS1USDZjNkVWazBnTnB1QzJNczJFY2p0YmJHOUFub3kyeTVzSnVZS29zYlE5S0pXaU9Fc3ZOS0ljbnJhMzVrbDl2aFpiX3NYLVJTVkZKRHpWUEJZTTRnSTVWZmJRVkNPTEoyREt0NU5ndmt6ak01ZVhEV2FpN09iUHZ1LUFtenNQTlNHV2dWQWNYUWw1X2JWWUhNbFRVOEtvTklpcUQwUUV5WVZKa0g4b1JjdkR3Zzd1T0FOY050RkhQTDlmTjlJX2thVnVLMzFSNDZoQ0FuaVdNX3ZfRVBMckF0MGVTVVZoeW8",
+      "headline": "Political campaigns spend nearly $20 million on TV ads in Virginia's 2nd Congressional District race",
+      "outlet": "13News Now (WVEC)",
+      "outlet_domain": "13newsnow.com",
+      "local": true,
+      "official": false,
+      "date": "2026-11-03T04:35:00.000Z",
+      "link": "https://news.google.com/rss/articles/CBMiowJBVV95cUxNdjBjdmc3eFc3TVZERXhrQUM5T21BV1NfcGprMVdJY3JsYV9CWXlRZTg0WmVnc0xRZzhZUlIzSGNLNS1USDZjNkVWazBnTnB1QzJNczJFY2p0YmJHOUFub3kyeTVzSnVZS29zYlE5S0pXaU9Fc3ZOS0ljbnJhMzVrbDl2aFpiX3NYLVJTVkZKRHpWUEJZTTRnSTVWZmJRVkNPTEoyREt0NU5ndmt6ak01ZVhEV2FpN09iUHZ1LUFtenNQTlNHV2dWQWNYUWw1X2JWWUhNbFRVOEtvTklpcUQwUUV5WVZKa0g4b1JjdkR3Zzd1T0FOY050RkhQTDlmTjlJX2thVnVLMzFSNDZoQ0FuaVdNX3ZfRVBMckF0MGVTVVZoeW8?oc=5",
+      "candidates": [
+        "luria"
+      ],
+      "tags": []
+    },
+    {
+      "id": "CBMihAJBVV95cUxNX1N4cGlaNWNVZDhSc2x0ekhRZGtFa29YWURoaENiWlZWdjdLM2lBdDBCSEZURnlmTFNsTS02VjFDWjF2TEdrbV9pRDgxV0FMemRkM09xeFhDalZJdS1iSXZvR1hrbmRSdzFUWlFRTy1VbFN4RVBpQjNlTG9LZzl1QXFjY3hJVzR2RmFLclZvY1BmMmhJQmNhZXFvWklTaGNfNWdIZzlhSUlIdlRNaFF4THNEc2tMbTdUcnJleVpuUVdRbzQ3ZjBmMVJocE5lcWtCeXd5eE9YMWkyR0hrTWVLNXRtaE96MU00V2VnNkpyREpFR1ByVlNIM1lGNVpJTmdFaThPMQ",
+      "headline": "Kiggans, Luria spend final day before Election Day rallying supporters in Virginia Beach",
+      "outlet": "13News Now (WVEC)",
+      "outlet_domain": "13newsnow.com",
+      "local": true,
+      "official": false,
+      "date": "2026-11-03T04:28:00.000Z",
+      "link": "https://news.google.com/rss/articles/CBMihAJBVV95cUxNX1N4cGlaNWNVZDhSc2x0ekhRZGtFa29YWURoaENiWlZWdjdLM2lBdDBCSEZURnlmTFNsTS02VjFDWjF2TEdrbV9pRDgxV0FMemRkM09xeFhDalZJdS1iSXZvR1hrbmRSdzFUWlFRTy1VbFN4RVBpQjNlTG9LZzl1QXFjY3hJVzR2RmFLclZvY1BmMmhJQmNhZXFvWklTaGNfNWdIZzlhSUlIdlRNaFF4THNEc2tMbTdUcnJleVpuUVdRbzQ3ZjBmMVJocE5lcWtCeXd5eE9YMWkyR0hrTWVLNXRtaE96MU00V2VnNkpyREpFR1ByVlNIM1lGNVpJTmdFaThPMQ?oc=5",
+      "candidates": [
+        "kiggans",
+        "luria"
+      ],
+      "tags": []
+    },
+    {
+      "id": "CBMiywFBVV95cUxQcDFEV3ZCM3lqV0QyOTVkRjEyMEZzQUowY1htQzRZZUZXbUdjVnpkNUhHRGNJZ1NBaEZIWDV4SVd6WEliN2JsV3pJelY0WE5MbFZ0VDU1MG54ZTlXdzlUbnNxOXdUOVlXRFJmYURtSEoxSDRtUFFNX2lNZzBzUkRnNEFwZmpyRDJvbXRjcXhFUW9BeTc1QlpPWDh0Q1NRZl9wMlpEelRfT0E4eTFCZ3R0UXhULTdMelZWdDViZ0N6ZkMyZUxRakFjU21sMNIB0AFBVV95cUxNMWpGWmZ1b0xYVFJ2Z2J5NkZiT1ZkLXdxa0ZhVXE1ZDlNOFZLUlhTdklrcFJvekF1NU02Q3ZoSVVpbEpsTHk3bFNGTmpIMDJfTFN6Yl9raWN6SHRNWnNRSW01eFNpaWs4Z1hCSEVFcnZhSUV2YU5ad0xJYmpscFJqX0I5SjMwVmtYZnZDVjdvejJLdDJKR3FoQ3BLeWFhemxuSFZ0SUUyMG1nRHpyaTVQaTQxSVVyLXNZbDB3YXctZDA1QUJnRXN3U1VUWmlxVXNG",
+      "headline": "Jen Kiggans joined by former Gov. Youngkin and House Speaker Mike Johnson at rally",
+      "outlet": "WAVY",
+      "outlet_domain": "wavy.com",
+      "local": true,
+      "official": false,
+      "date": "2026-11-03T04:26:51.000Z",
+      "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxQcDFEV3ZCM3lqV0QyOTVkRjEyMEZzQUowY1htQzRZZUZXbUdjVnpkNUhHRGNJZ1NBaEZIWDV4SVd6WEliN2JsV3pJelY0WE5MbFZ0VDU1MG54ZTlXdzlUbnNxOXdUOVlXRFJmYURtSEoxSDRtUFFNX2lNZzBzUkRnNEFwZmpyRDJvbXRjcXhFUW9BeTc1QlpPWDh0Q1NRZl9wMlpEelRfT0E4eTFCZ3R0UXhULTdMelZWdDViZ0N6ZkMyZUxRakFjU21sMNIB0AFBVV95cUxNMWpGWmZ1b0xYVFJ2Z2J5NkZiT1ZkLXdxa0ZhVXE1ZDlNOFZLUlhTdklrcFJvekF1NU02Q3ZoSVVpbEpsTHk3bFNGTmpIMDJfTFN6Yl9raWN6SHRNWnNRSW01eFNpaWs4Z1hCSEVFcnZhSUV2YU5ad0xJYmpscFJqX0I5SjMwVmtYZnZDVjdvejJLdDJKR3FoQ3BLeWFhemxuSFZ0SUUyMG1nRHpyaTVQaTQxSVVyLXNZbDB3YXctZDA1QUJnRXN3U1VUWmlxVXNG?oc=5",
+      "candidates": [
+        "kiggans"
+      ],
+      "tags": []
+    },
+    {
+      "id": "CBMirwFBVV95cUxONTktdXlBOFRKNUpuQ1YxblJKVFFDREUtNkVhdUdXOS1SVFZPLU5pb1huYVF6VmE0X0pJWk5IZWN0cklzU0xlYXdxU3FYVEd1ZlJhcjlWc3VuSDVUbnpHVUJsMllvY2lHNnZHU2VCbG9kbE01SVV5SDBzcUh1RFpNMzVaWEJHclExQWVIcFdaQkkyeC1maHNFeUdTSEhmbjJFR2YxTHV6VUJhMDBfNFVr",
+      "headline": "Speaker Mike Johnson joins Kiggans for Election Eve rally in Virginia Beach",
+      "outlet": "WTKR (News 3)",
+      "outlet_domain": "wtkr.com",
+      "local": true,
+      "official": false,
+      "date": "2026-11-03T03:31:58.000Z",
+      "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxONTktdXlBOFRKNUpuQ1YxblJKVFFDREUtNkVhdUdXOS1SVFZPLU5pb1huYVF6VmE0X0pJWk5IZWN0cklzU0xlYXdxU3FYVEd1ZlJhcjlWc3VuSDVUbnpHVUJsMllvY2lHNnZHU2VCbG9kbE01SVV5SDBzcUh1RFpNMzVaWEJHclExQWVIcFdaQkkyeC1maHNFeUdTSEhmbjJFR2YxTHV6VUJhMDBfNFVr?oc=5",
+      "candidates": [
+        "kiggans"
+      ],
+      "tags": []
+    },
+    {
+      "id": "CBMiiwFBVV95cUxPYngwaV9ldkNMZk1TZVB1d2VLQkRqeWNvck9FRDZsT3FlLXh2STkwR1RycDl1RjlhcDZMT2hXa0tVX1A2SFJPV2I5YmFtSkJtanNXVXMtMVdjSk53MUNmbnQ2Y2ZSUkhVWHdCc0hHUjlMckc1WXYxMnd0QjZrSVJHeEZuY2FVX1o5RmhV",
+      "headline": "Speaker Mike Johnson joins Kiggans for Election Eve rally in Virginia Beach",
+      "outlet": "Yahoo",
+      "outlet_domain": "yahoo.com",
+      "local": false,
+      "official": false,
+      "date": "2026-11-03T03:27:00.000Z",
+      "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPYngwaV9ldkNMZk1TZVB1d2VLQkRqeWNvck9FRDZsT3FlLXh2STkwR1RycDl1RjlhcDZMT2hXa0tVX1A2SFJPV2I5YmFtSkJtanNXVXMtMVdjSk53MUNmbnQ2Y2ZSUkhVWHdCc0hHUjlMckc1WXYxMnd0QjZrSVJHeEZuY2FVX1o5RmhV?oc=5",
+      "candidates": [
+        "kiggans"
+      ],
+      "tags": []
+    },
+    {
+      "id": "CBMie0FVX3lxTFB0bWZvQkN5eXRjNzNDMktKamkyRDBOWmgyRDZITW52RFFYUGl3bGN2OUozS29HVkFwYXBUaF9Jc3YweG5BYVRhR3BMS0o0dUxiVmZRaThLQmFUaTY0d3Z0UUo4b0FidkFRZDlMcWJMTVRELVY3RXJwbkU5Zw",
+      "headline": "DEMS OUTLOOK/LURIA-JEFFRIES",
+      "outlet": "Buffalo News",
+      "outlet_domain": "buffalonews.com",
+      "local": false,
+      "official": false,
+      "date": "2026-11-02T19:04:52.000Z",
+      "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTFB0bWZvQkN5eXRjNzNDMktKamkyRDBOWmgyRDZITW52RFFYUGl3bGN2OUozS29HVkFwYXBUaF9Jc3YweG5BYVRhR3BMS0o0dUxiVmZRaThLQmFUaTY0d3Z0UUo4b0FidkFRZDlMcWJMTVRELVY3RXJwbkU5Zw?oc=5",
+      "candidates": [
+        "luria"
+      ],
+      "tags": []
+    },
+    {
+      "id": "CBMijwFBVV95cUxOdEw2MGVVcm91S3MxYjcxWEF0Nl9zcVFRSWE2eXNKdVdXZjg5RDJqUmV2T3otUnhWRzBOY2oxUnI3VmtTQVlxN005eUtNZ0lxQmE0Zk5WNUgxWkhvb2FwTDN2SkVyRnhMeWFQdkVOcEVtYXN1dVBnajlCR3E3aUVEa2ZYbWhBTlAyaEh1VF9mSdIBlAFBVV95cUxQMzI3MmZ2eFQ1WTRpUllNcTUxcGpfYjlaTDZmZmg2RUxyVllDV0RoUjlzbjZHOEhfa2ZfclVEX1oyeHdJY04xY2NwdEs5bUxITmdfbi1ndUpGeXZBRkFGMGVkMVJDV2dBTVo0TGZKcmdsR2RYODJmUjVjdmpUaVlTVGRHUlFqbUlkRWhzcTQ2OTRfaENx",
+      "headline": "Virginia live results: 2026 House elections",
+      "outlet": "The Hill",
+      "outlet_domain": "thehill.com",
+      "local": false,
+      "official": false,
+      "date": "2026-11-02T17:24:00.000Z",
+      "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOdEw2MGVVcm91S3MxYjcxWEF0Nl9zcVFRSWE2eXNKdVdXZjg5RDJqUmV2T3otUnhWRzBOY2oxUnI3VmtTQVlxN005eUtNZ0lxQmE0Zk5WNUgxWkhvb2FwTDN2SkVyRnhMeWFQdkVOcEVtYXN1dVBnajlCR3E3aUVEa2ZYbWhBTlAyaEh1VF9mSdIBlAFBVV95cUxQMzI3MmZ2eFQ1WTRpUllNcTUxcGpfYjlaTDZmZmg2RUxyVllDV0RoUjlzbjZHOEhfa2ZfclVEX1oyeHdJY04xY2NwdEs5bUxITmdfbi1ndUpGeXZBRkFGMGVkMVJDV2dBTVo0TGZKcmdsR2RYODJmUjVjdmpUaVlTVGRHUlFqbUlkRWhzcTQ2OTRfaENx?oc=5",
+      "candidates": [
+        "luria"
+      ],
+      "tags": []
+    },
     {
       "id": "CBMilgFBVV95cUxNRHBwUnY3cy0zQVBSdVpHSnNUSzNhMS1adlZlOTFkeExnY3Q5WXdGZ1dUUVNycDE4UlBlTTJuUTMyS3RRUnN5TUc1dXpDbzVlb0d6VE85YWg4TUFyOUNqRE5iOThRTk84WUhDd3BNbVlhNmFYN1RRQmVVVGVpUEdOLVhRVWRaTE5jWlRiOHlKRFF0d2ZPblE",
       "headline": "Virginia's 2nd Congressional District heats up in final hours before Election Day",
@@ -146,6 +361,20 @@
       "tags": []
     },
     {
+      "id": "CBMijAFBVV95cUxNREZmQlk5MEYxbGppRVBtT0EzaF9WMGozWXRXOGE0cjRaZUxidmdZZHl5QnBpbno5aFZPcExfd2FlS3kzREpqbElUUnNHOUZ5a19uRkFQenRTOFVkXzlCNjRTemRrMV9PZkdOdDJROHQ2LVZkWGRRdU1YZjJMR2JOSXdlcFY3VFF2VTluSA",
+      "headline": "Luria makes final campaign push as early voting comes to a close",
+      "outlet": "Yahoo",
+      "outlet_domain": "yahoo.com",
+      "local": false,
+      "official": false,
+      "date": "2026-11-01T03:31:00.000Z",
+      "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNREZmQlk5MEYxbGppRVBtT0EzaF9WMGozWXRXOGE0cjRaZUxidmdZZHl5QnBpbno5aFZPcExfd2FlS3kzREpqbElUUnNHOUZ5a19uRkFQenRTOFVkXzlCNjRTemRrMV9PZkdOdDJROHQ2LVZkWGRRdU1YZjJMR2JOSXdlcFY3VFF2VTluSA?oc=5",
+      "candidates": [
+        "luria"
+      ],
+      "tags": []
+    },
+    {
       "id": "CBMi9wFBVV95cUxPUGhROEVEdlc1YWlJRlBIbHlGUGlmRnJXZ1VQSjhRYmh3VTNvMTFKbWtFM1FRODh0dWd1ZmplY0tyZlQwV1J3WkdjVU1uY0h0OE1GQjN1VWdWczhNTkpVUndvRTczTUtNclk4dndDejJMX2xqZ1dKYTVlRVluaWVZUHhpU0FjaUVWejNWd0UwazBwS0R5TmJfYVBxRy1NcFM2YS1nRUdpdEQ2eFF2RlU1cGNBX0I2TXFSLXJRbWNLLUFmSG91dkV1MGZfUkxmeE9PWTBoREhKUldqblVRODl2Uzh2YTZnNUFDNTVkQUJSN1F1MjNYMUJZ",
       "headline": "Luria rallies voters in Virginia Beach on final day of early voting",
       "outlet": "13News Now (WVEC)",
@@ -225,6 +454,7 @@
       "date": "2026-10-31T23:55:29.000Z",
       "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNY2g2cGZvMndMV1ZyZzZaTjlzM3FneGNCczUwak9KREJSSkJDejhlTnRPNlNINVYyNWtiUXpnem9BbXlaSXZhXzNleFJxMExSMFN1ZnItMHd5c05PWlRlMlBQRURzUkFOellnMm9tZ0FjeXpoOVlMZmZvX2ttTW9EdUtQQlFPZ00yMkhQMWUyV1pqZHJHTEhyWXE2aUxLbVZjLUp6TGZkOW9POEhuWGF3cWo0aEV0OC1YdzdHQdIBwgFBVV95cUxNZWhQNTNkZnloOE5TN1BWVDVvcXROMjVEZ2hVNlZ0bDZ3S3BKU2NVWnNtTFFFVV9JQVN2eHpERkFaREV1NzZqaVQzRmtPZnFCNnlkXzdFQ2hTVzg4ZmFJTnA5eXM4bGsxVlZmSEpyVDlJcGl0cVVCdGhlNUlLLUM4RThYN0UxX3BtUWoxU05KU1pIWG9CSDdPNXE2N1AtYXJHanRhZFliN0o5N1VFbHZwOUR3UmN4UHpzWGYxQ2VWM1BiUQ?oc=5",
       "candidates": [
+        "kiggans",
         "luria"
       ],
       "tags": []
@@ -287,6 +517,34 @@
       "tags": []
     },
     {
+      "id": "CBMijgFBVV95cUxNQmx6Rk5YS3pMQV92b1FuM2s1M0gzaTNXVC1PT09NTElBNEd4ajdUaG1fRGROenNqODh5UjZfZFhtLVdQLS05RXJUVExRbWRYRnFNZW12a0hXaG5ZM1NEVUV0QnVMNHpMNVNodXZpaHZpZm03WUgtdzhNRmQyYmh1WWdLUS1pZFRzWjBXbzN3",
+      "headline": "Elaine Luria rallies with Hakeem Jeffries in Virginia Beach as VA-02 race enters final days",
+      "outlet": "Yahoo",
+      "outlet_domain": "yahoo.com",
+      "local": false,
+      "official": false,
+      "date": "2026-10-31T21:46:34.000Z",
+      "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNQmx6Rk5YS3pMQV92b1FuM2s1M0gzaTNXVC1PT09NTElBNEd4ajdUaG1fRGROenNqODh5UjZfZFhtLVdQLS05RXJUVExRbWRYRnFNZW12a0hXaG5ZM1NEVUV0QnVMNHpMNVNodXZpaHZpZm03WUgtdzhNRmQyYmh1WWdLUS1pZFRzWjBXbzN3?oc=5",
+      "candidates": [
+        "luria"
+      ],
+      "tags": []
+    },
+    {
+      "id": "CBMiwwJBVV95cUxOVjJXTllEYXlJbXVhM01tM3F3QUpfSWlzZ2NvTGFKdjZmb1dLWFZhaFhfS05Bd1JNNnFKVHhKczJRSVFxczhJM1lGTlloeUZSUm5rcEpPSzhyVHFrUUVCRmx1UDhacC1ZdVBDTVZJazFJczVmNTNrNlBwS1dpSnN0Rjd6SFptSzYzWk9fMUNaSFR5WE9mbkwtNjJCbFVYdVpOOE9YM1N2Y20tQWFBNmhtZElEanlTb0VFci1TNFBLTEdsOFdlVTFYdURNdFZVSTgyTDdJRmdqZlZrcnhTZ3FhOFhTNGRJTzZoMk9XUDBxYzJmVzYwSEJUYTF3d2pXNGVsczhRSG5xMV85SXFkcEJwMmRyQmdOOEZrdS1qWVJETnVHR2xfU3MzckZfX1dlOTh0bV9yMWpOX1dHMy0zdFVXMXM4OA",
+      "headline": "Licensable picture: US House Democratic Leader Jeffries and former Democratic U.S. Rep. Luria of Virginia, hold a Get Out the Vote rally, in Virginia Beach",
+      "outlet": "Reuters Connect",
+      "outlet_domain": "reutersconnect.com",
+      "local": false,
+      "official": false,
+      "date": "2026-10-31T18:40:00.000Z",
+      "link": "https://news.google.com/rss/articles/CBMiwwJBVV95cUxOVjJXTllEYXlJbXVhM01tM3F3QUpfSWlzZ2NvTGFKdjZmb1dLWFZhaFhfS05Bd1JNNnFKVHhKczJRSVFxczhJM1lGTlloeUZSUm5rcEpPSzhyVHFrUUVCRmx1UDhacC1ZdVBDTVZJazFJczVmNTNrNlBwS1dpSnN0Rjd6SFptSzYzWk9fMUNaSFR5WE9mbkwtNjJCbFVYdVpOOE9YM1N2Y20tQWFBNmhtZElEanlTb0VFci1TNFBLTEdsOFdlVTFYdURNdFZVSTgyTDdJRmdqZlZrcnhTZ3FhOFhTNGRJTzZoMk9XUDBxYzJmVzYwSEJUYTF3d2pXNGVsczhRSG5xMV85SXFkcEJwMmRyQmdOOEZrdS1qWVJETnVHR2xfU3MzckZfX1dlOTh0bV9yMWpOX1dHMy0zdFVXMXM4OA?oc=5",
+      "candidates": [
+        "luria"
+      ],
+      "tags": []
+    },
+    {
       "id": "CBMizwFBVV95cUxQNGd6LTBuc1dZcFFwTGJvX2lLbXF4YlB4RjBkZkJrMjVLa0cyMnJSU010T0FZQWRRSHZuNnk2dzI4WjhBNjdRb0k2dXR0ZTloZmUxVHN6MkhtY3J4eVZKUkFxS040MmRMV2FtZWRyMEpaTGhZUFBWRDd0azB3b3NBTlVQRERaQ1ZJRVgzRDVuMnhkeGxDSUJWRlJ4M2s4MjJCeHB6c243aTZaNU5PbUFrNlcxNmZYZGxoUFNfek52cW4xMFlkU0ZRWFM3SlpXb1k",
       "headline": "We talked to veterans in a competitive House district. Here’s what they said.",
       "outlet": "The Washington Post",
@@ -310,11 +568,26 @@
       "date": "2026-10-30T22:52:00.000Z",
       "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPV0RzSmlxM2FXU1NWMzdkTGk0c19PM2ZLVG1lNHdJX3BUSVhQUHBZQnFvbUhfN1hrUWs1a2ItSUFtUGdwZVRzd3VsMm5qUGs5cG9CSHE5c0x3Uy1DbWRPN3hsRnp4bTlPU3R3bWVyZUI3bWs1bk9BbEoxSkNneWUwdGJkSQ?oc=5",
       "candidates": [
-        "kiggans"
+        "kiggans",
+        "luria"
       ],
       "tags": [
         "poll"
       ]
+    },
+    {
+      "id": "CBMilAFBVV95cUxPSTQ4OFZrdklQdEJTVmN1UC1lajIzbEVhUUFLRHVKYmpvQ2UwQXlaMlZ0cm9BWDM4LVhnelV0cDRmRjIycWxNQ29leHh0bmVoT05nQkVhbm9DNjNBSk43QzdKM09EYWkwSmZtdDhDTlIyRDY0b3RibUdUa0U1WXRvNEszRWtIUEc3TmxWeUxlY01Rb2o00gGaAUFVX3lxTE15YmlJMkFaYl9PTTVoekJBU2ZoRUR0STdRUlBvNzBKWDM4V05vWC1ielRyNUFvREJYRDFmRnpsRExkVGdZeDYyemhVaUF2RE1fanBSRGo0WUJNa0JFaWh0eFZYeEh0RFJodkstS2Y4OS1KQmotQU93X3l5NFZHZ2IzamdUTXVRaklZZVNuaVVHdXJ1VmNlYXhIX0E",
+      "headline": "Live results: Elaine Luria faces Jen Kiggans in Virginia’s 2nd District race",
+      "outlet": "NewsNation",
+      "outlet_domain": "newsnationnow.com",
+      "local": false,
+      "official": false,
+      "date": "2026-10-30T19:53:14.000Z",
+      "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPSTQ4OFZrdklQdEJTVmN1UC1lajIzbEVhUUFLRHVKYmpvQ2UwQXlaMlZ0cm9BWDM4LVhnelV0cDRmRjIycWxNQ29leHh0bmVoT05nQkVhbm9DNjNBSk43QzdKM09EYWkwSmZtdDhDTlIyRDY0b3RibUdUa0U1WXRvNEszRWtIUEc3TmxWeUxlY01Rb2o00gGaAUFVX3lxTE15YmlJMkFaYl9PTTVoekJBU2ZoRUR0STdRUlBvNzBKWDM4V05vWC1ielRyNUFvREJYRDFmRnpsRExkVGdZeDYyemhVaUF2RE1fanBSRGo0WUJNa0JFaWh0eFZYeEh0RFJodkstS2Y4OS1KQmotQU93X3l5NFZHZ2IzamdUTXVRaklZZVNuaVVHdXJ1VmNlYXhIX0E?oc=5",
+      "candidates": [
+        "luria"
+      ],
+      "tags": []
     },
     {
       "id": "CBMi5AFBVV95cUxQd1ZYZWl5QlJuQy0zaHNuUE5pelpCRlh0VlEtMFRlVFFlTWR1OXJKczhXNUw2SHhjZUpmZnpjNlJ6Ym40elpFN0RxQ3ZsUkFDa2VxSVlOTkU5OURaSkpCVjVwYVZWY2ZqNmljSlJtQ0hPUWVwMG1RSWE2TFhLTVVfQTU5M2gtUWN1T0tJV2VQQUlmeUtKNUZQQVoyX3k0OFFVV1lEdHlNT3ZpRmJ2NzdsRl9lMUJCSGVHUEJpWkJFQ29BWTVMNnphYVAtQi1Rd05lTGJSYTFpYXdKRmtoZG1YdHZmOUE",
@@ -529,6 +802,7 @@
       "date": "2026-10-29T03:08:00.000Z",
       "link": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxQLWdWS0FTZjA1UEVCRG95MkJZMmJYS2V6YVZHNV94cTd0dUs1Qy04RkJrd3JMNXpuS2tYNFlBRVQxaXFRdTJBM0RTd0lXTkVZZExIQXI1YVBlejlsYzBFeDFhaUp6aHdaMkV0b1lCM3Jjc0NJdkdIT0lGMktkaUlEd2hXNGVxV04tYTJOaE1JSmJBbndjOVRXU3B3NlJrcEhseDZzU1ZFa2ZMMWhhbldVMjRieXRaTkQ4dlpKWFFJcERYVkZQVE1ZZ2ZyZVduUHBDSzdUeGk2anVQS0VRSGREeEExUUJWRDhjbFlCc2x4bw?oc=5",
       "candidates": [
+        "kiggans",
         "luria"
       ],
       "tags": []
@@ -1775,6 +2049,20 @@
       "tags": []
     },
     {
+      "id": "CBMifEFVX3lxTFBEQTBtZW1YOWxWeFJHNFhWOV92bnVucjZSWU1qTWtpQkx6VFdSSWVkeUQ1bzFOblZSSE1SS2VKYWxaQ3ZRaExWZ002NFYtblJKOFdWMEc2dHc2MUxtUnZCM3EwNm1PQW1pblNNbmc4N2stTW95RjBhWTFlMzI",
+      "headline": "With anger spreading over Iran war, Democrats hope to flip Republican seats with veterans’ help",
+      "outlet": "Orlando Sentinel",
+      "outlet_domain": "orlandosentinel.com",
+      "local": false,
+      "official": false,
+      "date": "2026-10-15T07:00:00.000Z",
+      "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTFBEQTBtZW1YOWxWeFJHNFhWOV92bnVucjZSWU1qTWtpQkx6VFdSSWVkeUQ1bzFOblZSSE1SS2VKYWxaQ3ZRaExWZ002NFYtblJKOFdWMEc2dHc2MUxtUnZCM3EwNm1PQW1pblNNbmc4N2stTW95RjBhWTFlMzI?oc=5",
+      "candidates": [
+        "luria"
+      ],
+      "tags": []
+    },
+    {
       "id": "CBMi4wFBVV95cUxQenMzeDNBMW9xcXJ5eWtQWHJWOFA2SzdXOVRhMmhpQl9MWVF6WjM4SnJGQm10ZW9LTUJ5cEpIU3hXZjZpTi1MYzZYVmRKdkZfbE9KT0hVQS1JOGNJQnlpRnlXRElvMWtDdE9YQ0xaTE14UFhYSHdIU0NnYkRMU0ZwdmFfMmRqNXdjbE1nU01Db1U2N25sa0pzXzB6aVNRZ1M3RzlWTnBUV2lfLTBUZi1NOFNTaGNEYlhtZFh0R0J0ZG1nYW5GQkI3ME5xSENLVUF6T2ZOaTRoLUpPOUVsSlZRNHhnUQ",
       "headline": "With anger spreading over Iran war, Democrats hope to flip Republican seats with veterans' help",
       "outlet": "Click2Houston",
@@ -2623,20 +2911,6 @@
       "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNTnFmUGdEemNiT1ZKSDFiT3EwOGM0TjUweTh5WVU1TVlSZnBlcHFKUDRhVENidG02Z2EzdzhDREFHVk52TUZySVllY3ZCM3dNdWFaSjFYZ2sySDZfODJGSzBhSGlpRThKb3hJNVVpU2MyalZwVnJlTWxhSDNJZE1kckkxVEtfWkI4LVRncC00NlE4ZTNaTWhpZnZFMmdNeVh0TjJVSjZxNDFqbUNS?oc=5",
       "candidates": [
         "kiggans",
-        "luria"
-      ],
-      "tags": []
-    },
-    {
-      "id": "CBMipwFBVV95cUxNalM1N3RSdzVLWTRZcGpXLUxWWERDZ0ZDdFFyeWJwUzV4VU5FY2liOVo2c0pjTlNtV3NzTTlqa2paTkwzdGlxdkxDR1A2dFVHN2F1cHVNRDh4UnlJb3VjeTBtOTRoLWJnNlRveDdFeE92bkNSeU0tREViWWFZdm9vTU9NOHR6eHg3T25LUF9HeXlxRFR0VURkZnJ2ZTlPT3hvTVMxUzJVMA",
-      "headline": "After Two Weeks of Early Voting, Where Are We in Virginia at This Point?",
-      "outlet": "Blue Virginia",
-      "outlet_domain": "bluevirginia.us",
-      "local": false,
-      "official": false,
-      "date": "2026-10-04T16:03:33.000Z",
-      "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNalM1N3RSdzVLWTRZcGpXLUxWWERDZ0ZDdFFyeWJwUzV4VU5FY2liOVo2c0pjTlNtV3NzTTlqa2paTkwzdGlxdkxDR1A2dFVHN2F1cHVNRDh4UnlJb3VjeTBtOTRoLWJnNlRveDdFeE92bkNSeU0tREViWWFZdm9vTU9NOHR6eHg3T25LUF9HeXlxRFR0VURkZnJ2ZTlPT3hvTVMxUzJVMA?oc=5",
-      "candidates": [
         "luria"
       ],
       "tags": []
