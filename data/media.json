@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-04T19:55:21.957Z",
+  "updated_at": "2026-11-05T20:08:47.416Z",
   "source": "Google News RSS search",
   "queries": [
     "\"Jen Kiggans\"",
@@ -20,6 +20,177 @@
   ],
   "items": [
     {
+      "id": "CBMijwFBVV95cUxNVFpLMGNkWGg0LUNVZWcwWmVGZkx2YTBVWXNmamlFN1ZkRF91bjEyVGxsTEtubUx1V0Fha1IxOGFwVkNSYWJQRGpBNGxsazhlWllLTTJfaXFKcUFxNWRfYnlxX1pMVU9SX011MFhpck9DdlpuYnNDemJJYm8yeExSWVFpSlRvVEhlU1pjbTc4aw",
+      "headline": "Hampton Roads Democrats celebrate congressional conquest",
+      "outlet": "The Virginian-Pilot",
+      "outlet_domain": "pilotonline.com",
+      "local": true,
+      "official": false,
+      "date": "2026-11-05T17:53:02.000Z",
+      "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNVFpLMGNkWGg0LUNVZWcwWmVGZkx2YTBVWXNmamlFN1ZkRF91bjEyVGxsTEtubUx1V0Fha1IxOGFwVkNSYWJQRGpBNGxsazhlWllLTTJfaXFKcUFxNWRfYnlxX1pMVU9SX011MFhpck9DdlpuYnNDemJJYm8yeExSWVFpSlRvVEhlU1pjbTc4aw?oc=5",
+      "candidates": [
+        "luria"
+      ],
+      "tags": []
+    },
+    {
+      "id": "CBMiowFBVV95cUxONkFiblo2LTVFS3VlVFVmNGs4UVhBYXVUZWpEa21KbjRlVkFrTDhsRHZrU2wyZVdGcVlocHRZTXdXZWRlUU1SbVJjNXVweGJUMmxfb1MxQjFFa2VSeWExRmdqVkNPUEZ1czVKYjExX0NSb19jWkRpSUFoRmR4UWxIRnAza0l6cnh5MGtUMjItRWlCa2MzckVISWtmclYxeUpwLXRF",
+      "headline": "Political Winners and Losers: 2026 Virginia Midterm Elections Edition",
+      "outlet": "Blue Virginia",
+      "outlet_domain": "bluevirginia.us",
+      "local": false,
+      "official": false,
+      "date": "2026-11-05T12:56:39.000Z",
+      "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxONkFiblo2LTVFS3VlVFVmNGs4UVhBYXVUZWpEa21KbjRlVkFrTDhsRHZrU2wyZVdGcVlocHRZTXdXZWRlUU1SbVJjNXVweGJUMmxfb1MxQjFFa2VSeWExRmdqVkNPUEZ1czVKYjExX0NSb19jWkRpSUFoRmR4UWxIRnAza0l6cnh5MGtUMjItRWlCa2MzckVISWtmclYxeUpwLXRF?oc=5",
+      "candidates": [
+        "luria"
+      ],
+      "tags": []
+    },
+    {
+      "id": "CBMitgFBVV95cUxQelpsdlBRTUZqYmxaeVY3V2hRaFB6QjRPYlNpR0pIUnNmTnJ1Z3gxUEgxQzlqUTdGQkZaMG12QUowbmFHLWVxWGM5cXFPdE5UbnlGYW9kR0c4Rnh5c2Y3T3M4RUNfZThNbFNpZmNDbnVsdTF5UUlCNWltLVY3cG1YeEZPcGdNQS1CR3hCTU5vcVR1RkhROVl3RlM0aVRjWXU4QWxlRzM0VzN1MzRUOVJJNUFsTjcwdw",
+      "headline": "From Israel hawks to ‘genocide’: The Jewish center no longer holds in Congress",
+      "outlet": "Jewish Telegraphic Agency",
+      "outlet_domain": "jta.org",
+      "local": false,
+      "official": false,
+      "date": "2026-11-05T12:02:14.000Z",
+      "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQelpsdlBRTUZqYmxaeVY3V2hRaFB6QjRPYlNpR0pIUnNmTnJ1Z3gxUEgxQzlqUTdGQkZaMG12QUowbmFHLWVxWGM5cXFPdE5UbnlGYW9kR0c4Rnh5c2Y3T3M4RUNfZThNbFNpZmNDbnVsdTF5UUlCNWltLVY3cG1YeEZPcGdNQS1CR3hCTU5vcVR1RkhROVl3RlM0aVRjWXU4QWxlRzM0VzN1MzRUOVJJNUFsTjcwdw?oc=5",
+      "candidates": [
+        "luria"
+      ],
+      "tags": []
+    },
+    {
+      "id": "CBMihgFBVV95cUxQQW5NNWxHdmt6VEI4bXFBaDlKbzgyZjU3c0cxSk81ay1CT0d1U21SNjVyMFlzWTBZd3JmNC1zelRRbHlnQkQtR3U5TmVKTGtQMnZiV01WdDVIcUxCSk5GZV9KRW11NTlCSk05TWJocTdwTW8zeHQxdks5VEJhU28tQ3lMcnd4Zw",
+      "headline": "Moderate Democrats Increase Their Numbers, and Their Clout",
+      "outlet": "The New York Times",
+      "outlet_domain": "nytimes.com",
+      "local": false,
+      "official": false,
+      "date": "2026-11-05T01:32:45.000Z",
+      "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQQW5NNWxHdmt6VEI4bXFBaDlKbzgyZjU3c0cxSk81ay1CT0d1U21SNjVyMFlzWTBZd3JmNC1zelRRbHlnQkQtR3U5TmVKTGtQMnZiV01WdDVIcUxCSk5GZV9KRW11NTlCSk05TWJocTdwTW8zeHQxdks5VEJhU28tQ3lMcnd4Zw?oc=5",
+      "candidates": [
+        "luria"
+      ],
+      "tags": []
+    },
+    {
+      "id": "CBMigAFBVV95cUxNTksyWUc5cU0tTWQ4d1JsLWUyaVp5OFF5c1FoWXI4Sy1lTDdadFF4Yks1UjJSd05KdTdkNGlEZHZ6U2p4by1aQWh1OFBiZmwtOTJDX3A3ZUpPU3YxejRVeXAzODc3ZTduYjdVUzZkemkybEJUdXpNQUFHY0R5RHF4cA",
+      "headline": "Luria reclaims House seat, tops Kiggans",
+      "outlet": "WAVY",
+      "outlet_domain": "wavy.com",
+      "local": true,
+      "official": false,
+      "date": "2026-11-05T01:28:16.000Z",
+      "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNTksyWUc5cU0tTWQ4d1JsLWUyaVp5OFF5c1FoWXI4Sy1lTDdadFF4Yks1UjJSd05KdTdkNGlEZHZ6U2p4by1aQWh1OFBiZmwtOTJDX3A3ZUpPU3YxejRVeXAzODc3ZTduYjdVUzZkemkybEJUdXpNQUFHY0R5RHF4cA?oc=5",
+      "candidates": [
+        "kiggans",
+        "luria"
+      ],
+      "tags": []
+    },
+    {
+      "id": "CBMiogJBVV95cUxNcmlHTXZzX25mZFdFSkZQaFNMbmtFMC1MejllUHlTVjVwVVNWN3AxOU5pNTVfSzVZVWhSY2pKYzdOc09tZkhlcTl0VF9zNXVTdThtTmxiNVd6MmVyVm5PbHBZTzlGbWRfX3gza1pIVGZWRkhWUURueF9Kb2RYc2ZnZ2wwZUh4RmdObUtoQmNZQlBnM0FtT1lHTUNTMkgyUW1iTmU3MVU2eGI5UXczWjJqUG83UEtnd0FSQnRTS0YzeUV4NWRFVlViVzJSbWNMMGxWUl9KeUFKUVZGZUQ0MnM0Z042WFpVLUNBUzl6QlNIRVQxTmt4R3VTWE5DX3lDLWdoVVdXeXFXbGplVzRuV3paQXlCNTBTdjRNdzUzTzJtSFlFZw",
+      "headline": "Luria returning to the House after flipping VA-02; Taylor declares victory in close VA-01 contest",
+      "outlet": "13News Now (WVEC)",
+      "outlet_domain": "13newsnow.com",
+      "local": true,
+      "official": false,
+      "date": "2026-11-05T00:41:00.000Z",
+      "link": "https://news.google.com/rss/articles/CBMiogJBVV95cUxNcmlHTXZzX25mZFdFSkZQaFNMbmtFMC1MejllUHlTVjVwVVNWN3AxOU5pNTVfSzVZVWhSY2pKYzdOc09tZkhlcTl0VF9zNXVTdThtTmxiNVd6MmVyVm5PbHBZTzlGbWRfX3gza1pIVGZWRkhWUURueF9Kb2RYc2ZnZ2wwZUh4RmdObUtoQmNZQlBnM0FtT1lHTUNTMkgyUW1iTmU3MVU2eGI5UXczWjJqUG83UEtnd0FSQnRTS0YzeUV4NWRFVlViVzJSbWNMMGxWUl9KeUFKUVZGZUQ0MnM0Z042WFpVLUNBUzl6QlNIRVQxTmt4R3VTWE5DX3lDLWdoVVdXeXFXbGplVzRuV3paQXlCNTBTdjRNdzUzTzJtSFlFZw?oc=5",
+      "candidates": [
+        "luria"
+      ],
+      "tags": []
+    },
+    {
+      "id": "CBMifEFVX3lxTFBZckI5YVFqZzVVdUljMnpLdXJwaTBsc0hXYVRfaVpBLTRNZHNXTXQyZnRQOUVSZERHNlJ1MHFnNHlYZjdOYktxcmM4X3hNVzd0eG9BTnRUVzBXZ1dQbWkxMm45Q1EwbE9OWmJ2b1M2bFhWWkZKME9iLXVXM3U",
+      "headline": "8 takeaways from Hampton Roads elections: What we learned",
+      "outlet": "The Virginian-Pilot",
+      "outlet_domain": "pilotonline.com",
+      "local": true,
+      "official": false,
+      "date": "2026-11-05T00:30:43.000Z",
+      "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTFBZckI5YVFqZzVVdUljMnpLdXJwaTBsc0hXYVRfaVpBLTRNZHNXTXQyZnRQOUVSZERHNlJ1MHFnNHlYZjdOYktxcmM4X3hNVzd0eG9BTnRUVzBXZ1dQbWkxMm45Q1EwbE9OWmJ2b1M2bFhWWkZKME9iLXVXM3U?oc=5",
+      "candidates": [
+        "kiggans"
+      ],
+      "tags": []
+    },
+    {
+      "id": "CBMiuAFBVV95cUxOcWpzdEtZUnVGQnpvUTlyZzkyZ05xUnIzRUpnM2x2aHBRWEVuUHpMM1Q1eE4tLV8zRzhBdzFDcnFMRnJJWDNyazdmcHZ5YUhQT1Y1dHR2U3BfUWJlTzR2QXBTU3NLV2tXZ1JsV29FdjhPWU81VEFKczhwR0k0Y0JhVmQ2a3daWDJZdXpyaThvT204alZ2WkN4NWpDSG9iWWVHOG15OVlrWmU2NnQ3TDdCbTBJLWNvbkU2",
+      "headline": "Editorial: Tuesday’s Democratic sweep alters the balance of power in Washington",
+      "outlet": "The Virginian-Pilot",
+      "outlet_domain": "pilotonline.com",
+      "local": true,
+      "official": false,
+      "date": "2026-11-05T00:05:49.000Z",
+      "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOcWpzdEtZUnVGQnpvUTlyZzkyZ05xUnIzRUpnM2x2aHBRWEVuUHpMM1Q1eE4tLV8zRzhBdzFDcnFMRnJJWDNyazdmcHZ5YUhQT1Y1dHR2U3BfUWJlTzR2QXBTU3NLV2tXZ1JsV29FdjhPWU81VEFKczhwR0k0Y0JhVmQ2a3daWDJZdXpyaThvT204alZ2WkN4NWpDSG9iWWVHOG15OVlrWmU2NnQ3TDdCbTBJLWNvbkU2?oc=5",
+      "candidates": [
+        "luria"
+      ],
+      "tags": []
+    },
+    {
+      "id": "CBMi_AFBVV95cUxPQkVLRlRuaXlTcjNCWnJuVE4zaEJ6ai02TWNjbzA1Y0dIMjZWMlh6STRNRGtkeVpxQnFud0V2OFJQRlN2SWtfS3JmVXIwYTJIdnQ1ZWNjY05Hb19RRkRQZlJRUjY5QWdtWWxoMlNXOE9BOEVVRHMzVmd4d3pyX21tWFJTb3BuY29YY3lvZ2k2aTFINkItUUF3T2JGMGV6YkRUT0EyQlJMTS01RWFkQXVhWVNZRmtzclItSEN0TWRGVnROaFJMVHhzQVUwV2hJdkZYYVVlTHMtaS03UmJGWk52UDU3T3BrT0JHT1dBY3hmRGdtZTVVYWg2S0JtWEE",
+      "headline": "Luria takes back 2nd Congressional District seat in Virginia",
+      "outlet": "13News Now (WVEC)",
+      "outlet_domain": "13newsnow.com",
+      "local": true,
+      "official": false,
+      "date": "2026-11-04T23:13:00.000Z",
+      "link": "https://news.google.com/rss/articles/CBMi_AFBVV95cUxPQkVLRlRuaXlTcjNCWnJuVE4zaEJ6ai02TWNjbzA1Y0dIMjZWMlh6STRNRGtkeVpxQnFud0V2OFJQRlN2SWtfS3JmVXIwYTJIdnQ1ZWNjY05Hb19RRkRQZlJRUjY5QWdtWWxoMlNXOE9BOEVVRHMzVmd4d3pyX21tWFJTb3BuY29YY3lvZ2k2aTFINkItUUF3T2JGMGV6YkRUT0EyQlJMTS01RWFkQXVhWVNZRmtzclItSEN0TWRGVnROaFJMVHhzQVUwV2hJdkZYYVVlTHMtaS03UmJGWk52UDU3T3BrT0JHT1dBY3hmRGdtZTVVYWg2S0JtWEE?oc=5",
+      "candidates": [
+        "kiggans",
+        "luria"
+      ],
+      "tags": []
+    },
+    {
+      "id": "CBMingFBVV95cUxPYjBNSHRCRVRKc3p5WGFGVDJ3cWtLajZSV21JeG1JRXpUTEQ3ZTYtWHdiQTlwaGx4Y1lFaEJGUDVFeUw5WEd2cDhPcG9qemg1eU1OZlBOMDEwVlRVdWkzbjM3NFBhSzNZTVFDcTMyTC1ObHpYMDJKVThIeFhPYTZ1dm5PakVKQjVpSjRWYkxPSDJYa0hPdGVZOWh4NUkyZw",
+      "headline": "Virginia Democrats gain ground. What happens next in Washington?",
+      "outlet": "WTKR (News 3)",
+      "outlet_domain": "wtkr.com",
+      "local": true,
+      "official": false,
+      "date": "2026-11-04T21:27:10.000Z",
+      "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxPYjBNSHRCRVRKc3p5WGFGVDJ3cWtLajZSV21JeG1JRXpUTEQ3ZTYtWHdiQTlwaGx4Y1lFaEJGUDVFeUw5WEd2cDhPcG9qemg1eU1OZlBOMDEwVlRVdWkzbjM3NFBhSzNZTVFDcTMyTC1ObHpYMDJKVThIeFhPYTZ1dm5PakVKQjVpSjRWYkxPSDJYa0hPdGVZOWh4NUkyZw?oc=5",
+      "candidates": [
+        "kiggans",
+        "luria"
+      ],
+      "tags": []
+    },
+    {
+      "id": "CBMif0FVX3lxTE9JVkJCUmtpYTlLTm5GQlN3bkdUQjBhNWdFNENxTHoyRXYzeEZCRDdmcDgxeHVNd3JzR0YtVHMtQ0htZmx5WWZEa1RpU0g5TlpvWGRhU1NQckRrcGp3T1AycWVTRDdFOGVNcGMtTGJuX0Z6M0owSjdaelIzQ0ZONEE",
+      "headline": "Spanberger says she won’t run for president in 2028",
+      "outlet": "The Virginian-Pilot",
+      "outlet_domain": "pilotonline.com",
+      "local": true,
+      "official": false,
+      "date": "2026-11-04T19:55:31.000Z",
+      "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9JVkJCUmtpYTlLTm5GQlN3bkdUQjBhNWdFNENxTHoyRXYzeEZCRDdmcDgxeHVNd3JzR0YtVHMtQ0htZmx5WWZEa1RpU0g5TlpvWGRhU1NQckRrcGp3T1AycWVTRDdFOGVNcGMtTGJuX0Z6M0owSjdaelIzQ0ZONEE?oc=5",
+      "candidates": [
+        "luria"
+      ],
+      "tags": []
+    },
+    {
+      "id": "CBMipwFBVV95cUxOdWI0Y2FXWGJPUWc4UlJWd1ZhQTh5WXQxNzE0T3JQVDBIeWpvMTNsZkxPR01aN3RoS3N0c3R3cnpOWUc2OEFMSmZoaTJVVTd1MjVfdGhZWGR6OS12S3lIUW5tMVZIQnVlc1kzenhXSVZPVlRJeWxGUjlxVXRVNnhwRTFXOFRrY0lCRF9oN2tEbDJYQXdsU0s1aWtvRzdvWVpDaGFaaExVYw",
+      "headline": "Warner Wins Fourth Term, Luria Ousts Kiggans in VA-02, Taylor Triumphs in VA-01",
+      "outlet": "Royal Examiner",
+      "outlet_domain": "royalexaminer.com",
+      "local": false,
+      "official": false,
+      "date": "2026-11-04T18:40:53.000Z",
+      "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOdWI0Y2FXWGJPUWc4UlJWd1ZhQTh5WXQxNzE0T3JQVDBIeWpvMTNsZkxPR01aN3RoS3N0c3R3cnpOWUc2OEFMSmZoaTJVVTd1MjVfdGhZWGR6OS12S3lIUW5tMVZIQnVlc1kzenhXSVZPVlRJeWxGUjlxVXRVNnhwRTFXOFRrY0lCRF9oN2tEbDJYQXdsU0s1aWtvRzdvWVpDaGFaaExVYw?oc=5",
+      "candidates": [
+        "luria"
+      ],
+      "tags": []
+    },
+    {
       "id": "CBMiwAFBVV95cUxQbl8wWWR2aXFIenY5SXBSSFpuaDdZYWROU0dpMXVTd3N0SEg4R2FYeVcyaXh4UGF0ak9pRDVyR2w4NE13ajVYTjhNMXZBdmhxRV9mSXVrSjJ4bElyQ014Q2twUGsxRExkZGNBeWU3Qm1vclRtT0VpQkI2VXRnYlZCUHVvcXZKVEVaajAtUERQOFUyMFpBcXoxNkFjY1lQeDhMejFRY2FkUFd5dWhmR2pZc3c1amREamM1dlUtS2JrUnU",
       "headline": "Who won the Virginia election? Warner, Luria and all three amendments; only the 5th not called",
       "outlet": "Nacionale",
@@ -29,6 +200,7 @@
       "date": "2026-11-04T17:38:41.000Z",
       "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQbl8wWWR2aXFIenY5SXBSSFpuaDdZYWROU0dpMXVTd3N0SEg4R2FYeVcyaXh4UGF0ak9pRDVyR2w4NE13ajVYTjhNMXZBdmhxRV9mSXVrSjJ4bElyQ014Q2twUGsxRExkZGNBeWU3Qm1vclRtT0VpQkI2VXRnYlZCUHVvcXZKVEVaajAtUERQOFUyMFpBcXoxNkFjY1lQeDhMejFRY2FkUFd5dWhmR2pZc3c1amREamM1dlUtS2JrUnU?oc=5",
       "candidates": [
+        "kiggans",
         "luria"
       ],
       "tags": []
@@ -209,6 +381,20 @@
       "tags": []
     },
     {
+      "id": "CBMijAFBVV95cUxPZkFpMmFmVE9LemYtdzc1Smp2UU5RRjBrMGRiQkVTbF9peVh4MEhESk9fbUNuWXFrTGVJYW5FMThkUklrZEgwQU1LNmZyZ2VqZTVGX3BIU2hzMmlaNmdOS3BvTTRZcFVWTG5sb3pqSmpZS29CbXBxTFRsRm1SMlJWemJTZDN6MFF3Wm9XZQ",
+      "headline": "Warner wins fourth term, Luria ousts Kiggans in VA-02",
+      "outlet": "Henrico Citizen",
+      "outlet_domain": "henricocitizen.com",
+      "local": false,
+      "official": false,
+      "date": "2026-11-04T05:23:18.000Z",
+      "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPZkFpMmFmVE9LemYtdzc1Smp2UU5RRjBrMGRiQkVTbF9peVh4MEhESk9fbUNuWXFrTGVJYW5FMThkUklrZEgwQU1LNmZyZ2VqZTVGX3BIU2hzMmlaNmdOS3BvTTRZcFVWTG5sb3pqSmpZS29CbXBxTFRsRm1SMlJWemJTZDN6MFF3Wm9XZQ?oc=5",
+      "candidates": [
+        "luria"
+      ],
+      "tags": []
+    },
+    {
       "id": "CBMiigFBVV95cUxPOE5hdHRoUGV3RENvd0RybFd1SDMxYU1BUW5HdkhsV3VISjVqMmR5QTNSNmpuQ0E2eE4yX2tMMXBRN1JfV0F5ZFV5UEg1QXR6Zm1fNVdIYXlEYS01a1d6U0pKc2lJSnNBa01jMjlnX05LOHpfdjNiZkRMQ3lDWkt2N1U4Q1V4ZWtRMGc",
       "headline": "Luria Wins in Virginia, Flipping a Key House Seat for Democrats",
       "outlet": "The New York Times",
@@ -232,6 +418,21 @@
       "official": false,
       "date": "2026-11-04T05:02:16.000Z",
       "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPa28zNGlPMnhVSzdHYy1ZV0gyMWtrY3g5LUZTd0phbzVYdFIxZm94MHU3cS1zVVljamNpWVc5UUVlbDR0T193NVFzR2FlZmh0c3kyMWlKSDNNWjFfTW53bVNiWmF5OXFfdDM0Nld2VEw1a29wUldDbHUxc3VmZlZnVnFVREdUQmcyQldNYzUzN1BqUGNHN3RoWjRaM3phVHfSAacBQVVfeXFMT2IwRjk2bThBalZ2a2lmcl9lbHdHb3VhT0JfV3UwbThkS2k1V2pTSExUN1UzWDQtT19Fa291UU4yT3dXT0xZbU1zcHpINzBHQnR1dmFod3luaHNtVmtMZ2VrQm5iX3JmRU8wbU95NmdQbHdqNkd4bG4tSDMxbUJvRVZuLVdjZ29OdXVaU0RIMmFmaHdQY2hJR3pJcG04RW9OeWhHMEI5SEk?oc=5",
+      "candidates": [
+        "kiggans",
+        "luria"
+      ],
+      "tags": []
+    },
+    {
+      "id": "CBMibkFVX3lxTE5lYW5ZM1V1T3Z2NXZNQUZQbGNUYl9scHVPVXc4TER1a3lNcWhRZFhxc2lDSXJ2VENJQ3JFeHRfVW0xZXRqSklBa2RDMDQ3UmNjVlRtRzVvd05EY1JZVlhnaDc1a1dRTHNPa2ZpZkxn",
+      "headline": "The Cook Political Report (@thecookpoliticalreport)",
+      "outlet": "Substack",
+      "outlet_domain": "substack.com",
+      "local": false,
+      "official": false,
+      "date": "2026-11-04T05:02:00.000Z",
+      "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE5lYW5ZM1V1T3Z2NXZNQUZQbGNUYl9scHVPVXc4TER1a3lNcWhRZFhxc2lDSXJ2VENJQ3JFeHRfVW0xZXRqSklBa2RDMDQ3UmNjVlRtRzVvd05EY1JZVlhnaDc1a1dRTHNPa2ZpZkxn?oc=5",
       "candidates": [
         "kiggans",
         "luria"
@@ -736,6 +937,20 @@
       "tags": []
     },
     {
+      "id": "CBMiYEFVX3lxTE9rdjRfaXkyOE1EQVBhcTlSeVNVSVFyTC1VYWd1MDJjazJVYzF3dkxaYXZZVkZuUXp4RWh0VFVHS3EzdE80X0N6bmhxeG9VTXlyQnVfS00yU3JMSlZqWk1mWQ",
+      "headline": "Virginia 2026 election results",
+      "outlet": "CNN",
+      "outlet_domain": "cnn.com",
+      "local": false,
+      "official": false,
+      "date": "2026-11-03T06:33:40.000Z",
+      "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9rdjRfaXkyOE1EQVBhcTlSeVNVSVFyTC1VYWd1MDJjazJVYzF3dkxaYXZZVkZuUXp4RWh0VFVHS3EzdE80X0N6bmhxeG9VTXlyQnVfS00yU3JMSlZqWk1mWQ?oc=5",
+      "candidates": [
+        "luria"
+      ],
+      "tags": []
+    },
+    {
       "id": "CBMijAFBVV95cUxPSjZQT2lFU3NwaS1hLXlDUDg0amFXZFdITXAxQ2pLa1lOSEhISk9YRDdlNE52RVBaVzZhSlVrdHlid0NrVlRHVGlDUkJMSGxkMW1rQ2FTWWRwVDM0NnBvV0d1TjJ6VndpOWxhS1ctTFNycndSUW9CbmhwVFl0dk4wS1FyMEdoblFVRWQ0eg",
       "headline": "Youngkin, House speaker join Kiggans at VB rally",
       "outlet": "WAVY",
@@ -878,6 +1093,49 @@
       "tags": []
     },
     {
+      "id": "CBMiXEFVX3lxTE1KRXZuemRvVEtEMU93VlpHeDNSZWdGdktPUVdDYlBmRHd1SzJ6aEl1QlhBTkJMTEhmYjUwNGppVlZTeEpJa2hQQ1VqcG42S0ttekQxMU5VNW9wb19a",
+      "headline": "Former Gov. Youngkin (R-VA) touts against current Gov. Spanberger (D-VA) in Virginia Beach Campaign Event",
+      "outlet": "C-SPAN",
+      "outlet_domain": "c-span.org",
+      "local": false,
+      "official": false,
+      "date": "2026-11-02T08:00:00.000Z",
+      "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE1KRXZuemRvVEtEMU93VlpHeDNSZWdGdktPUVdDYlBmRHd1SzJ6aEl1QlhBTkJMTEhmYjUwNGppVlZTeEpJa2hQQ1VqcG42S0ttekQxMU5VNW9wb19a?oc=5",
+      "candidates": [
+        "kiggans"
+      ],
+      "tags": []
+    },
+    {
+      "id": "CBMiXEFVX3lxTE9FVjF0NEZVMTVDZ2ZkWTBndmF0M3B3ODFXTlFic1pVQ2h0UVM5SEdiUFlTM1d3MGhiYUVnNTBQUFZfUVBxQWQtY3N3OHZRdENxMllBbHNoTGNSRVJQ",
+      "headline": "Jen Kiggans on her opponent Elaine Luria and other Virginian Democrats",
+      "outlet": "C-SPAN",
+      "outlet_domain": "c-span.org",
+      "local": false,
+      "official": false,
+      "date": "2026-11-02T08:00:00.000Z",
+      "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE9FVjF0NEZVMTVDZ2ZkWTBndmF0M3B3ODFXTlFic1pVQ2h0UVM5SEdiUFlTM1d3MGhiYUVnNTBQUFZfUVBxQWQtY3N3OHZRdENxMllBbHNoTGNSRVJQ?oc=5",
+      "candidates": [
+        "kiggans",
+        "luria"
+      ],
+      "tags": []
+    },
+    {
+      "id": "CBMiXEFVX3lxTFByVXRBUXNnVW1wa1dEZmxwLXI0RFdUbldBbTIwR1NIc09iMEcwVzVjNTR4RkZqQWdOaGFBQWd4Wi1xeUdWSWkySjJOUkt3MzNfY0pvYUU5ZHVfTTdn",
+      "headline": "Speaker Johnson (R-LA) Campaigns for Jen Kiggans (R-VA) on the eve of Election Day",
+      "outlet": "C-SPAN",
+      "outlet_domain": "c-span.org",
+      "local": false,
+      "official": false,
+      "date": "2026-11-02T08:00:00.000Z",
+      "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFByVXRBUXNnVW1wa1dEZmxwLXI0RFdUbldBbTIwR1NIc09iMEcwVzVjNTR4RkZqQWdOaGFBQWd4Wi1xeUdWSWkySjJOUkt3MzNfY0pvYUU5ZHVfTTdn?oc=5",
+      "candidates": [
+        "kiggans"
+      ],
+      "tags": []
+    },
+    {
       "id": "CBMizwFBVV95cUxObWNUOGJwekNGVk1FMmdKSVFXTHdIZVdwbnNyRUV3azEtNmNFTE5YQjJZVVhXcUFxVTVMTGpfYk1reGV0Nzg4Y0JxMEJGbjl3cHQzMG4yUTFfRktma1pOS1ppQnlOMWo5Q3I3RDVvVGU2VHB1NDk1UHh0N01NWlZSdU01cFhzY1dRajB3dllGaGFfSWNNZzJBeTFTWFoycjl2MXZPdW5QdzBEMUQwWmpwQmpCMmhQakc4U0lJamZPYWhTcVZxM0llRm9yZTc2TFU",
       "headline": "Hampton Roads’ races top political ad spending in Virginia",
       "outlet": "WHRO",
@@ -888,6 +1146,20 @@
       "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxObWNUOGJwekNGVk1FMmdKSVFXTHdIZVdwbnNyRUV3azEtNmNFTE5YQjJZVVhXcUFxVTVMTGpfYk1reGV0Nzg4Y0JxMEJGbjl3cHQzMG4yUTFfRktma1pOS1ppQnlOMWo5Q3I3RDVvVGU2VHB1NDk1UHh0N01NWlZSdU01cFhzY1dRajB3dllGaGFfSWNNZzJBeTFTWFoycjl2MXZPdW5QdzBEMUQwWmpwQmpCMmhQakc4U0lJamZPYWhTcVZxM0llRm9yZTc2TFU?oc=5",
       "candidates": [
         "luria"
+      ],
+      "tags": []
+    },
+    {
+      "id": "CBMi4gFBVV95cUxPYWs3cjZaUDg1WHV4dFJMNVJEZ0lMUS1kaktlWmUzQXplaV95SFpHbTVjNXJKTUcxZ0JYRWdaMVFvVGNPa3B6MGZhQUhzZUctV3FWZDVSRlZaVnFTT25sWjN2NjRkOWJKUExXOVdGaU9LWndLZ0Rza3RmSnA3SVptQUl0R1VmS3pZZ2pxR29DYTludzNTcjlfQkNWdUxTZVpXVUhJekR5T2owY2NycTRWU1FlYllxRnZFdGRVbUJGTmF0VnE5ZFFGZmRfTVlrSjAwUGZwNjNfSzN6emZiV2hUVGhB",
+      "headline": "Speaker Mike Johnson (R-LA) and Fmr. Gov. Glenn Youngkin (R-VA) Campaign Rally with Rep. Jen Kiggans (R-VA)",
+      "outlet": "C-SPAN",
+      "outlet_domain": "c-span.org",
+      "local": false,
+      "official": false,
+      "date": "2026-11-02T05:00:00.000Z",
+      "link": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxPYWs3cjZaUDg1WHV4dFJMNVJEZ0lMUS1kaktlWmUzQXplaV95SFpHbTVjNXJKTUcxZ0JYRWdaMVFvVGNPa3B6MGZhQUhzZUctV3FWZDVSRlZaVnFTT25sWjN2NjRkOWJKUExXOVdGaU9LWndLZ0Rza3RmSnA3SVptQUl0R1VmS3pZZ2pxR29DYTludzNTcjlfQkNWdUxTZVpXVUhJekR5T2owY2NycTRWU1FlYllxRnZFdGRVbUJGTmF0VnE5ZFFGZmRfTVlrSjAwUGZwNjNfSzN6emZiV2hUVGhB?oc=5",
+      "candidates": [
+        "kiggans"
       ],
       "tags": []
     },
@@ -3452,35 +3724,6 @@
       "candidates": [
         "kiggans",
         "luria"
-      ],
-      "tags": []
-    },
-    {
-      "id": "CBMi0wFBVV95cUxNdWtyNFZDeDRoZkg5dS1lYVk4MzZOTGh3WjNYc2pCTVdqOVc4Y0hGdTB6R01abTQ0RnVGVHVsdzhFVTRKTFk0dU9aQ2V0UWRNeTRQbVUwaExLdVV2RFlhaXVIdUVVR0oteUZZQzR2VjQzcXUwb2I0MmFCRnNCZWtOZVRPS0dvVXFUQV90UXU4SHBWanBPUWF4SzZSU0N3M3B5M1JlVnhLdnBuNUp0QTYwWkNfaUphaWxXSlFVaUhMVWQwS0MxdktvQ0FVYXNkTnJMY2xB",
-      "headline": "Video: New Elaine Luria Ad Calls Out Utterly Dishonest MAGA Rep. Jen Kiggans (R-VA02) for \"Lying to Your Face\"",
-      "outlet": "Blue Virginia",
-      "outlet_domain": "bluevirginia.us",
-      "local": false,
-      "official": false,
-      "date": "2026-10-06T14:00:36.000Z",
-      "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxNdWtyNFZDeDRoZkg5dS1lYVk4MzZOTGh3WjNYc2pCTVdqOVc4Y0hGdTB6R01abTQ0RnVGVHVsdzhFVTRKTFk0dU9aQ2V0UWRNeTRQbVUwaExLdVV2RFlhaXVIdUVVR0oteUZZQzR2VjQzcXUwb2I0MmFCRnNCZWtOZVRPS0dvVXFUQV90UXU4SHBWanBPUWF4SzZSU0N3M3B5M1JlVnhLdnBuNUp0QTYwWkNfaUphaWxXSlFVaUhMVWQwS0MxdktvQ0FVYXNkTnJMY2xB?oc=5",
-      "candidates": [
-        "kiggans",
-        "luria"
-      ],
-      "tags": []
-    },
-    {
-      "id": "CBMi3wFBVV95cUxNdnBER3p0VGtFWjh0VUJySzFQY3FWRDNlX2VQdXl4OG5mem9vMUpWVlJ3aFVVN3NoRDZ1ZXFKRXZBLWdVVm1MbUptUE53UXRMRmlZREpiVkNvQmtuQVFGeUcwcVpOdVUzbGI0MVR1OWJ6QkljVjJBa3N4V0lKSlhLOUpnbUNUbTBSTGVMLV9XcEpfSzVxeHNkSDhfb25DZXB6eVpLNmh1NnNrRkQxQ3E1dEhibExmOHBiTDE2TS1nM1hQalJNSlJiZHQ4Vl9nOF9GTDRMbm5jQzdvWnBZaF9N",
-      "headline": "In Virginia, Democrat hoping to oust Republican tests anti-corruption message echoing around country",
-      "outlet": "KSAT",
-      "outlet_domain": "ksat.com",
-      "local": false,
-      "official": false,
-      "date": "2026-10-06T07:00:00.000Z",
-      "link": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxNdnBER3p0VGtFWjh0VUJySzFQY3FWRDNlX2VQdXl4OG5mem9vMUpWVlJ3aFVVN3NoRDZ1ZXFKRXZBLWdVVm1MbUptUE53UXRMRmlZREpiVkNvQmtuQVFGeUcwcVpOdVUzbGI0MVR1OWJ6QkljVjJBa3N4V0lKSlhLOUpnbUNUbTBSTGVMLV9XcEpfSzVxeHNkSDhfb25DZXB6eVpLNmh1NnNrRkQxQ3E1dEhibExmOHBiTDE2TS1nM1hQalJNSlJiZHQ4Vl9nOF9GTDRMbm5jQzdvWnBZaF9N?oc=5",
-      "candidates": [
-        "kiggans"
       ],
       "tags": []
     }
