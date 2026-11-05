@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-03T17:54:25.216Z",
+  "updated_at": "2026-11-05T18:05:42.430Z",
   "cycle": 2026,
   "source": "Federal Election Commission, OpenFEC API (api.open.fec.gov)",
   "source_url": "https://www.fec.gov/data/elections/house/VA/02/2026/",
@@ -5559,12 +5559,12 @@
     "note": "Independent expenditures from FEC processed data, totaled by spending group; the newest 24/48-hour reports can take a few days to appear.",
     "by_candidate": {
       "kiggans": {
-        "support": 371271.36,
+        "support": 419295.22,
         "oppose": 2656198.41
       },
       "luria": {
-        "support": 210983.59,
-        "oppose": 34466.2
+        "support": 221217.33,
+        "oppose": 38033.81
       }
     },
     "groups": [
@@ -5625,6 +5625,14 @@
         "count": 2
       },
       {
+        "committee_id": "C90018904",
+        "committee_name": "THE CONSERVATIVE CAUCUS DBA AMERICANS FOR CONSTITUTIONAL LIBERTY",
+        "candidate": "kiggans",
+        "support_oppose": "support",
+        "total": 48023.86,
+        "count": 14
+      },
+      {
         "committee_id": "C00737411",
         "committee_name": "THE GOVERNING MAJORITY FUND",
         "candidate": "luria",
@@ -5639,6 +5647,22 @@
         "support_oppose": "support",
         "total": 20000,
         "count": 1
+      },
+      {
+        "committee_id": "C00800995",
+        "committee_name": "DEMOCRATIC MESSAGING PROJECT",
+        "candidate": "luria",
+        "support_oppose": "support",
+        "total": 10150,
+        "count": 2
+      },
+      {
+        "committee_id": "C90018904",
+        "committee_name": "THE CONSERVATIVE CAUCUS DBA AMERICANS FOR CONSTITUTIONAL LIBERTY",
+        "candidate": "luria",
+        "support_oppose": "oppose",
+        "total": 3567.61,
+        "count": 8
       },
       {
         "committee_id": "C00838052",
@@ -5665,20 +5689,20 @@
         "count": 1
       },
       {
+        "committee_id": "C00802389",
+        "committee_name": "GIVEGREEN UNITED ACTION",
+        "candidate": "luria",
+        "support_oppose": "support",
+        "total": 217,
+        "count": 12
+      },
+      {
         "committee_id": "C00955138",
         "committee_name": "BUILDING TOGETHER",
         "candidate": "luria",
         "support_oppose": "support",
         "total": 180.11,
         "count": 1
-      },
-      {
-        "committee_id": "C00802389",
-        "committee_name": "GIVEGREEN UNITED ACTION",
-        "candidate": "luria",
-        "support_oppose": "support",
-        "total": 133.26,
-        "count": 9
       },
       {
         "committee_id": "C00878025",
