@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-06T19:35:03.018Z",
+  "updated_at": "2026-11-07T17:48:02.828Z",
   "source": "Google News RSS search",
   "queries": [
     "\"Jen Kiggans\"",
@@ -862,6 +862,34 @@
       "tags": []
     },
     {
+      "id": "CBMitAJBVV95cUxOZ19UbE0wdG0tdTRXUTVoZTEwUGhvU2d5M2hocXZ3VVhzT1RGVWUtSEo0YVhwNzVJS3ZPVC00bUdWWmdVZHVuUHlJTnVBanozdC1YTTQ3Z2NGemdTUDFGU0drZUFGWVJlMUhvdno3NzE2dFpSUXlZSEZnbGwwRjRBcHMtRzhHR0pPMVptdU9WU0JpZkdFeEtYbVVBa3pDZEpzXzl5SzJqYmdqSkluS2ROeWtxMUJBTjY3cDhhMUVqUU9leWw3X2IyeFdhNUVyUHdhOVNEUG5Qcmh0VWUtbTVNMWhwNEZLcVlNQ25QWHpjdWpFamhIbThmS1d1WWhyUTZaUkRfQ1NlM1R2RVRrYmFzMWRBS0FTblYxT3RvelJzdk1wVk00QWZvczk0N2ZFUVVUb1VxVg",
+      "headline": "Virginia projected midterm election winners | Live Updates",
+      "outlet": "WUSA9",
+      "outlet_domain": "wusa9.com",
+      "local": false,
+      "official": false,
+      "date": "2026-11-04T00:03:00.000Z",
+      "link": "https://news.google.com/rss/articles/CBMitAJBVV95cUxOZ19UbE0wdG0tdTRXUTVoZTEwUGhvU2d5M2hocXZ3VVhzT1RGVWUtSEo0YVhwNzVJS3ZPVC00bUdWWmdVZHVuUHlJTnVBanozdC1YTTQ3Z2NGemdTUDFGU0drZUFGWVJlMUhvdno3NzE2dFpSUXlZSEZnbGwwRjRBcHMtRzhHR0pPMVptdU9WU0JpZkdFeEtYbVVBa3pDZEpzXzl5SzJqYmdqSkluS2ROeWtxMUJBTjY3cDhhMUVqUU9leWw3X2IyeFdhNUVyUHdhOVNEUG5Qcmh0VWUtbTVNMWhwNEZLcVlNQ25QWHpjdWpFamhIbThmS1d1WWhyUTZaUkRfQ1NlM1R2RVRrYmFzMWRBS0FTblYxT3RvelJzdk1wVk00QWZvczk0N2ZFUVVUb1VxVg?oc=5",
+      "candidates": [
+        "kiggans"
+      ],
+      "tags": []
+    },
+    {
+      "id": "CBMikgFBVV95cUxORVRDUU1lbklPay1fRWtUSVdWOTFBblN6Tm1IbzdWYnNKNWgtYVctVzl1MmVqVDJpS0sxclQweXI0NzJSUnJ6SXh2YUM0Ym9OQjh2QmxYTGZTVC1FZ3Y2bDFjLVlRYU5GZG5IVWdZdWVKbUl2YXZzSmpSOVBLd2R2SnI0N1IxX3ZMVlBPZmFJdmg2UdIBmgFBVV95cUxPMUZtcXdOdWNmZmFrZ0N3ZWpBY3Utb1ZIWEN0ZGdfS2xoN1FuRURXR2FnUld3QUphR2kycE1iV0pMQmY0OHozcXp2LVJMaFQ5d1ByWWNqcC1yN29ISzVkaDNQdmQ1aFdPWVE2dWVlSmdHNWd1QUJucGZuVUxzTVdTRFQ3a3hrNUNBdzViaUY5UFpDaENoaU81OHZ3",
+      "headline": "See election results from Virginia's 2026 midterms",
+      "outlet": "NBC4 Washington",
+      "outlet_domain": "nbcwashington.com",
+      "local": false,
+      "official": false,
+      "date": "2026-11-04T00:00:08.000Z",
+      "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxORVRDUU1lbklPay1fRWtUSVdWOTFBblN6Tm1IbzdWYnNKNWgtYVctVzl1MmVqVDJpS0sxclQweXI0NzJSUnJ6SXh2YUM0Ym9OQjh2QmxYTGZTVC1FZ3Y2bDFjLVlRYU5GZG5IVWdZdWVKbUl2YXZzSmpSOVBLd2R2SnI0N1IxX3ZMVlBPZmFJdmg2UdIBmgFBVV95cUxPMUZtcXdOdWNmZmFrZ0N3ZWpBY3Utb1ZIWEN0ZGdfS2xoN1FuRURXR2FnUld3QUphR2kycE1iV0pMQmY0OHozcXp2LVJMaFQ5d1ByWWNqcC1yN29ISzVkaDNQdmQ1aFdPWVE2dWVlSmdHNWd1QUJucGZuVUxzTVdTRFQ3a3hrNUNBdzViaUY5UFpDaENoaU81OHZ3?oc=5",
+      "candidates": [
+        "luria"
+      ],
+      "tags": []
+    },
+    {
       "id": "CBMidkFVX3lxTE9wMWFCcFdrckhEUm5EdVJReGFDZ0JrZVlwNHZ2bDV1NUJGcW1xbEQzNFBZbEFsR0FwdFF1TTM3Tm9kdlZOMXJTTDdFUWd1bFN2SDB5WGZoMXUyc3lwQ1VSWmUydWNhdXlWWWR3ZEI5aVpxS2xGOHc",
       "headline": "Virginia’s 2026 midterm election results",
       "outlet": "vadogwood.com",
@@ -1600,6 +1628,20 @@
       "official": false,
       "date": "2026-10-30T19:39:46.000Z",
       "link": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxQd1ZYZWl5QlJuQy0zaHNuUE5pelpCRlh0VlEtMFRlVFFlTWR1OXJKczhXNUw2SHhjZUpmZnpjNlJ6Ym40elpFN0RxQ3ZsUkFDa2VxSVlOTkU5OURaSkpCVjVwYVZWY2ZqNmljSlJtQ0hPUWVwMG1RSWE2TFhLTVVfQTU5M2gtUWN1T0tJV2VQQUlmeUtKNUZQQVoyX3k0OFFVV1lEdHlNT3ZpRmJ2NzdsRl9lMUJCSGVHUEJpWkJFQ29BWTVMNnphYVAtQi1Rd05lTGJSYTFpYXdKRmtoZG1YdHZmOUE?oc=5",
+      "candidates": [
+        "luria"
+      ],
+      "tags": []
+    },
+    {
+      "id": "CBMi6AFBVV95cUxNVWxaRVhGeWdRTGxsT2dIRVhvMElTUUJGUmFaZU0tS1ROd2hWckhudmlPbkluQjJWRnM1MGNBdmlWajN3NjQwWk85YkRPbGxDTXBVUjM2ZnBvUExnb0dvVzdqVFhFZDE2YnN5bDFJR0xIOTN4VXgtY0t3RTBDSm5NWmtLNzQyWjRKc2owY2pGSTZaTjIwUDJKNG1yNVZ4MlN3djZfUFVleElrdFUtbWl4b3JlcEpwZkx4NFdQYkZyUWo0S1h5QV8wcDJyckdnWEVDNW1hdUJIT3R1Ri0wQzdoZVNmaW51SGVs",
+      "headline": "Minority Leader Hakeem Jeffries Campaigns with U.S. House Candidate Elaine Luria (D-VA) in Virginia Beach",
+      "outlet": "C-SPAN",
+      "outlet_domain": "c-span.org",
+      "local": false,
+      "official": false,
+      "date": "2026-10-30T19:31:14.000Z",
+      "link": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxNVWxaRVhGeWdRTGxsT2dIRVhvMElTUUJGUmFaZU0tS1ROd2hWckhudmlPbkluQjJWRnM1MGNBdmlWajN3NjQwWk85YkRPbGxDTXBVUjM2ZnBvUExnb0dvVzdqVFhFZDE2YnN5bDFJR0xIOTN4VXgtY0t3RTBDSm5NWmtLNzQyWjRKc2owY2pGSTZaTjIwUDJKNG1yNVZ4MlN3djZfUFVleElrdFUtbWl4b3JlcEpwZkx4NFdQYkZyUWo0S1h5QV8wcDJyckdnWEVDNW1hdUJIT3R1Ri0wQzdoZVNmaW51SGVs?oc=5",
       "candidates": [
         "luria"
       ],
@@ -3635,49 +3677,6 @@
       "candidates": [
         "kiggans",
         "luria"
-      ],
-      "tags": []
-    },
-    {
-      "id": "CBMilgFBVV95cUxOMHI5aklIZGpDc0FpOWJyOEI0ajNadUw5M2VYQ1FXNEc5czBmOTNLMmxsN2NBMW5lbFJ2Nk1NODdqcG1Jc21SNnhEMDl4Y3FNQldNS2tvaG91dEVCTWtTSkJvNDlOT21pWDc4anIxQmVfVmp6Rmw2bl9oeTVGSlRuNlQ5bkhCOXBPYmRxdHdIVDNEN25CVHc",
-      "headline": "Will Congress ever assert itself on Iran?",
-      "outlet": "The Economist",
-      "outlet_domain": "economist.com",
-      "local": false,
-      "official": false,
-      "date": "2026-10-08T13:01:51.000Z",
-      "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOMHI5aklIZGpDc0FpOWJyOEI0ajNadUw5M2VYQ1FXNEc5czBmOTNLMmxsN2NBMW5lbFJ2Nk1NODdqcG1Jc21SNnhEMDl4Y3FNQldNS2tvaG91dEVCTWtTSkJvNDlOT21pWDc4anIxQmVfVmp6Rmw2bl9oeTVGSlRuNlQ5bkhCOXBPYmRxdHdIVDNEN25CVHc?oc=5",
-      "candidates": [
-        "kiggans",
-        "luria"
-      ],
-      "tags": []
-    },
-    {
-      "id": "CBMi3wFBVV95cUxQa2FPNnk1b3Qxb1NLUTd5a0xLNU9MT0lsRXZFandJeWRRQWRlWGNWblZiVDZMbGNmMFo1aXlTalNXcE11RkNERmktdzl6cjFGNTA5QmcxSnYtMGo3bFhUaWF6YlJlNERYNnRqWWE2dTZVd3R3ZTJqaU84S0dmU0VnZVpaNXJlcTFnNHZIb1ZqNy1wOHpVYm5lbl9JbXJfMVlFc1JOWVpJVzBRandidDVhQzJWOWhqdGtNbGJNUnhzMDMxSW9nVlJtUFhHdjcyRXV0T0dlbjNpb0hCbXlUdzJr",
-      "headline": "VERIFY: Does Kiggans support Trump's policies 100% of the time?",
-      "outlet": "13News Now (WVEC)",
-      "outlet_domain": "13newsnow.com",
-      "local": true,
-      "official": false,
-      "date": "2026-10-08T00:48:00.000Z",
-      "link": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxQa2FPNnk1b3Qxb1NLUTd5a0xLNU9MT0lsRXZFandJeWRRQWRlWGNWblZiVDZMbGNmMFo1aXlTalNXcE11RkNERmktdzl6cjFGNTA5QmcxSnYtMGo3bFhUaWF6YlJlNERYNnRqWWE2dTZVd3R3ZTJqaU84S0dmU0VnZVpaNXJlcTFnNHZIb1ZqNy1wOHpVYm5lbl9JbXJfMVlFc1JOWVpJVzBRandidDVhQzJWOWhqdGtNbGJNUnhzMDMxSW9nVlJtUFhHdjcyRXV0T0dlbjNpb0hCbXlUdzJr?oc=5",
-      "candidates": [
-        "kiggans"
-      ],
-      "tags": []
-    },
-    {
-      "id": "CBMi0wFBVV95cUxNbmZMWTZ4TmtJbUNEWnZqbEgwN0FheUowOVhUX0ZhM3VaUE5Xa0tfVjNPdDVGVnNZMnQ2S2lmNm43UDVibkJPQ1o0STBoZzF4QmRPRHN3bThSOG5ZOWxLYkFVU1pKdkdMeGRjRDV2TkgySEpyMTVxQnM5YzY4TFotUHp1ZGtzS0dFeW9TNGs4MEdrOUxGeG16MTFXaUJjRF9ic2tzOU1pNkdFMWk0bVM1b013NUtPQVUyQXgwQk4xOVp0am1XRzl6QU1xNWFoZ3ktOTFB",
-      "headline": "Verifying claims against Congresswoman Jen Kiggans",
-      "outlet": "13News Now (WVEC)",
-      "outlet_domain": "13newsnow.com",
-      "local": true,
-      "official": false,
-      "date": "2026-10-08T00:18:00.000Z",
-      "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxNbmZMWTZ4TmtJbUNEWnZqbEgwN0FheUowOVhUX0ZhM3VaUE5Xa0tfVjNPdDVGVnNZMnQ2S2lmNm43UDVibkJPQ1o0STBoZzF4QmRPRHN3bThSOG5ZOWxLYkFVU1pKdkdMeGRjRDV2TkgySEpyMTVxQnM5YzY4TFotUHp1ZGtzS0dFeW9TNGs4MEdrOUxGeG16MTFXaUJjRF9ic2tzOU1pNkdFMWk0bVM1b013NUtPQVUyQXgwQk4xOVp0am1XRzl6QU1xNWFoZ3ktOTFB?oc=5",
-      "candidates": [
-        "kiggans"
       ],
       "tags": []
     }
