@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-08T17:58:59.160Z",
+  "updated_at": "2026-11-09T22:33:48.373Z",
   "source": "Google News RSS search",
   "queries": [
     "\"Jen Kiggans\"",
@@ -19,6 +19,20 @@
     "kiggans.house.gov"
   ],
   "items": [
+    {
+      "id": "CBMiqgFBVV95cUxQOWJ1Rmoyb2dnWFhTdVdOZUlmNFUyenlTNUM5WFU0T0d6RVhLUVVRZ05sQ2hHSzJIWGlnXzhNSVZ4X2RsNjJBSmRrQWRQMzNXSjhYa04xbUZiZEhXdlh3UXdWaUY2NllrZFJuaTlJSXhPdldoWVdKelFEWTV3R0lqREFhcG1mcTVGdVVySGItVzhNbVo5cU5WU2RvTS1Pa0tUYkFTTkJaNXA2dw",
+      "headline": "Trump-class battleship faces uncertain future under Democratic Congress",
+      "outlet": "WTKR (News 3)",
+      "outlet_domain": "wtkr.com",
+      "local": true,
+      "official": false,
+      "date": "2026-11-09T01:57:13.000Z",
+      "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQOWJ1Rmoyb2dnWFhTdVdOZUlmNFUyenlTNUM5WFU0T0d6RVhLUVVRZ05sQ2hHSzJIWGlnXzhNSVZ4X2RsNjJBSmRrQWRQMzNXSjhYa04xbUZiZEhXdlh3UXdWaUY2NllrZFJuaTlJSXhPdldoWVdKelFEWTV3R0lqREFhcG1mcTVGdVVySGItVzhNbVo5cU5WU2RvTS1Pa0tUYkFTTkJaNXA2dw?oc=5",
+      "candidates": [
+        "luria"
+      ],
+      "tags": []
+    },
     {
       "id": "CBMirAFBVV95cUxNOGNfblRRT0xtMkpQajcycldCVkVCUXExaXVvR0ZYNzBMMU1Wc0cyM2NSaWhOc0F0OVJURVdiWTRUUk1ldXJ1SnJRblNPOWxwYnA0UFdQRUxBbFVnVUJVUVhSU3RYNXo3a3NsTnk0TEVFM1lNb3Y2a3dlMGZxWVNNbUpJaWJ4d0I1dmZXdm1rQnlTMTRhVUxIR2lVNkQ0RGhwLTc0WFdFREdDc05i",
       "headline": "Luria, Taylor will seek to balance oversight of Trump with governance",
@@ -862,6 +876,21 @@
       "tags": []
     },
     {
+      "id": "CBMinwFBVV95cUxQR040bHVGWnRTek5Sbl9KZXUxaHNkd0EtU3Y0Ml9BdWNKR3F1YjdPdlRhZHlGZlZTMDAtMWRvcUVEb19Na1VKRXZwa1o1SExoMDl6eXhyZnpLU3RjRTVTQlVDSGtmc2dRaGxzOWVQeE5fRkNTSlJ2bmZOa3ZzWXFxU1NKaUNfS0s1eFMzWHlUem9UbDloYnR4YUxlOVF3b0U",
+      "headline": "Luria defeats Kiggans in rematch for Virginia House seat",
+      "outlet": "Yahoo",
+      "outlet_domain": "yahoo.com",
+      "local": false,
+      "official": false,
+      "date": "2026-11-04T02:54:00.000Z",
+      "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQR040bHVGWnRTek5Sbl9KZXUxaHNkd0EtU3Y0Ml9BdWNKR3F1YjdPdlRhZHlGZlZTMDAtMWRvcUVEb19Na1VKRXZwa1o1SExoMDl6eXhyZnpLU3RjRTVTQlVDSGtmc2dRaGxzOWVQeE5fRkNTSlJ2bmZOa3ZzWXFxU1NKaUNfS0s1eFMzWHlUem9UbDloYnR4YUxlOVF3b0U?oc=5",
+      "candidates": [
+        "kiggans",
+        "luria"
+      ],
+      "tags": []
+    },
+    {
       "id": "CBMi1wFBVV95cUxQVFlpYWVTS0NHSjZPbkEzSFJOQVE1MVZ0ZVdJd2ZTYUcxdFRnWVVRTThjWHhDZkZKM1hsX2FTTkhoZkFJME5zOTViamI0YzBtYmZrY1ZWOU5YOXhSTEM2bTR4b09IV1I5UG80NXZ4QVJDT2dTWkQ4clRPUUZkcEdDN3E0Y0IydEdPM1hrYk1aUjBJZUxlQ3RsQXBIUzBWOXR4dTRtcnktWFpNdHB2dE11SnZIdk84TEtrbWd3dUlvSnZWbXB2VFdFSHh0TUhTSDdXbm0zb1g2VQ",
       "headline": "Rep. Jen Kiggans gives Election Night speech",
       "outlet": "13News Now (WVEC)",
@@ -1644,6 +1673,7 @@
       "date": "2026-10-30T19:53:14.000Z",
       "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPSTQ4OFZrdklQdEJTVmN1UC1lajIzbEVhUUFLRHVKYmpvQ2UwQXlaMlZ0cm9BWDM4LVhnelV0cDRmRjIycWxNQ29leHh0bmVoT05nQkVhbm9DNjNBSk43QzdKM09EYWkwSmZtdDhDTlIyRDY0b3RibUdUa0U1WXRvNEszRWtIUEc3TmxWeUxlY01Rb2o00gGaAUFVX3lxTE15YmlJMkFaYl9PTTVoekJBU2ZoRUR0STdRUlBvNzBKWDM4V05vWC1ielRyNUFvREJYRDFmRnpsRExkVGdZeDYyemhVaUF2RE1fanBSRGo0WUJNa0JFaWh0eFZYeEh0RFJodkstS2Y4OS1KQmotQU93X3l5NFZHZ2IzamdUTXVRaklZZVNuaVVHdXJ1VmNlYXhIX0E?oc=5",
       "candidates": [
+        "kiggans",
         "luria"
       ],
       "tags": []
@@ -3634,34 +3664,6 @@
       "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE9tWll3Ym9OV3Zmc3lIS2xiMktzdjF6SU1Td2dMX3Nnd0VuQjZXdWh6dWZ2blpXaUlNcG5sTzhqXzY4Qm50VXdOUHhfUnlOZm5fN2RudHU5UzZIcWVsUkwzQTBqUlJILUdnZnA1RlRBcFRrZw?oc=5",
       "candidates": [
         "luria"
-      ],
-      "tags": []
-    },
-    {
-      "id": "CBMiwwJBVV95cUxPblhKZmF6QTVJTjcta3UzQjBVYjdSS082RWlKODRVYW1YaXdJUDhGWGlEOVNpQ3Yzcm5YM0NhLWE4RjFnRGlVRkNkTWhMbFNybVdqN25kTDBPTlA1VURyeUpQQ3c4N3Q1bmE2dDk1dnZzbGdReFVfczh1Z25aMVkzTGNFNXVvR3VVcVdCZ2ttZF9UN3h1OERwNEtqUmk4V1pOeU85MUlpMnUyY1JJd0J4Vm91TUJlWE0zM1JDdDZYNDBuTTZraXVnYjdBcHlFZEdrLUE4aTM5LUlfWEZaWkx4c0hkYnJBSFVRR0pfQ2VRMUFIZm9uOWY5aHFuUUZnZEdOemEwZmVZZzc0RGI5RnEya3lGV3RHYnFZR1VfbGxmQ2R4NnR2aDA0M3pReVlzNDBndXBjR1dJbzhoZ1c3ZEhtNjBUMA",
-      "headline": "Jan. 6 committee: Trump 'chose not to act' as insurrection unfolded",
-      "outlet": "WKRC",
-      "outlet_domain": "local12.com",
-      "local": false,
-      "official": false,
-      "date": "2026-10-10T09:17:02.000Z",
-      "link": "https://news.google.com/rss/articles/CBMiwwJBVV95cUxPblhKZmF6QTVJTjcta3UzQjBVYjdSS082RWlKODRVYW1YaXdJUDhGWGlEOVNpQ3Yzcm5YM0NhLWE4RjFnRGlVRkNkTWhMbFNybVdqN25kTDBPTlA1VURyeUpQQ3c4N3Q1bmE2dDk1dnZzbGdReFVfczh1Z25aMVkzTGNFNXVvR3VVcVdCZ2ttZF9UN3h1OERwNEtqUmk4V1pOeU85MUlpMnUyY1JJd0J4Vm91TUJlWE0zM1JDdDZYNDBuTTZraXVnYjdBcHlFZEdrLUE4aTM5LUlfWEZaWkx4c0hkYnJBSFVRR0pfQ2VRMUFIZm9uOWY5aHFuUUZnZEdOemEwZmVZZzc0RGI5RnEya3lGV3RHYnFZR1VfbGxmQ2R4NnR2aDA0M3pReVlzNDBndXBjR1dJbzhoZ1c3ZEhtNjBUMA?oc=5",
-      "candidates": [
-        "luria"
-      ],
-      "tags": []
-    },
-    {
-      "id": "CBMitgFBVV95cUxPMkRnS0lBdG42WXJURXhxaG1EcHRLTTItMHlRNzI2MmpxZkNqSUxJM0dCMmxvOU4tdWIxc2JCQWstc1VyQTl0VDhuZzJzTmZWZXc2NFhQUWwxOWVubVNzMUQ4V1M1UWs1NVhXUjFRdXpQWVlCOEw5cGdjY3NDQmQ3YlpIUXlVWjVQMDRLMHB6dG5DdTU4T2pURlpVRjdYMFNGMkt3aWRMa1RjcnZLeWI0U2s4VjVHZw",
-      "headline": "EPA Deputy Administrator Fotouhi Wraps Two-Day Swing in Virginia, Joins Representative Kiggans to Announce Over $90 Million for Chesapeake Bay Program",
-      "outlet": "U.S. Environmental Protection Agency (.gov)",
-      "outlet_domain": "epa.gov",
-      "local": false,
-      "official": false,
-      "date": "2026-10-09T19:24:23.000Z",
-      "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPMkRnS0lBdG42WXJURXhxaG1EcHRLTTItMHlRNzI2MmpxZkNqSUxJM0dCMmxvOU4tdWIxc2JCQWstc1VyQTl0VDhuZzJzTmZWZXc2NFhQUWwxOWVubVNzMUQ4V1M1UWs1NVhXUjFRdXpQWVlCOEw5cGdjY3NDQmQ3YlpIUXlVWjVQMDRLMHB6dG5DdTU4T2pURlpVRjdYMFNGMkt3aWRMa1RjcnZLeWI0U2s4VjVHZw?oc=5",
-      "candidates": [
-        "kiggans"
       ],
       "tags": []
     }
