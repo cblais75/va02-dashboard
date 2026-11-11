@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-10T19:52:47.167Z",
+  "updated_at": "2026-11-11T19:45:04.135Z",
   "source": "Google News RSS search",
   "queries": [
     "\"Jen Kiggans\"",
@@ -315,6 +315,20 @@
       "candidates": [
         "kiggans",
         "luria"
+      ],
+      "tags": []
+    },
+    {
+      "id": "CBMilwFBVV95cUxPNVlnRGh2TUkzNTd6YjgzMnZVVHowTF9GYzNpTnBJcE5mUm9YcU1HUXN5YmxDT2stM2U2VkZDYUQtS1Y1QnFJVFZCYlJTTm9HeklBVHJsSkFucmRBNmpDMGhzdmw5cGV5QU9QdVBIa2pYZzdMTE03QU1oRTRKSnA1MnpEc01JZElJZDEzWFYtaTRkUTBmS0hz",
+      "headline": "Democrats Gain 2 House Seats in Virginia, Easily Retain Senate Seat",
+      "outlet": "tippinsights",
+      "outlet_domain": "tippinsights.com",
+      "local": false,
+      "official": false,
+      "date": "2026-11-04T22:46:50.000Z",
+      "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPNVlnRGh2TUkzNTd6YjgzMnZVVHowTF9GYzNpTnBJcE5mUm9YcU1HUXN5YmxDT2stM2U2VkZDYUQtS1Y1QnFJVFZCYlJTTm9HeklBVHJsSkFucmRBNmpDMGhzdmw5cGV5QU9QdVBIa2pYZzdMTE03QU1oRTRKSnA1MnpEc01JZElJZDEzWFYtaTRkUTBmS0hz?oc=5",
+      "candidates": [
+        "kiggans"
       ],
       "tags": []
     },
