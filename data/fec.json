@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-10T17:56:06.084Z",
+  "updated_at": "2026-11-12T18:23:27.737Z",
   "cycle": 2026,
   "source": "Federal Election Commission, OpenFEC API (api.open.fec.gov)",
   "source_url": "https://www.fec.gov/data/elections/house/VA/02/2026/",
@@ -5559,7 +5559,7 @@
     "note": "Independent expenditures from FEC processed data, totaled by spending group; the newest 24/48-hour reports can take a few days to appear.",
     "by_candidate": {
       "kiggans": {
-        "support": 488732.78,
+        "support": 609593.87,
         "oppose": 2656198.41
       },
       "luria": {
@@ -5623,6 +5623,14 @@
         "support_oppose": "oppose",
         "total": 200000,
         "count": 1
+      },
+      {
+        "committee_id": "C00906701",
+        "committee_name": "AMERICA FIRST AGRICULTURE ACTION INC.",
+        "candidate": "kiggans",
+        "support_oppose": "support",
+        "total": 120861.09,
+        "count": 2
       },
       {
         "committee_id": "C00608943",
