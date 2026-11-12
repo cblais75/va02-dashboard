@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-11T19:45:04.135Z",
+  "updated_at": "2026-11-12T20:10:47.501Z",
   "source": "Google News RSS search",
   "queries": [
     "\"Jen Kiggans\"",
@@ -19,6 +19,34 @@
     "kiggans.house.gov"
   ],
   "items": [
+    {
+      "id": "CBMieEFVX3lxTE11Z0YtWU5ZWUJ6WmVZTENORjBRczdjYU1waklBdWNETzVHVFNDQXMtSzlGS0Y3c09DMzBNMVpVdGljbWNSd1lnU0tJaWt3OElqX1NyWklZYU4tSXVBdDNuUUVkZ2FCUWJLUjBTRkdicFpiN1BIYU12MA",
+      "headline": "Jayce Genco Joins Rep. Elaine Luria's Office as Transition Aide",
+      "outlet": "Legis1",
+      "outlet_domain": "legis1.com",
+      "local": false,
+      "official": false,
+      "date": "2026-11-12T18:32:52.000Z",
+      "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE11Z0YtWU5ZWUJ6WmVZTENORjBRczdjYU1waklBdWNETzVHVFNDQXMtSzlGS0Y3c09DMzBNMVpVdGljbWNSd1lnU0tJaWt3OElqX1NyWklZYU4tSXVBdDNuUUVkZ2FCUWJLUjBTRkdicFpiN1BIYU12MA?oc=5",
+      "candidates": [
+        "luria"
+      ],
+      "tags": []
+    },
+    {
+      "id": "CBMi6AFBVV95cUxOVjdIQVlHd09PdWJwNEs5X2hmbE9UWTFVU21zUUdjMFZzZWQwZ3J5N0ctSHNaT1NMbDJUSXFQek56OVhNLS04MFlObzJNU2tRTXZzalZQanU2elg0MEF3VkxNZlhMZDU3V3ZtcU1QRUUtTm01SkpVaWZIaFhKSGRWeDNScm1BZVVfeXJjdWtOQnFoSTJwQXZ6cm13WXRMM1l3czdqODBZWENIWUZkd0NremdEVE1aUVRBajQ5SzJSNUtTR0FVcFdoVzhsZ3EwRm9KZE02RlpFcXNTVmJXUVZMaFl0a0h0Vnl2",
+      "headline": "Kiggans Champions Major Expansion of Veterans’ Benefits with House Passage of the “Take Care of America’s Veterans Act”",
+      "outlet": "House.gov",
+      "outlet_domain": "kiggans.house.gov",
+      "local": false,
+      "official": true,
+      "date": "2026-11-12T16:35:19.000Z",
+      "link": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxOVjdIQVlHd09PdWJwNEs5X2hmbE9UWTFVU21zUUdjMFZzZWQwZ3J5N0ctSHNaT1NMbDJUSXFQek56OVhNLS04MFlObzJNU2tRTXZzalZQanU2elg0MEF3VkxNZlhMZDU3V3ZtcU1QRUUtTm01SkpVaWZIaFhKSGRWeDNScm1BZVVfeXJjdWtOQnFoSTJwQXZ6cm13WXRMM1l3czdqODBZWENIWUZkd0NremdEVE1aUVRBajQ5SzJSNUtTR0FVcFdoVzhsZ3EwRm9KZE02RlpFcXNTVmJXUVZMaFl0a0h0Vnl2?oc=5",
+      "candidates": [
+        "kiggans"
+      ],
+      "tags": []
+    },
     {
       "id": "CBMikwJBVV95cUxQZm02MmYzekdseUFqcHdTOWZMYXpBUmhfb1Fkb1RPOUhpcHJLWGk2aWF5aG5pdWxWYzRjMFN3dEgtZWpYc1pLSzNIbFBGVEFHQVpjNWJHYXRUR2ozSDlraU1kUnV1cXZtN2xVeG9MUVpmVlBJQm8yWmZrY2trT0trNXpxNjJYd05kdVJVVmw0bndWOEF2RktRQUZaTWJsMW1jTmJ6YTVyeF9ONU8wWkthdmFFYkZGUFhEZ1JqQVF0SUhSMFhBTDBIMzJXS1hWLVU4YnJKajNCeWJkU3Y0MlA2anpGdF95bG04ZURMT2VDVjZHZFlBWTItdGZpVUZpVExza3BkSjNodmwyYjh2RjV6UFZCRQ",
       "headline": "What Does It Mean to Be Pro-Israel in the New Democratic-Controlled Congress?",
@@ -115,6 +143,20 @@
       "candidates": [
         "kiggans",
         "luria"
+      ],
+      "tags": []
+    },
+    {
+      "id": "CBMingFBVV95cUxNd1c5VGxmRDFhd0NLOXIxd0ZZRXZmTXhPakRHSFJIWUhWUFoxZXpWbjMzTFVFZ3RqUXdzRFVhbWV2dW1NQUN3T1BCYTNWOHNub2tFdWNaU2F0UW1zYmpfdTBsUGVsMDI4N1ZCRnQwM0UybmVvOGkzb2xiWlkwZDIzZFFTdXJBYm42ZWpuZHV6WkxTdTBIMXVqcWJBaHlPUQ",
+      "headline": "Elaine Luria prepares for return to Congress, outlines priorities after defeating Jen Kiggans",
+      "outlet": "Yahoo",
+      "outlet_domain": "yahoo.com",
+      "local": false,
+      "official": false,
+      "date": "2026-11-05T23:30:25.000Z",
+      "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxNd1c5VGxmRDFhd0NLOXIxd0ZZRXZmTXhPakRHSFJIWUhWUFoxZXpWbjMzTFVFZ3RqUXdzRFVhbWV2dW1NQUN3T1BCYTNWOHNub2tFdWNaU2F0UW1zYmpfdTBsUGVsMDI4N1ZCRnQwM0UybmVvOGkzb2xiWlkwZDIzZFFTdXJBYm42ZWpuZHV6WkxTdTBIMXVqcWJBaHlPUQ?oc=5",
+      "candidates": [
+        "kiggans"
       ],
       "tags": []
     },
@@ -575,6 +617,7 @@
       "date": "2026-11-04T05:23:18.000Z",
       "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPZkFpMmFmVE9LemYtdzc1Smp2UU5RRjBrMGRiQkVTbF9peVh4MEhESk9fbUNuWXFrTGVJYW5FMThkUklrZEgwQU1LNmZyZ2VqZTVGX3BIU2hzMmlaNmdOS3BvTTRZcFVWTG5sb3pqSmpZS29CbXBxTFRsRm1SMlJWemJTZDN6MFF3Wm9XZQ?oc=5",
       "candidates": [
+        "kiggans",
         "luria"
       ],
       "tags": []
@@ -1711,6 +1754,20 @@
       "official": false,
       "date": "2026-10-31T16:32:42.000Z",
       "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxQNGd6LTBuc1dZcFFwTGJvX2lLbXF4YlB4RjBkZkJrMjVLa0cyMnJSU010T0FZQWRRSHZuNnk2dzI4WjhBNjdRb0k2dXR0ZTloZmUxVHN6MkhtY3J4eVZKUkFxS040MmRMV2FtZWRyMEpaTGhZUFBWRDd0azB3b3NBTlVQRERaQ1ZJRVgzRDVuMnhkeGxDSUJWRlJ4M2s4MjJCeHB6c243aTZaNU5PbUFrNlcxNmZYZGxoUFNfek52cW4xMFlkU0ZRWFM3SlpXb1k?oc=5",
+      "candidates": [
+        "luria"
+      ],
+      "tags": []
+    },
+    {
+      "id": "CBMiggJBVV95cUxPOUZ4YnhYWFZHck93R2lWS050RGczNU8tTUFSSjkzWGUxSEVLd3RMRktNbWE0MmJFWXdPZndhR3dGSWoxUlRiMElZMmVsVzRNRFVoamVGSF9DQ3Z2dUJjX3JlMnRWYUo0Z0ZnUnh5NmxrYmJzR2h2VVhDNWJJZHEzX284VFdoZWJYLWptV01nNWM5elNoRHYtdVEwVHg4aFlXaWw4OUpoREdGdVVnRzhBLWtlWDBSV05zRW1kZVhRYXpwWnJZb0pHUnlBVkwtT1NIYTMxM3dCdUozMGtoQl90TW9yS1JJRFM2akxRcUpiSEdxdTBPVmM4YmNIWWY0LTlEOFE",
+      "headline": "2026-10-31t175817z-872421148-rc2heoaiuhh0-rtrmadp-3-usa-election-virginia_jpg",
+      "outlet": "Egypt Independent",
+      "outlet_domain": "egyptindependent.com",
+      "local": false,
+      "official": false,
+      "date": "2026-10-31T07:00:00.000Z",
+      "link": "https://news.google.com/rss/articles/CBMiggJBVV95cUxPOUZ4YnhYWFZHck93R2lWS050RGczNU8tTUFSSjkzWGUxSEVLd3RMRktNbWE0MmJFWXdPZndhR3dGSWoxUlRiMElZMmVsVzRNRFVoamVGSF9DQ3Z2dUJjX3JlMnRWYUo0Z0ZnUnh5NmxrYmJzR2h2VVhDNWJJZHEzX284VFdoZWJYLWptV01nNWM5elNoRHYtdVEwVHg4aFlXaWw4OUpoREdGdVVnRzhBLWtlWDBSV05zRW1kZVhRYXpwWnJZb0pHUnlBVkwtT1NIYTMxM3dCdUozMGtoQl90TW9yS1JJRFM2akxRcUpiSEdxdTBPVmM4YmNIWWY0LTlEOFE?oc=5",
       "candidates": [
         "luria"
       ],
@@ -3676,48 +3733,6 @@
       "official": false,
       "date": "2026-10-14T02:56:43.000Z",
       "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPVXpNT3FhX29heXZwYlAyZ195dF90RUxJb28tQnpoN1doUjREbkFpdzZHeHBrRklLd2w4Q2dZUGVSaGQ0Qkd1VERHcmtLb090WTZoZHUxX1RneTJKeXdRWlF1SlBydXowNS05cm1mNkZwalhlZ0Zra3NKb1hpWGU5aU54VktEakNCMV83d0pTWk9YOUZub0Y4NW94YzBCbWlkcnpHNmpGRTlHUnZXa3Bmdg?oc=5",
-      "candidates": [
-        "luria"
-      ],
-      "tags": []
-    },
-    {
-      "id": "CBMicEFVX3lxTE04blJDSmVELWlESmJNZXRnbHNWdjRnbGNQM1FBUlpSRGU1cl9NSUNCNmpnQWFwUXFrZ0FrUTRCbkR2Z0tFNXRVZkxKNDBfYjBNVFlLWmZGVmxLY3dFYm1pMkk3djJUeVhkUF84cnpvRVM",
-      "headline": "DCCC Releases New TV Ad in VA-02: “Great Recipe”",
-      "outlet": "Democratic Congressional Campaign Committee",
-      "outlet_domain": "dccc.org",
-      "local": false,
-      "official": false,
-      "date": "2026-10-13T19:29:02.000Z",
-      "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE04blJDSmVELWlESmJNZXRnbHNWdjRnbGNQM1FBUlpSRGU1cl9NSUNCNmpnQWFwUXFrZ0FrUTRCbkR2Z0tFNXRVZkxKNDBfYjBNVFlLWmZGVmxLY3dFYm1pMkk3djJUeVhkUF84cnpvRVM?oc=5",
-      "candidates": [
-        "luria"
-      ],
-      "tags": []
-    },
-    {
-      "id": "CBMiXEFVX3lxTFBnR3lRSDdoOW8tYTZXM1JnWS1ac1BtLVpKdTFaZFNfQzRpbjEtXzY3aFZEd2Q1OGJvaFVwVjZsMjB0NE5BVWJnVXFwSjNWZ2xyN2h5cEZpejdFSlRr",
-      "headline": "Jen Kiggans and the Myth of the \"Moderate\" Republican",
-      "outlet": "YouTube",
-      "outlet_domain": "youtu.be",
-      "local": false,
-      "official": false,
-      "date": "2026-10-13T15:07:35.000Z",
-      "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFBnR3lRSDdoOW8tYTZXM1JnWS1ac1BtLVpKdTFaZFNfQzRpbjEtXzY3aFZEd2Q1OGJvaFVwVjZsMjB0NE5BVWJnVXFwSjNWZ2xyN2h5cEZpejdFSlRr?oc=5",
-      "candidates": [
-        "kiggans"
-      ],
-      "tags": []
-    },
-    {
-      "id": "CBMihwFBVV95cUxPMmVzenJkSlFaTzItRm1iWVFKWGwyeGxVcnc0R1M2alYwWkM4ZzBYdDlCaklwU1Z4ZFAzNFRDbmgxWThCT0JkcTZPb1oyLUZiVHp0N1JlR3VKdGZXV1RKUXREUjF6OTZ5MHlUblpoSng4OUg0OEZxRWxaUTUtdHhYakRfWXl1WEE",
-      "headline": "Candidates campaign for House seats in districts where they don’t live",
-      "outlet": "The Hill",
-      "outlet_domain": "thehill.com",
-      "local": false,
-      "official": false,
-      "date": "2026-10-13T10:00:00.000Z",
-      "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPMmVzenJkSlFaTzItRm1iWVFKWGwyeGxVcnc0R1M2alYwWkM4ZzBYdDlCaklwU1Z4ZFAzNFRDbmgxWThCT0JkcTZPb1oyLUZiVHp0N1JlR3VKdGZXV1RKUXREUjF6OTZ5MHlUblpoSng4OUg0OEZxRWxaUTUtdHhYakRfWXl1WEE?oc=5",
       "candidates": [
         "luria"
       ],
