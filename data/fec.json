@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-13T17:51:04.305Z",
+  "updated_at": "2026-11-17T19:13:28.881Z",
   "cycle": 2026,
   "source": "Federal Election Commission, OpenFEC API (api.open.fec.gov)",
   "source_url": "https://www.fec.gov/data/elections/house/VA/02/2026/",
@@ -5560,10 +5560,10 @@
     "by_candidate": {
       "kiggans": {
         "support": 862283.8,
-        "oppose": 2656198.41
+        "oppose": 2657710.74
       },
       "luria": {
-        "support": 221217.33,
+        "support": 222741.38,
         "oppose": 2219954.79
       }
     },
@@ -5713,6 +5713,22 @@
         "count": 1
       },
       {
+        "committee_id": "C00930321",
+        "committee_name": "NEIGHBOR VOICES PAC",
+        "candidate": "kiggans",
+        "support_oppose": "oppose",
+        "total": 1512.33,
+        "count": 11
+      },
+      {
+        "committee_id": "C00930321",
+        "committee_name": "NEIGHBOR VOICES PAC",
+        "candidate": "luria",
+        "support_oppose": "support",
+        "total": 1512.33,
+        "count": 11
+      },
+      {
         "committee_id": "C00710848",
         "committee_name": "DMFI PAC",
         "candidate": "luria",
@@ -5758,6 +5774,14 @@
         "candidate": "kiggans",
         "support_oppose": "oppose",
         "total": 15.03,
+        "count": 1
+      },
+      {
+        "committee_id": "C00812479",
+        "committee_name": "TOGETHER WE ELECT PAC",
+        "candidate": "luria",
+        "support_oppose": "support",
+        "total": 11.72,
         "count": 1
       }
     ]
