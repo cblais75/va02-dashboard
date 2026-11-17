@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-15T18:59:06.639Z",
+  "updated_at": "2026-11-17T21:07:58.684Z",
   "source": "Google News RSS search",
   "queries": [
     "\"Jen Kiggans\"",
@@ -19,6 +19,21 @@
     "kiggans.house.gov"
   ],
   "items": [
+    {
+      "id": "CBMiygFBVV95cUxOM0Z2UnduV005WTEybEFUME5SMUJSMDZndjdNSnVVN2hGNXEyRkZKYzNoOWFuY21RbWZLSFh0Nnl0V295UHNJcndPUVQxdG11Y0NYdHN3eGVNOFhFdnYwYnhEM2pLRHZTU0FFOGduUTh6ajU4dF81QnA4TnVsNVNwWWdZUmpqMnFTQk5GVjlCSU1UQmg5ZmZycnRmN1NUUlZFelZ0Qmg1ZE9jY1EwOW5ONWM2b2dGV3N2UXhteUJCQzhLVEpoajZuVEJn",
+      "headline": "Pro-Israel Jewish Dem wins back her former Virginia congressional seat",
+      "outlet": "Heritage Florida Jewish News",
+      "outlet_domain": "heritagefl.com",
+      "local": false,
+      "official": false,
+      "date": "2026-11-13T08:00:00.000Z",
+      "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxOM0Z2UnduV005WTEybEFUME5SMUJSMDZndjdNSnVVN2hGNXEyRkZKYzNoOWFuY21RbWZLSFh0Nnl0V295UHNJcndPUVQxdG11Y0NYdHN3eGVNOFhFdnYwYnhEM2pLRHZTU0FFOGduUTh6ajU4dF81QnA4TnVsNVNwWWdZUmpqMnFTQk5GVjlCSU1UQmg5ZmZycnRmN1NUUlZFelZ0Qmg1ZE9jY1EwOW5ONWM2b2dGV3N2UXhteUJCQzhLVEpoajZuVEJn?oc=5",
+      "candidates": [
+        "kiggans",
+        "luria"
+      ],
+      "tags": []
+    },
     {
       "id": "CBMieEFVX3lxTE11Z0YtWU5ZWUJ6WmVZTENORjBRczdjYU1waklBdWNETzVHVFNDQXMtSzlGS0Y3c09DMzBNMVpVdGljbWNSd1lnU0tJaWt3OElqX1NyWklZYU4tSXVBdDNuUUVkZ2FCUWJLUjBTRkdicFpiN1BIYU12MA",
       "headline": "Jayce Genco Joins Rep. Elaine Luria's Office as Transition Aide",
@@ -2780,121 +2795,6 @@
       "date": "2026-10-19T07:00:00.000Z",
       "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQNXZjanMyNlBHSzF0WmxOT1lFZjRBVzA1ZHlzWUgzUDVIZXlqajI3Vkc2TEpfaTAxcDFlVFB1OVg0clNZSlFXUm5JYnBCcmN6QVEwZzM2TnNRa21haHpPclo5TlYycXJsUzdyNUg1RDA5VU5ldHlVWGRTRkhxZXFyRVEtekFUNXdyZC05Sw?oc=5",
       "candidates": [
-        "luria"
-      ],
-      "tags": []
-    },
-    {
-      "id": "CBMisAFBVV95cUxQclBNb0Y0enVYYnhlQmNpck5vSkVxdFBSUEZRNGE2bEVVbk5jbU1pNGJodm5hMHN1RERwdDkwTms1aEktU0FoTURMalpaVzZjUHVrdEstQllTWl9rZ3pPVXM1LXFZdlFIT0pFWUpHYlJvNUNZekVoMkFNZ1JEQ1luQklBcV91REJWZGxxNURXa1IxVFdYOUlPVFNKeDQ3YjQtYWZaYm1vYVJkN203Y0VLQg",
-      "headline": "Letters for Oct. 19: Should government control AI like it does the dollar?",
-      "outlet": "The Virginian-Pilot",
-      "outlet_domain": "pilotonline.com",
-      "local": true,
-      "official": false,
-      "date": "2026-10-18T20:03:14.000Z",
-      "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQclBNb0Y0enVYYnhlQmNpck5vSkVxdFBSUEZRNGE2bEVVbk5jbU1pNGJodm5hMHN1RERwdDkwTms1aEktU0FoTURMalpaVzZjUHVrdEstQllTWl9rZ3pPVXM1LXFZdlFIT0pFWUpHYlJvNUNZekVoMkFNZ1JEQ1luQklBcV91REJWZGxxNURXa1IxVFdYOUlPVFNKeDQ3YjQtYWZaYm1vYVJkN203Y0VLQg?oc=5",
-      "candidates": [
-        "kiggans"
-      ],
-      "tags": []
-    },
-    {
-      "id": "CBMi-wFBVV95cUxON3RTcWhacHd0dlhRdmVsWHE5R1VJSV9EbmRYcV9FMlhLWVFmTFNwN0tIZy15TDViUTgxNUM2N09nSXFWMDlEVGkwUkI3b0QxSlRjZzQySFNWT1pHRE9zTi1WQ1Q1WmwxUUM0XzFFYTNybmpxblAzSG12LWVqdlFIbUxMa0g3eGJ6cnZTcXRJWjRwMUZicUhldHlZeHpuNUM3Y0hVNXFpTVQ0SWYxRDlCQm5lWkhNY2xaY0J3UVU3U3hsNmFSVEZiZC1HOHVTWG9kVlgweUlkeVZtcmdnTDJsU1FnOTVFZDhiYVhmNS1EOXNRQnEzZElpdGY3NA",
-      "headline": "With anger spreading over Iran war, Democrats hope to flip Republican seats with veterans' help",
-      "outlet": "Japan Today",
-      "outlet_domain": "japantoday.com",
-      "local": false,
-      "official": false,
-      "date": "2026-10-17T20:06:00.000Z",
-      "link": "https://news.google.com/rss/articles/CBMi-wFBVV95cUxON3RTcWhacHd0dlhRdmVsWHE5R1VJSV9EbmRYcV9FMlhLWVFmTFNwN0tIZy15TDViUTgxNUM2N09nSXFWMDlEVGkwUkI3b0QxSlRjZzQySFNWT1pHRE9zTi1WQ1Q1WmwxUUM0XzFFYTNybmpxblAzSG12LWVqdlFIbUxMa0g3eGJ6cnZTcXRJWjRwMUZicUhldHlZeHpuNUM3Y0hVNXFpTVQ0SWYxRDlCQm5lWkhNY2xaY0J3UVU3U3hsNmFSVEZiZC1HOHVTWG9kVlgweUlkeVZtcmdnTDJsU1FnOTVFZDhiYVhmNS1EOXNRQnEzZElpdGY3NA?oc=5",
-      "candidates": [
-        "luria"
-      ],
-      "tags": []
-    },
-    {
-      "id": "CBMihgFBVV95cUxOclBaZUtWendDZl95RGJ0Uk9KQkprSWFYZ1pxNXdTSlFHVC1NclMxVGN4Vi14dDEySWRiaTVRVFJlRjlyQUI0RUM3eEdwWkFEU0xGTEJnUjJKYnZOc1JoZzgyY3pEdEItUTZMeDBsUUZyS1BjcVA0NDNpYkRVSGFNU2N6Z2J2Zw",
-      "headline": "Here’s how much candidates in the 1st and 2nd District have raised so far",
-      "outlet": "Daily Press",
-      "outlet_domain": "dailypress.com",
-      "local": true,
-      "official": false,
-      "date": "2026-10-17T17:42:46.000Z",
-      "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxOclBaZUtWendDZl95RGJ0Uk9KQkprSWFYZ1pxNXdTSlFHVC1NclMxVGN4Vi14dDEySWRiaTVRVFJlRjlyQUI0RUM3eEdwWkFEU0xGTEJnUjJKYnZOc1JoZzgyY3pEdEItUTZMeDBsUUZyS1BjcVA0NDNpYkRVSGFNU2N6Z2J2Zw?oc=5",
-      "candidates": [
-        "luria"
-      ],
-      "tags": []
-    },
-    {
-      "id": "CBMihwFBVV95cUxOaTBFdTJiajJiV0hjWlB3ZTlxMHI3b1Zkem96eDRDc3RoLThLTnYtUWJqaE9naVpBWGVXcF80a2JabXZ0X1dieTJlUHFsR2l3WUN1c3JwX3doSkVDNHNrU0NpazAwQ1YtSF9SVGlPVWZsTWlqRGdhYlViQjl5cTFvYVEzcTVNV2s",
-      "headline": "Here’s how much candidates in the 1st and 2nd District have raised so far",
-      "outlet": "The Virginian-Pilot",
-      "outlet_domain": "pilotonline.com",
-      "local": true,
-      "official": false,
-      "date": "2026-10-17T17:42:37.000Z",
-      "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOaTBFdTJiajJiV0hjWlB3ZTlxMHI3b1Zkem96eDRDc3RoLThLTnYtUWJqaE9naVpBWGVXcF80a2JabXZ0X1dieTJlUHFsR2l3WUN1c3JwX3doSkVDNHNrU0NpazAwQ1YtSF9SVGlPVWZsTWlqRGdhYlViQjl5cTFvYVEzcTVNV2s?oc=5",
-      "candidates": [
-        "kiggans",
-        "luria"
-      ],
-      "tags": []
-    },
-    {
-      "id": "CBMigwJBVV95cUxOVC15bzZpRHJrOHdhUDl2ZmhkNEFIX1hINTBXTDdZUmU2ZzZtcldOZU12b3dLb2hUWEgxeGc1RmFfaTU3dHRUQ1VLanphUlJVWFJfLUZsRWFtTXpfdFY5WVVTM01DenFQUW9FOTd0MGRBeXdSRDFtNHE0Q0dzVFYwMDlwaHpkUEhfYVNfUVpRN0c2UnBUY2JkV091dFVNY2tkdjFKMDFCYjJmR0xDcjVQcERlbWhMUjNYNWk2TDgyNFhLSGlyaExTU3lpOUhTMENNVmhPVXNRQXZfTWt4ZG9tQjVoRVQ4Y0piRm1zeHB6bmFQcFBOakctZk5iT3J1OFRfY1ZR",
-      "headline": "Kiggans, Luria report nearly $7.3 million each in Virginia’s 2nd District race",
-      "outlet": "13News Now (WVEC)",
-      "outlet_domain": "13newsnow.com",
-      "local": true,
-      "official": false,
-      "date": "2026-10-17T15:53:00.000Z",
-      "link": "https://news.google.com/rss/articles/CBMigwJBVV95cUxOVC15bzZpRHJrOHdhUDl2ZmhkNEFIX1hINTBXTDdZUmU2ZzZtcldOZU12b3dLb2hUWEgxeGc1RmFfaTU3dHRUQ1VLanphUlJVWFJfLUZsRWFtTXpfdFY5WVVTM01DenFQUW9FOTd0MGRBeXdSRDFtNHE0Q0dzVFYwMDlwaHpkUEhfYVNfUVpRN0c2UnBUY2JkV091dFVNY2tkdjFKMDFCYjJmR0xDcjVQcERlbWhMUjNYNWk2TDgyNFhLSGlyaExTU3lpOUhTMENNVmhPVXNRQXZfTWt4ZG9tQjVoRVQ4Y0piRm1zeHB6bmFQcFBOakctZk5iT3J1OFRfY1ZR?oc=5",
-      "candidates": [
-        "kiggans",
-        "luria"
-      ],
-      "tags": []
-    },
-    {
-      "id": "CBMi1wFBVV95cUxPWjhRWEJEbGFPU3o2blBoTXZsLU96Sm9IZkJvMl9sRWE0TTNHYXhVMTNxYzh0c3ozZjhqcWJocGFNZjRUMURqMFZONXdudlZWS0VMUDlGeVExaVVXTjhKNzhGcmt2NW9uNGxiTGpibDJYNXE0SGw5VU9WYy1tSkxNZHh2cVRIQm1uQlVQQVQwUV9hUFRUTUR0WmlJSzh6N3QtbWdpVWNTMFplQW5veDVZdUFZcGMzMmhoTklBSVljT2VlY2haUF9KTzZpVlAtMnF5T1pSY1NYNA",
-      "headline": "Democrats hope to flip GOP seats with veterans' help",
-      "outlet": "timesdaily.com",
-      "outlet_domain": "timesdaily.com",
-      "local": false,
-      "official": false,
-      "date": "2026-10-17T05:00:00.000Z",
-      "link": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxPWjhRWEJEbGFPU3o2blBoTXZsLU96Sm9IZkJvMl9sRWE0TTNHYXhVMTNxYzh0c3ozZjhqcWJocGFNZjRUMURqMFZONXdudlZWS0VMUDlGeVExaVVXTjhKNzhGcmt2NW9uNGxiTGpibDJYNXE0SGw5VU9WYy1tSkxNZHh2cVRIQm1uQlVQQVQwUV9hUFRUTUR0WmlJSzh6N3QtbWdpVWNTMFplQW5veDVZdUFZcGMzMmhoTklBSVljT2VlY2haUF9KTzZpVlAtMnF5T1pSY1NYNA?oc=5",
-      "candidates": [
-        "luria"
-      ],
-      "tags": []
-    },
-    {
-      "id": "CBMi9AFBVV95cUxQN3lOS3Bab2pGZDJXQUhtZ0FHYklDcTFXWGZ6bm5uZ1ZFdjJZNzlMV1Zlck5MZkpJNmNVTTIzdVU3T3FTbGNhakRvbk54NE4wd2pZV3ZMejdzalJCRmNLUkJnZU5xc0UtVHJCTnpiU3VvQ1ZWb0s2Yk1Ebl9zeGd6Vk5rVE11ZUt6Y2VCZlVJVWhEWHc2MTg4T2xhQVNrVEJkVzZhUjJwa3NHNXlLWFZqMlBJZ2NVck9xa09JZlFnbUN5VGswZWFkQnBEWWQ1SFVmd3haajJxN2M5SE9nX0gzU3RpQVl5R04xYXVGbGRLSXpmTFAx",
-      "headline": "Campaign finance reports reveal where key races stand as midterms draw near",
-      "outlet": "13News Now (WVEC)",
-      "outlet_domain": "13newsnow.com",
-      "local": true,
-      "official": false,
-      "date": "2026-10-17T03:06:00.000Z",
-      "link": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxQN3lOS3Bab2pGZDJXQUhtZ0FHYklDcTFXWGZ6bm5uZ1ZFdjJZNzlMV1Zlck5MZkpJNmNVTTIzdVU3T3FTbGNhakRvbk54NE4wd2pZV3ZMejdzalJCRmNLUkJnZU5xc0UtVHJCTnpiU3VvQ1ZWb0s2Yk1Ebl9zeGd6Vk5rVE11ZUt6Y2VCZlVJVWhEWHc2MTg4T2xhQVNrVEJkVzZhUjJwa3NHNXlLWFZqMlBJZ2NVck9xa09JZlFnbUN5VGswZWFkQnBEWWQ1SFVmd3haajJxN2M5SE9nX0gzU3RpQVl5R04xYXVGbGRLSXpmTFAx?oc=5",
-      "candidates": [
-        "luria"
-      ],
-      "tags": []
-    },
-    {
-      "id": "CBMivgFBVV95cUxNRG9HODU2SXhlcG1UZ3k5cHF4dUNSR2hHeUV4cXlaWXVNQjczdXlqODhLMGVoWG5kTGdoemJfSmFOaW1PMUI1bURxcndsOVJiUmpvemdPQ1NpdU1ldklWcVBtWmFjUVRrRzh5aG5IakpQdjJObHBsLUlROW1WeWJ4Z0FJM2Ruc3dKdFhDSlh3Vlp6SHJuSEtrR1A3M3cyNVRacnVnLVN3cmdpYjZpTVhLOEtoVzh5aUdHQm5na2dn",
-      "headline": "Graphics: Money Raised in 3Q26, Cash-on-Hand for Virginia's U.S. Senate, U.S. House Candidates",
-      "outlet": "Blue Virginia",
-      "outlet_domain": "bluevirginia.us",
-      "local": false,
-      "official": false,
-      "date": "2026-10-16T19:48:25.000Z",
-      "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNRG9HODU2SXhlcG1UZ3k5cHF4dUNSR2hHeUV4cXlaWXVNQjczdXlqODhLMGVoWG5kTGdoemJfSmFOaW1PMUI1bURxcndsOVJiUmpvemdPQ1NpdU1ldklWcVBtWmFjUVRrRzh5aG5IakpQdjJObHBsLUlROW1WeWJ4Z0FJM2Ruc3dKdFhDSlh3Vlp6SHJuSEtrR1A3M3cyNVRacnVnLVN3cmdpYjZpTVhLOEtoVzh5aUdHQm5na2dn?oc=5",
-      "candidates": [
-        "kiggans",
         "luria"
       ],
       "tags": []
