@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-18T20:45:14.361Z",
+  "updated_at": "2026-11-19T20:50:21.275Z",
   "source": "Google News RSS search",
   "queries": [
     "\"Jen Kiggans\"",
@@ -19,6 +19,20 @@
     "kiggans.house.gov"
   ],
   "items": [
+    {
+      "id": "CBMiVkFVX3lxTFBPakp2bmlnczhTQWRMdENyNmpLMkdySGZLMm1mdXRUaVVfeWJaNENNbjZxa3FpOWtGbEVQVXVlVm95dlA1UDhWU2lNY0xvYV90RzhVU1dn",
+      "headline": "OPINION/ When patriotism drives Americans to oppose Trump’s war",
+      "outlet": "朝日新聞",
+      "outlet_domain": "asahi.com",
+      "local": false,
+      "official": false,
+      "date": "2026-11-19T09:23:00.000Z",
+      "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBPakp2bmlnczhTQWRMdENyNmpLMkdySGZLMm1mdXRUaVVfeWJaNENNbjZxa3FpOWtGbEVQVXVlVm95dlA1UDhWU2lNY0xvYV90RzhVU1dn?oc=5",
+      "candidates": [
+        "luria"
+      ],
+      "tags": []
+    },
     {
       "id": "CBMiygFBVV95cUxOM0Z2UnduV005WTEybEFUME5SMUJSMDZndjdNSnVVN2hGNXEyRkZKYzNoOWFuY21RbWZLSFh0Nnl0V295UHNJcndPUVQxdG11Y0NYdHN3eGVNOFhFdnYwYnhEM2pLRHZTU0FFOGduUTh6ajU4dF81QnA4TnVsNVNwWWdZUmpqMnFTQk5GVjlCSU1UQmg5ZmZycnRmN1NUUlZFelZ0Qmg1ZE9jY1EwOW5ONWM2b2dGV3N2UXhteUJCQzhLVEpoajZuVEJn",
       "headline": "Pro-Israel Jewish Dem wins back her former Virginia congressional seat",
@@ -2525,234 +2539,6 @@
       "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQOGQtU0lrZ2w2ejVCX2tsM09BUHFIbkxwMkVaWmtDbXhBX0NteVdyV3htLVcxRVlGZDVrRFkxWWwyeURWZEVoUkRZYldXZ3pSMzZZQUtOMWlPRmFFZlNhYjRyRlBuY0lwQ1BGZjZXXzlEdkxKMUFYMGJ6RHM3Y0o4T2wxdkdJZWNneDZhQUc0ajhLVDNlMVlVSnJaa2g1SkdYWVBtQ3Buaw?oc=5",
       "candidates": [
         "luria"
-      ],
-      "tags": []
-    },
-    {
-      "id": "CBMixwFBVV95cUxNRkF4TEgzT3Jvd21aZjZLZ0FYVlc4eVpFOGJxTXlZZUlZZ081RnljcTZ4QWxMeGtNTTZGSlllWmh6bDZoUEtBT1NnZFFjYW9XUk5Wcy1lNnhNLVl1dklkNjZSYUVHT1phNkZpemxNaXphQnRTazBZWG1seHY2c1dNUWw0dUR6cUZPRkpGY3NSb1VIdFJqY3pxeGFVc3F6MVNnREg3Ulg4ZnV5M0Nvek9UbkJ1eVI0Z2lTczRJRnJlRnItRW0tbF9B",
-      "headline": "Economy, Iran put House seats in play in Virginia 2nd District race",
-      "outlet": "NewsNation",
-      "outlet_domain": "newsnationnow.com",
-      "local": false,
-      "official": false,
-      "date": "2026-10-20T17:11:48.000Z",
-      "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNRkF4TEgzT3Jvd21aZjZLZ0FYVlc4eVpFOGJxTXlZZUlZZ081RnljcTZ4QWxMeGtNTTZGSlllWmh6bDZoUEtBT1NnZFFjYW9XUk5Wcy1lNnhNLVl1dklkNjZSYUVHT1phNkZpemxNaXphQnRTazBZWG1seHY2c1dNUWw0dUR6cUZPRkpGY3NSb1VIdFJqY3pxeGFVc3F6MVNnREg3Ulg4ZnV5M0Nvek9UbkJ1eVI0Z2lTczRJRnJlRnItRW0tbF9B?oc=5",
-      "candidates": [
-        "luria"
-      ],
-      "tags": []
-    },
-    {
-      "id": "CBMi3wFBVV95cUxPZVRHRHViakZPbUl2N2RJcUlXVE1YZVlMTlhiTnNrN1lzNEZ3Zm5tU2M5UHlqb2F3Q0RNdmpIS0k5Y1Z4NTFzOWU3UnRtNEp3dzBoRmJ4UDMxY1RabWJibUVjbTZUWFkxUzhKR3hGRE9aWnZhUDNPd0sxZlNHZmVCeDdpMzZJWXVySVFwWWI3Y2ljWmRGMU9ycDRNSlE3Mk1NczZEam4tOWxZLU5CSFJJS3Jmei1Wcll3dlEzSjZTRmtkVUlOOFJRNzFMM1Rray0wWTZBUFhiUjJRYUd6bHZj",
-      "headline": "DCCC Releases New TV Ad in VA-02: \"Two Choices\" - Jen Kiggans \"runs fromer her job and votes with Trump 100% of the time\"",
-      "outlet": "Blue Virginia",
-      "outlet_domain": "bluevirginia.us",
-      "local": false,
-      "official": false,
-      "date": "2026-10-20T17:03:01.000Z",
-      "link": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxPZVRHRHViakZPbUl2N2RJcUlXVE1YZVlMTlhiTnNrN1lzNEZ3Zm5tU2M5UHlqb2F3Q0RNdmpIS0k5Y1Z4NTFzOWU3UnRtNEp3dzBoRmJ4UDMxY1RabWJibUVjbTZUWFkxUzhKR3hGRE9aWnZhUDNPd0sxZlNHZmVCeDdpMzZJWXVySVFwWWI3Y2ljWmRGMU9ycDRNSlE3Mk1NczZEam4tOWxZLU5CSFJJS3Jmei1Wcll3dlEzSjZTRmtkVUlOOFJRNzFMM1Rray0wWTZBUFhiUjJRYUd6bHZj?oc=5",
-      "candidates": [
-        "kiggans",
-        "luria"
-      ],
-      "tags": []
-    },
-    {
-      "id": "CBMif0FVX3lxTE5kSW9QQ1NKdlNzS3BKOENYcUJLRGdRbjl1M3FPcGE2ZUFYYzljZVl0VjhGN1JjUUloZTlMRVMwTDdyVDBrUEp0dW1HWTZ6MU16WDREb1NjQUU1cjRFeFg1OHBpU09wNkNCa0Jia3preDl4cV9rZ08yQVFFU3FWckU",
-      "headline": "Military voters, Iran war focus of Kiggans-Luria Virginia rematch",
-      "outlet": "AOL.com",
-      "outlet_domain": "aol.com",
-      "local": false,
-      "official": false,
-      "date": "2026-10-20T17:01:27.000Z",
-      "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5kSW9QQ1NKdlNzS3BKOENYcUJLRGdRbjl1M3FPcGE2ZUFYYzljZVl0VjhGN1JjUUloZTlMRVMwTDdyVDBrUEp0dW1HWTZ6MU16WDREb1NjQUU1cjRFeFg1OHBpU09wNkNCa0Jia3preDl4cV9rZ08yQVFFU3FWckU?oc=5",
-      "candidates": [
-        "kiggans",
-        "luria"
-      ],
-      "tags": []
-    },
-    {
-      "id": "CBMilAFBVV95cUxQbDhMRV9MUG5XUEI1cW1aaENhbnJoaVdLblNsc1lycWdmMldzbmc2ZHdCOXhyUS00c0hwNVROejJLQ1hTWWFJSGRXWkRQVGRMSEpKSWcwUjFFVWxKbnlWZVZEeTJUVDdQLTdaa25BeTV2V1FtVFFvaURUMS1VdEtSdkdCRE5PUXp0UXFBc0kyZ0xMNDNL",
-      "headline": "Military voters, Iran war focus of Kiggans-Luria Virginia rematch",
-      "outlet": "Yahoo",
-      "outlet_domain": "yahoo.com",
-      "local": false,
-      "official": false,
-      "date": "2026-10-20T17:01:20.000Z",
-      "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQbDhMRV9MUG5XUEI1cW1aaENhbnJoaVdLblNsc1lycWdmMldzbmc2ZHdCOXhyUS00c0hwNVROejJLQ1hTWWFJSGRXWkRQVGRMSEpKSWcwUjFFVWxKbnlWZVZEeTJUVDdQLTdaa25BeTV2V1FtVFFvaURUMS1VdEtSdkdCRE5PUXp0UXFBc0kyZ0xMNDNL?oc=5",
-      "candidates": [
-        "luria"
-      ],
-      "tags": []
-    },
-    {
-      "id": "CBMirAFBVV95cUxNMGtyX3l0Vk1HT2ZNTXdpRVFBN1dnZzN4UGhieW5Qc0lxb0xkOHlJa2lMSjVoaVoxQXVTczAtM0xSTXZNQmx1clJRQmVTeFpmM1B5dXByTVdZNU50MzVnaktMcGRfeXBGNVlvaE5ZRGFXMGN0SkN5My1zcExNU1RoclhqVzJmZy1ENHM1SXdFNWJTWDFpZFh5SEtYeGhldGZNMi1LaDM5dFpLUVBK",
-      "headline": "Democrats Ramp Up Outreach In VA's 1st, 2nd And 5th Districts 2 Weeks Before Election Day",
-      "outlet": "Patch",
-      "outlet_domain": "patch.com",
-      "local": false,
-      "official": false,
-      "date": "2026-10-20T16:59:05.000Z",
-      "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNMGtyX3l0Vk1HT2ZNTXdpRVFBN1dnZzN4UGhieW5Qc0lxb0xkOHlJa2lMSjVoaVoxQXVTczAtM0xSTXZNQmx1clJRQmVTeFpmM1B5dXByTVdZNU50MzVnaktMcGRfeXBGNVlvaE5ZRGFXMGN0SkN5My1zcExNU1RoclhqVzJmZy1ENHM1SXdFNWJTWDFpZFh5SEtYeGhldGZNMi1LaDM5dFpLUVBK?oc=5",
-      "candidates": [
-        "luria"
-      ],
-      "tags": []
-    },
-    {
-      "id": "CBMidEFVX3lxTE55MGVyUm1iX3ltSWJpenRzSjFtSGs0aDllSnp0a1VHOUpTTDJtdTZwSVZrVEd4ZGtTU05PN1dUQnktR3h6WnNNcDVZcHJqaV9pcWUtdm5lODltRGZoWGxQaVlVcjJWVFBPZmVpTWRVSkdoWG1R",
-      "headline": "Pete Buttigieg rallies for Taylor, Luria, Perriello",
-      "outlet": "The Dogwood",
-      "outlet_domain": "vadogwood.com",
-      "local": false,
-      "official": false,
-      "date": "2026-10-20T16:26:32.000Z",
-      "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE55MGVyUm1iX3ltSWJpenRzSjFtSGs0aDllSnp0a1VHOUpTTDJtdTZwSVZrVEd4ZGtTU05PN1dUQnktR3h6WnNNcDVZcHJqaV9pcWUtdm5lODltRGZoWGxQaVlVcjJWVFBPZmVpTWRVSkdoWG1R?oc=5",
-      "candidates": [
-        "luria"
-      ],
-      "tags": []
-    },
-    {
-      "id": "CBMib0FVX3lxTE5VcEVTSFpackRncWdOc3RPeWVVWm10OU45YlBkSm5PQzNNVy0wc3JkemdCaHMyODFwS1lvczh2aG9wOW16Z01jWGhFTTNnZWd0MHRoc1p3Um9tcGZ4dGxXX05pZ2o0TzJ2a21rRWxUZw",
-      "headline": "DCCC Releases New TV Ad in VA-02: “Two Choices”",
-      "outlet": "Democratic Congressional Campaign Committee",
-      "outlet_domain": "dccc.org",
-      "local": false,
-      "official": false,
-      "date": "2026-10-20T15:09:18.000Z",
-      "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE5VcEVTSFpackRncWdOc3RPeWVVWm10OU45YlBkSm5PQzNNVy0wc3JkemdCaHMyODFwS1lvczh2aG9wOW16Z01jWGhFTTNnZWd0MHRoc1p3Um9tcGZ4dGxXX05pZ2o0TzJ2a21rRWxUZw?oc=5",
-      "candidates": [
-        "luria"
-      ],
-      "tags": []
-    },
-    {
-      "id": "CBMirwFBVV95cUxPVTFYQWtldm9BaG13Z2Z4S0EzSWFER3o5U1dsTENuOW1hdFB0aUVkdDh1SnN1a3c2WWtaQWZqUHZzbVNGVEZoR1lYSEx5TjNLVzg3aUREWkMxbG1OMnpZNUd6YmpSY3lPS25qZ0hqU0lQMVd5eFlkUDFRSTN0Rk5HOGtid09qV0ZvSTRlRHgyWFIxTTFxOTN4bWhtTml5YUpuVXRqRVlxZExINEFIUTE00gG0AUFVX3lxTE9rczJNSS1fbm55eDN5WXQwTHplLXVtdF9ra2xIaFhYQlZ4ZU1oc3BFUHp5VXdoWHIzVEw0aERVYWJsLXktdXQ0MmxGMnJaX3hhc2xoYUlTNWlyYWxqdVdaTVhMOTNhRDlpZ0N5cklnbmJGeEh2QnRFQ2EyaDRGR1llUDFJanM4akxRN2NYbmVvSUd2dHRiVXQzWk5xNjVwSzZKVDNKdlJKaklWLUFBRFVqV2dSag",
-      "headline": "Military voters, Iran war focus of Kiggans-Luria Virginia rematch",
-      "outlet": "NewsNation",
-      "outlet_domain": "newsnationnow.com",
-      "local": false,
-      "official": false,
-      "date": "2026-10-20T15:07:38.000Z",
-      "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPVTFYQWtldm9BaG13Z2Z4S0EzSWFER3o5U1dsTENuOW1hdFB0aUVkdDh1SnN1a3c2WWtaQWZqUHZzbVNGVEZoR1lYSEx5TjNLVzg3aUREWkMxbG1OMnpZNUd6YmpSY3lPS25qZ0hqU0lQMVd5eFlkUDFRSTN0Rk5HOGtid09qV0ZvSTRlRHgyWFIxTTFxOTN4bWhtTml5YUpuVXRqRVlxZExINEFIUTE00gG0AUFVX3lxTE9rczJNSS1fbm55eDN5WXQwTHplLXVtdF9ra2xIaFhYQlZ4ZU1oc3BFUHp5VXdoWHIzVEw0aERVYWJsLXktdXQ0MmxGMnJaX3hhc2xoYUlTNWlyYWxqdVdaTVhMOTNhRDlpZ0N5cklnbmJGeEh2QnRFQ2EyaDRGR1llUDFJanM4akxRN2NYbmVvSUd2dHRiVXQzWk5xNjVwSzZKVDNKdlJKaklWLUFBRFVqV2dSag?oc=5",
-      "candidates": [
-        "kiggans",
-        "luria"
-      ],
-      "tags": []
-    },
-    {
-      "id": "CBMixwFBVV95cUxPMWRUWHFla00zRC1ZbG96cEprNjMxRTB0enZOVG1GakRsSDF0WVNVdVZWYmNFOGJTc1lfUFZIT3VrMTRpQkhEQjhpLXdhSlJVVHBSeGRUQmI2NHdjSGstVTRuVTRMV0NqUkVaZzdCelZkSmhmRW9OancydWljQVk0YURHNUx1MGk1SlFPNXVHQnJZdUtDeV9kYnB0Q3hhXzhXQnNDQXpKalNNM2s1Rkx6clpzWVZDUEM1QV9qdy1hZThON2RXRE9R",
-      "headline": "Democrats ramp up outreach in Va.’s 1st, 2nd and 5th Districts 2 weeks before Election Day",
-      "outlet": "Virginia Mercury",
-      "outlet_domain": "virginiamercury.com",
-      "local": false,
-      "official": false,
-      "date": "2026-10-20T15:03:58.000Z",
-      "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPMWRUWHFla00zRC1ZbG96cEprNjMxRTB0enZOVG1GakRsSDF0WVNVdVZWYmNFOGJTc1lfUFZIT3VrMTRpQkhEQjhpLXdhSlJVVHBSeGRUQmI2NHdjSGstVTRuVTRMV0NqUkVaZzdCelZkSmhmRW9OancydWljQVk0YURHNUx1MGk1SlFPNXVHQnJZdUtDeV9kYnB0Q3hhXzhXQnNDQXpKalNNM2s1Rkx6clpzWVZDUEM1QV9qdy1hZThON2RXRE9R?oc=5",
-      "candidates": [
-        "luria"
-      ],
-      "tags": []
-    },
-    {
-      "id": "CBMilAFBVV95cUxPSGV0OUduakhuTW1tLTI0cUkzQi1nbllHbjdKeUV3X0RLRDl1Zk1vOFlFV2xWb1liZTVhNll5cVFpamR4NENEOE5KeFpmSVo5bWhGNl9mQm9TN3NnQXE2OWNRSk9kNGNrWVhjOEZNczdUZWdwa1NfcDNCbDMzWkhBeTdNVnYtS195QzFGZ0NHNnlrdFRu",
-      "headline": "Rep. Jen Kiggans to Newsmax: Voters Fired Luria in 2022",
-      "outlet": "Yahoo",
-      "outlet_domain": "yahoo.com",
-      "local": false,
-      "official": false,
-      "date": "2026-10-20T14:37:29.000Z",
-      "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPSGV0OUduakhuTW1tLTI0cUkzQi1nbllHbjdKeUV3X0RLRDl1Zk1vOFlFV2xWb1liZTVhNll5cVFpamR4NENEOE5KeFpmSVo5bWhGNl9mQm9TN3NnQXE2OWNRSk9kNGNrWVhjOEZNczdUZWdwa1NfcDNCbDMzWkhBeTdNVnYtS195QzFGZ0NHNnlrdFRu?oc=5",
-      "candidates": [
-        "kiggans",
-        "luria"
-      ],
-      "tags": []
-    },
-    {
-      "id": "CBMilgFBVV95cUxPcWZQdzVyMWlyNk5aUGl3bnZMN2JCT0NPd05wY1Rvdkx6Rm5RU0c3QWNCSi10a2VaVFhFMWc3SWw4S1hQTzdibjFidlBKWmNvcW82T2F5VHhEa1dxRUFUV0syeUo4T3hPNzF1TzRmbFQ1VHl5eElmYmRpeGJSMkg1dlJleXdsVUg5V3ZwWWdJVmlsRkdoVlHSAZsBQVVfeXFMTW53dmxJOF9CdjBzamM5ZVZxOE9PR0ZZSWJpMl9vb1U4b1hZNTBZOS1MeHJwVG5nbzlQU3Y3VGEta0RJRVI2b1ZBUFlDNUFaSzdOWHl2aVVJYjNTaExhVXl3U3pTWjIyY3FhLUZTZ3UwX3NReXdxREFEMHZ3SWtvSzFWZWJ4SkNZeUZ3TzNONERUckhibGNwRk54Wmc",
-      "headline": "Buttigieg joins Democratic congressional candidates in Henrico",
-      "outlet": "WFXR News",
-      "outlet_domain": "wfxrtv.com",
-      "local": false,
-      "official": false,
-      "date": "2026-10-20T12:36:56.000Z",
-      "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPcWZQdzVyMWlyNk5aUGl3bnZMN2JCT0NPd05wY1Rvdkx6Rm5RU0c3QWNCSi10a2VaVFhFMWc3SWw4S1hQTzdibjFidlBKWmNvcW82T2F5VHhEa1dxRUFUV0syeUo4T3hPNzF1TzRmbFQ1VHl5eElmYmRpeGJSMkg1dlJleXdsVUg5V3ZwWWdJVmlsRkdoVlHSAZsBQVVfeXFMTW53dmxJOF9CdjBzamM5ZVZxOE9PR0ZZSWJpMl9vb1U4b1hZNTBZOS1MeHJwVG5nbzlQU3Y3VGEta0RJRVI2b1ZBUFlDNUFaSzdOWHl2aVVJYjNTaExhVXl3U3pTWjIyY3FhLUZTZ3UwX3NReXdxREFEMHZ3SWtvSzFWZWJ4SkNZeUZ3TzNONERUckhibGNwRk54Wmc?oc=5",
-      "candidates": [
-        "luria"
-      ],
-      "tags": []
-    },
-    {
-      "id": "CBMilwFBVV95cUxQcVIzVkRvcWNfWHk4ZjJxdDVnNnFMblQ1LVRFOUxrZXFoM0o2a0VUbkRfNDZHNDZYbDVqRGpQM0gwajU1dDBFWENLQWR3dnBsWmUzQUZ5ZlBxM2l0SzNFbGx1Y1J3dlBaWEVfbS04NHB1YlIxZklicmd4NUhZQjVZVnZEWnQtaHRVdkxJYnIxbkpxTkN0M3NZ",
-      "headline": "Virginia House District 2 Primary Election Live Results 2026",
-      "outlet": "NBC News",
-      "outlet_domain": "nbcnews.com",
-      "local": false,
-      "official": false,
-      "date": "2026-10-20T07:00:00.000Z",
-      "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQcVIzVkRvcWNfWHk4ZjJxdDVnNnFMblQ1LVRFOUxrZXFoM0o2a0VUbkRfNDZHNDZYbDVqRGpQM0gwajU1dDBFWENLQWR3dnBsWmUzQUZ5ZlBxM2l0SzNFbGx1Y1J3dlBaWEVfbS04NHB1YlIxZklicmd4NUhZQjVZVnZEWnQtaHRVdkxJYnIxbkpxTkN0M3NZ?oc=5",
-      "candidates": [
-        "luria"
-      ],
-      "tags": []
-    },
-    {
-      "id": "CBMiiAFBVV95cUxQUXRFVWt6eGFvTEJUbktuNUFGZ0NhYzB6a3Vwd01pNkpPd3g4ZjJwNGFvLUYyMUw4YUVNSjlxZ0dQUzgwbkVWTXo3RW9wXzJTMnNIZ25oYWVFUl9ETndKMWlqVk9HVVdBcG12WjloSW1lQzllNkxJQW14NFctQmZvcklNWDFWd0ZB",
-      "headline": "Pete Buttigieg rallies with Taylor, Luria, Perriello",
-      "outlet": "Virginia Scope",
-      "outlet_domain": "virginiascope.com",
-      "local": false,
-      "official": false,
-      "date": "2026-10-20T02:36:57.000Z",
-      "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQUXRFVWt6eGFvTEJUbktuNUFGZ0NhYzB6a3Vwd01pNkpPd3g4ZjJwNGFvLUYyMUw4YUVNSjlxZ0dQUzgwbkVWTXo3RW9wXzJTMnNIZ25oYWVFUl9ETndKMWlqVk9HVVdBcG12WjloSW1lQzllNkxJQW14NFctQmZvcklNWDFWd0ZB?oc=5",
-      "candidates": [
-        "luria"
-      ],
-      "tags": []
-    },
-    {
-      "id": "CBMirAFBVV95cUxQOXI1SXZYRHg0cldXcXhLSjZtUlBZbW9kNnZTQUF1SW56dGVRd1F2N0NVOUx2a2dGUGhpSTlSMGhIT2ZfX1h0NFBhVEt2SWkzNnZnNUV3cXdlWWZWR1pCejlnUmF0SmFreTNJU3RoRm1PanNMdGhDanBoeFdpVjR4RFpOUnp2VEFxSkhFRlZ1eFNTZHdGM1hGVVJBSkNQX05VUjBUM0FEanpxTi02",
-      "headline": "Election 2026 Virginia",
-      "outlet": "Herald and News",
-      "outlet_domain": "heraldandnews.com",
-      "local": false,
-      "official": false,
-      "date": "2026-10-19T21:28:08.000Z",
-      "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQOXI1SXZYRHg0cldXcXhLSjZtUlBZbW9kNnZTQUF1SW56dGVRd1F2N0NVOUx2a2dGUGhpSTlSMGhIT2ZfX1h0NFBhVEt2SWkzNnZnNUV3cXdlWWZWR1pCejlnUmF0SmFreTNJU3RoRm1PanNMdGhDanBoeFdpVjR4RFpOUnp2VEFxSkhFRlZ1eFNTZHdGM1hGVVJBSkNQX05VUjBUM0FEanpxTi02?oc=5",
-      "candidates": [
-        "luria"
-      ],
-      "tags": []
-    },
-    {
-      "id": "CBMiswFBVV95cUxOZTk5ejRmdkRybDBuUXJ3ZUJuNFI1NXdibEE3YlczQmFMZmg4TElMNmVwaFJzeTRCNndWazRoMGRMNGJwTmFTcGtxbm5kYjhNMHVxeGtjandZTllhNDhLWEVFaGpHc1JZUHg1ZklPY0VCdGNYZTJjRzlSaGs0S1o3YngxRjZzRDJXZld4TkhTZFp1dlRoQ3UzLVJXY2dUY29rWW54Uzh3UmZycEdYR1NyMVBxMA",
-      "headline": "Election 2026 Virginia",
-      "outlet": "Post Register",
-      "outlet_domain": "postregister.com",
-      "local": false,
-      "official": false,
-      "date": "2026-10-19T21:22:35.000Z",
-      "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOZTk5ejRmdkRybDBuUXJ3ZUJuNFI1NXdibEE3YlczQmFMZmg4TElMNmVwaFJzeTRCNndWazRoMGRMNGJwTmFTcGtxbm5kYjhNMHVxeGtjandZTllhNDhLWEVFaGpHc1JZUHg1ZklPY0VCdGNYZTJjRzlSaGs0S1o3YngxRjZzRDJXZld4TkhTZFp1dlRoQ3UzLVJXY2dUY29rWW54Uzh3UmZycEdYR1NyMVBxMA?oc=5",
-      "candidates": [
-        "luria"
-      ],
-      "tags": []
-    },
-    {
-      "id": "CBMiuAFBVV95cUxNRVJ5TzBVSzdpcGVxXzdVS3lYdTUtcldkdU1Ld1dwY0lqWU0zbWItQXBiaFFIMjlmQTJUV092dEpoWDNyME9meXRnWkJjZWV4TVRIZXNNZDFqSTI4cTZtU1QxMEJTWmdvdXBmQ28xQmVOb2owUklKLWpRY1d3RUFpTEZfcFY0aG9sUS01Z1d0b3lzMzR2YkUxYXdFaUczUGxNNUNqYnVPWEJ5U2dMaVZrdVFyd3IwWGhT",
-      "headline": "Protecting Virginia’s Public Lands and Waters for Future Generations",
-      "outlet": "Shore Daily News",
-      "outlet_domain": "shoredailynews.com",
-      "local": false,
-      "official": false,
-      "date": "2026-10-19T20:54:50.000Z",
-      "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNRVJ5TzBVSzdpcGVxXzdVS3lYdTUtcldkdU1Ld1dwY0lqWU0zbWItQXBiaFFIMjlmQTJUV092dEpoWDNyME9meXRnWkJjZWV4TVRIZXNNZDFqSTI4cTZtU1QxMEJTWmdvdXBmQ28xQmVOb2owUklKLWpRY1d3RUFpTEZfcFY0aG9sUS01Z1d0b3lzMzR2YkUxYXdFaUczUGxNNUNqYnVPWEJ5U2dMaVZrdVFyd3IwWGhT?oc=5",
-      "candidates": [
-        "kiggans"
       ],
       "tags": []
     }
