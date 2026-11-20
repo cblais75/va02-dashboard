@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-19T20:50:21.275Z",
+  "updated_at": "2026-11-20T20:35:04.585Z",
   "source": "Google News RSS search",
   "queries": [
     "\"Jen Kiggans\"",
@@ -2478,65 +2478,6 @@
       "official": false,
       "date": "2026-10-22T07:00:00.000Z",
       "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTFBDR1pNcWtkMkY5RGU3WUdCLUVsV3o3dDZTbVlNaGtCR2V4UjZBUGRIN2tFUmhWQXV3VDBEYVdXQ2ozeDVhVTdsdUo0NEdMUVY1cUh0R1ZMNVFIUE9rZFNlc1R2dU9OMGViN3AzQVlITEMzMUt1akVMSzNyUQ?oc=5",
-      "candidates": [
-        "luria"
-      ],
-      "tags": []
-    },
-    {
-      "id": "CBMinwFBVV95cUxNSDVRSVdSZU9aM0hRbjB5ejZfZlFzMGdtOUJzdjYwSWNJMjBZQ3ZTT08tWGc1OVE5T0cyLWlwUHZFZFI5a0FfRl9WRXlQaXkyWFZuNWRmVTkzbmp6TTUyejF2OWllbDNrTV96Y3NySC1GazNZelVlQ3U0X0JlQXJjSElmRk9fREk5NFB1MWp3YWl4dGs4OWtETFRSZWlCVWs",
-      "headline": "EXCLUSIVE: Washington Reporter fact check cited in tossup race’s ad",
-      "outlet": "Washington Reporter",
-      "outlet_domain": "washingtonreporter.news",
-      "local": false,
-      "official": false,
-      "date": "2026-10-21T15:35:19.000Z",
-      "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNSDVRSVdSZU9aM0hRbjB5ejZfZlFzMGdtOUJzdjYwSWNJMjBZQ3ZTT08tWGc1OVE5T0cyLWlwUHZFZFI5a0FfRl9WRXlQaXkyWFZuNWRmVTkzbmp6TTUyejF2OWllbDNrTV96Y3NySC1GazNZelVlQ3U0X0JlQXJjSElmRk9fREk5NFB1MWp3YWl4dGs4OWtETFRSZWlCVWs?oc=5",
-      "candidates": [
-        "kiggans",
-        "luria"
-      ],
-      "tags": []
-    },
-    {
-      "id": "CBMizAFBVV95cUxOdlR6TndlVjNjQWdWcWJlV2NoZGNad0NUUzdIVkVZN1ROOEZTdUwxQlBHWHZKM1N0eWsxTURfN1IzT043RnBTOVZsN3E1WlNPakVLN3BfSk92aWc0U0Y2NEVwOG1PbTJ0ZGs1bVZ2a1RTVVFhZjFLUHBNSnR3SGFXT203QUFJaDkzZ2VMaFQwcWxwVmZVQ3VqOU9qSjMxd0ZHOGtQQW9yWnlsa2hxT1lTZnZibTNES1BRTjZiX2gzS2UxVzBUc0V1dlRKcTI",
-      "headline": "Where the candidates in three competitive Virginia US House races stand on the issues",
-      "outlet": "The Virginia Independent",
-      "outlet_domain": "virginiaindependentnews.com",
-      "local": false,
-      "official": false,
-      "date": "2026-10-21T14:28:13.000Z",
-      "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxOdlR6TndlVjNjQWdWcWJlV2NoZGNad0NUUzdIVkVZN1ROOEZTdUwxQlBHWHZKM1N0eWsxTURfN1IzT043RnBTOVZsN3E1WlNPakVLN3BfSk92aWc0U0Y2NEVwOG1PbTJ0ZGs1bVZ2a1RTVVFhZjFLUHBNSnR3SGFXT203QUFJaDkzZ2VMaFQwcWxwVmZVQ3VqOU9qSjMxd0ZHOGtQQW9yWnlsa2hxT1lTZnZibTNES1BRTjZiX2gzS2UxVzBUc0V1dlRKcTI?oc=5",
-      "candidates": [
-        "kiggans",
-        "luria"
-      ],
-      "tags": []
-    },
-    {
-      "id": "CBMijgFBVV95cUxNajBJX3dkWmpEOHliYmdQQXIwdTRMeDlEVzRoYnBHcGVEYTg2d2hTWE5pS25vTFIwbnZxUlN2bEhpNkhOQlpkcDBqWW51QzA2SG5YVmxzT1R5STJxSW9VNW5RN0JhR3g4YURRS2w5SmJ0eU1FRXNwdm94dUJSU09LRjBMZ1gxa2Y3VGZRNEp3",
-      "headline": "How 3 Virginia races showcase the House battleground",
-      "outlet": "Roll Call",
-      "outlet_domain": "rollcall.com",
-      "local": false,
-      "official": false,
-      "date": "2026-10-20T22:42:35.000Z",
-      "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNajBJX3dkWmpEOHliYmdQQXIwdTRMeDlEVzRoYnBHcGVEYTg2d2hTWE5pS25vTFIwbnZxUlN2bEhpNkhOQlpkcDBqWW51QzA2SG5YVmxzT1R5STJxSW9VNW5RN0JhR3g4YURRS2w5SmJ0eU1FRXNwdm94dUJSU09LRjBMZ1gxa2Y3VGZRNEp3?oc=5",
-      "candidates": [
-        "kiggans",
-        "luria"
-      ],
-      "tags": []
-    },
-    {
-      "id": "CBMipwFBVV95cUxQOGQtU0lrZ2w2ejVCX2tsM09BUHFIbkxwMkVaWmtDbXhBX0NteVdyV3htLVcxRVlGZDVrRFkxWWwyeURWZEVoUkRZYldXZ3pSMzZZQUtOMWlPRmFFZlNhYjRyRlBuY0lwQ1BGZjZXXzlEdkxKMUFYMGJ6RHM3Y0o4T2wxdkdJZWNneDZhQUc0ajhLVDNlMVlVSnJaa2g1SkdYWVBtQ3Buaw",
-      "headline": "Virginia Democrats Rally in Henrico Before Nov. 3 Election",
-      "outlet": "Hoodline",
-      "outlet_domain": "hoodline.com",
-      "local": false,
-      "official": false,
-      "date": "2026-10-20T20:58:04.000Z",
-      "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQOGQtU0lrZ2w2ejVCX2tsM09BUHFIbkxwMkVaWmtDbXhBX0NteVdyV3htLVcxRVlGZDVrRFkxWWwyeURWZEVoUkRZYldXZ3pSMzZZQUtOMWlPRmFFZlNhYjRyRlBuY0lwQ1BGZjZXXzlEdkxKMUFYMGJ6RHM3Y0o4T2wxdkdJZWNneDZhQUc0ajhLVDNlMVlVSnJaa2g1SkdYWVBtQ3Buaw?oc=5",
       "candidates": [
         "luria"
       ],
