@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-20T20:35:04.585Z",
+  "updated_at": "2026-11-21T19:33:22.135Z",
   "source": "Google News RSS search",
   "queries": [
     "\"Jen Kiggans\"",
@@ -2437,48 +2437,6 @@
       "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxQSm1rMnc2YTF6Si1ramdxUG5pQ292NFFxTlZlQjB2clNLSTBubFhKSXRWQ0h4LVpxSzMzbFFlVk9ZSUJkV0xBRTE3OHdDalBhc3pnVXdrRy1rVXZueUd3Ymx3V1dKdlY2S05FYWczTHg0cGtmQ196QTBLYmRyaGF2c2FQR2szN1NwcmVWWWhWS2VUUXk0bVh1SXF1ajdCODc2ekFLTFhyOFdXY3NDRTZXYV9Mb3lGVGJjRFFNQlhjQlllNl9GbFQ1bXQ5UVhaUQ?oc=5",
       "candidates": [
         "kiggans",
-        "luria"
-      ],
-      "tags": []
-    },
-    {
-      "id": "CBMihgFBVV95cUxPMkhhTG1UMnBEWGthQ2NRWXR4UHlfU3ZvUm5WaGl5RUN3MmJlQW02ckVfbExxWXJTNHQxSVJWU0dEQlM1bnhaNUZjMkdnNWFDcmRnSHBxdzRrMzBzX3lzX3lBMERLdHhmdWdkNEJReXhDVG14T2lRN1lmUjZUSmprLW5zSTQ4dw",
-      "headline": "A Congressional District Where the Iran War Is Personal",
-      "outlet": "The Atlantic",
-      "outlet_domain": "theatlantic.com",
-      "local": false,
-      "official": false,
-      "date": "2026-10-22T18:18:03.000Z",
-      "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPMkhhTG1UMnBEWGthQ2NRWXR4UHlfU3ZvUm5WaGl5RUN3MmJlQW02ckVfbExxWXJTNHQxSVJWU0dEQlM1bnhaNUZjMkdnNWFDcmRnSHBxdzRrMzBzX3lzX3lBMERLdHhmdWdkNEJReXhDVG14T2lRN1lmUjZUSmprLW5zSTQ4dw?oc=5",
-      "candidates": [
-        "kiggans"
-      ],
-      "tags": []
-    },
-    {
-      "id": "CBMijwFBVV95cUxObFQyUDVKN01xZWpsVDB6OWliZEhjYnh5dTcyX1NYSkI1NVBkeDZzbDJmWHllQTJsMGcxQllWRW14cGIyb2NsQkYyV0F3aUJ1dExHb1U5Nm5ZZEd1M1h3X3JYd1prZkFzVUdRLXNLWXlZSTJseGw4MGw4b2NSdGh5UGNGLVNpcktrcHJ1amg0MA",
-      "headline": "Virginia Elections: Who’s Leading In Prediction Markets?",
-      "outlet": "Forbes",
-      "outlet_domain": "forbes.com",
-      "local": false,
-      "official": false,
-      "date": "2026-10-22T13:02:00.000Z",
-      "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxObFQyUDVKN01xZWpsVDB6OWliZEhjYnh5dTcyX1NYSkI1NVBkeDZzbDJmWHllQTJsMGcxQllWRW14cGIyb2NsQkYyV0F3aUJ1dExHb1U5Nm5ZZEd1M1h3X3JYd1prZkFzVUdRLXNLWXlZSTJseGw4MGw4b2NSdGh5UGNGLVNpcktrcHJ1amg0MA?oc=5",
-      "candidates": [
-        "kiggans"
-      ],
-      "tags": []
-    },
-    {
-      "id": "CBMie0FVX3lxTFBDR1pNcWtkMkY5RGU3WUdCLUVsV3o3dDZTbVlNaGtCR2V4UjZBUGRIN2tFUmhWQXV3VDBEYVdXQ2ozeDVhVTdsdUo0NEdMUVY1cUh0R1ZMNVFIUE9rZFNlc1R2dU9OMGViN3AzQVlITEMzMUt1akVMSzNyUQ",
-      "headline": "Will Elaine Luria Condemn Louise Lucas?",
-      "outlet": "National Republican Congressional Committee",
-      "outlet_domain": "nrcc.org",
-      "local": false,
-      "official": false,
-      "date": "2026-10-22T07:00:00.000Z",
-      "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTFBDR1pNcWtkMkY5RGU3WUdCLUVsV3o3dDZTbVlNaGtCR2V4UjZBUGRIN2tFUmhWQXV3VDBEYVdXQ2ozeDVhVTdsdUo0NEdMUVY1cUh0R1ZMNVFIUE9rZFNlc1R2dU9OMGViN3AzQVlITEMzMUt1akVMSzNyUQ?oc=5",
-      "candidates": [
         "luria"
       ],
       "tags": []
