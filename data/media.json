@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-24T00:07:09.446Z",
+  "updated_at": "2026-11-24T22:38:13.302Z",
   "source": "Google News RSS search",
   "queries": [
     "\"Jen Kiggans\"",
@@ -19,6 +19,34 @@
     "kiggans.house.gov"
   ],
   "items": [
+    {
+      "id": "CBMirwFBVV95cUxOZE9tX0tlRlJkcDBjR28zQW5iZWl5c19yZUxReVRWalB4Uk10NjU2Y0RKRUpiVG5HWkM1VkdCTGZPX3hwUGNDWDV1czZMYU5Fc0R2bHdWMHZUTHdMbERadGlrWmJsX00xV3NRclZPRnBOZmdyakNPMVFISFVYYUgzaXlmOGYyX0ZXa2gyWmdDRmFqZ1NKY3E0eWJLUnBpNF9rbXhsdWlpS0h4a2xhNUtZ",
+      "headline": "Elaine Luria, Shannon Taylor vow to tackle healthcare costs, Medicaid changes",
+      "outlet": "WTKR (News 3)",
+      "outlet_domain": "wtkr.com",
+      "local": true,
+      "official": false,
+      "date": "2026-11-24T21:58:08.000Z",
+      "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOZE9tX0tlRlJkcDBjR28zQW5iZWl5c19yZUxReVRWalB4Uk10NjU2Y0RKRUpiVG5HWkM1VkdCTGZPX3hwUGNDWDV1czZMYU5Fc0R2bHdWMHZUTHdMbERadGlrWmJsX00xV3NRclZPRnBOZmdyakNPMVFISFVYYUgzaXlmOGYyX0ZXa2gyWmdDRmFqZ1NKY3E0eWJLUnBpNF9rbXhsdWlpS0h4a2xhNUtZ?oc=5",
+      "candidates": [
+        "luria"
+      ],
+      "tags": []
+    },
+    {
+      "id": "CBMizwFBVV95cUxPUzRRRGE1Vl8tS05KSHNKMkhTTDJaV19BLU80MTc2bWFZX1VPQnlHVnVZUjhORTF4NzdmV1JKUW51TnBDNktUbVBNY2syZnJEcktMbDljenFGaG1DTm9MeGdBenhPa0JpUGZWVUJDNHRoMU9oNE45TjV6UXpDYUhsLU9DWTFyTWVSMW1DZUZRY281TVZ0aE5lUFRsNkowajBjQkRQTXRkTmpSVFJ1N19zRkkteVJhM2NhZlZWdUhQaHRzY3JqMTJqSGlxTTdNWGc",
+      "headline": "Voter concerns on healthcare access and costs",
+      "outlet": "13News Now (WVEC)",
+      "outlet_domain": "13newsnow.com",
+      "local": true,
+      "official": false,
+      "date": "2026-11-24T19:44:00.000Z",
+      "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxPUzRRRGE1Vl8tS05KSHNKMkhTTDJaV19BLU80MTc2bWFZX1VPQnlHVnVZUjhORTF4NzdmV1JKUW51TnBDNktUbVBNY2syZnJEcktMbDljenFGaG1DTm9MeGdBenhPa0JpUGZWVUJDNHRoMU9oNE45TjV6UXpDYUhsLU9DWTFyTWVSMW1DZUZRY281TVZ0aE5lUFRsNkowajBjQkRQTXRkTmpSVFJ1N19zRkkteVJhM2NhZlZWdUhQaHRzY3JqMTJqSGlxTTdNWGc?oc=5",
+      "candidates": [
+        "luria"
+      ],
+      "tags": []
+    },
     {
       "id": "CBMioAJBVV95cUxNT0I2WTU2a0V5dmlGWngyVlpRNTM2dEltZWg5aWdzVGR2eEhmUFJ0TkMwT0pOaVlEV2RtbUplek1MRTI1M2prcTNRS204QTVUQWJ4MjQtbmpRZi1xaG5mWVE5WFg4TlczZ2lpTzhJNVJWSTNjNktfWUJFMTh5M3liaDBqMnlFVDJBNzJRMngwdmc5SVREam5uVl9XVzQ4T3hDU0dVNWQwUGZ3OTV6WU5zcml5YWpUMkxQcUNIaUdjTWtlTHBkb0liVEVHNGt4VS10NkljYVdhQ25lQ2loUEotWXJabFFwU3AwbmtQYXo3LWxJcXBzMF9oMzUwbVVveHZKQ01BdlBWS3BBM1FfSnZ5Z1Zwb3VjMEc5THo3a0NKYTA",
       "headline": "ADVISORY: U.S. Representatives-elect Shannon Taylor and Elaine Luria to Join Protect Our Care and SEIU to Unveil a New Poll on Health Care’s Decisive Role in the 2026 Midterms",
