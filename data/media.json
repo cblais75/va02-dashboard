@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-22T19:52:16.677Z",
+  "updated_at": "2026-11-24T00:07:09.446Z",
   "source": "Google News RSS search",
   "queries": [
     "\"Jen Kiggans\"",
@@ -19,6 +19,22 @@
     "kiggans.house.gov"
   ],
   "items": [
+    {
+      "id": "CBMioAJBVV95cUxNT0I2WTU2a0V5dmlGWngyVlpRNTM2dEltZWg5aWdzVGR2eEhmUFJ0TkMwT0pOaVlEV2RtbUplek1MRTI1M2prcTNRS204QTVUQWJ4MjQtbmpRZi1xaG5mWVE5WFg4TlczZ2lpTzhJNVJWSTNjNktfWUJFMTh5M3liaDBqMnlFVDJBNzJRMngwdmc5SVREam5uVl9XVzQ4T3hDU0dVNWQwUGZ3OTV6WU5zcml5YWpUMkxQcUNIaUdjTWtlTHBkb0liVEVHNGt4VS10NkljYVdhQ25lQ2loUEotWXJabFFwU3AwbmtQYXo3LWxJcXBzMF9oMzUwbVVveHZKQ01BdlBWS3BBM1FfSnZ5Z1Zwb3VjMEc5THo3a0NKYTA",
+      "headline": "ADVISORY: U.S. Representatives-elect Shannon Taylor and Elaine Luria to Join Protect Our Care and SEIU to Unveil a New Poll on Health Care’s Decisive Role in the 2026 Midterms",
+      "outlet": "Protect Our Care",
+      "outlet_domain": "protectourcare.org",
+      "local": false,
+      "official": false,
+      "date": "2026-11-23T14:10:21.000Z",
+      "link": "https://news.google.com/rss/articles/CBMioAJBVV95cUxNT0I2WTU2a0V5dmlGWngyVlpRNTM2dEltZWg5aWdzVGR2eEhmUFJ0TkMwT0pOaVlEV2RtbUplek1MRTI1M2prcTNRS204QTVUQWJ4MjQtbmpRZi1xaG5mWVE5WFg4TlczZ2lpTzhJNVJWSTNjNktfWUJFMTh5M3liaDBqMnlFVDJBNzJRMngwdmc5SVREam5uVl9XVzQ4T3hDU0dVNWQwUGZ3OTV6WU5zcml5YWpUMkxQcUNIaUdjTWtlTHBkb0liVEVHNGt4VS10NkljYVdhQ25lQ2loUEotWXJabFFwU3AwbmtQYXo3LWxJcXBzMF9oMzUwbVVveHZKQ01BdlBWS3BBM1FfSnZ5Z1Zwb3VjMEc5THo3a0NKYTA?oc=5",
+      "candidates": [
+        "luria"
+      ],
+      "tags": [
+        "poll"
+      ]
+    },
     {
       "id": "CBMiVkFVX3lxTFBPakp2bmlnczhTQWRMdENyNmpLMkdySGZLMm1mdXRUaVVfeWJaNENNbjZxa3FpOWtGbEVQVXVlVm95dlA1UDhWU2lNY0xvYV90RzhVU1dn",
       "headline": "OPINION/ When patriotism drives Americans to oppose Trump’s war",
@@ -2323,48 +2339,6 @@
       "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTE42UXVIOE92YnNEU3dlOWlnbk1ZN1YwYjdSWEl2UUJsTk5hTjFoM0tVWThTQUtFeTQ2dmRhcnJ3TlZEdnlGd0pqNXVCNUw2SHFGZmx5bEJBMUVaRWxvamdOaEZuNGlmRnhqU0lTU0JENUFmZjFVbVhfNWJWTU0?oc=5",
       "candidates": [
         "luria"
-      ],
-      "tags": []
-    },
-    {
-      "id": "CBMioAFBVV95cUxPbUhLZThjbmFxUXpOV2Y3ckZYeWNOam5VbWRNMDM4cVFFMjBaUzBPZnV4UE9fME1kTGRRTWVxYmVFZER3Z0owUGdsTm5Dei1CZ3VOazM3Z2hxRXhfRC1Lcjl2RXNnMnJxWVpxSUw4eml1dU9GdzhOTy1NcmpFdURIdjdCOTVaU0lZM2paU0dXT3MxOVlrZkg3UFVGNTF6dmNO",
-      "headline": "Letters for Oct. 25: Former U.S. Rep Luria is no Ronald Reagan",
-      "outlet": "The Virginian-Pilot",
-      "outlet_domain": "pilotonline.com",
-      "local": true,
-      "official": false,
-      "date": "2026-10-24T20:01:49.000Z",
-      "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPbUhLZThjbmFxUXpOV2Y3ckZYeWNOam5VbWRNMDM4cVFFMjBaUzBPZnV4UE9fME1kTGRRTWVxYmVFZER3Z0owUGdsTm5Dei1CZ3VOazM3Z2hxRXhfRC1Lcjl2RXNnMnJxWVpxSUw4eml1dU9GdzhOTy1NcmpFdURIdjdCOTVaU0lZM2paU0dXT3MxOVlrZkg3UFVGNTF6dmNO?oc=5",
-      "candidates": [
-        "luria"
-      ],
-      "tags": []
-    },
-    {
-      "id": "CBMinwFBVV95cUxPU29ncW91V1pSZlhEUG1JTjRVYnk2em5CUFhkSml5ZE9fTkxpMHp2V2hGd0tQSVg0SGN5Zy1VTU95TTBJZTBIVk40TGR3X1U0SEVmYVdOTHo5dkVDZXFWYmN1M1ZGRXJDTUZvdUZXOXR6UHUzTGx3UUdvQmZRRmpkYURySVJVTm8yWXJscDZKSTcyQjNvRnM4UUY0NzVWN2s",
-      "headline": "Letters for Oct. 25: Former U.S. Rep Luria is no Ronald Reagan",
-      "outlet": "Daily Press",
-      "outlet_domain": "dailypress.com",
-      "local": true,
-      "official": false,
-      "date": "2026-10-24T20:01:37.000Z",
-      "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPU29ncW91V1pSZlhEUG1JTjRVYnk2em5CUFhkSml5ZE9fTkxpMHp2V2hGd0tQSVg0SGN5Zy1VTU95TTBJZTBIVk40TGR3X1U0SEVmYVdOTHo5dkVDZXFWYmN1M1ZGRXJDTUZvdUZXOXR6UHUzTGx3UUdvQmZRRmpkYURySVJVTm8yWXJscDZKSTcyQjNvRnM4UUY0NzVWN2s?oc=5",
-      "candidates": [
-        "luria"
-      ],
-      "tags": []
-    },
-    {
-      "id": "CBMiigFBVV95cUxPSU5KR24tZHg4a2F0ZXU4Z1pRV0cwX01peVpYcnJ6Q1dMX2l5eEZ4TkR0cDhYelRVMWZySWMyZXk4V3gzY2xtTFlQanF2bWNYelNra1dkQVB6ZUNHQk5QYXdaY1NVY2llS2RFWkVZVU9sMGhLYlpOTFM5cHhZcEZvQl9PQW8wb3NVckE",
-      "headline": "Letter – Jen Kiggans ‘walks the walk’",
-      "outlet": "Smithfield Times",
-      "outlet_domain": "smithfieldtimes.com",
-      "local": false,
-      "official": false,
-      "date": "2026-10-24T13:07:56.000Z",
-      "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPSU5KR24tZHg4a2F0ZXU4Z1pRV0cwX01peVpYcnJ6Q1dMX2l5eEZ4TkR0cDhYelRVMWZySWMyZXk4V3gzY2xtTFlQanF2bWNYelNra1dkQVB6ZUNHQk5QYXdaY1NVY2llS2RFWkVZVU9sMGhLYlpOTFM5cHhZcEZvQl9PQW8wb3NVckE?oc=5",
-      "candidates": [
-        "kiggans"
       ],
       "tags": []
     }
