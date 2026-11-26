@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-25T21:51:35.596Z",
+  "updated_at": "2026-11-26T21:45:27.227Z",
   "source": "Google News RSS search",
   "queries": [
     "\"Jen Kiggans\"",
@@ -19,6 +19,20 @@
     "kiggans.house.gov"
   ],
   "items": [
+    {
+      "id": "CBMi-AFBVV95cUxQUnROeGpKdUZ5ME1YZHV0aGJJVVk0VEdtY1JRMk9QNi1SZUZYSnc3T0E3YWh5Q1hlY1pfa0xaYmVLSW10dXB2RUI2U2Z2U3ZmOHhxd1UwVnFWVG5tRkR2cEszQmRSX1drYnloSFRSUk5aSU5FdXZ2bmM0ZUw5TklaTm9aSVh0U3A3YmZiUUNsVUJRTjR2WWNOd0lBcXc2YjdBVzNfQWFrZEg4ZzBYaVlwMGp6T1Z4WEN4TUxGZjhPQkJYNXBWcFlYYVNqdC1CWlZEUC1iZDBiUmdfbE41em5CS0VkTUwzZmxySDNzenZMT2JPcnlFbkgxWA",
+      "headline": "Video: Congresswomen-elect Shannon Taylor (D-VA01), Elaine Luria (D-VA02) Vow to Address Healthcare Costs, Coverage Starting on 1/4/27",
+      "outlet": "InsuranceNewsNet",
+      "outlet_domain": "insurancenewsnet.com",
+      "local": false,
+      "official": false,
+      "date": "2026-11-25T23:28:58.000Z",
+      "link": "https://news.google.com/rss/articles/CBMi-AFBVV95cUxQUnROeGpKdUZ5ME1YZHV0aGJJVVk0VEdtY1JRMk9QNi1SZUZYSnc3T0E3YWh5Q1hlY1pfa0xaYmVLSW10dXB2RUI2U2Z2U3ZmOHhxd1UwVnFWVG5tRkR2cEszQmRSX1drYnloSFRSUk5aSU5FdXZ2bmM0ZUw5TklaTm9aSVh0U3A3YmZiUUNsVUJRTjR2WWNOd0lBcXc2YjdBVzNfQWFrZEg4ZzBYaVlwMGp6T1Z4WEN4TUxGZjhPQkJYNXBWcFlYYVNqdC1CWlZEUC1iZDBiUmdfbE41em5CS0VkTUwzZmxySDNzenZMT2JPcnlFbkgxWA?oc=5",
+      "candidates": [
+        "luria"
+      ],
+      "tags": []
+    },
     {
       "id": "CBMi8AFBVV95cUxNeHBUTVBzNHZRaHlhRlI5NTVMWDVqSC1maUxaRnZTcnBZVHR3eklnc3haTC1makpfWEZ3WkhudnJad3JRd0RaWGN6bjFRMHRqYkc4eFdVeVJCNVg2UkJReHpZdmJuZFVkYkFPNmszd1I5XzNhSXEwd2RNSHpxTU5WTkhRV2dHRzdUdVg4UmhRQTd4dkNsZFl6S05ZMktCcl9oOW1wLU9EN0UxUkphVkxJeUZUamxRRkI0OHBFVkNFeUZqZmxHSG4xR29fT3ZrQUlud2R6aDdhbFk3clVzYVFrSUtfNFBNNXNRSnV0U01pOHA",
       "headline": "Video: Congresswomen-elect Shannon Taylor (D-VA01), Elaine Luria (D-VA02) Vow to Address Healthcare Costs, Coverage Starting on 1/4/27",
@@ -2294,136 +2308,6 @@
       "candidates": [
         "kiggans",
         "luria"
-      ],
-      "tags": []
-    },
-    {
-      "id": "CBMivwFBVV95cUxPVm93TjBJX1RPdjZxTk4yTWNKUEphM0Q3QWhaU1FocFQ1am1Cbk1GQ052YVR3X0RMWW9FX25NemZOSFY5WS1lREZiRm5rS3BsbHdrSEFZNnY4dTI3VXdWMUtBcHFqRjNuZFZJb1k4X0VfZWR6MjFBeTE3Q3UwLVNMcWQ2S1JoUHhSMTJKa29jS0NkN3pIT3RnNjg1TVJ2YzJ3S3NLZUFYQUcxRlU1QUl5SVFFVHNXdHByMW5MYWVvMA",
-      "headline": "Kiggans’ bipartisan bill ramps up oversight of modernization program for Navy’s shipyards",
-      "outlet": "Ripon Advance",
-      "outlet_domain": "riponadvance.com",
-      "local": false,
-      "official": false,
-      "date": "2026-10-27T14:51:36.000Z",
-      "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPVm93TjBJX1RPdjZxTk4yTWNKUEphM0Q3QWhaU1FocFQ1am1Cbk1GQ052YVR3X0RMWW9FX25NemZOSFY5WS1lREZiRm5rS3BsbHdrSEFZNnY4dTI3VXdWMUtBcHFqRjNuZFZJb1k4X0VfZWR6MjFBeTE3Q3UwLVNMcWQ2S1JoUHhSMTJKa29jS0NkN3pIT3RnNjg1TVJ2YzJ3S3NLZUFYQUcxRlU1QUl5SVFFVHNXdHByMW5MYWVvMA?oc=5",
-      "candidates": [
-        "kiggans"
-      ],
-      "tags": []
-    },
-    {
-      "id": "CBMiqgFBVV95cUxQQmpDOWdIYWhHcTZCaEpXZTNUMVh3enE3OXNpa2oyNWRvcmNaOS1nSTVDQ1pBVzdJc3ROVU5mYktlREdMSE5BdkdYSExMakRheGRCd0lOa1dGNXN2MmVtalpHV29uRmUxTjhNSW1Sdmd4TFZNS0VJRHQyeXBkc2FWZTlLbm42QjI2Sk1BcG4zMU4zTmpOa21WOGRVSWRGSUo2UHdyZ09iNVRWZw",
-      "headline": "Kiggans’ Votes Belie Her Purported Concern for Healthcare",
-      "outlet": "Shore Daily News",
-      "outlet_domain": "shoredailynews.com",
-      "local": false,
-      "official": false,
-      "date": "2026-10-27T13:13:28.000Z",
-      "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQQmpDOWdIYWhHcTZCaEpXZTNUMVh3enE3OXNpa2oyNWRvcmNaOS1nSTVDQ1pBVzdJc3ROVU5mYktlREdMSE5BdkdYSExMakRheGRCd0lOa1dGNXN2MmVtalpHV29uRmUxTjhNSW1Sdmd4TFZNS0VJRHQyeXBkc2FWZTlLbm42QjI2Sk1BcG4zMU4zTmpOa21WOGRVSWRGSUo2UHdyZ09iNVRWZw?oc=5",
-      "candidates": [
-        "kiggans"
-      ],
-      "tags": []
-    },
-    {
-      "id": "CBMikwFBVV95cUxOVVI3X3hrekNIQ2RmcG5TYldzSlNYV3R0aU84TnktWmVralRqdGR2WXZqRzVpbXhyTDN1M3NQRFY0a1p3RVpMX1dxTTVzbWxvbkFiaUFHMkFLX1NwZ0hCcHREc0paWHFmRFZLeThnYmVFUHVBcUhmRHU5VkJhNm5yR2dJVlRQY2dPOW1BZWhFNlR4Yk0",
-      "headline": "Letter – House must seat election winners",
-      "outlet": "Smithfield Times",
-      "outlet_domain": "smithfieldtimes.com",
-      "local": false,
-      "official": false,
-      "date": "2026-10-27T13:05:19.000Z",
-      "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOVVI3X3hrekNIQ2RmcG5TYldzSlNYV3R0aU84TnktWmVralRqdGR2WXZqRzVpbXhyTDN1M3NQRFY0a1p3RVpMX1dxTTVzbWxvbkFiaUFHMkFLX1NwZ0hCcHREc0paWHFmRFZLeThnYmVFUHVBcUhmRHU5VkJhNm5yR2dJVlRQY2dPOW1BZWhFNlR4Yk0?oc=5",
-      "candidates": [
-        "kiggans"
-      ],
-      "tags": []
-    },
-    {
-      "id": "CBMingJBVV95cUxNay1QbzVral8xdldNRFBYcmNoMXFKM3BMbmdhTDExUkM0QXJzSTJwTC1xdnJ5VkR0MDRLRUNhUm04ZkRKa2hvQ0RTQncxMDdRZ3ZmTXJqM0QxRnhfNmJ5Y3hSYkFQMl9HRXRLUFNOSGotWmZQVUUtalN6WlJ5eWR1S3NObFhLcllTbFZVa2RSZHR2RlJKOVU3QWdlZFFTcGgwNUJfYkpza25CS2w4MkFEcmR4SEdpaVFiNHd3bFg4OTkxYy1OVnNFNFBsSFlWSktTTWtxQ3VoeXhsaFY0dUVOcGRuNEhRbVJlanA2aUlIc0haTzROUjA2SGctX1g0ODdJVXp4MTdNSWhtckhhNlhacTlYV0J1eTZxR0xJSUVn",
-      "headline": "Tim Kaine weighs in on the importance of the midterm election while campaigning for Elaine Luria",
-      "outlet": "13News Now (WVEC)",
-      "outlet_domain": "13newsnow.com",
-      "local": true,
-      "official": false,
-      "date": "2026-10-27T11:02:00.000Z",
-      "link": "https://news.google.com/rss/articles/CBMingJBVV95cUxNay1QbzVral8xdldNRFBYcmNoMXFKM3BMbmdhTDExUkM0QXJzSTJwTC1xdnJ5VkR0MDRLRUNhUm04ZkRKa2hvQ0RTQncxMDdRZ3ZmTXJqM0QxRnhfNmJ5Y3hSYkFQMl9HRXRLUFNOSGotWmZQVUUtalN6WlJ5eWR1S3NObFhLcllTbFZVa2RSZHR2RlJKOVU3QWdlZFFTcGgwNUJfYkpza25CS2w4MkFEcmR4SEdpaVFiNHd3bFg4OTkxYy1OVnNFNFBsSFlWSktTTWtxQ3VoeXhsaFY0dUVOcGRuNEhRbVJlanA2aUlIc0haTzROUjA2SGctX1g0ODdJVXp4MTdNSWhtckhhNlhacTlYV0J1eTZxR0xJSUVn?oc=5",
-      "candidates": [
-        "luria"
-      ],
-      "tags": []
-    },
-    {
-      "id": "CBMikAJBVV95cUxPUzJIOGZfb1VBNmxWMmxlV0MyTEp6bFlpY2dRZU0xcHgwVUQ3azBWdW5PeV9vUm9rNndkaFdFeWhES1BDanZ3SksyV1VKa2dmY29nNjBTRHIydDVSRUtTVEZ3NmNMeUxDYVdobldORFVkTlF3bWFlTzh5cTNjaC14NnBkZ3VQeC01UTJ1d3lRaHp6YjZ0SXd5a3NOelFzTWswRHBFOTZlYjdxSjk3ME5TejEwRzh4b2JrSkstazk4c3hpbElrdzVDbW5SUGd6Q2tSUUlqVWwteXFXa05KZHZPUWYyVTd5UnB3eXJBV0luWkl1ZmZzdUdnNkktd3BFUEhuVE1iMmdmc2F3eml2V1FTNg",
-      "headline": "Elaine Luria makes final pitch to Virginia’s 2nd District voters",
-      "outlet": "13News Now (WVEC)",
-      "outlet_domain": "13newsnow.com",
-      "local": true,
-      "official": false,
-      "date": "2026-10-27T03:56:00.000Z",
-      "link": "https://news.google.com/rss/articles/CBMikAJBVV95cUxPUzJIOGZfb1VBNmxWMmxlV0MyTEp6bFlpY2dRZU0xcHgwVUQ3azBWdW5PeV9vUm9rNndkaFdFeWhES1BDanZ3SksyV1VKa2dmY29nNjBTRHIydDVSRUtTVEZ3NmNMeUxDYVdobldORFVkTlF3bWFlTzh5cTNjaC14NnBkZ3VQeC01UTJ1d3lRaHp6YjZ0SXd5a3NOelFzTWswRHBFOTZlYjdxSjk3ME5TejEwRzh4b2JrSkstazk4c3hpbElrdzVDbW5SUGd6Q2tSUUlqVWwteXFXa05KZHZPUWYyVTd5UnB3eXJBV0luWkl1ZmZzdUdnNkktd3BFUEhuVE1iMmdmc2F3eml2V1FTNg?oc=5",
-      "candidates": [
-        "kiggans",
-        "luria"
-      ],
-      "tags": []
-    },
-    {
-      "id": "CBMihAFBVV95cUxPTi1XWXRTVm5ZQ1BvZlBueEw0RG9QeW5mMldWWVFHVV8yUE5laXVoRjk4N1JzTWJ0T0l0WG1BSG52bnhVWGc4TUZaak9KbjBuVC1vYm9SQ3NOa3FnYjVHQ1hxWUZVN0JDQjZNVk03ekpGMk9aNEZMV1VwaVdhY1FRdnR2R1I",
-      "headline": "Luria makes final pitch to Virginia’s 2nd District voters ahead of election day",
-      "outlet": "Yahoo",
-      "outlet_domain": "yahoo.com",
-      "local": false,
-      "official": false,
-      "date": "2026-10-27T03:54:00.000Z",
-      "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPTi1XWXRTVm5ZQ1BvZlBueEw0RG9QeW5mMldWWVFHVV8yUE5laXVoRjk4N1JzTWJ0T0l0WG1BSG52bnhVWGc4TUZaak9KbjBuVC1vYm9SQ3NOa3FnYjVHQ1hxWUZVN0JDQjZNVk03ekpGMk9aNEZMV1VwaVdhY1FRdnR2R1I?oc=5",
-      "candidates": [
-        "kiggans",
-        "luria"
-      ],
-      "tags": []
-    },
-    {
-      "id": "CBMi_gFBVV95cUxPRDFWUUdBSmFVZm02WXNKT3lXQ0xzVmVkMmNMVkpLNmRRZnJka2gxR0VFNUFONHN2ZlR6VTk1Ul9GSXpEdlVPYlZHUWZiLXhFemZXYjZRbzFULUljNk14V1loRWcyZXlkUGhMRnYtZmhlQjlJVkFCVDVPOEJyNzVpZVcyODVIRl9IUVdJY3dQVzhwUkxZVGVwby1aY0ZWRGp5Uk1MNG14eTRQNklkVEFIVjBUT1hTRkg5X3ZSVFZhbTV1VWREMWk1aHVWWGRKTGxjZjJqUlFzNXkzNVdvbGNvd0ZDR0VpaFZIQWE4dzZuQXdIX2dlZ0pjTVhZQlJLQQ",
-      "headline": "Luria makes final pitch to Virginia’s 2nd District voters ahead of election day",
-      "outlet": "13News Now (WVEC)",
-      "outlet_domain": "13newsnow.com",
-      "local": true,
-      "official": false,
-      "date": "2026-10-27T03:52:00.000Z",
-      "link": "https://news.google.com/rss/articles/CBMi_gFBVV95cUxPRDFWUUdBSmFVZm02WXNKT3lXQ0xzVmVkMmNMVkpLNmRRZnJka2gxR0VFNUFONHN2ZlR6VTk1Ul9GSXpEdlVPYlZHUWZiLXhFemZXYjZRbzFULUljNk14V1loRWcyZXlkUGhMRnYtZmhlQjlJVkFCVDVPOEJyNzVpZVcyODVIRl9IUVdJY3dQVzhwUkxZVGVwby1aY0ZWRGp5Uk1MNG14eTRQNklkVEFIVjBUT1hTRkg5X3ZSVFZhbTV1VWREMWk1aHVWWGRKTGxjZjJqUlFzNXkzNVdvbGNvd0ZDR0VpaFZIQWE4dzZuQXdIX2dlZ0pjTVhZQlJLQQ?oc=5",
-      "candidates": [
-        "kiggans",
-        "luria"
-      ],
-      "tags": []
-    },
-    {
-      "id": "CBMioAFBVV95cUxNVHpPZThVTDVKcDM2bjVPcTJXM19SZGF0MFcwM1pTRVk4cXN3QUN0V3lJdzBmc0JBS2JEMXlvYk0wM0NKanRoenVuak1oSy1SdXlfZUlHQ0FvN3hQTjFRTE5TWVNySzNDZ1RXY1JpakJQcjVMdHZ2MmtiVUxWS09zd2thNGJ0dHRMNFdvZ1NuSmNvLS1ZTy0xZkFLOC1FU0NS",
-      "headline": "Kiggans, Luria report near-equal IW campaign donations",
-      "outlet": "Smithfield Times",
-      "outlet_domain": "smithfieldtimes.com",
-      "local": false,
-      "official": false,
-      "date": "2026-10-27T00:36:57.000Z",
-      "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNVHpPZThVTDVKcDM2bjVPcTJXM19SZGF0MFcwM1pTRVk4cXN3QUN0V3lJdzBmc0JBS2JEMXlvYk0wM0NKanRoenVuak1oSy1SdXlfZUlHQ0FvN3hQTjFRTE5TWVNySzNDZ1RXY1JpakJQcjVMdHZ2MmtiVUxWS09zd2thNGJ0dHRMNFdvZ1NuSmNvLS1ZTy0xZkFLOC1FU0NS?oc=5",
-      "candidates": [
-        "kiggans",
-        "luria"
-      ],
-      "tags": []
-    },
-    {
-      "id": "CBMirgFBVV95cUxPRExwVDc3V0I3WWh2aUNqUHN5dldYdWd4WXNkM0FuNzZuM3RNRll5aVdzbHZHMVh3ZW1XSkUwTlBvMXFNME1PclVHaWp4eE5POC1zMWZKSXJRWDE3QkFyN3dVZTBSVDQ4WUxiZ0x2ZUo2LVo3QnFFeS1waklqT0ZrTTREVVpWa1dwb0Vrcm5RR2xGaENvWU1UcVpGSmE4TEpuMWwzMkQ1ajY0Wl9kTHc",
-      "headline": "Letters for Oct. 27: Kiggans not a good representative for 2nd District",
-      "outlet": "The Virginian-Pilot",
-      "outlet_domain": "pilotonline.com",
-      "local": true,
-      "official": false,
-      "date": "2026-10-26T22:01:10.000Z",
-      "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPRExwVDc3V0I3WWh2aUNqUHN5dldYdWd4WXNkM0FuNzZuM3RNRll5aVdzbHZHMVh3ZW1XSkUwTlBvMXFNME1PclVHaWp4eE5POC1zMWZKSXJRWDE3QkFyN3dVZTBSVDQ4WUxiZ0x2ZUo2LVo3QnFFeS1waklqT0ZrTTREVVpWa1dwb0Vrcm5RR2xGaENvWU1UcVpGSmE4TEpuMWwzMkQ1ajY0Wl9kTHc?oc=5",
-      "candidates": [
-        "kiggans"
       ],
       "tags": []
     }
